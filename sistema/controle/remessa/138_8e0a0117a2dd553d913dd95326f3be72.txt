@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+30/5/2012;DISTRATO - 12.1 e 12.5.1;134;3_052;25/11/2010;LM INVESTIMENTOS IMOBILIÁRIOS LTDA.;MARIA JOSÉ OCAMPOS CORIOLANO;AV:Dos Caiçaras, 988 Apto.45;JD.Las Palmas;Guarujá;SP;11420-440;11 8634-3104;HELBOR SPAZIO VITTA;XXXXXXXXXX;XXXXXXXXXX;XXXXXXX;XXXXXXX;XXXXXXXX

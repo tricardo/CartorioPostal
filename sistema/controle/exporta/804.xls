@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Estado</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Agenda</td><td  class=xl24 >Valor</td><td  class=xl24 >Departamento</td><td  class=xl24 >Atendimento</td><td  class=xl24 >Responsável</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#114978/96</td><td  class=xl26 >05/11/2010</td><td  class=xl26 >29/11/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >40829324100 .</td><td  class=xl24 > </td><td  class=xl24 >CANDIDO BURGUES DE ANDRADE FILHO</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MS</td><td  class=xl24 >CORUMBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 16.475</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#116391/3</td><td  class=xl26 >25/11/2010</td><td  class=xl26 >16/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >308.694.636-91 .</td><td  class=xl24 > </td><td  class=xl24 >ROBERTO ALVARENGA FROIS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Governador Valadares</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 20.533</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#116391/5</td><td  class=xl26 >25/11/2010</td><td  class=xl26 >16/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >835.041.596-20 .</td><td  class=xl24 > </td><td  class=xl24 >KÁTIA ROSA BOLSONI FRÓIS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Governador Valadares</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 3.168</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#116989/3</td><td  class=xl26 >02/12/2010</td><td  class=xl26 >23/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >MG</td><td  class=xl24 >Três Pontas</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 17.707</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#116989/4</td><td  class=xl26 >02/12/2010</td><td  class=xl26 >23/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >MG</td><td  class=xl24 >Três Pontas</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 1.149</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#116989/5</td><td  class=xl26 >02/12/2010</td><td  class=xl26 >23/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >MG</td><td  class=xl24 >Campos Gerais</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 14.263</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117071/25</td><td  class=xl26 >02/12/2010</td><td  class=xl26 >23/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 >04006288000162 .</td><td  class=xl24 >JOSE AUGUSTO CONSALTER MERISSI ME </td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MS</td><td  class=xl24 >NAVIRAI</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 2.096</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117144/31</td><td  class=xl26 >03/12/2010</td><td  class=xl26 >27/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 >70967443000131 .</td><td  class=xl24 >PAIRA INDUSTRIA E COMERCIO LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Contagem</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117144/33</td><td  class=xl26 >03/12/2010</td><td  class=xl26 >27/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >27003248620 .</td><td  class=xl24 > </td><td  class=xl24 >PAULO AFONSO FERREIRA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Contagem</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 79.593</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117144/35</td><td  class=xl26 >03/12/2010</td><td  class=xl26 >27/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >81209576600 .</td><td  class=xl24 > </td><td  class=xl24 >IRAIDE SARDINHA SANTOS FERREIRA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Contagem</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 79.593</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117254/3</td><td  class=xl26 >06/12/2010</td><td  class=xl26 >28/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >89753763891 .</td><td  class=xl24 > </td><td  class=xl24 >ORLANDO FRANCISCO DE LIMA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >GO</td><td  class=xl24 >SAO SIMAO</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117281/1</td><td  class=xl26 >06/12/2010</td><td  class=xl26 >28/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >115.970.979-34 .</td><td  class=xl24 > </td><td  class=xl24 >ORLANDO PULICI MARTINS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >Unaí</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 31.110</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117315/225</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 >02274541000133 .</td><td  class=xl24 >EUVANIO CHAVES ATACADISTA LTDA ME</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >PADRE PARAISO</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117315/229</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl26 >03035907692 .</td><td  class=xl24 > </td><td  class=xl24 >EUVANIO CHAVES DA SILVA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >PADRE PARAISO</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/43</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl26 >08107910648 .</td><td  class=xl24 > </td><td  class=xl24 >TULIO ANDRADE DE OLIVEIRA E SANTOS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >ITAUNA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 38.099</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/60</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >74344110668 .</td><td  class=xl24 > </td><td  class=xl24 >WELITON ROMES BARBOSA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >MG</td><td  class=xl24 >ITURAMA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 15.155</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/108</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >26601346187 .</td><td  class=xl24 > </td><td  class=xl24 >JOSE CLAUDIO DE FREITAS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >GO</td><td  class=xl24 >ITUMBIARA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 13.113</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/249</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 >03676600000162 .</td><td  class=xl24 >DUTRA SILVA E FRAGOSO LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PA</td><td  class=xl24 >TUCURUI</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/250</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >30514886234 .</td><td  class=xl24 > </td><td  class=xl24 >GUSTAVO RIBEIRO FRAGOSO</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PA</td><td  class=xl24 >TUCURUI</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/251</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >72361000482 .</td><td  class=xl24 > </td><td  class=xl24 >IANIA MARIA SOARES SILVA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PA</td><td  class=xl24 >TUCURUI</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117341/252</td><td  class=xl26 >07/12/2010</td><td  class=xl26 >29/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >59584262220 .</td><td  class=xl24 > </td><td  class=xl24 >NILSON POMPEU DUTRA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PA</td><td  class=xl24 >TUCURUI</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117494/2</td><td  class=xl26 >08/12/2010</td><td  class=xl26 >30/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >MS</td><td  class=xl24 >Itaporã</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="148.40">148.40</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 04.286</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117501/1</td><td  class=xl26 >08/12/2010</td><td  class=xl26 >30/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >GO</td><td  class=xl24 >Caldas Novas</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 623</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117501/2</td><td  class=xl26 >08/12/2010</td><td  class=xl26 >30/12/2010</td><td  class=xl26 >17/12/2010</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >MG</td><td  class=xl24 >Jacutinga</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Matricula: 6.417</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/239</td><td  class=xl26 >15/12/2010</td><td  class=xl26 >07/01/2011</td><td  class=xl26 >17/12/2010</td><td  class=xl24 >90569881153 .</td><td  class=xl24 > </td><td  class=xl24 >CARLOS ROBERTO FERREIRA LOPES</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >GO</td><td  class=xl24 >ITUMBIARA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Laís Xavier</td><td  class=xl24 >Bruno Mendes</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

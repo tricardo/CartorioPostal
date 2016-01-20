@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/01/2014/31/01/2014</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242263/1</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >11/07/2013</td><td  class=xl26 >29/01/2014</td><td  class=xl26 >29/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >NILCEIA JULIO  DE FARIAS</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Japurá</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Atraso do sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >272738/1</td><td  class=xl26 >09/12/2013</td><td  class=xl26 >20/01/2014</td><td  class=xl26 >21/01/2014</td><td  class=xl26 >27/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Maria Veneranda da Silva</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Morada Nova</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Atraso do cartório .</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >273174/1</td><td  class=xl26 >11/12/2013</td><td  class=xl26 >01/01/2014</td><td  class=xl26 >07/01/2014</td><td  class=xl26 >13/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >VALDEMAR LIMA CARVALHO</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Camocim</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Atraso do cartório .</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >273645/2</td><td  class=xl26 >13/12/2013</td><td  class=xl26 >24/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >12.606.969/0001-90. </td><td  class=xl24 >RTA PARTICIPAÇÕES LTDA</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Breve Relato Simplificado</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >273645/3</td><td  class=xl26 >13/12/2013</td><td  class=xl26 >03/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >12.606.969/0001-90. </td><td  class=xl24 >RTA PARTICIPAÇÕES LTDA</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Cópia do Contrato Social</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >Atraso do órgão competente.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >273659/1</td><td  class=xl26 >13/12/2013</td><td  class=xl26 >06/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl26 >17/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Francisco de assis da Rocha Sousa</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >AGUARDANDO INFORMAÇÕES DO CLIENTE</td><td  class=xl24 ></td><td  class=xl24 >Atraso devido ao recesso de final de ano.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >273722/1</td><td  class=xl26 >13/12/2013</td><td  class=xl26 >06/01/2014</td><td  class=xl26 >13/01/2014</td><td  class=xl26 >20/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Antonio Raimundo Vicente</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Mauriti</td><td  class=xl24 >AGUARDANDO INFORMAÇÕES DO CLIENTE</td><td  class=xl24 ></td><td  class=xl24 >Atraso devido ao recesso de final de ano.</td></tr><tr><td  class=xl24 >Heitor</td><td  class=xl24 >270000/2</td><td  class=xl26 >17/12/2013</td><td  class=xl26 >07/01/2014</td><td  class=xl26 >08/01/2014</td><td  class=xl26 >24/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >02.763.666/0001-27. </td><td  class=xl24 >Plenaventura Participações S/A</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 >Atraso do sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >275095/1</td><td  class=xl26 >26/12/2013</td><td  class=xl26 >31/01/2014</td><td  class=xl26 >27/01/2014</td><td  class=xl26 >28/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Maria Valdenir Bezerra Lima</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Crateús</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 >Atraso do sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >275742/1</td><td  class=xl26 >03/01/2014</td><td  class=xl26 >24/01/2014</td><td  class=xl26 >15/01/2014</td><td  class=xl26 >21/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ANTONIO NEPOMUCENO</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >CE</td><td  class=xl24 >Crateús</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >276411/1</td><td  class=xl26 >07/01/2014</td><td  class=xl26 >18/02/2014</td><td  class=xl26 >21/01/2014</td><td  class=xl26 >28/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Francinilda Pereira da Silva</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Jucás</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Francisca ou Valter</td><td  class=xl24 >277781/1</td><td  class=xl26 >13/01/2014</td><td  class=xl26 >03/02/2014</td><td  class=xl26 >29/01/2014</td><td  class=xl26 >29/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Francisca Penaforte da Silva</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Icó</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >277790/1</td><td  class=xl26 >13/01/2014</td><td  class=xl26 >06/02/2014</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >22/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOSÉ FERREIRA DA SILVA</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >278345/1</td><td  class=xl26 >14/01/2014</td><td  class=xl26 >25/02/2014</td><td  class=xl26 >27/01/2014</td><td  class=xl26 >27/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Domingos de Sousa Braz</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Nova Russas</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >278466/1</td><td  class=xl26 >15/01/2014</td><td  class=xl26 >12/03/2014</td><td  class=xl26 >30/01/2014</td><td  class=xl26 >30/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >09.523.718/0001-37. </td><td  class=xl24 >NOVA EMPREENDIMENTOS IMOBILIARIOS LTDA </td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Breve Relato Completo</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >278514/1</td><td  class=xl26 >15/01/2014</td><td  class=xl26 >12/02/2014</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >27/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Antonia Leandro da Silva</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CE</td><td  class=xl24 >Iguatu</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >280108/1</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >19/03/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >08.458.591/0001-57. </td><td  class=xl24 >CLARA IMOBILIARIA LTDA </td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Breve Relato Simplificado</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >280108/2</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >19/03/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >08.458.591/0001-57. </td><td  class=xl24 >CLARA IMOBILIARIA LTDA </td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Cópia do Contrato Social</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >280108/3</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >19/03/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >07.886.385/0001-85. </td><td  class=xl24 >DIAS BRANCO ADMINISTRACAO E PARTICIPACOES LTDA</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Breve Relato Completo</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >280108/4</td><td  class=xl26 >22/01/2014</td><td  class=xl26 >19/03/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl26 >31/01/2014</td><td  class=xl24 >. </td><td  class=xl24 >07.886.385/0001-85. </td><td  class=xl24 >DIAS BRANCO ADMINISTRACAO E PARTICIPACOES LTDA</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Cópia do Contrato Social</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >A MESMA</td><td  class=xl24 >280463/1</td><td  class=xl26 >23/01/2014</td><td  class=xl26 >30/01/2014</td><td  class=xl26 >28/01/2014</td><td  class=xl26 >28/01/2014</td><td  class=xl24 >399.261.505-78. </td><td  class=xl24 >. </td><td  class=xl24 >MARIA EUZELIA DE QUEIROZ</td><td  class=xl24 >operacional02.ceara@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >CE</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >Atraso do sistema</td></tr>

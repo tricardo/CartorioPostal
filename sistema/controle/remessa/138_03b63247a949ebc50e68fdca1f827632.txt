@@ -1,0 +1,2 @@
+Data envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+22/3/2012;Distrato 12.1 e 12.5.1;180;62;31/3/2011;HESA 39 INVESTIMENTOS IMOBILIÁRIOS LTDA;PAULO ADRIANO MUNIZ ZENI;Rua Petit Carneiro, 1027 apto 13;Água Verde;Curitiba;PR;08452-030;(41) 8817-8585;HELBOR DOUBLE LIFE;XXXXXXXXXXXXXXX;XXXXXXXXXXXX;XXXXXXXXXX;XXXXXXXXXXX;XXXXX

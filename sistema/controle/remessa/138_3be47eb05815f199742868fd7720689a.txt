@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+20/4/2012;DISTRATO - 10.1 e 10.5.1;164;1210;22/5/2010;HESA 27 INVESTIMENTOS IMOBILIÁRIOS LTDA.;EDNA MIGUEL PEREIRA e/ou JOSÉ ALBERTO OLIVEIRA PEREIRA;Est. Caetano Monteiro,391  Bl. 09  Ap.301;Badu;Niterói;RJ;24320-570;21 9457-7508;PARQUE DAS ÁGUAS EMPRESARIAL;XXXXXXXXXX;XXXXXXXXXX;XXXXXXX;XXXXXXX;XXXXXXXX

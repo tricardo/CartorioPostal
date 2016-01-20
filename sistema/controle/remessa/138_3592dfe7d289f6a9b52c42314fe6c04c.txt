@@ -1,0 +1,3 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+26/mar;Distrato 12.1 e 12.5.1;227;3_041;24/10/2010;HESA 77 INVESTIMENTOS IMOBILIÁRIOS LTDA;MOHAMED AHMAD EL FAKIH;Rua Dom João VI, 516 ;Taboão;Diadema;SP;09940-150;(11) 7139-5354;CONDOMÍNIO VITTA PARQUE;XXXX;XXXX;XXXX;XXXX;XXXX
+26/mar;Distrato 12.1 e 12.5.1;227;1_105;27/11/2010;HESA 77 INVESTIMENTOS IMOBILIÁRIOS LTDA;MARTA MARIA DOS SANTOS STEINMEIER;Rua Tiradentes, 110 Apto.63 Bloco 05 ;Centro;Diadema;SP;09911-190;(11) 9962-8982;CONDOMÍNIO VITTA PARQUE;XXXX;XXXX;XXXX;XXXX;XXXX

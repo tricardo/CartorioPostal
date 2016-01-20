@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Nome</td><td  class=xl24 >Serviço</td><td  class=xl24 >Cidade</td><td  class=xl24 >Estado</td><td  class=xl24 >Valor</td></tr><tr><td  class=xl24 >#152703/1</td><td  class=xl26 >22/11/2011</td><td  class=xl26 >23/12/2011</td><td  class=xl24 > .</td><td  class=xl24 >05.287.332/0001-12 .</td><td  class=xl24 >SOMABEM SERVIÇOS COMÉRCIO E ADIMINISTRAÇÃO LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >São Paulo</td><td  class=xl24 >SP</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152703/2</td><td  class=xl26 >22/11/2011</td><td  class=xl26 >13/12/2011</td><td  class=xl24 > .</td><td  class=xl24 >03.963.209/0001-49 .</td><td  class=xl24 >COMÉRCIO DE BATATAS SANTO ANTÔNIO ARAÇATUBA LTDA M.E</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Araçatuba</td><td  class=xl24 >SP</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Araçatuba - SP</td></tr><tr><td  class=xl24 >#156328/1</td><td  class=xl26 >20/12/2011</td><td  class=xl26 >10/01/2012</td><td  class=xl24 > .</td><td  class=xl24 >05.751.247/0001-63 .</td><td  class=xl24 >MART ELLOS 92 FERRAGENS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Rio de Janeiro</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156328/2</td><td  class=xl26 >20/12/2011</td><td  class=xl26 >10/01/2012</td><td  class=xl24 > .</td><td  class=xl24 >05.751.247/0001-63 .</td><td  class=xl24 >MART ELLOS 92 FERRAGENS</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Rio de Janeiro</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156328/3</td><td  class=xl26 >20/12/2011</td><td  class=xl26 >10/01/2012</td><td  class=xl24 >005.314.397-39 .</td><td  class=xl24 > .</td><td  class=xl24 >ADRIANA CÁSSIA MERLO RAGGIO</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Rio de Janeiro</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156328/4</td><td  class=xl26 >20/12/2011</td><td  class=xl26 >10/01/2012</td><td  class=xl24 >005.314.397-39 .</td><td  class=xl24 > .</td><td  class=xl24 >ADRIANA CÁSSIA MERLO RAGGIO</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Rio de Janeiro</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156480/1</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 > .</td><td  class=xl24 >05.131.970/0001-40 .</td><td  class=xl24 >MERCADO DO AUTOMOVEL MULTIMARCAS LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Brasília - DF</td></tr><tr><td  class=xl24 >#156480/2</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 > .</td><td  class=xl24 >05.131.970/0001-40 .</td><td  class=xl24 >MERCADO DO AUTOMOVEL MULTIMARCAS LTDA</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156480/3</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 >504.071.981-72 .</td><td  class=xl24 > .</td><td  class=xl24 >DENISE ALVES FARIAS</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Brasília - DF</td></tr><tr><td  class=xl24 >#156480/4</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 >504.071.981-72 .</td><td  class=xl24 > .</td><td  class=xl24 >DENISE ALVES FARIAS</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156480/5</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 >385.145.911-34 .</td><td  class=xl24 > .</td><td  class=xl24 >ISMAR IVO CRUZ</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Brasília - DF</td></tr><tr><td  class=xl24 >#156480/6</td><td  class=xl26 >22/12/2011</td><td  class=xl26 >12/01/2012</td><td  class=xl24 >385.145.911-34 .</td><td  class=xl24 > .</td><td  class=xl24 >ISMAR IVO CRUZ</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#156744/1</td><td  class=xl26 >27/12/2011</td><td  class=xl26 >17/01/2012</td><td  class=xl24 >64873285100 .</td><td  class=xl24 > .</td><td  class=xl24 >GERALDO CORDEIRO LOPES FILHO</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Brasília - DF</td></tr><tr><td  class=xl24 >#156744/2</td><td  class=xl26 >27/12/2011</td><td  class=xl26 >17/01/2012</td><td  class=xl24 >64873285100 .</td><td  class=xl24 > .</td><td  class=xl24 >GERALDO CORDEIRO LOPES FILHO</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#160176/1</td><td  class=xl26 >24/01/2012</td><td  class=xl26 >14/02/2012</td><td  class=xl24 >752.233.258-34 .</td><td  class=xl24 > .</td><td  class=xl24 >Angelo Gabriel Tavares</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Sorocaba</td><td  class=xl24 >SP</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Sorocaba - SP</td></tr><tr><td  class=xl24 >#160176/2</td><td  class=xl26 >24/01/2012</td><td  class=xl26 >14/02/2012</td><td  class=xl24 >752.217.058-34 .</td><td  class=xl24 > .</td><td  class=xl24 >Marice de Souza Bernardes</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >Sorocaba</td><td  class=xl24 >SP</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Sorocaba - SP</td></tr>

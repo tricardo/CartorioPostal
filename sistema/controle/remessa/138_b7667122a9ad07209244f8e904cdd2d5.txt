@@ -1,0 +1,2 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+2/mai;DISTRATO - 12.1 e 12.5.1;227;3_062;26/10/2010;HESA 77 INVESTIMENTOS IMOBILIÁRIOS LTDA;HUGO SIMOES NETO E/OU CLAUDIA FIGUEIREDO SIMOES;Av. Pres. Arthur Bernardes, 750 Apto 61;Vila Caminho Do Mar;São Bernardo Do Campo;SP;09618-000;(11)7894-0630;CONDOMÍNIO VITTA PARQUE;XXXX;XXXX;XXXX;XXXX;XXXX

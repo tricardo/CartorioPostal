@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+14/5/2012;Valores;144;1_022;XXXXXXXXXXXXX;HESA 7 INVESTIMENTOS IMOBILIÁRIOS LTDA.;ADRIANA CEZAR PIMENTA;Av. Eng. Miguel Gema, 838;Jd. Armenia;Mogi das Cruzes;SP;08780-680;;HELBOR HOME CLUB ITAPETY;009A;29/2/2012; 19.178,17 ;421.495,97;IGPM

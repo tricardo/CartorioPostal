@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+26/3/2012;Distrato - 12.1 E 12.5.1;219;A2002;12/6/2011;HESA 75 INVESTIMENTOS IMOBILIÁRIOS LTDA.;VENTIN CONFECÇOES LTDA ME;R.Cosme De Farias, 258;Cosme De Farias;Salvador;BA;40.252-000;;COLETÂNEA VALE DO CANELA;XXXXXXXXXX;XXXXXXXX;XXXXXX;XXXXXXXXXXX;XXXX

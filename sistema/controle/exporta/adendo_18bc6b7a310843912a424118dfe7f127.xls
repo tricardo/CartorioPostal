@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Cidades</td><td  class=xl24 >Estado</td><td  class=xl24 >Fone/Loja</td><td  class=xl24 >Endereço</td><td  class=xl24 >CEP</td><td  class=xl24 >E-MAIL</td><td  class=xl24 >Razão Social</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Dados Bancários</td><td  class=xl24 >Data adendo</td></tr><td class=xl24 width=64>Arujá</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(11) 4747-4745 </td><td class=xl24 width=64>Rua Gal. Francisco Glicério,1185 </td><td class=xl24 width=64>08674-003</td><td class=xl24 width=64>diretoria.suz@cartoriopostal.com.br</td><td class=xl24 width=64>SUZAN CART CERTIDOES LTDA - ME</td><td class=xl24 width=64>11.029.315/0001-88</td><td class=xl24 width=64>Ag.:3188-7|Conta:13233-0|Banco: Bradesco S.A.|Suzan Cart Certidões LTDA</td><td class=xl24 width=64>30/11/2010</td><tr><td class=xl24 width=64>Itaquaquecetuba</td><td class=xl24 width=64>SP</td><tr><td class=xl24 width=64>Mogi das Cruzes</td><td class=xl24 width=64>SP</td><tr><td class=xl24 width=64>Suzano</td><td class=xl24 width=64>SP</td><tr><td class=xl24 width=64>Salvador</td><td class=xl24 width=64>BA</td><td class=xl24 width=64>(71) 3015-2751 </td><td class=xl24 width=64>R. das Alfazemas,752 Loja 01 e 28 Shopping Capemi </td><td class=xl24 width=64>41820-710</td><td class=xl24 width=64>diretoria.ssa@cartoriopostal.com.br</td><td class=xl24 width=64>AMA - ESTRUTURA CARTORAL LTDA - EPP</td><td class=xl24 width=64>11.419.746/0001-50</td><td class=xl24 width=64>Ag.:1425-7|Conta:111666-5|Banco: Bradesco S.A.|AMA - Estrutura Cartoral LTDA-EPP</td><td class=xl24 width=64>11/01/2011</td><tr><td class=xl24 width=64>Jacarei</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(12) 3911-2899 </td><td class=xl24 width=64>Av. Dr. João Guilhermino,293 </td><td class=xl24 width=64>12210-131</td><td class=xl24 width=64>diretoria.sjc@cartoriopostal.com.br</td><td class=xl24 width=64>D´ VASQUEZ SERVIÇOS CARTORARIOS LTDA - EPP</td><td class=xl24 width=64>11.165.549/0001-52</td><td class=xl24 width=64>Ag.:0310|Conta:3836315-2|Banco: ABN AMRO Real S.A.|D´ Vasquez Serv. Cartorários LTDA-EPP</td><td class=xl24 width=64>19/11/2010</td><tr><td class=xl24 width=64>São José dos Campos</td><td class=xl24 width=64>SP</td><tr><td class=xl24 width=64>Campinas</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(19) 3365-1060 </td><td class=xl24 width=64>R. Dr. Antônio Alvares Lobo,226 </td><td class=xl24 width=64>13020-110</td><td class=xl24 width=64>diretoria.cam@cartoriopostal.com.br</td><td class=xl24 width=64>REIS & CONDE LTDA</td><td class=xl24 width=64>11.067.223/0001-92</td><td class=xl24 width=64>Ag.:0595|Conta:87757-3|Banco: Bradesco S.A.|Reis & Conde LTDA</td><td class=xl24 width=64>06/12/2010</td><tr><td class=xl24 width=64>Piracicaba</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(19) 3375-2030 </td><td class=xl24 width=64>R. Gov. Pedro de Toledo,569 </td><td class=xl24 width=64>13400-070</td><td class=xl24 width=64>diretoria.pira@cartoriopostal.com.br</td><td class=xl24 width=64>ANDRIETTA & PIVA LTDA</td><td class=xl24 width=64>11.253.279/0001-31</td><td class=xl24 width=64>Ag.:0056-6|Conta:71193-4|Banco:Banco do Brasil S.A.|Andrietta & Piva LTDA</td><td class=xl24 width=64>10/11/2010</td><tr><td class=xl24 width=64>Cascavel</td><td class=xl24 width=64>PR</td><td class=xl24 width=64>(45) 3322-0091 </td><td class=xl24 width=64>Avenida Tancredo Neves,385 </td><td class=xl24 width=64>85805-000</td><td class=xl24 width=64>diretoria.cac@cartoriopostal.com.br</td><td class=xl24 width=64>FLECK ASSESSORIA ADMINISTRATIVA LTDA</td><td class=xl24 width=64>11.569.240/0001-28</td><td class=xl24 width=64>Ag.:19879|Conta:18866-2|Banco: Bradesco S.A.|Fleck Assessoria Administrativa LTDA</td><td class=xl24 width=64>14/12/2010</td><tr><td class=xl24 width=64>Feira de Santana</td><td class=xl24 width=64>BA</td><td class=xl24 width=64>(75) 3322-8070 </td><td class=xl24 width=64>Av. Barão de Cotegipe,1088 Sala 100</td><td class=xl24 width=64>44001-170</td><td class=xl24 width=64>diretoria.fst@cartoriopostal.com.br</td><td class=xl24 width=64>RGC SERVIÇOS E CONSULTORIA LTDA</td><td class=xl24 width=64>08.289.469/0001-02</td><td class=xl24 width=64>Ag.:36463|Conta:0029319-9|Banco: Bradesco S.A.|RGC Serviços e Consultoria LTDA</td><td class=xl24 width=64>11/01/2011</td><tr><td class=xl24 width=64>Taubaté</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(12) 3629-6314 6316</td><td class=xl24 width=64>Rua Coronel Augusto Monteiro,650 </td><td class=xl24 width=64>12020-160</td><td class=xl24 width=64>diretoria.taub@cartoriopostal.com.br</td><td class=xl24 width=64>D´ VASQUEZ SERVIÇOS CARTORARIOS LTDA EPP</td><td class=xl24 width=64>11.165.549/0002-33</td><td class=xl24 width=64>Ag.:0360|Conta:00000945-0|Banco:Caixa Econômica Federal|D´ Vasquez Serviços Cartorários LTDA EPP</td><td class=xl24 width=64>30/11/2010</td><tr><td class=xl24 width=64>Araçatuba</td><td class=xl24 width=64>SP</td><td class=xl24 width=64>(18) 3441-1151 </td><td class=xl24 width=64>Rua Luiz Pereira Barreto,304 </td><td class=xl24 width=64>16010-320</td><td class=xl24 width=64>diretoria.aru@cartoriopostal.com.br</td><td class=xl24 width=64>M.L. CARDOSO - PRESTAÇÃO DE SERVIÇOS - EPP</td><td class=xl24 width=64>11.838.860/0001-15</td><td class=xl24 width=64>Ag.:0110-4|Conta:124098-6|Banco: Bradesco S.A.|M. L. Cardoso – Prestação de Serviços EPP</td><td class=xl24 width=64>15/12/2010</td><tr><td class=xl24 width=64>Dourados</td><td class=xl24 width=64>MS</td><td class=xl24 width=64>(67) 3421-0929 </td><td class=xl24 width=64>Rua Onofre Pereira de Matos,1722 Centro</td><td class=xl24 width=64>79802-010</td><td class=xl24 width=64>diretoria.dou@cartoriopostal.com.br</td><td class=xl24 width=64>CAVALHEIRO ZANCHETA ASSESSORIA CARTORÁRIA LTDA- ME</td><td class=xl24 width=64>12.349.493/0001-59</td><td class=xl24 width=64>Ag.:0189-9|Conta:92190-4|Banco: Bradesco S.A.|Cavalheiro Zancheta Asses.Cartoraria LTDA ME</td><td class=xl24 width=64>30/11/2010</td><tr></table></body></html>

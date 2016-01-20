@@ -1,0 +1,30 @@
+8815926000147;LOREN BIKE COMERCIO DE BICICLETAS LTDA ME ;8815926000147;LOREN BIKE COMERCIO DE BICICLETAS LTDA ME ;;;;;;LORENA;SP
+8815926000147;LOREN BIKE COMERCIO DE BICICLETAS LTDA ME ;5264105820;DULCE ENEIA LEITE FERNANDES;;;;;;LORENA;SP
+8815926000147;LOREN BIKE COMERCIO DE BICICLETAS LTDA ME ;5270739895;CLAUDINEY FERNANDES;;;;;;LORENA;SP
+5612541000194;PIZZARIA D LUCA LTDA ME;5612541000194;PIZZARIA D LUCA LTDA ME;;;;;;SÃO BERNARDO DO CAMPO;SP
+5612541000194;PIZZARIA D LUCA LTDA ME;27150433847;WAGNER PARENTE;;;;;;SÃO BERNARDO DO CAMPO;SP
+5612541000194;PIZZARIA D LUCA LTDA ME;19481606848;ROSELI MOREIRA;;;;;;SÃO BERNARDO DO CAMPO;SP
+5155644000172;S VIEIRA MATERIAIS DE CONSTRUÇÃO LTDA ME;5155644000172;S VIEIRA MATERIAIS DE CONTRUÇÃO LTDA ME;;;;;;BETIM;MG
+5155644000172;S VIEIRA MATERIAIS DE CONSTRUÇÃO LTDA ME;42232325687;SEBASTIÃO VIEIRA DA SILVA;;;;;;BELO HORIZONTE;MG
+4789933000160;CURINGA MODAS LTDA ME;4789933000160;CURINGA MODAS LTDA ME;;;;;;FORTALEZA;CE
+4789933000160;CURINGA MODAS LTDA ME;93138440363;ZILANY MAIA MOREIRA;;;;;;FORTALEZA;CE
+4802985000120;M GUILHERME DOS SANTOS FILHO;4802985000120;M GUILHERME DOS SANTOS FILHO;;;;;;NATAL;RN
+4802985000120;M GUILHERME DOS SANTOS FILHO;63003953400;MANOEL GUILHERME DOS SANTOS FILHO;;;;;;NATAL;RN
+6148124000103;SABOR DE MINAS REFEIÇÕES COMERCIAIS E INDUSTRIAIS;6148124000103;SABOR DE MINAS REFEIÇÕES COMERCIAIS E INDUSTRIAIS;;;;;;RIO VERDE;GO
+6148124000103;SABOR DE MINAS REFEIÇÕES COMERCIAIS E INDUSTRIAIS;15093980668;ANTONIO CARLOS MONTEIRO C;;;;;;RIO VERDE;GO
+6148124000103;SABOR DE MINAS REFEIÇÕES COMERCIAIS E INDUSTRIAIS;49734431668;ANDREA MENDONÇA LEÃO CARV;;;;;;RIO VERDE;GO
+6224314000154;ALEXANDER SILVA ABRÃO ME;6224314000154;ALEXANDER SILVA ABRÃO ME;;;;;;POÁ;SP
+6224314000154;ALEXANDER SILVA ABRÃO ME;29418284863;ALEXANDER SILVA ABRÃO ;;;;;;POÁ;SP
+73874943000117;COMERCIO DE MOVEIS JOINERY LTDA ME;73874943000117;COMERCIO DE MOVEIS JOINERY LTDA ME;;;;;;PETROPOLIS ;RJ
+73874943000117;COMERCIO DE MOVEIS JOINERY LTDA ME;1606613740;CARLOS EDUARDO JUSTEN;;;;;;PETROPOLIS ;RJ
+8844695000108;VAGNER PINTADO DA SILVA;8844695000108;VAGNER PINTADO DA SILVA;;;;;;PELOTAS;RS
+8844695000108;VAGNER PINTADO DA SILVA;93304900004;VAGNER PINTADO DA SILVA;;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;;;;PELOTAS;RS
+60995362000191;SARM MODAS COMERCIO E CONFECÇÃO LTDA ME;60995362000191;SARM MODAS COMERCIO E CONFECÇÃO LTDA ME;;;;;;SÃO PAULO;SP
+60995362000191;SARM MODAS COMERCIO E CONFECÇÃO LTDA ME;5206513830;SANDRA ARTAVE;;;;;;SÃO PAULO;SP
+1613575000142;N E N ORGANIZAÇÕES LTDA ME;1613575000142;N E N ORGANIZAÇÕES LTDA ME;;;;;;TEOFILO OTONI;MG
+1613575000142;N E N ORGANIZAÇÕES LTDA ME;56199040678;ROSEMBERG ALVES NOGUEIRA;;;;;;TEOFILO OTONI;MG
+38478210000162;ANTONIO ITAMAR PINHEIRO;38478210000162;ANTONIO ITAMAR PINHEIRO;;;;;;GOVERNADOR VALADARES;MG
+38478210000162;ANTONIO ITAMAR PINHEIRO;67006060630;ANTONIO ITAMAR PINHEIRO;;;;;;GOVERNADOR VALADARES;MG
+38478210000162;ANTONIO ITAMAR PINHEIRO;55829120615;CLERIA MARIA FERREIRA PINHEIRO;;;;;;GOVERNADOR VALADARES;MG
+4328161000160;SANDRO EBURNEO ME;4328161000160;SANDRO EBURNEO ME;;;;;;BOTUCATU;SP
+4328161000160;SANDRO EBURNEO ME;13521437809;SANDRO EBURNEO ;;;;;;BOTUCATU;SP

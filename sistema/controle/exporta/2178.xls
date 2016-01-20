@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 13/08/2012/31/08/2012</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >181991/1</td><td  class=xl26 >03/07/2012</td><td  class=xl26 >30/07/2012</td><td  class=xl26 >13/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >125.606.931-00. </td><td  class=xl24 >. </td><td  class=xl24 >Maria Antonia de Miranda</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >GO</td><td  class=xl24 >Aparecida de Goiânia</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >atraso no despachante </td></tr><tr><td  class=xl24 ></td><td  class=xl24 >181991/3</td><td  class=xl26 >03/07/2012</td><td  class=xl26 >17/07/2012</td><td  class=xl26 >13/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Maria Antonia de Miranda</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Negativa do IPTU (Tributos Imobiliários)</td><td  class=xl24 >GO</td><td  class=xl24 >Aparecida de Goiânia</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >atraso do despachante</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >184356/1</td><td  class=xl26 >19/07/2012</td><td  class=xl26 >30/07/2012</td><td  class=xl26 >13/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >165.545.669-53. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >GO</td><td  class=xl24 >São João D Aliança</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >A Meire do Cartório alegou estar sobrecarregada e atrasou no envio da certidão</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >184357/1</td><td  class=xl26 >19/07/2012</td><td  class=xl26 >30/07/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl26 >22/08/2012</td><td  class=xl24 >372.069.740-15. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >GO</td><td  class=xl24 >Água Fria de Goiás</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >atraso no  cartorio de origem. Primeiro documento provavelmente extraviado. Pedido uma outra via.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >183794/5</td><td  class=xl26 >26/07/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl24 >CPF: 05.445.371/0001-09. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Imóvel - Pelo nome do Proprietário</td><td  class=xl24 >GO</td><td  class=xl24 >Aparecida de Goiânia</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no cartorio de Aparecida de Goiania</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186256/1</td><td  class=xl26 >01/08/2012</td><td  class=xl26 >15/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >127.175.761-34. </td><td  class=xl24 >. </td><td  class=xl24 >SILMIO SOARES</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >GO</td><td  class=xl24 >Goianápolis</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >o aguardo da informaçao do endereço em Goianapolis</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186256/2</td><td  class=xl26 >01/08/2012</td><td  class=xl26 >04/09/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >SILMIO SOARES</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Negativa do IPTU (Tributos Imobiliários)</td><td  class=xl24 >GO</td><td  class=xl24 >Goianápolis</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186258/1</td><td  class=xl26 >01/08/2012</td><td  class=xl26 >15/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >895.664.081-53. </td><td  class=xl24 >. </td><td  class=xl24 >HELENA PIRES SOARES</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >GO</td><td  class=xl24 >Goianápolis</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >aguardando informaçao da franquia sobre o endereço em Goianapolis</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186258/2</td><td  class=xl26 >01/08/2012</td><td  class=xl26 >04/09/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >HELENA PIRES SOARES</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Negativa do IPTU (Tributos Imobiliários)</td><td  class=xl24 >GO</td><td  class=xl24 >Goianápolis</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >aguardando informaçao da franquia, endereço do Goianapolis</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186913/1</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl26 >23/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Joveci José de Almeida Passos</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >GO</td><td  class=xl24 >Guarani de Goiás</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >atraso no depachante</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186941/8</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >02.208.767/0001-36. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >GO</td><td  class=xl24 >Acreúna</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no envio da certidao</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186941/12</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >570.456.588-34. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >GO</td><td  class=xl24 >Acreúna</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no envio da certidao.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186941/16</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >570.456.588-34. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >GO</td><td  class=xl24 >Acreúna</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no envio das certidoes</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186941/20</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >592.341.561-53. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >GO</td><td  class=xl24 >Acreúna</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no envio da certidao.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >186941/24</td><td  class=xl26 >06/08/2012</td><td  class=xl26 >16/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >592.341.561-53. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >GO</td><td  class=xl24 >Acreúna</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 >atraso no envio das certidoes</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >187134/1</td><td  class=xl26 >08/08/2012</td><td  class=xl26 >18/09/2012</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >046.617.451-91. </td><td  class=xl24 >. </td><td  class=xl24 >Maria da conceição Nogueira</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Tutela e Curatela (Interdição)</td><td  class=xl24 >GO</td><td  class=xl24 >Valparaíso de Goiás</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >187134/3</td><td  class=xl26 >08/08/2012</td><td  class=xl26 >24/09/2012</td><td  class=xl26 >27/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >046.617.451-91. </td><td  class=xl24 >. </td><td  class=xl24 >Maria da conceição Nogueira</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >GO</td><td  class=xl24 >Valparaíso de Goiás</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >187420/1</td><td  class=xl26 >08/08/2012</td><td  class=xl26 >29/08/2012</td><td  class=xl26 >20/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ANA CRISTINA SILVA</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >GO</td><td  class=xl24 >Cachoeira Alta</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >189629/1</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >20/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Porangatu</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >189842/1</td><td  class=xl26 >22/08/2012</td><td  class=xl26 >12/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >31/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Lúcio Luciano de Carvalho</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >GO</td><td  class=xl24 >Anápolis</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >189873/1</td><td  class=xl26 >22/08/2012</td><td  class=xl26 >03/10/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Marcos Paulo Alves da Silva</td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >GO</td><td  class=xl24 >Santa Helena de Goiás</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/1</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Barro Alto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/2</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Barro Alto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/3</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Barro Alto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/4</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Barro Alto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/5</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Barro Alto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/6</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Santa Rita do Novo Destino</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >190179/7</td><td  class=xl26 >23/08/2012</td><td  class=xl26 >06/09/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl26 >30/08/2012</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.goias@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >GO</td><td  class=xl24 >Santa Rita do Novo Destino</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

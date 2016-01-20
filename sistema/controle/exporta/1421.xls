@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/07/2011/31/07/2011</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >133097/1</td><td  class=xl26 >15/06/2011</td><td  class=xl26 >08/07/2011</td><td  class=xl26 >08/07/2011</td><td  class=xl26 >29/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MARIA NELY PEREIRA DE ALMEIDA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >AM</td><td  class=xl24 >Itacoatiara</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Muitos problemas de contato com o Cartório.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >133892/2</td><td  class=xl26 >21/06/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >07/07/2011</td><td  class=xl26 >08/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >12.135.181/0001-42. </td><td  class=xl24 >PESSI E PESSI LTDA. - EPP</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Breve Relato Simplificado</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA E CEU </td><td  class=xl24 >134257/127</td><td  class=xl26 >16/06/2011</td><td  class=xl26 >08/07/2011</td><td  class=xl26 >04/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >04826947000107. </td><td  class=xl24 >CONSTRUTORA NUNES VIEIRA LTDA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA E CEU </td><td  class=xl24 >134257/128</td><td  class=xl26 >16/06/2011</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >04/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl24 >03153029253. </td><td  class=xl24 >. </td><td  class=xl24 >EDMIR NUNES VIEIRA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA E CEU </td><td  class=xl24 >134257/129</td><td  class=xl26 >16/06/2011</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >04/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl24 >06719970259. </td><td  class=xl24 >. </td><td  class=xl24 >VERA LUCIA SENA VIEIRA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA E CEU </td><td  class=xl24 >134257/130</td><td  class=xl26 >16/06/2011</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >04/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl24 >80566715287. </td><td  class=xl24 >. </td><td  class=xl24 >EDMIR NUNES VIEIRA JUNIOR</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >134671/173</td><td  class=xl26 >21/06/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl24 >. </td><td  class=xl26 >04023040000100. </td><td  class=xl24 >B P DA FONSECA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 >Falta de atualização no sistema.</td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >134671/182</td><td  class=xl26 >21/06/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >06033881591. </td><td  class=xl24 >. </td><td  class=xl24 >BRASIVALDO PEREIRA DA FONSECA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 >Franquia liberou fora do Prazo.</td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >134671/347</td><td  class=xl26 >21/06/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl24 >60405295200. </td><td  class=xl24 >. </td><td  class=xl24 >NEDSON DOS SANTOS</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Positiva</td><td  class=xl24 >Falta de atualização no sistema. (Franquia liberou fora do Prazo.)</td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >134948/325</td><td  class=xl26 >24/06/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >11113995220. </td><td  class=xl24 >. </td><td  class=xl24 >MANOEL LIMA PANTOJA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 >Falta de atualização no sistema.(Franquia liberou fora do Prazo.)</td></tr><tr><td  class=xl24 >Guilherme B Carames - </td><td  class=xl24 >135294/1</td><td  class=xl26 >28/06/2011</td><td  class=xl26 >19/07/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >05/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >22818561000135. </td><td  class=xl24 >So Pocos S/A</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Guilherme B Carames - </td><td  class=xl24 >135294/3</td><td  class=xl26 >28/06/2011</td><td  class=xl26 >19/07/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >05/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >05265416000155. </td><td  class=xl24 >GABI Administradora Ltda</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Guilherme B Carames - </td><td  class=xl24 >135294/5</td><td  class=xl26 >28/06/2011</td><td  class=xl26 >19/07/2011</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >05/08/2011</td><td  class=xl24 >34294490225. </td><td  class=xl24 >. </td><td  class=xl24 >Luzianne Salignac Machado Benzecry</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Protesto Falimentar </td><td  class=xl24 >135657/1</td><td  class=xl26 >30/06/2011</td><td  class=xl26 >29/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >05.764.701/0001-10. </td><td  class=xl24 >M M REFEIÇÕES LTDA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Cancelamento de Protesto</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >135769/1</td><td  class=xl26 >01/07/2011</td><td  class=xl26 >22/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >21/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Eliane Miranda da Silva</td><td  class=xl24 >silviacarla.am@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >AM</td><td  class=xl24 >Codajás</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136151/30</td><td  class=xl26 >06/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >40720462215. </td><td  class=xl24 >. </td><td  class=xl24 >ANA ANGELICA PENHA DINIZ</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136151/31</td><td  class=xl26 >06/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl26 >15/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >. </td><td  class=xl26 >08082755000194. </td><td  class=xl24 >A A P DINIZ</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/136</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >02/08/2011</td><td  class=xl24 >21608040291. </td><td  class=xl24 >. </td><td  class=xl24 >MARTA DO SOCORRO SOUZA E SILVA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/228</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >43218083753. </td><td  class=xl24 >. </td><td  class=xl24 >ZULAMAR SOUZA LOPES</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/234</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >01769375287. </td><td  class=xl24 >. </td><td  class=xl24 >LUIZ FELIPE MOURA PINTO</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/252</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >08280176896. </td><td  class=xl24 >. </td><td  class=xl24 >MARCELO SANCHES CAIROLLI</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/256</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >80880860278. </td><td  class=xl24 >. </td><td  class=xl24 >OBERLAN VIEIRA NEVES</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/392</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >02/08/2011</td><td  class=xl24 >19328567220. </td><td  class=xl24 >. </td><td  class=xl24 >ROMULO JOSE FERNANDES DA SILVA</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/469</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >04979484000113. </td><td  class=xl24 >CAMAPUA COMERCIO DE DERIVADOS DE PETROLEO E S</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136625/470</td><td  class=xl26 >11/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl24 >75314207249. </td><td  class=xl24 >. </td><td  class=xl24 >PHILIPE ERNESTO SILVA PINTO</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136916/86</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >28/07/2011</td><td  class=xl26 >06/08/2011</td><td  class=xl24 >93639368215. </td><td  class=xl24 >. </td><td  class=xl24 >GLADNEY MACEDO CORDEIRO</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136916/178</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >28/07/2011</td><td  class=xl26 >06/08/2011</td><td  class=xl24 >71187219215. </td><td  class=xl24 >. </td><td  class=xl24 >PAULO HENRIQUE COSTA DE ALENCAR</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >136916/179</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >28/07/2011</td><td  class=xl26 >06/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >09813290000167. </td><td  class=xl24 >P H COSTA DE ALENCAR ME</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Protesto Falimentar </td><td  class=xl24 >136950/1</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >03/08/2011</td><td  class=xl26 >20/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >. </td><td  class=xl24 >84655950000144. </td><td  class=xl24 >JOSE ARTHUR DA SILVA VIEIRA ME</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Cancelamento de Protesto</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Positiva</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >DANIELA BARCELLOS DE ANDRADE</td><td  class=xl24 >136959/2</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >24/08/2011</td><td  class=xl26 >22/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >04.330.304/0001-78. </td><td  class=xl24 ></td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >DANIELA BARCELLOS DE ANDRADE</td><td  class=xl24 >136959/3</td><td  class=xl26 >13/07/2011</td><td  class=xl26 >24/08/2011</td><td  class=xl26 >22/07/2011</td><td  class=xl26 >01/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >04.330.304/0001-78. </td><td  class=xl24 ></td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >AM</td><td  class=xl24 >Manaus</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >137404/102</td><td  class=xl26 >18/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >02740109253. </td><td  class=xl24 >. </td><td  class=xl24 >SEBASTIANA DE SOUZA CARDOSO</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >PCA e CEU</td><td  class=xl24 >137404/268</td><td  class=xl26 >18/07/2011</td><td  class=xl26 >08/08/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl26 >27/07/2011</td><td  class=xl24 >44605676287. </td><td  class=xl24 >. </td><td  class=xl24 >AURICELIO ALVES DOS SANTOS</td><td  class=xl24 >luizribeiro.am@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >AM</td><td  class=xl24 >MANAUS</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >137967/1</td><td  class=xl26 >21/07/2011</td><td  class=xl26 >11/08/2011</td><td  class=xl26 >29/07/2011</td><td  class=xl26 >05/08/2011</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Crislo Xavier de Melo</td><td  class=xl24 >silviacarla.am@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >AM</td><td  class=xl24 >Eirunepé</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

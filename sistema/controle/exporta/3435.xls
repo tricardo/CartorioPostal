@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/12/2014/22/12/2014</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >331969/1</td><td  class=xl26 >10/11/2014</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Claudio Osmar Groehler</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Caxias do Sul</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >332329/1</td><td  class=xl26 >13/11/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Bruno Silva Soares</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MA</td><td  class=xl24 >São Bento</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >332859/1</td><td  class=xl26 >14/11/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >AMELIA DA SILVA</td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Francisco Beltrão</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >332974/1</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/01/2015</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PA</td><td  class=xl24 >Belém</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >333609/1</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Casamento</td><td  class=xl24 >RJ</td><td  class=xl24 >Belford Roxo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >333673/1</td><td  class=xl26 >20/11/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl24 >045.524.259-35. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >SC</td><td  class=xl24 >Garopaba</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >333790/1</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ODIRLEI RAFAEL FAENELLO</td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Salto do Lontra</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >333833/1</td><td  class=xl26 >20/11/2014</td><td  class=xl26 >04/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >José Newton Antunes Gilos de Souza</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Óbito</td><td  class=xl24 >PR</td><td  class=xl24 >Curiúva</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >333851/1</td><td  class=xl26 >20/11/2014</td><td  class=xl26 >04/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Sebastião Rivaldino Cordeiro</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Laranjal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334137/1</td><td  class=xl26 >24/11/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Mathilda dalla favera</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Porto União</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >cliente demorou par vir buscar</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334177/1</td><td  class=xl26 >24/11/2014</td><td  class=xl26 >15/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Cleusa Chaves de Oliveira</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Iretama</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334238/1</td><td  class=xl26 >24/11/2014</td><td  class=xl26 >15/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Rudimar Luiz de Lima</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Gaurama</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334595/1</td><td  class=xl26 >26/11/2014</td><td  class=xl26 >10/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Clarissa Almeida Brites</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Alegrete</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334746/1</td><td  class=xl26 >27/11/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >celestino basseto</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Altônia</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334834/1</td><td  class=xl26 >27/11/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >822.501.549-53. </td><td  class=xl24 >. </td><td  class=xl24 >Graziella Marques Bila</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334877/1</td><td  class=xl26 >27/11/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Verginia Felipe Rosa</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Alto Porã</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >334909/1</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Ilce Maria Caset</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Nova Trento</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335024/1</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Araquari</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335034/1</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >06/01/2015</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Passo Fundo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335035/1</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >02/01/2015</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Geraldino Salvador</td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Enéas Marques</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/1</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >15/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >003.824.869-78. </td><td  class=xl24 >. </td><td  class=xl24 >ADRIANO JOSÉ DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/2</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >003.824.869-78. </td><td  class=xl24 >. </td><td  class=xl24 >ADRIANO JOSÉ DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/3</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >003.824.869-78. </td><td  class=xl24 >. </td><td  class=xl24 >ADRIANO JOSÉ DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/4</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >890.118.489.34. </td><td  class=xl24 >. </td><td  class=xl24 >LAURECI BURG DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esqueceu de dar baixa no sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/5</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >890.118.489.34. </td><td  class=xl24 >. </td><td  class=xl24 >LAURECI BURG DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/6</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >890.118.489.34. </td><td  class=xl24 >. </td><td  class=xl24 >LAURECI BURG DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/7</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >003.824.869-78. </td><td  class=xl24 >. </td><td  class=xl24 >ADRIANO JOSÉ DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Certidão de Distribuições Criminais</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335158/8</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >890.118.489-34. </td><td  class=xl24 >. </td><td  class=xl24 >LAURECI BURG DA SILVA</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Certidão de Distribuições Criminais</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 >esquecemos de dar baixa no  sistema</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335177/1</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >10/12/2014</td><td  class=xl26 >10/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >maria luzia silvestre</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Assaí</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335194/1</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >05/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Elizabete dos santos</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Salto do Lontra</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335202/1</td><td  class=xl26 >01/12/2014</td><td  class=xl26 >15/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >roseli terezinha pereira barbosa</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Papanduva</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335287/1</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Terezinha Schuta</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Lapa</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >335388/1</td><td  class=xl26 >02/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl26 >09/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Julio Cezar de Oliveira Silva</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Uruguaiana</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336000/1</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Virginia Bridaroli Giovanella</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Jaraguá do Sul</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336073/1</td><td  class=xl26 >05/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >maria zeferino kuhnen</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Salto do Lontra</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336118/1</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >26/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Minacy Santos da Silva</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >SP</td><td  class=xl24 >Bariri</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336153/1</td><td  class=xl26 >10/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Luzia Mandira Alves</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >SP</td><td  class=xl24 >Cananéia</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336170/1</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >15/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >08/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Michele Duarte Constantino</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336396/1</td><td  class=xl26 >08/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >16/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Larissa Maria de Souza</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Foz do Iguaçu</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336706/1</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >01/01/2015</td><td  class=xl26 >18/12/2014</td><td  class=xl26 >18/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Agnaldo José de Paula</td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Rio Branco do Ivaí</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336724/1</td><td  class=xl26 >10/12/2014</td><td  class=xl26 >31/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >LUCINDA SOUZA VIANA </td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Casamento</td><td  class=xl24 >MG</td><td  class=xl24 >Itambacuri</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >336862/1</td><td  class=xl26 >10/12/2014</td><td  class=xl26 >24/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Luana de Moraes</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Castro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >337062/1</td><td  class=xl26 >11/12/2014</td><td  class=xl26 >25/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Jurema Levandoski</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Cruzeiro do Iguaçu</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >337113/1</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Francine Pereira</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >337113/2</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl26 >12/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Thiago Cesar Jasper Moreira</td><td  class=xl24 >Monitoramento</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Joinville</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >337522/1</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >31/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl26 >22/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >FRANCINE OLSEN </td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >PR</td><td  class=xl24 >Curitiba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >337629/1</td><td  class=xl26 >16/12/2014</td><td  class=xl26 >30/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl26 >19/12/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >gicelda masiero</td><td  class=xl24 >Jairo Sprotte </td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Pedras Grandes</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

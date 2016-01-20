@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio de Planejamento Econômico Financeiro - Franquia Cartório Postal - Sorocaba - SP - Taxa de Crescimento de %</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >ANO I</td><td  class=xl24 >Operacionais</td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 align=right x:num="2">2</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 align=right x:num="4">4</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 align=right x:num="6">6</td><td  class=xl24 align=right x:num="7">7</td><td  class=xl24 align=right x:num="8">8</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 align=right x:num="10">10</td><td  class=xl24 align=right x:num="11">11</td><td  class=xl24 align=right x:num="12">12</td></tr><tr><td  class=xl24 >MES</td><td  class=xl24 >01/2010</td><td  class=xl24 >02/2010</td><td  class=xl24 >03/2010</td><td  class=xl24 >04/2010</td><td  class=xl24 >05/2010</td><td  class=xl24 >06/2010</td><td  class=xl24 >07/2010</td><td  class=xl24 >08/2010</td><td  class=xl24 >09/2010</td><td  class=xl24 >10/2010</td><td  class=xl24 >11/2010</td><td  class=xl24 >12/2010</td></tr><tr><td  class=xl24 >DIAS UTEIS</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="22">22</td></tr><tr><td  class=xl24 >OPERAÇOES POR DIA</td><td  class=xl24 align=right x:num="8.9">8.9</td><td  class=xl25 align=right x:num="4.7619047619">4.7619047619</td><td  class=xl25 align=right x:num="3.59090909091">3.59090909091</td><td  class=xl25 align=right x:num="7.47619047619">7.47619047619</td><td  class=xl25 align=right x:num="4.66666666667">4.66666666667</td><td  class=xl25 align=right x:num="8.63636363636">8.63636363636</td><td  class=xl25 align=right x:num="7.2380952381">7.2380952381</td><td  class=xl25 align=right x:num="11.8181818182">11.8181818182</td></tr><tr><td  class=xl24 >DESPESAS</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="934.75">934.75</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="3529.41">3529.41</td><td  class=xl24 align=right x:num="12771.51">12771.51</td><td  class=xl24 align=right x:num="30646.28">30646.28</td><td  class=xl24 align=right x:num="5744.16">5744.16</td><td  class=xl24 align=right x:num="11328.87">11328.87</td></tr><tr><td  class=xl24 >VENDAS</td><td  class=xl24 align=right x:num="9673.60">9673.60</td><td  class=xl24 align=right x:num="6908.63">6908.63</td><td  class=xl24 align=right x:num="6037.50">6037.50</td><td  class=xl24 align=right x:num="10355.35">10355.35</td><td  class=xl24 align=right x:num="10614.59">10614.59</td><td  class=xl24 align=right x:num="31223.90">31223.90</td><td  class=xl24 align=right x:num="19062.88">19062.88</td><td  class=xl24 align=right x:num="17682.80">17682.80</td></tr><tr><td  class=xl24 >LUCRO</td><td  class=xl24 align=right x:num="9673.6">9673.6</td><td  class=xl24 align=right x:num="5973.88">5973.88</td><td  class=xl24 align=right x:num="6037.5">6037.5</td><td  class=xl24 align=right x:num="6825.94">6825.94</td><td  class=xl24 align=right x:num="-2156.92">-2156.92</td><td  class=xl24 align=right x:num="577.62">577.62</td><td  class=xl24 align=right x:num="13318.72">13318.72</td><td  class=xl24 align=right x:num="6353.93">6353.93</td></tr><tr><td  class=xl24 >OPERAÇÕES DO MÊS</td><td  class=xl24 align=right x:num="178">178</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="79">79</td><td  class=xl24 align=right x:num="157">157</td><td  class=xl24 align=right x:num="98">98</td><td  class=xl24 align=right x:num="190">190</td><td  class=xl24 align=right x:num="152">152</td><td  class=xl24 align=right x:num="260">260</td></tr><tr><td  class=xl24 >TICKET MÉDIO</td><td  class=xl25 align=right x:num="54.3460674157">54.3460674157</td><td  class=xl24 align=right x:num="69.0863">69.0863</td><td  class=xl25 align=right x:num="76.4240506329">76.4240506329</td><td  class=xl25 align=right x:num="65.9576433121">65.9576433121</td><td  class=xl25 align=right x:num="108.312142857">108.312142857</td><td  class=xl25 align=right x:num="164.336315789">164.336315789</td><td  class=xl25 align=right x:num="125.413684211">125.413684211</td><td  class=xl25 align=right x:num="68.0107692308">68.0107692308</td></tr><tr><td  class=xl24 >PEDIDOS ENVIADOS PARA REDE</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="29">29</td><td  class=xl24 align=right x:num="18">18</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="7">7</td><td  class=xl24 align=right x:num="30">30</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="30">30</td></tr><tr><td  class=xl24 >PEDIDO RECEBIDOS DA REDE</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="72">72</td><td  class=xl24 align=right x:num="2">2</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 align=right x:num="5">5</td></tr><tr><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >ANO II</td><td  class=xl24 align=right x:num="13">13</td><td  class=xl24 align=right x:num="14">14</td><td  class=xl24 align=right x:num="15">15</td><td  class=xl24 align=right x:num="16">16</td><td  class=xl24 align=right x:num="17">17</td><td  class=xl24 align=right x:num="18">18</td><td  class=xl24 align=right x:num="19">19</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="23">23</td><td  class=xl24 align=right x:num="24">24</td></tr><tr><td  class=xl24 >MES</td><td  class=xl24 >01/2011</td><td  class=xl24 >02/2011</td><td  class=xl24 >03/2011</td><td  class=xl24 >04/2011</td><td  class=xl24 >05/2011</td><td  class=xl24 >06/2011</td><td  class=xl24 >07/2011</td><td  class=xl24 >08/2011</td><td  class=xl24 >09/2011</td><td  class=xl24 >10/2011</td><td  class=xl24 >11/2011</td><td  class=xl24 >12/2011</td></tr><tr><td  class=xl24 >DIAS ÚTEIS</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="22">22</td><td  class=xl24 align=right x:num="21">21</td></tr><tr><td  class=xl24 >OPERAÇÕES POR DIA</td><td  class=xl24 align=right x:num="8.9">8.9</td><td  class=xl25 align=right x:num="4.7619047619">4.7619047619</td><td  class=xl25 align=right x:num="3.59090909091">3.59090909091</td><td  class=xl25 align=right x:num="7.47619047619">7.47619047619</td><td  class=xl25 align=right x:num="4.66666666667">4.66666666667</td><td  class=xl25 align=right x:num="8.63636363636">8.63636363636</td><td  class=xl25 align=right x:num="7.2380952381">7.2380952381</td><td  class=xl25 align=right x:num="11.8181818182">11.8181818182</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td></tr><tr><td  class=xl24 >VENDA</td><td  class=xl24 align=right x:num="10157.28">10157.28</td><td  class=xl25 align=right x:num="6908.62999999">6908.62999999</td><td  class=xl24 align=right x:num="6037.5">6037.5</td><td  class=xl25 align=right x:num="9862.23809524">9862.23809524</td><td  class=xl25 align=right x:num="11120.0466667">11120.0466667</td><td  class=xl25 align=right x:num="31223.8999999">31223.8999999</td><td  class=xl25 align=right x:num="18155.1238096">18155.1238096</td><td  class=xl24 align=right x:num="17682.8">17682.8</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td></tr><tr><td  class=xl24 >OPERAÇÕES DO MÊS</td><td  class=xl24 align=right x:num="186.9">186.9</td><td  class=xl25 align=right x:num="99.9999999999">99.9999999999</td><td  class=xl24 align=right x:num="79">79</td><td  class=xl25 align=right x:num="149.523809524">149.523809524</td><td  class=xl25 align=right x:num="102.666666667">102.666666667</td><td  class=xl24 align=right x:num="190">190</td><td  class=xl25 align=right x:num="144.761904762">144.761904762</td><td  class=xl24 align=right x:num="260">260</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td></tr><tr><td  class=xl24 >TICKET MÉDIO</td><td  class=xl25 align=right x:num="54.3460674157">54.3460674157</td><td  class=xl24 align=right x:num="69.0863">69.0863</td><td  class=xl25 align=right x:num="76.4240506329">76.4240506329</td><td  class=xl25 align=right x:num="65.9576433121">65.9576433121</td><td  class=xl25 align=right x:num="108.312142857">108.312142857</td><td  class=xl25 align=right x:num="164.336315789">164.336315789</td><td  class=xl25 align=right x:num="125.413684211">125.413684211</td><td  class=xl25 align=right x:num="68.0107692308">68.0107692308</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="0">0</td></tr><tr><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >RECEITAS, MÉDIA DO ANO</td><td  class=xl24 >ANO I</td><td  class=xl24 > ANO II</td><td  class=xl24 > ANO III</td><td  class=xl24 > ANO IV</td><td  class=xl24 > ANO V</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Vendas do Ano</td><td  class=xl24 align=right x:num="111559.25">111559.25</td><td  class=xl25 align=right x:num="111147.518571">111147.518571</td><td  class=xl25 align=right x:num="110958.857292">110958.857292</td><td  class=xl25 align=right x:num="114287.623011">114287.623011</td><td  class=xl25 align=right x:num="117716.251701">117716.251701</td></tr><tr><td  class=xl24 >Vendas média/mês</td><td  class=xl24 align=right x:num="13944.90625">13944.90625</td><td  class=xl25 align=right x:num="13893.4398214">13893.4398214</td><td  class=xl25 align=right x:num="13869.8571615">13869.8571615</td><td  class=xl25 align=right x:num="14285.9528763">14285.9528763</td><td  class=xl25 align=right x:num="14714.5314626">14714.5314626</td></tr><tr><td  class=xl24 >Ticket Médio</td><td  class=xl25 align=right x:num="91.4858716811">91.4858716811</td><td  class=xl25 align=right x:num="91.4858716811">91.4858716811</td><td  class=xl25 align=right x:num="94.2304478315">94.2304478315</td><td  class=xl25 align=right x:num="97.0573612664">97.0573612664</td><td  class=xl25 align=right x:num="99.9690821044">99.9690821044</td></tr><tr><td  class=xl24 >Operações por mês</td><td  class=xl24 align=right x:num="151.75">151.75</td><td  class=xl25 align=right x:num="151.606547619">151.606547619</td><td  class=xl25 align=right x:num="151.606547619">151.606547619</td><td  class=xl25 align=right x:num="151.606547619">151.606547619</td><td  class=xl25 align=right x:num="151.606547619">151.606547619</td></tr>

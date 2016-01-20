@@ -1,0 +1,63 @@
+Relatório de ;Depósito por Banco ; Sintético
+Entre ;14/06/2010 00:00:00 ;e 14/06/2010 23:59:00; tirado em ;14/06/2010 12:26:09
+ ABN AMRO Real S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#101353;Sintia Si;310;3836315;D´ Vasquez Serviços Cart;43.00
+#102800;Rute;0082 ;c 7715166-9; Danilo Sergio Cavalcant;55.00
+;;;;Subtotal: ;98.00
+
+ Bradesco S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#102821;Leandro H;2694-8;18495-0;1° Cartorio Reg Civil Ar;55.00
+#102859;Leandro H;280-1;65804-9;Cart Reg Civil da Praia ;29.65
+#102915;Leandro H;0212-7;0110790-9;Sistema de Cartório;80.00
+#102128;Rute;3208-5;71778-9;Jane Cleide da S. Purifi;55.28
+#102813;Leandro H; 0397-2;55500-2;Serviço Registral das Pe;35.00
+#102813;Leandro H;0397-2;55500-2;Serviço Registral das Pe;35.00
+#102892;Elaine Fe;0212-7;c.c. 110790-9;;87.50
+#102904;Leandro H;02432-5;6891-8;Cartório de Registro Civ;29.00
+#102678;Leandro H;3404-5;11479-0;Cartorio de Taboão;26.65
+#102532;Lucineia;0212-7;110790-9;SISTEMA DE CARTORIO CERT;54.50
+#102877;Rute;  3550-5;c119368-6;Tritunal de Justiça do A;11.10
+#102908;Leandro H;0021-3;035264-0;Cartório de Registro Civ;27.00
+;;;;Subtotal: ;525.68
+
+ Itaú S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#101896;Lucineia;0200;87436-0;MIchelle H. Lisbôa Wagne;27.00
+;;;;Subtotal: ;27.00
+
+Banco do Brasil S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#102858;Leandro H;0449-9;;José Carlos Moraes;27.65
+#102861;Leandro H;0156-2 ;8915-x ;Clayton de Paula Santos ;34.00
+#102045;Rute;1127-4 ;6117-4  ;Maria de Lourdes da Silv;40.00
+#102851;Rute;1138-x;c 9809-4;Josefa André da Silva ;40.00
+#102172;Rute;0293-3; c9876-0;Normanda Jardelino;40.00
+#102845;Erika Fon;0441-3   ;5896-3;Marta Santos;30.00
+#102862;Erika Fon;0975-X;7872-7;Gilmara Jacomini;40.00
+#102488;Thiago Li;0299-2;12702-7;RODOLFO SORIA SANTOS;39.00
+#102404;Marcelo G;682-3;24910-6;Jose Delmar Motta;68.50
+#100823;Sara Regi;1180-0;13612-3;Osvaldo Reiners;84.32
+#102365;Erika Fon;0140-6;32386-1;Marcelo Esteves Santos;58.00
+#102418;Rute;2529-1 ;c 7914-6;Marli Figueiredo de Beze;45.00
+#102122;Erica;3958-6;5057-1;Augusto César;35.00
+#102973;Maria da ;0162-7;24215-2;STTC FA MAGALHÃES;50.40
+#102903;Erica;0428-6;5760-6;João Helvercio da Silvei;35.00
+;;;;Subtotal: ;666.87
+
+Caixa Econômica Federal
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#102810;Erica;0711 op 013;0047411-5;Leonia Marques Pereira.;65.00
+#101206;Erica;0746 op 023;15911-0;Antonio Wagner Coelho Li;52.00
+#101413;Erica;0032 op 003;674-1;Cartório do 1° oficio;50.00
+;;;;Subtotal: ;167.00
+
+HSBC BANK BRASIL S/A
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#102642;Leandro H;1493;0446100;Luiz Henrique Caldeira V;42.00
+#101537;Gustavo H;0813;186320-2;Polyana Protázio de Frei;218.60
+;;;;Subtotal;260.60
+
+;;;;Total:;1,745.15
+

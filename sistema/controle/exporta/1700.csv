@@ -1,0 +1,27 @@
+Relatório de ;Depósito por Banco; Analítico
+Entre ;01/11/2011 00:00:00 ;e 30/11/2011 23:59:00; tirado em ;01/12/2011 11:19:09
+;;;;;
+ Bradesco S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#150954;Mara Flav;2692-1;112484-6;SISTEMA DE CARTÓRIOS E CERTIDÕES;189.00
+#150954/1 Protesto de Cheques 
+;;;;Subtotal: ;189.00
+
+#151674;Mara Flav;2692-1;112484-6;SISTEMA DE CARTÓRIOS E CERTIDÕES;97.00
+#151674/1 Nascimento 
+;;;;Subtotal: ;97.00
+
+#151829;Mara Flav;2692-1;112484-6;SISTEMA DE CARTÓRIOS E CERTIDÕES;137.00
+#151829/1 Outros Serviços 
+;;;;Subtotal: ;137.00
+
+;;;;Subtotal: ;423.00
+
+ Itaú S.A.
+Protocolo;Usuário;Agência;CC;Favorecido;Valor
+#150710;Mara Flav;8074 ;01083-9;RAFAELA FALCATO DE OLIVEIRA EPP;52.40
+#150710/1 Casamento 
+;;;;Subtotal;52.40
+
+;;;;Total:;475.40
+

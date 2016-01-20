@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+17/4/2012;DISTRATO 12.1 ;144;1_054;15/7/2008;HESA 7 INVESTIMENTOS IMOBILIÁRIOS LTDA.;JOSE MARCIO IRENTI;R.Washington Luis,90,ap.103 Cond.Olimpia;Vila Costa;Suzano;SP;08675-040;;HOME CLUB ITAPETY;XXXXXXXXXX;XXXXXXXX;XXXXXX;XXXXXXXXXXX;XXXX

@@ -1,0 +1,2 @@
+Cliente;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Valor;Encargos;Correção
+95219;Distrato - 12.1;219;B0802;17/6/2011;HESA 75 INVESTIMENTOS IMOBILIÁRIOS LTDA.;THALES ALEXANDRE PINHEIRO HABIB;AV. Almirante Marques De Leao, 51;Barra;Salvador;BA;40.140-230;;COLETÂNEA VALE DO CANELA;XXXXXXXXXX;XXXXXXXX;THALES ALEXANDRE PINHEIRO HABIB;XXXXXXXXXXX;XXXXXX;XXXX

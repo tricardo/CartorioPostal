@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#93674/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CIDADANIA PORTUGUESA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >INICIAR SERVIÇO</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#107305/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTONIO GOMES DA ROCHA </td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#108748/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA MARIA GIACCHERI RODRIGUES</td><td  class=xl24 >Desarquivamento de Processo</td><td  class=xl24 >DOCUMENTO ENTREGUE AO JURÍDICO</td><td  class=xl24 >Jurídico</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#108748/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA MARIA GIACCHERI RODRIGUES</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109057/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >GILVALTER FRANCISCO RODRIGUES</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109505/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >RONALDO LOPES RIBEIRO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110342/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >GISELE CATIA TRAVAIOLI PINHEIRO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110345/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >NELSON BERNARDO PEREIRA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110419/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110442/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA CLAUDIA DOS SANTOS COSTA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110619/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO PEREIRA DOS SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110684/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DORALICE ALVES ALEXANDRE</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110686/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FERNANDA GOMES DE MORAES</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110796/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MAURICIO SOUSA SANTOS</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110799/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SOLANGE PARISOTO LOPES NAPPI</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110932/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO CESAR DE BARROS</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111137/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELISANGELA DE ALMEIDA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111217/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANGELA MARIA DA COSTA OLIVEIRA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111218/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FATIMA APARECIDA DE OLIVEIRA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111219/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARCOS JOSE PUPIM</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111304/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FABIANA ALVES SOARES</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111439/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IVANI DA SILVA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111477/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >VIRGINIA ALEXANDRINA DOMINGOS DA ROCHA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111488/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALDO RODRIGO DOS SANTOS</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111539/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >joaquim zome de souza neto</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111605/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SANDRA CRISTINA DE CAMARGO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111606/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DEISE GOMES CAMARGO DE ALMEIDA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111698/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTONIO DOS PRAZERES ARAÚJO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111718/1</td><td  class=xl24 >171.627.818-02 .</td><td  class=xl24 > </td><td  class=xl24 >ANDREIA REGINA ALVES FERREIRA</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111718/2</td><td  class=xl24 >171.627.818-02 .</td><td  class=xl24 > </td><td  class=xl24 >ANDREIA REGINA ALVES FERREIRA</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111766/1</td><td  class=xl24 > </td><td  class=xl24 >49.839.616/0001-40 .</td><td  class=xl24 >CVC INCORPORAÇÕES E CONSTRUÇÕES LTDA</td><td  class=xl24 >Protesto de Cheques</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111766/2</td><td  class=xl24 > </td><td  class=xl24 >49.839.616/0001-40 .</td><td  class=xl24 >CVC INCORPORAÇÕES E CONSTRUÇÕES LTDA</td><td  class=xl24 >Protesto de Cheques</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111768/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CLEVERSON ALVES DE FARIAS</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111770/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA SEVERINA DA COSTA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111772/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MILIAN DA SILVA BONIFACIO/ GILBERTO BONIFACIO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111774/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EMERSON HORACIO GORGA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111843/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARCOS ALEXANDRE BAUCH</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111843/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SIMONE CAROLINA BAUCH </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111860/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FABIOLA VICENTINI FERREIRA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111865/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LUIZ CARLOS FERREIRA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111904/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >HELIODORO RODRIGUES DE ARAUJO</td><td  class=xl24 >Casamento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111951/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DANIEL BUENO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111971/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >NOEMIA APARECIDA DE SOUZA HENRIQUE</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112015/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOAO VICTOR DE SOUZA RODRIGUES</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112088/1</td><td  class=xl24 > </td><td  class=xl24 >01.325.340/0001-55 .</td><td  class=xl24 >ALINE FERNANDES DE OLIVEIRA E CIA LTDA ME</td><td  class=xl24 >Protesto de Cheques</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112152/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >TERESINHA ENGRACIA DO NASCIMENTO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112180/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >AGRO INDUSTRIA BRASIL S.A</td><td  class=xl24 >Protesto de Cheques</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112202/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >HAMILTON RACOSTA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112259/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CREMILDO SILVA DE AZEVEDO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112285/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ADAIR CELSO LOPES</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112319/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSEFINA LUZIA FATIMA NALIN LARA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112518/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA CLÁUDIA DOS SANTOS</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112633/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EDILEUZA MARIA DE BRITO SOUZA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LIUBO SIMAO STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA LOPES STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/3</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA LOPES STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/4</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LIUBO SIMAO STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/5</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LIUBO SIMAO STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/6</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA LOPES STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/7</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA LOPES STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/8</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LIUBO SIMAO STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/9</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LIUBO SIMAO STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112664/10</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA LOPES STANICH</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112675/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SAMUEL RODRIGO LEOPOLDO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

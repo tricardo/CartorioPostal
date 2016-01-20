@@ -1,0 +1,48 @@
+Ordens ;Protocolo;Resposta ;Custas ;Motivo de atrazo
+#150617/2;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150736/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150703/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150703/4;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150736/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150736/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150736/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150736/10;;Negativa ;;Detran não emitiu a certidão na data prometida
+#150742/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida
+#150757/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida
+#150757/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150757/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150757/8;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150757/9;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150757/12;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150763/2;;8 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150763/4;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150763/6;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150764/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150764/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150767/2;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150766/3;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150766/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150767/4;;6 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150767/6;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150767/8;;9 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150767/10;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150771/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150771/4;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150771/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150771/8;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150773/2;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150773/4;;3 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150773/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150773/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150773/10;;9 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150773/12;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150773/14;;11 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150773/16;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150773/18;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150784/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150784/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150784/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150784/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#150784/10;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150784/12;;4 Positiva ;;Detran não emitiu a certidão na data prometida 
+#150793/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 

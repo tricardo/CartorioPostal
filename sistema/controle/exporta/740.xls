@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Nome</td><td  class=xl24 >Devedor</td><td  class=xl24 >Forma de Pagamento</td><td  class=xl24 >CPF/CNPJ Requerente</td><td  class=xl24 >Atendimento</td><td  class=xl24 >Serviço</td><td  class=xl24 >Cidade</td><td  class=xl24 >Estado</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Agenda</td><td  class=xl24 >Valor</td><td  class=xl24 >Departamento</td></tr><tr><td  class=xl24 >#309890/2</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >27/08/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 >587.928.561-87 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >587.928.561-87 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >Brasília</td><td  class=xl24 >DF</td><td  class=xl24 >DESEMBOLSO AO FINANCEIRO</td><td  class=xl24 >Desembolso</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="200.00">200.00</td><td  class=xl24 >Processo</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#313796/1</td><td  class=xl26 >01/08/2014</td><td  class=xl26 >15/08/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >RICARDO BEZERRA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >017.481.031-80 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Anápolis</td><td  class=xl24 >GO</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#313820/1</td><td  class=xl26 >01/08/2014</td><td  class=xl26 >29/08/2014</td><td  class=xl26 >07/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >ENOQUE JANUARIO DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >124.570.941-00 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Crato</td><td  class=xl24 >CE</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#313871/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >05/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MOIZES OLIVEIRA SANTANA</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >722.180.611-04 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PARIPIRANGA</td><td  class=xl24 >BA</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#313998/1</td><td  class=xl26 >04/08/2014</td><td  class=xl26 >15/09/2014</td><td  class=xl26 >04/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >ANGELA MARIA CARVALHO DO AMARAL VIEIRA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >977.641.591-15 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >Araguanã</td><td  class=xl24 >TO</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >15/08/2014</td><td  class=xl24 align=right x:num="426.00">426.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314092/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >05/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA ONILDA DE JESUS LIMA</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >948.686.461-68 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BOM JESUS DA LAPA</td><td  class=xl24 >BA</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314126/1</td><td  class=xl26 >04/08/2014</td><td  class=xl26 >01/09/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA VANUSA OLIVEIRA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >513.939.722-68 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Cruzeiro do Sul</td><td  class=xl24 >AC</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl26 >18/08/2014</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314336/1</td><td  class=xl26 >05/08/2014</td><td  class=xl26 >26/08/2014</td><td  class=xl26 >06/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >JOSE GARCIA DE JESUS</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >227.950.571-15 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Casamento</td><td  class=xl24 >São José do Rio Preto</td><td  class=xl24 >SP</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="150.00">150.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314518/1</td><td  class=xl26 >06/08/2014</td><td  class=xl26 >20/08/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >JOSE SANTANA MACHADO</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >282.648.781-72 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Piracanjuba</td><td  class=xl24 >GO</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314738/1</td><td  class=xl26 >07/08/2014</td><td  class=xl26 >21/08/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >DERLI GOMES DE OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl26 >130.792.551-00 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Itumbiara</td><td  class=xl24 >GO</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl26 >15/08/2014</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314870/1</td><td  class=xl26 >07/08/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >07/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA LUCIA MUNIZ DE ANDRADE</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >864.246.881-53 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Inteiro Teor - Nascimento</td><td  class=xl24 >João Pessoa</td><td  class=xl24 >PB</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >15/08/2014</td><td  class=xl24 align=right x:num="190.00">190.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#314898/1</td><td  class=xl26 >07/08/2014</td><td  class=xl26 >21/08/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >DANIEL GONÇALVES DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >013.248.491-93 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Gama</td><td  class=xl24 >DF</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="110.00">110.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315000/1</td><td  class=xl26 >08/08/2014</td><td  class=xl26 >19/09/2014</td><td  class=xl26 >08/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >LÚCIA DE SOUZA PEREIRA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >012.259.591-28 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Casamento</td><td  class=xl24 >Correntina</td><td  class=xl24 >BA</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315080/1</td><td  class=xl26 >08/08/2014</td><td  class=xl26 >22/08/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >IRON FERNANDES DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >413.704.651-49 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Goiás</td><td  class=xl24 >GO</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl26 >20/08/2014</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315094/1</td><td  class=xl26 >08/08/2014</td><td  class=xl26 >29/08/2014</td><td  class=xl26 >08/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >THIAGO SOUZA SIMONI</td><td  class=xl24 ></td><td  class=xl24 >Cartão de Crédito</td><td  class=xl24 >752.663.931-49 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Itapevi</td><td  class=xl24 >SP</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="150.00">150.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315119/1</td><td  class=xl26 >08/08/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl26 >08/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA BONFIM BATISTA DE SOUZA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >841.762.611-53 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Araguacema</td><td  class=xl24 >TO</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >12/08/2014</td><td  class=xl24 align=right x:num="190.00">190.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315127/1</td><td  class=xl26 >08/08/2014</td><td  class=xl26 >22/08/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 >911.961.161-72 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >911.961.161-72 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Goiânia</td><td  class=xl24 >GO</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 >Concluído</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="200.00">200.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315285/1</td><td  class=xl26 >11/08/2014</td><td  class=xl26 >08/09/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >JOEL CARDOSO DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >057.086.353-80 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Pirapemas</td><td  class=xl24 >MA</td><td  class=xl24 >DESEMBOLSO AO FINANCEIRO</td><td  class=xl24 >Desembolso</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315326/1</td><td  class=xl26 >11/08/2014</td><td  class=xl26 >08/09/2014</td><td  class=xl26 >11/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >RAQUEL SANTOS DA COSTA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >055.413.021-10 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >São Domingos do Maranhão</td><td  class=xl24 >MA</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315580/1</td><td  class=xl26 >12/08/2014</td><td  class=xl26 >07/10/2014</td><td  class=xl26 >12/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >GILMAR BARBOSA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >320.298.295-87 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Jussari</td><td  class=xl24 >BA</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315636/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >RAIMUNDO NONATO NATALINO</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >549.532.511-72 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Casamento</td><td  class=xl24 >IMPERATRIZ</td><td  class=xl24 >MA</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315717/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARCOS JOSÉ ÁLVARES</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >792.050.031-15 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Casamento</td><td  class=xl24 >IPORÁ</td><td  class=xl24 >GO</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315717/2</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >CRISTIANE MOUTINHO DE OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >792.050.031-15 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Anápolis</td><td  class=xl24 >GO</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315766/1</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >10/09/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >THALIA JOANNY DE OLIVEIRA CASTRO</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >475.725.743-00 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Pedreiras</td><td  class=xl24 >MA</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315805/1</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >27/08/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MATHEUS FELIPE GONÇALVES DA CUNHA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >025.562.721-12 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Anicuns</td><td  class=xl24 >GO</td><td  class=xl24 >DESEMBOLSO AO FINANCEIRO</td><td  class=xl24 >Desembolso</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315808/1</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >03/09/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >RONNIE VON BARBOSA DE FARIA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >695.180.331-53 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Minaçu</td><td  class=xl24 >GO</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315821/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >EDNA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >DEPÓSITO</td><td  class=xl24 >789.698.752-04 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SÃO MIGUEL DO ARAGUAIA</td><td  class=xl24 >GO</td><td  class=xl24 >ORÇAMENTO</td><td  class=xl24 >Orçamento</td><td  class=xl26 >14/08/2014</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315896/1</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >10/09/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA VERONICE SILVA SOUSA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >905.463.341-72 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >Vitorino Freire</td><td  class=xl24 >MA</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#315941/1</td><td  class=xl26 >13/08/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >13/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA MARLENE GOMES DA SILVA</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >553.132.993-87 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >Benedito Leite</td><td  class=xl24 >MA</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="237.00">237.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#316086/1</td><td  class=xl26 >14/08/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >SOLANGE GUILHERME</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >235.629.191-15 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >São Paulo</td><td  class=xl24 >SP</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="150.00">150.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#316112/1</td><td  class=xl26 >14/08/2014</td><td  class=xl26 >11/09/2014</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >CICERO PRAXEDES DA CURZ</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >463.879.001-15 .</td><td  class=xl24 >ADRIEL ALVES CARDOSO</td><td  class=xl24 >Inteiro Teor - Nascimento</td><td  class=xl24 >Ceará-Mirim</td><td  class=xl24 >RN</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="50.00">50.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#316116/1</td><td  class=xl26 >14/08/2014</td><td  class=xl26 >11/09/2014</td><td  class=xl26 >14/08/2014</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA DE FÁTIMA VIEIRA DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 >Dinheiro Certo</td><td  class=xl24 >283.743.218-06 .</td><td  class=xl24 >LUDMILA UCHOA</td><td  class=xl24 >Casamento</td><td  class=xl24 >Alto Paraíso</td><td  class=xl24 >RO</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="180.00">180.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

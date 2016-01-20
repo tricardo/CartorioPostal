@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Valor</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#90320/1</td><td  class=xl26 >130.705.108-17 .</td><td  class=xl24 > </td><td  class=xl24 >NILTON CESAR MACIEL DOS SANTOS</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#91538/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO ESTEVÃO WANDEKOKEN BORLOT</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="130.00">130.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#92259/1</td><td  class=xl26 >130744457-18 .</td><td  class=xl24 > </td><td  class=xl24 >THIAGO NASCIMENTO DE SANTANA</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#92263/1</td><td  class=xl24 >878.237.806-15 .</td><td  class=xl24 > </td><td  class=xl24 >MIRIA ANASTACIA DA SILVA</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#92310/1</td><td  class=xl24 >005.237.567-63 .</td><td  class=xl24 > </td><td  class=xl24 >EDNEA DA SILVA CORREA</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#92879/1</td><td  class=xl24 >878.237.806-15 .</td><td  class=xl24 > </td><td  class=xl24 >MIRIA ANASTACIA DA SILVA BENTO</td><td  class=xl24 >Limpeza de Nome</td><td  class=xl24 align=right x:num="200.00">200.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#93002/1</td><td  class=xl24 >568.031.766-49 .</td><td  class=xl24 > </td><td  class=xl24 >JOSE MARIA GONÇALVES VIANA</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#93033/1</td><td  class=xl24 >963.530.316-53 .</td><td  class=xl24 > </td><td  class=xl24 >RENATO CAMARGO</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#93807/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA ROSEMARY DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="142.00">142.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#93844/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSÉ GERALDO DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="184.00">184.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#96494/1</td><td  class=xl24 >117.725.077-25 .</td><td  class=xl24 > </td><td  class=xl24 >SIDNEI BARBOSA BATISTA</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 align=right x:num="60.00">60.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#96983/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EMERSON LUIZ DA LUZ</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 align=right x:num="105.00">105.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#96859/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FABIANA STREHER PEREIRA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#98362/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SUELI SANTOS PRATES</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99217/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LEONARDO JANUARIO FAGUNDES</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100520/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LEANDRO LIMA AZEREDO</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 align=right x:num="158.00">158.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100570/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EDINAURA DE FREITAS AIRES</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="90.00">90.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101401/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LÚCIO JOSÉ THOMAZ</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 align=right x:num="225.00">225.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#90633/4</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >VANDERLEI PACHECO JUNIOR</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 align=right x:num="277.00">277.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101944/1</td><td  class=xl24 > </td><td  class=xl24 >28.154.862/0001-98 .</td><td  class=xl24 >BANCO DO BRASIL S.A</td><td  class=xl24 >Notificação</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#103294/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARCO ANTONIO ROCHA</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#103948/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANGELICA OLIVEIRA DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#104948/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IVANIR GRIGÓRIO DA SILVA </td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="105.00">105.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#105313/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LUIZ CARLOS APRIJO</td><td  class=xl24 >Casamento</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#105426/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARCOS DA CONCEIÇÃO SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="140.00">140.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106268/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ROSIMEIRE MATRONI DOS SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106386/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IBI CARD (C&A) 2122-0002</td><td  class=xl24 >Notificação</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106394/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DJALMA SARMENTO JUNIOR</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106417/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LACY GOMES BARBOSA</td><td  class=xl24 >PARA LEGAL (Diversos Serviços Jurídico)</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101944/2</td><td  class=xl24 > </td><td  class=xl26 >06.044.445/0001-50 .</td><td  class=xl24 >R. ABEL</td><td  class=xl24 >Notificação</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#107099/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA LUZINETE DE JESUS FARIAS</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#107209/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELAINE CRISTINA DE OLIVEIRA BASTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#107665/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >THEREZINHA FLOR DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#108149/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >AUGUSTO CAETANO & MARIA ROSA CAETANO</td><td  class=xl24 >Casamento</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#108286/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ADEMARIO RODRIGUES DA SILVA</td><td  class=xl24 >Óbito</td><td  class=xl24 align=right x:num="80.00">80.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#108626/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSÉ CARLOS MANTONANELI & MARCIONE DILEM DOS SANTOS</td><td  class=xl24 >Casamento</td><td  class=xl24 align=right x:num="90.00">90.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109072/1</td><td  class=xl24 >764.535.537-91 .</td><td  class=xl24 > </td><td  class=xl24 >RENATO LIMA BAHIA FILHO</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 align=right x:num="160.00">160.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td></tr><tr><td  class=xl24 >#109149/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >GIOVANA SANTOS BONFIM</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="115.00">115.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109149/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LUAN DOS SANTOS SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="135.00">135.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109510/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SIMONE DA PENHA NASCIMENTO</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109762/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SEVERINO CANDIDO DE ALMEIDA</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="160.00">160.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109510/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >RODRIGO ALEX NUNES PONTIM</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="49.00">49.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110401/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTÔNIO CARLOS DA SILVA SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 align=right x:num="155.00">155.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110423/1</td><td  class=xl24 >578.387.047-15 .</td><td  class=xl24 > </td><td  class=xl24 >ANA MARIA SASSI BERNARDO</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110942/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARLENE FRANCO RODRIGUES</td><td  class=xl24 >Casamento</td><td  class=xl24 align=right x:num="150.00">150.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111395/1</td><td  class=xl24 >850.205.677-87 .</td><td  class=xl24 > </td><td  class=xl24 >DANIEL SABINO</td><td  class=xl24 >Resgate de Cheque</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111407/1</td><td  class=xl24 > </td><td  class=xl24 >05.500.667/0001-77 .</td><td  class=xl24 >ARGO CONSTRUTORA E INCORPORADORA LTDA</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 align=right x:num="50.00">50.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#90633/5</td><td  class=xl24 >013.142.427-09 .</td><td  class=xl24 > </td><td  class=xl24 >VANDERLEI PACHECO JUNIOR</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 align=right x:num="200.00">200.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101401/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 align=right x:num="78.00">78.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109332/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELIEZER BORRETT</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

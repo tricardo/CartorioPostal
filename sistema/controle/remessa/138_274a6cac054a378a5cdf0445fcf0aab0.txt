@@ -1,0 +1,2 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+28/fev;Distrato 12.1;235;611;8/7/2010;P.P.: DENIR GUANDALINI;TESSALIA SERIGHELLI DE CASTRO;Rua Brigadeiro Franco,1144;Mercês;Curitiba;PR;80430-210;(11)8831-0341;HELBOR OFFICES CHAMPAGNAT - DENIR - PMT;XXXX;XXXX;XXXX;XXXX;XXXX

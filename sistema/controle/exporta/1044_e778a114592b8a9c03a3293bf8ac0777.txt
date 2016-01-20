@@ -1,0 +1,3 @@
+Ordens;Protocolo;Resposta ;custas;motivo do atraso
+#149659/461;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#149659/360;;Negativa ;;Detran não emitiu a certidão na data prometida 

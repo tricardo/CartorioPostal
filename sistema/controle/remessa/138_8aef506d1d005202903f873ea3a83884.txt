@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+1/6/2012;DISTRATO - 12.1;136;1003;1/4/2009;NÉBIAS INVESTIMENTOS IMOBILIÁRIOS LTDA.;ANA CAROLINA ARIANO;Rua Oswaldo Copchrane, 218;Embaré;Santos;SP;11040-110;(13)7803-5833;HELBOR OFFICES VILA RICA;XXXXXXXXXXXXX;XXXXXXXXXXX;XXXXXXXXXX;XXXXX;XXXXX

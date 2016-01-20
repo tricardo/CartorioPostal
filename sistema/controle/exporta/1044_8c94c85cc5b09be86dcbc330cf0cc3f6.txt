@@ -1,0 +1,10 @@
+Ordens ;Protocolo ;Resposta ;custas;motivo do atraso
+#147599/2;;3 Positiva ;;
+#147713/2;;1 Positiva ;;
+#147718/3;;2 Positiva ;;
+#147718/5;;3 Positiva ;;
+#147718/7;;Negativa ;;
+#147799/2;;Negativa ;;
+#147799/4;;Negativa ;;
+#147818/2;;6 Positiva ;;
+#147823/2;;2 Positiva ;;

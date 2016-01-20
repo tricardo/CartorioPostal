@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Estado</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Departamento</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#153376/77</td><td  class=xl26 >29/11/2011</td><td  class=xl26 >21/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >87449994968 .</td><td  class=xl24 > </td><td  class=xl24 >ERIC KRUEGER MAIA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 19.210 - 5° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#153376/213</td><td  class=xl26 >29/11/2011</td><td  class=xl26 >21/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >47056185991 .</td><td  class=xl24 > </td><td  class=xl24 >ROBERTO BLIND</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 33.986 e 34.031 - 5° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#153376/214</td><td  class=xl26 >29/11/2011</td><td  class=xl26 >30/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >54175410953 .</td><td  class=xl24 > </td><td  class=xl24 >SONIA CRISTINA HALUCHE BLIND</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 33.986 e 34.031 - 5° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#153570/3</td><td  class=xl26 >29/11/2011</td><td  class=xl26 >21/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >42730783920 .</td><td  class=xl24 > </td><td  class=xl24 >HAMILTON CESAR MAROCHI </td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >Curitiba</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 50.992 - 50.993 - 5° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#154655/111</td><td  class=xl26 >09/12/2011</td><td  class=xl26 >03/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >81149875968 .</td><td  class=xl24 > </td><td  class=xl24 >MARCELO AUGUSTO SEMEDO</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 13.2916 - 8° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#154655/171</td><td  class=xl26 >09/12/2011</td><td  class=xl26 >03/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >54275652991 .</td><td  class=xl24 > </td><td  class=xl24 >VALDECI PADILHA ZECHINI</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 77.028 - 8° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#154655/390</td><td  class=xl26 >09/12/2011</td><td  class=xl26 >30/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >82423660987 .</td><td  class=xl24 > </td><td  class=xl24 >RENATO STRAPAZZON</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SC</td><td  class=xl24 >JARAGUA DO SUL</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 53921</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154655/610</td><td  class=xl26 >09/12/2011</td><td  class=xl26 >30/12/2011</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >97001686972 .</td><td  class=xl24 > </td><td  class=xl24 >IVO PETRAS KONELL</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SC</td><td  class=xl24 >JARAGUA DO SUL</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 21790</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154655/1165</td><td  class=xl26 >09/12/2011</td><td  class=xl26 >03/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 > </td><td  class=xl24 >78205366000194 .</td><td  class=xl24 >SILVA TERZADO E CIA LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 88.103 - 8° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#155368/184</td><td  class=xl26 >13/12/2011</td><td  class=xl26 >06/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >57448612972 .</td><td  class=xl24 > </td><td  class=xl24 >ANA CAROLINA ZAINA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 31.830 - 3° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#155368/232</td><td  class=xl26 >13/12/2011</td><td  class=xl26 >06/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >05856868900 .</td><td  class=xl24 > </td><td  class=xl24 >CARLOS ROMUALDO RUEFF</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Transcrição 44161 3-0 - 1° Cart</td><td  class=xl24 > Matricula 16.026 - 3° Cart</td><td  class=xl24 > Matricula 78.610 - 9° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#155368/240</td><td  class=xl26 >13/12/2011</td><td  class=xl26 >06/01/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >40249816920 .</td><td  class=xl24 > </td><td  class=xl24 >RICARDO DA SILVA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PR</td><td  class=xl24 >CURITIBA</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Matricula 40.952 - 1° Cart</td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#158387/9</td><td  class=xl26 >11/01/2012</td><td  class=xl26 >01/02/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 >90109392191 .</td><td  class=xl24 > </td><td  class=xl24 >GABRIELE PERAZZOLI LEAL PORTES</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SC</td><td  class=xl24 >Ponte Serrada</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#158387/16</td><td  class=xl26 >11/01/2012</td><td  class=xl26 >01/02/2012</td><td  class=xl26 >13/01/2012</td><td  class=xl24 > </td><td  class=xl26 >01015507000181 .</td><td  class=xl24 >LEAL ENGENHARIA QUIMICA LTDA</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SC</td><td  class=xl24 >Ponte Serrada</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Negativa</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

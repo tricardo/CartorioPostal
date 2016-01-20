@@ -1,0 +1,2 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+26/mar;Distrato 12.1 ;173;1402;31/8/2010;HESA 32 INVESTIMENTOS IMOBILIÁRIOS LTDA;SAUL TREGLIA JUNIOR;Av. Água Verde, 1415 - Ap. 601;Água Verde;Curitiba;PR;80620-200;(41)9644-8827;HELBOR OFFICES CHAMPAGNAT;XXXX;XXXX;XXXX;XXXX;XXXX

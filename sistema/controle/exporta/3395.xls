@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/10/2014/30/10/2014</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 >Rui</td><td  class=xl24 >321052/1</td><td  class=xl26 >15/09/2014</td><td  class=xl26 >27/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >04.446.596/000109. </td><td  class=xl24 >André Goulart Portfírio</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Notificação</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >323840/1</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >15/10/2014</td><td  class=xl26 >07/10/2014</td><td  class=xl26 >09/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >DINI GOBBI</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >APUCARANA</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Rui</td><td  class=xl24 >324926/1</td><td  class=xl26 >30/09/2014</td><td  class=xl26 >09/10/2014</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >06/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Antonio de Moraes e Silva</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SP</td><td  class=xl24 >Santana de Parnaíba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >325852/1</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >15/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl24 >638.540.908-20. </td><td  class=xl24 >. </td><td  class=xl24 >Maria do Carmo Pereira dos Santos Cruz</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >325852/2</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >13/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl24 >638.540.908-20. </td><td  class=xl24 >. </td><td  class=xl24 >Maria do Carmo Pereira dos Santos Cruz</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >325852/3</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >13/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl24 >638.540.908-20. </td><td  class=xl24 >. </td><td  class=xl24 >Maria do Carmo Pereira dos Santos Cruz</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >325858/1</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >15/10/2014</td><td  class=xl26 >07/10/2014</td><td  class=xl26 >09/10/2014</td><td  class=xl24 >222.269.588-00. </td><td  class=xl24 >. </td><td  class=xl24 >Edson Geraldo Silvério dos Santos</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >Santa Rosa de Viterbo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >325858/2</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >15/10/2014</td><td  class=xl26 >07/10/2014</td><td  class=xl26 >09/10/2014</td><td  class=xl24 >222.269.588-00. </td><td  class=xl24 >. </td><td  class=xl24 >Edson Geraldo Silvério dos Santos</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >Santa Rosa de Viterbo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >326993/1</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >20/10/2014</td><td  class=xl26 >20/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Quitação Dívida Ativa - IPTU ( 2013/2014), cancelamento protesto</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Assessoria</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >327334/1</td><td  class=xl26 >13/10/2014</td><td  class=xl26 >03/11/2014</td><td  class=xl26 >18/10/2014</td><td  class=xl26 >18/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ELIAS LUCENA SANTOS</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PA</td><td  class=xl24 >Belém</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >327334/2</td><td  class=xl26 >13/10/2014</td><td  class=xl26 >03/11/2014</td><td  class=xl26 >18/10/2014</td><td  class=xl26 >18/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >LAUANE VITÓRIA</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PA</td><td  class=xl24 >Belém</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328200/1</td><td  class=xl26 >17/10/2014</td><td  class=xl26 >07/11/2014</td><td  class=xl26 >25/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >LAURA GONÇALVES MEI ALVES DE OLIVEIRA E OUTROS</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Rui</td><td  class=xl24 >328203/1</td><td  class=xl26 >17/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >IVONE LIVRAMENTO MELÍCIO</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Assessoria</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Rui</td><td  class=xl24 >328523/1</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl26 >24/10/2014</td><td  class=xl24 >012785841-53. </td><td  class=xl24 >. </td><td  class=xl24 >João Batista Nunes</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Consulta de Restrição em nome (CPF)</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >não houve atraso...</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/1</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >004.696.137-26. </td><td  class=xl24 >. </td><td  class=xl24 >JOSELANGE GOMES DUQUE DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/2</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >004.696.137-26. </td><td  class=xl24 >. </td><td  class=xl24 >JOSELANGE GOMES DUQUE DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/3</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >004.696.137-26. </td><td  class=xl24 >. </td><td  class=xl24 >JOSELANGE GOMES DUQUE DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/4</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >144.401.558-39. </td><td  class=xl24 >. </td><td  class=xl24 >CARLOS EDUARDO DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/5</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >29/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >144.401.558-39. </td><td  class=xl24 >. </td><td  class=xl24 >CARLOS EDUARDO DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >328616/6</td><td  class=xl26 >21/10/2014</td><td  class=xl26 >04/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl24 >144.401.558-39. </td><td  class=xl24 >. </td><td  class=xl24 >CARLOS EDUARDO DE ALENCAR</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >329630/1</td><td  class=xl26 >27/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl24 >286966258-03. </td><td  class=xl24 >. </td><td  class=xl24 >MATHEUS SOUZA FERNANDES REU</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cláudia</td><td  class=xl24 >329630/2</td><td  class=xl26 >27/10/2014</td><td  class=xl26 >05/11/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl24 >286966258-03. </td><td  class=xl24 >. </td><td  class=xl24 >MATHEUS SOUZA FERNANDES REU</td><td  class=xl24 >Diretoria Ribeirão Preto . SP</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeirão Preto</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >COMISSIONADO</td><td  class=xl24 >PEDIDO</td><td  class=xl24 >CLIENTE</td><td  class=xl24 >VALOR RECEBIDO</td><td  class=xl24 >COMISSÃO</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#79958/1</td><td  class=xl24 >Débora Cristina Bouças Bahia Silva</td><td  class=xl24 align=right x:num="90">90</td><td  class=xl24 align=right x:num="1.35">1.35</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/1</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/2</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/3</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/4</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/5</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="50">50</td><td  class=xl24 align=right x:num="0.75">0.75</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/6</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="30">30</td><td  class=xl24 align=right x:num="0.45">0.45</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/7</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="140">140</td><td  class=xl24 align=right x:num="2.1">2.1</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#82922/8</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="140">140</td><td  class=xl24 align=right x:num="2.1">2.1</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#83413/1</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl24 align=right x:num="3.1">3.1</td><td  class=xl24 align=right x:num="0.0465">0.0465</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#83728/1</td><td  class=xl24 >ANDRE SCHWARZ FERNANDES</td><td  class=xl25 align=right x:num="15.081784197">15.081784197</td><td  class=xl25 align=right x:num="0.226226762955">0.226226762955</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#83796/1</td><td  class=xl24 >Elias Mendes Da Silva Filho</td><td  class=xl24 align=right x:num="185">185</td><td  class=xl24 align=right x:num="2.775">2.775</td></tr><tr><td  class=xl24 >Jousy Mery</td><td  class=xl24 >#86911/1</td><td  class=xl24 >CIE-Centro Integrado de Ensino Ltda.</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/1</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/3</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/4</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/5</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="50">50</td><td  class=xl24 align=right x:num="0.75">0.75</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/6</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/7</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/9</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="160">160</td><td  class=xl24 align=right x:num="2.4">2.4</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/10</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="60">60</td><td  class=xl24 align=right x:num="0.9">0.9</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/11</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="170">170</td><td  class=xl24 align=right x:num="2.55">2.55</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/12</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="10">10</td><td  class=xl24 align=right x:num="0.15">0.15</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/14</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="40">40</td><td  class=xl24 align=right x:num="0.6">0.6</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#80688/15</td><td  class=xl24 >Frederico Luciano Delgado Faria</td><td  class=xl24 align=right x:num="50">50</td><td  class=xl24 align=right x:num="0.75">0.75</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#81800/1</td><td  class=xl24 >Jose Lima Santos</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#83711/1</td><td  class=xl24 >José Monteiro Silva</td><td  class=xl24 align=right x:num="185">185</td><td  class=xl24 align=right x:num="2.775">2.775</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#84301/1</td><td  class=xl24 >Raimundo Adelson Feitosa Filho</td><td  class=xl24 align=right x:num="300">300</td><td  class=xl24 align=right x:num="4.5">4.5</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#84657/1</td><td  class=xl24 >Iraci Cardoso Castro</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#84660/1</td><td  class=xl24 >Fox Engenharia e Consultoria Ltda</td><td  class=xl24 align=right x:num="70">70</td><td  class=xl24 align=right x:num="1.05">1.05</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#84935/1</td><td  class=xl24 >Jonilson Silva Ferreira</td><td  class=xl24 align=right x:num="200">200</td><td  class=xl24 align=right x:num="3">3</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/1</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="120">120</td><td  class=xl24 align=right x:num="1.8">1.8</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/2</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="200">200</td><td  class=xl24 align=right x:num="3">3</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/3</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="70">70</td><td  class=xl24 align=right x:num="1.05">1.05</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/4</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/5</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/6</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/7</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/8</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="50">50</td><td  class=xl24 align=right x:num="0.75">0.75</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85818/9</td><td  class=xl24 >J. Busatto</td><td  class=xl24 align=right x:num="50">50</td><td  class=xl24 align=right x:num="0.75">0.75</td></tr><tr><td  class=xl24 >Leonardo Cutrim</td><td  class=xl24 >#85954/1</td><td  class=xl24 >Xavier Comércio</td><td  class=xl24 align=right x:num="350">350</td><td  class=xl24 align=right x:num="5.25">5.25</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#80447/1</td><td  class=xl24 >ALTO MIUDESAS COMERCIAL LTDA</td><td  class=xl24 align=right x:num="140">140</td><td  class=xl24 align=right x:num="2.1">2.1</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#80447/2</td><td  class=xl24 >ALTO MIUDESAS COMERCIAL LTDA</td><td  class=xl24 align=right x:num="35">35</td><td  class=xl24 align=right x:num="0.525">0.525</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#80511/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="28">28</td><td  class=xl24 align=right x:num="0.42">0.42</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#80992/1</td><td  class=xl24 >M R C MACIEL</td><td  class=xl24 align=right x:num="135">135</td><td  class=xl24 align=right x:num="2.025">2.025</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#81249/1</td><td  class=xl24 >ALTO MIUDESAS COMERCIAL LTDA</td><td  class=xl24 align=right x:num="500">500</td><td  class=xl24 align=right x:num="7.5">7.5</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#82176/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="40">40</td><td  class=xl24 align=right x:num="0.6">0.6</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#83853/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#83853/2</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#83872/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#84022/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl25 align=right x:num="17.729070518">17.729070518</td><td  class=xl25 align=right x:num="0.26593605777">0.26593605777</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#85542/1</td><td  class=xl24 >ALTO MIUDESAS COMERCIAL LTDA</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#85542/2</td><td  class=xl24 >ALTO MIUDESAS COMERCIAL LTDA</td><td  class=xl24 align=right x:num="105">105</td><td  class=xl24 align=right x:num="1.575">1.575</td></tr><tr><td  class=xl24 >Rafael  Maciel</td><td  class=xl24 >#91412/1</td><td  class=xl24 >MUTUM MAQUINAS E IMPLEMENTOS AGRICOLAS LTDA</td><td  class=xl24 align=right x:num="55">55</td><td  class=xl24 align=right x:num="0.825">0.825</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#83706/1</td><td  class=xl24 >Drº Fabiano Duarte Zanella</td><td  class=xl24 align=right x:num="38">38</td><td  class=xl24 align=right x:num="0.57">0.57</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#83740/1</td><td  class=xl24 >BANCO DO BRASIL - AGÊNCIA JOÃO PAULO</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#83740/2</td><td  class=xl24 >BANCO DO BRASIL - AGÊNCIA JOÃO PAULO</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#83741/1</td><td  class=xl24 >BANCO DO BRASIL - AGÊNCIA JOÃO PAULO</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#83742/1</td><td  class=xl24 >BANCO DO BRASIL - AGÊNCIA JOÃO PAULO</td><td  class=xl24 align=right x:num="100">100</td><td  class=xl24 align=right x:num="1.5">1.5</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#88316/1</td><td  class=xl24 >DRº CARLOS AUGUSTO</td><td  class=xl24 align=right x:num="200">200</td><td  class=xl24 align=right x:num="3">3</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#96401/1</td><td  class=xl24 >PIEMONTE E JULIÃO LTDA.</td><td  class=xl24 align=right x:num="45">45</td><td  class=xl24 align=right x:num="0.675">0.675</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#96401/2</td><td  class=xl24 >PIEMONTE E JULIÃO LTDA.</td><td  class=xl24 align=right x:num="25">25</td><td  class=xl24 align=right x:num="0.375">0.375</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#96401/3</td><td  class=xl24 >PIEMONTE E JULIÃO LTDA.</td><td  class=xl24 align=right x:num="45">45</td><td  class=xl24 align=right x:num="0.675">0.675</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#96401/4</td><td  class=xl24 >PIEMONTE E JULIÃO LTDA.</td><td  class=xl24 align=right x:num="25">25</td><td  class=xl24 align=right x:num="0.375">0.375</td></tr><tr><td  class=xl24 >Zaíra Maciel e Maciel</td><td  class=xl24 >#96401/5</td><td  class=xl24 >PIEMONTE E JULIÃO LTDA.</td><td  class=xl24 align=right x:num="45">45</td><td  class=xl24 align=right x:num="0.675">0.675</td></tr><tr><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Total</td><td  class=xl25 align=right x:num="5801.91085472">5801.91085472</td><td  class=xl25 align=right x:num="87.0286628207">87.0286628207</td></tr><tr><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr></table></body></html>

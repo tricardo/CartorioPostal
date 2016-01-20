@@ -1,0 +1,2 @@
+Ordens;Protocolo;Resposta ;custas;motivo do atraso
+#153717/7;;Negativa;;Detran não emitiu a certidão na data prometida 

@@ -1,0 +1,3 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+9/4/2012;Valores;151;2;XXXXXXXXXXXXX;HESA 14 INVESTIMENTOS IMOBILIÁRIOS LTDA.;MARIA APARECIDA DE MELO GREJO;R:Benedito Lopes da Silva, 150  apto.114;Nova Mogilar;Mogi das Cruzes;SP;08773-515;;HELBOR IPOEMA;017A;25/12/2011; 2.498,30 ;44.581,94;INCC
+9/4/2012;Valores;151;192;XXXXXXXXXXXXX;HESA 14 INVESTIMENTOS IMOBILIÁRIOS LTDA.;FÁTIMA CRISTINA GREJO ALMENDRA ;Rua: Joaquim Martins Coelho, nº 844;Vila Nova Socorro;Mogi das Cruzes;SP;08790-650;;HELBOR IPOEMA;017A;25/12/2011; 2.498,30 ;44.581,94;INCC

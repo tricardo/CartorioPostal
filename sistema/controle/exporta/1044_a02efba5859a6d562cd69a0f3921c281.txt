@@ -1,0 +1,21 @@
+Ordem ;Protocolo;Resposta ;custas;motivo do atraso
+#147674/1;;Negativa ;;
+#147585/1;;Negativa ;;
+#147535/2;;Negativa ;;
+#147535/4;;Negativa ;;
+#147585/2;;Negativa ;;
+#147585/3;;Negativa ;;
+#147585/4;;7 Positiva ;;
+#147585/5;;1 Positiva;;
+#147588/2;;Negativa ;;
+#147588/4;;Negativa ;;
+#147588/6;;Negativa ;;
+#147646/2;;2 Positiva;;
+#147646/4;;4 Positiva;;
+#147648/2;;Negativa ;;
+#147648/4;;Negativa ;;
+#147648/6;;Negativa ;;
+#147652/2;;1 Positiva;;
+#147654/2;;Negativa ;;
+#147679/2;;1 Positiva;;
+#147685/2;;Negativa ;;

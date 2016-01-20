@@ -1,0 +1,3 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+16/4/2012;Valores;142;1609;XXXXXXXXXXXXX;HESA 5 INVESTIMENTOS IMOBILIÁRIOS LTDA.;WOLFGANG KISSLING;Av. Antonio Costa de Carvalho, 255 Apto.;Cambui;Campinas;SP;13024-050;(19) 3251-8624;HELBOR OFFICES NORTE SUL;039A;25/2/2012;24,54;654,57;INCC
+16/4/2012;Valores;142;1609;XXXXXXXXXXXXX;HESA 5 INVESTIMENTOS IMOBILIÁRIOS LTDA.;WOLFGANG KISSLING;Av. Antonio Costa de Carvalho, 255 Apto.;Cambui;Campinas;SP;13024-050;(19) 3251-8624;HELBOR OFFICES NORTE SUL;040A;25/3/2012;18,03;654,57;INCC

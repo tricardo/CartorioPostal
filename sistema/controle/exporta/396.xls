@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/06/2013/30/06/2013</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >231714/1</td><td  class=xl26 >15/04/2013</td><td  class=xl26 >06/05/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >08.346.381/0001-77. </td><td  class=xl24 >ASA BELA TRANSPORTES E TURISMO LTDA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >BA</td><td  class=xl24 >Salvador</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 >demora em aplicar as atividades</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >233164/1</td><td  class=xl26 >24/04/2013</td><td  class=xl26 >15/05/2013</td><td  class=xl26 >06/06/2013</td><td  class=xl26 >06/06/2013</td><td  class=xl24 >08308278701. </td><td  class=xl24 >. </td><td  class=xl24 >RENATO DE REZENDE GOMES</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Antecedentes Criminais</td><td  class=xl24 >SC</td><td  class=xl24 >Chapecó</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 >DEMORA DO CARTORIO NOS POSTAR A DOCUMENTAÇÃO.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >236876/1</td><td  class=xl26 >17/05/2013</td><td  class=xl26 >07/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl26 >04/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JORGIVAL PINTO DE AGUIAR</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Óbito</td><td  class=xl24 >PR</td><td  class=xl24 >Santa Tereza do Oeste</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >237410/1</td><td  class=xl26 >21/05/2013</td><td  class=xl26 >30/05/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Chapecó</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >APLICAR AS ATIVIDADES</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >237410/2</td><td  class=xl26 >21/05/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >CLAUDIR DUTRA </td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Nova Itaberaba</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >237410/3</td><td  class=xl26 >21/05/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl26 >03/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >TAIRONI TOCHETTO</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >São Valentim</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >238577/1</td><td  class=xl26 >28/05/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >04/06/2013</td><td  class=xl26 >04/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >APARICIO GOMES DE OLIVEIRA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >RS</td><td  class=xl24 >São Valentim</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >238631/1</td><td  class=xl26 >28/05/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >04/06/2013</td><td  class=xl26 >07/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >VANDERLEI MILNICKEL DA SILVA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Marmeleiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >238796/1</td><td  class=xl26 >29/05/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Tubarão</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >238859/1</td><td  class=xl26 >29/05/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ADÃO PENSO DA SILVA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >RS</td><td  class=xl24 >Itatiba do Sul</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >238868/1</td><td  class=xl26 >29/05/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >06/06/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >FRANCISCO MARAFON</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Nova Itaberaba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >239022/1</td><td  class=xl26 >31/05/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl26 >04/06/2013</td><td  class=xl26 >05/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >DAIANA BARELLA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Tenente Portela</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >239432/1</td><td  class=xl26 >04/06/2013</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MARCIO JOSÉ FERREIRA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Chapecó</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >DEMORA EM APLICAR AS ATIVIDADES</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >239621/1</td><td  class=xl26 >05/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >LEONILDO IZIDORO LUCHETTA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >MT</td><td  class=xl24 >Cuiabá</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >239838/1</td><td  class=xl26 >06/06/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MICHEL CAETANO PINTO</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Guarapuava</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >239842/1</td><td  class=xl26 >06/06/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >OLIMPIO COVACIC</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Concórdia</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240210/1</td><td  class=xl26 >07/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Campo Erê</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240341/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >RUBENS SILVEIRA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Marmeleiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240342/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >DIEGO MANDELLI</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SP</td><td  class=xl24 >null</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240345/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl26 >12/06/2013</td><td  class=xl26 >13/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Abelardo Luz</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240347/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Seara</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240453/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >BENJAMIN PERIN CITRON </td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >RS</td><td  class=xl24 >Arvorezinha</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240453/2</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >01/07/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >IRACI DOS SANTOS</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Arvorezinha</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240656/1</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >02/07/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >GONÇALINO ALVES DE LIMA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PR</td><td  class=xl24 >Pitanga</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240661/1</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >02/07/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JULIO CESAR PERIOLO</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Florianópolis</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240966/1</td><td  class=xl26 >12/06/2013</td><td  class=xl26 >03/07/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >RENEU CARVALHO</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Bela Vista do Caroba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241401/1</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >05/07/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >HEMERSON THIAGO FOLADOR</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Nova Itaberaba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241568/1</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >08/07/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >VANDERLEI FAGUNDES DE OLIVEIRA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PR</td><td  class=xl24 >Marmeleiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241575/1</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >08/07/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >São José do Cedro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241836/1</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >09/07/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Transcrição</td><td  class=xl24 >SC</td><td  class=xl24 >Balneário Camboriú</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242006/1</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >10/07/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ALEXANDRE BENIN</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa Detran</td><td  class=xl24 >PR</td><td  class=xl24 >São Miguel do Iguaçu</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242009/1</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >10/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >02/07/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MAICON SOARES</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Chapecó</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242009/2</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >10/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >02/07/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ELITON ALMEIDA</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Nova Itaberaba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242009/4</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >11/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >02/07/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >PATRICIA SOLANGE GASS</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SC</td><td  class=xl24 >Seara</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242104/1</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >10/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ADINO LIVINALLI</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Caibi</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242326/1</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >11/07/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >CELIO PINZON </td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >RS</td><td  class=xl24 >Palmeira das Missões</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242327/1</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >11/07/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SC</td><td  class=xl24 >Ibirama</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242691/1</td><td  class=xl26 >24/06/2013</td><td  class=xl26 >03/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JARBAS DE FAVERI </td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >SC</td><td  class=xl24 >Marechal Bormann</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

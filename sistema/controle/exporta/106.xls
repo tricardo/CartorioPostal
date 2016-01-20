@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Nome</td><td  class=xl24 >Devedor</td><td  class=xl24 >CPF/CNPJ Requerente</td><td  class=xl24 >Serviço</td><td  class=xl24 >Cidade</td><td  class=xl24 >Estado</td><td  class=xl24 >Valor</td></tr><tr><td  class=xl24 >#117955/37</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >27868663839 .</td><td  class=xl24 > .</td><td  class=xl24 >LUCIANA BARBOSA MENEZES DE CASTRO</td><td  class=xl24 >LUCIANA BARBOSA MENEZES DE CASTRO</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >REDENCAO</td><td  class=xl24 >PA</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/46</td><td  class=xl26 >31/01/2011</td><td  class=xl24 >69616400606 .</td><td  class=xl24 > .</td><td  class=xl24 >LUIZ WAGNER DE ALMEIDA</td><td  class=xl24 >LUIZ WAGNER DE ALMEIDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PARACATU</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/47</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >35606738449 .</td><td  class=xl24 > .</td><td  class=xl24 >MANOEL LOPES DE QUEIROZ</td><td  class=xl24 >MANOEL LOPES DE QUEIROZ</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PETROLINA</td><td  class=xl24 >PE</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/48</td><td  class=xl26 >11/01/2011</td><td  class=xl24 >35606738449 .</td><td  class=xl24 > .</td><td  class=xl24 >MANOEL LOPES DE QUEIROZ</td><td  class=xl24 >MANOEL LOPES DE QUEIROZ</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SALGUEIRO</td><td  class=xl24 >PE</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/106</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >85864315672 .</td><td  class=xl24 > .</td><td  class=xl24 >MARIA APARECIDA OVIDIO</td><td  class=xl24 >MARIA APARECIDA OVIDIO</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >PASSOS</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/183</td><td  class=xl26 >31/01/2011</td><td  class=xl24 >15845704820 .</td><td  class=xl24 > .</td><td  class=xl24 >NEUSA TURRINI</td><td  class=xl24 >KASAL COMERCIO DE EQUIPAMENTOS ELETRONICOS LT</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >CAMPINAS</td><td  class=xl24 >SP</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Campinas - SP</td></tr><tr><td  class=xl24 >#117955/205</td><td  class=xl26 >06/01/2011</td><td  class=xl24 > .</td><td  class=xl24 >00286754000150 .</td><td  class=xl24 >MARCOS DA SILVA NASARIO</td><td  class=xl24 >MARCOS DA SILVA NASARIO</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >ITINGA DO MARANHAO</td><td  class=xl24 >MA</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/209</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >34326030372 .</td><td  class=xl24 > .</td><td  class=xl24 >MARCOS DA SILVA NASARIO</td><td  class=xl24 >MARCOS DA SILVA NASARIO</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >ITINGA DO MARANHAO</td><td  class=xl24 >MA</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/307</td><td  class=xl26 >21/01/2011</td><td  class=xl24 > .</td><td  class=xl26 >06037161000136 .</td><td  class=xl24 >AAA INFORMATICA LTDA</td><td  class=xl24 >AAA INFORMATICA LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >BELO HORIZONTE</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/311</td><td  class=xl26 >21/01/2011</td><td  class=xl24 >07574541604 .</td><td  class=xl24 > .</td><td  class=xl24 >ANGELO LATTANZIO</td><td  class=xl24 >AAA INFORMATICA LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >BELO HORIZONTE</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/313</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >59654783649 .</td><td  class=xl24 > .</td><td  class=xl24 >WALDETE DE ASSIS FIGUEIREDO LATTANZIO</td><td  class=xl24 >AAA INFORMATICA LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >BELO HORIZONTE</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/326</td><td  class=xl26 >10/01/2011</td><td  class=xl24 > .</td><td  class=xl24 >23849136000176 .</td><td  class=xl24 >CONTABILIDADE PORTO LTDA</td><td  class=xl24 >CONTABILIDADE PORTO LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >CONTAGEM</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/327</td><td  class=xl26 >01/02/2011</td><td  class=xl24 >43987869615 .</td><td  class=xl24 > .</td><td  class=xl24 >HILDA RAMOS PORTO</td><td  class=xl24 >CONTABILIDADE PORTO LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >BELO HORIZONTE</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/329</td><td  class=xl26 >10/01/2011</td><td  class=xl24 >43987869615 .</td><td  class=xl24 > .</td><td  class=xl24 >HILDA RAMOS PORTO</td><td  class=xl24 >CONTABILIDADE PORTO LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SERRA</td><td  class=xl24 >ES</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/330</td><td  class=xl26 >10/01/2011</td><td  class=xl24 >43987869615 .</td><td  class=xl24 > .</td><td  class=xl24 >HILDA RAMOS PORTO</td><td  class=xl24 >CONTABILIDADE PORTO LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >CONTAGEM</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/339</td><td  class=xl26 >14/01/2011</td><td  class=xl24 > .</td><td  class=xl24 >10642261000169 .</td><td  class=xl24 >SANROCK IMPORTACAO EXPORTACAO E SERVICOS LTDA</td><td  class=xl24 >SANROCK IMPORTACAO EXPORTACAO E SERVICOS LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >CORUMBA</td><td  class=xl24 >MS</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/341</td><td  class=xl26 >01/02/2011</td><td  class=xl24 >88009394815 .</td><td  class=xl24 > .</td><td  class=xl24 >JULIO ERICH AUGUSTO BITTNER DURAN</td><td  class=xl24 >SANROCK IMPORTACAO EXPORTACAO E SERVICOS LTDA</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >BELO HORIZONTE</td><td  class=xl24 >MG</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/354</td><td  class=xl26 >27/01/2011</td><td  class=xl24 > .</td><td  class=xl24 >07228374000108 .</td><td  class=xl24 >EMPORIO DE ITAGUAI MATERIAIS DE CONSTRUCAO LT</td><td  class=xl24 >EMPORIO DE ITAGUAI MATERIAIS DE CONSTRUCAO LT</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >ITAGUAI</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/356</td><td  class=xl26 >27/01/2011</td><td  class=xl24 >09304773750 .</td><td  class=xl24 > .</td><td  class=xl24 >JULIANA SOUZA E SILVA</td><td  class=xl24 >EMPORIO DE ITAGUAI MATERIAIS DE CONSTRUCAO LT</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >ITAGUAI</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/364</td><td  class=xl26 >05/01/2011</td><td  class=xl24 >01230969799 .</td><td  class=xl24 > .</td><td  class=xl24 >VLADIMIR MURILO FERNANDES PEREIRA</td><td  class=xl24 >TENTACAO COM E EXPORTACAO LTDA ME</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RIO DE JANEIRO</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/388</td><td  class=xl26 >05/01/2011</td><td  class=xl24 > .</td><td  class=xl24 >72128085000107 .</td><td  class=xl24 >TENTACAO COM E EXPORTACAO LTDA ME</td><td  class=xl24 >TENTACAO COM E EXPORTACAO LTDA ME</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RIO DE JANEIRO</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#117955/389</td><td  class=xl26 >31/01/2011</td><td  class=xl24 >01230969799 .</td><td  class=xl24 > .</td><td  class=xl24 >VLADIMIR MURILO FERNANDES PEREIRA</td><td  class=xl24 >TENTACAO COM E EXPORTACAO LTDA ME</td><td  class=xl24 >01.701.201/0001-89 .</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SÃO JOÃO DE MERITI</td><td  class=xl24 >RJ</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+3/8/2012;Valores;144;3_114;XXXXXXXXXXXXX;HESA 7 INVESTIMENTOS IMOBILIÁRIOS LTDA.;MARCUS VINICIUS DA SILVA UEDA;R:Armando Maritan,111 Ap.93 - T.04;Vila Oliveira;Mogi das Cruzes;SP;08790-340;(11)4747-2437;HELBOR HOME CLUB ITAPETY;005A;25/6/2012;1.126,73;33.880,56;IGPM

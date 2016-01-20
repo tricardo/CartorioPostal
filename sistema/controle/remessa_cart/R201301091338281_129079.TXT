@@ -1,0 +1,5 @@
+Cliente;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Valor;Encargos;Correção
+129079;COBRANCA;2.429.055;17;Banco Bradesco S/A;Maria Carolina Moreira Januario;Av. Pereira Inacio, 551;Res. Esplanada;Boituva;SP;18550-000;(15) 3268-1645;;;;;Av. Pereira Inacio, 551;;;
+129079;COBRANCA;7.913.948;02;Banco Bradesco S/A;Maria Carolina Moreira Januario;Av. Pereira Inacio, 551;Res. Esplanada;Boituva;SP;18550-000;(15) 3268-1645;;;;;Av. Pereira Inacio, 551;;;
+129079;COBRANCA;279.167;15;Banco Bradesco S/A;Rogerio Marcus de Camargo;Rua Rafael Poncini, 87;Res. Vicente Lauriano;Boituva;SP;18550-000;(15) 3363-7277;;;;;Rua Rafael Poncini, 87;;;
+129079;COBRANCA;2.462.166;02;Banco Bradesco S/A;Ivair Aparecido Camargo;Estrada Natale Modulo, 465;Retiro;Boituva;SP;18550-000;(15) 3363-5867;;;;;Estrada Natale Modulo, 465;;;

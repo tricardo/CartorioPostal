@@ -1,0 +1,159 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Estado</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Agenda</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#146838/1</td><td  class=xl26 >03/10/2011</td><td  class=xl26 >25/10/2011</td><td  class=xl26 >06/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALCINO FERNANDES SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Pedra Azul</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >21/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/83</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALICE VILAR DANTAS PESSOA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/19</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTONIO FRANCISCO                       </td><td  class=xl24 >Óbito</td><td  class=xl24 >MG
+</td><td  class=xl24 >OURO PRETO</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >24/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/87</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTONIO PINHEIRO ALVES</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147317/1</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >28/10/2011</td><td  class=xl26 >07/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Arnor Gomes da Silva</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Palmópolis</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >20/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/95</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CARLOS ALBERTO MUNHOS</td><td  class=xl24 >Óbito</td><td  class=xl24 >RS
+</td><td  class=xl24 >BAGE</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >24/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/20</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CELSO MOREIRA MARTINS</td><td  class=xl24 >Óbito</td><td  class=xl24 >MG
+</td><td  class=xl24 >JUIZ DE FORA</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146898/1</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >28/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DAIANE CRISTINA COSTA MARQUES</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Engenheiro Caldas</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147363/1</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >28/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EDITE PETRONILA DA CONCEIÇÃO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Saloá</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >18/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Osasco - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147449/1</td><td  class=xl26 >07/10/2011</td><td  class=xl26 >31/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EDMILSON BARRETO DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >São Lourenço da Mata</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/89</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELIZA BERNARDO NASCIMENTO               </td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/37</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELIZABETE DA SILVA PEIXOTO</td><td  class=xl24 >Óbito</td><td  class=xl24 >PE
+</td><td  class=xl24 >OLINDA</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >24/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146212/1</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >19/10/2011</td><td  class=xl26 >29/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >GYBERLLADIO FEITOSA ALVES</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Timorante</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Caraguatatuba - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146158/1</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >19/10/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >HARLLEN JOSE VICENTE </td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Cabo de Santo Agostinho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >18/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147496/1</td><td  class=xl26 >07/10/2011</td><td  class=xl26 >31/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Hélio Lopes de  Castro</td><td  class=xl24 >Casamento</td><td  class=xl24 >MG</td><td  class=xl24 >Baependi</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146965/1</td><td  class=xl26 >04/10/2011</td><td  class=xl26 >26/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >HENRIQUE XAVIER DOS SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Jequitinhonha</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >18/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Osasco - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146779/1</td><td  class=xl26 >03/10/2011</td><td  class=xl26 >25/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IVETE TEXEIRA DOS SANTOS</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Salinas</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >18/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144744/1</td><td  class=xl26 >15/09/2011</td><td  class=xl26 >25/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IZA MARIA JERONIMO DA FONSECA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >18/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144744/2</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >06/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IZA MARIA JERONIMO DA FONSECA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >21/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144744/4</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >31/10/2011</td><td  class=xl26 >06/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >IZA MARIA JERONIMO DA FONSECA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147249/1</td><td  class=xl26 >11/10/2011</td><td  class=xl26 >03/11/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Jacinta Quiteria da Silva</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >São Caitano</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145234/1</td><td  class=xl26 >20/09/2011</td><td  class=xl26 >11/10/2011</td><td  class=xl26 >21/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Jamilson Severino de Freitas</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Ponte dos Carvalhos</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/99</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOAO PAULO TEIXEIRA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RS
+</td><td  class=xl24 >SANTO ANGELO</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/88</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSE CIRILO DA SILVA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/92</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSEFA CORREA CAVALCANTE                </td><td  class=xl24 >Óbito</td><td  class=xl24 >RR
+</td><td  class=xl24 >BOA VISTA</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >21/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/90</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSEIR DE MOURA LUCIO                   </td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/85</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LAECIO TEOFILO DA SILVA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147348/1</td><td  class=xl26 >10/10/2011</td><td  class=xl26 >01/11/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MANUEL RICARDO DA SILVA</td><td  class=xl24 >Casamento</td><td  class=xl24 >PE</td><td  class=xl24 >Gravatá</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147047/1</td><td  class=xl26 >04/10/2011</td><td  class=xl26 >26/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARCIA DOS SANTOS OLIVEIRA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Bom Despacho</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >24/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Amazonas - AM</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147053/1</td><td  class=xl26 >04/10/2011</td><td  class=xl26 >26/10/2011</td><td  class=xl26 >11/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marcus Masaharu Abe</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Extrema</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >21/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/84</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA DA CONCEICAO FERREIRA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >MARTINS</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/86</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA DE FATIMA ANDRADE</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/82</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA DE LOURDES ABREU CATINGUEIRA</td><td  class=xl24 >Óbito</td><td  class=xl24 >RN
+</td><td  class=xl24 >NATAL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/98</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA THEREZINHA ZINN SMEHA             </td><td  class=xl24 >Óbito</td><td  class=xl24 >RS
+</td><td  class=xl24 >CACHOEIRA DO SUL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147878/1</td><td  class=xl26 >11/10/2011</td><td  class=xl26 >03/11/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARILENE RODRIGUES OLIVEIRA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PA</td><td  class=xl24 >Marabá</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#138237/1</td><td  class=xl26 >28/07/2011</td><td  class=xl26 >19/10/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARTA DIVANI DA CONCEIÇÃO</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Limoeiro</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl26 >20/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148043/1</td><td  class=xl26 >13/10/2011</td><td  class=xl26 >04/11/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >NATALINA ALVES BARBOSA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Bicas</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#135107/1</td><td  class=xl26 >16/08/2011</td><td  class=xl26 >21/10/2011</td><td  class=xl26 >27/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Olimpio Lourenço da Silva</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >RS</td><td  class=xl24 >Arroio dos Ratos</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Belo Horizonte - MG</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146231/1</td><td  class=xl26 >07/10/2011</td><td  class=xl26 >08/11/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >OZANA FILISBERTA DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >MG</td><td  class=xl24 >Cataguases</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/97</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO RENATO ALVES WEYKAMP</td><td  class=xl24 >Óbito</td><td  class=xl24 >RS
+</td><td  class=xl24 >PELOTAS</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147390/1</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >28/10/2011</td><td  class=xl26 >17/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ROSANGELA PAULA DA SILVA</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Palmares</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147177/96</td><td  class=xl26 >05/10/2011</td><td  class=xl26 >27/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SILVONEI LEWIS</td><td  class=xl24 >Óbito</td><td  class=xl24 >RS
+</td><td  class=xl24 >CACHOEIRA DO SUL</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >17/10/2011</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146950/1</td><td  class=xl26 >04/10/2011</td><td  class=xl26 >26/10/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >WALDINEI PORTO LOPES</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PA</td><td  class=xl24 >Curuá</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl26 >19/10/2011</td><td  class=xl24 ></td><td  class=xl24 >Cartório Postal - Amazonas - AM</td><td  class=xl24 ></td></tr>

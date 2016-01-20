@@ -1,0 +1,1611 @@
+Ordens ;Protocolo;Resposta ;custas;motivo do atraso
+#155154/3;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/1;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/3;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/5;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/7;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/9;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/10;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/11;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/12;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/13;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/14;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/15;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/16;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/17;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/18;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/19;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/20;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/21;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/22;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/23;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/24;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/25;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/26;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/27;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/28;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/29;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/30;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/31;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/32;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/33;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/34;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/35;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/36;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/37;;5 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/38;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/39;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/40;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/41;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/42;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/43;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/44;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/45;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/46;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/47;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/48;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/49;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/50;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/51;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/52;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/53;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/54;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/55;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/56;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/57;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/58;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/59;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/60;;6 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/61;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/62;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/63;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/64;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/65;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/66;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/67;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/68;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/69;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/70;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/71;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/72;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/73;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/74;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/75;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/76;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/77;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/78;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/79;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/80;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/81;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/82;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/83;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/84;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/85;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/86;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/87;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/88;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/89;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/90;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/91;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/92;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/93;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/94;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/95;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/96;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/97;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/98;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/99;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/100;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/101;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/102;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/103;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/104;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/105;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/106;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/107;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/108;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/109;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/110;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/111;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/112;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/113;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/114;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/115;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/116;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/117;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/118;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/119;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/120;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/121;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/122;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/123;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/124;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/125;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/126;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/127;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/128;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/129;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/130;;5 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/131;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/132;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/133;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/134;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/135;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/136;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/137;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/138;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/139;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/140;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/141;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/142;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/143;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/144;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/145;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/146;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/147;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/148;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/149;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/150;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/151;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/152;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/153;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/154;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/155;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/156;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/157;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/158;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/159;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/160;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/161;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/162;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/163;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/164;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/165;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/166;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/167;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/168;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/169;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/170;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/171;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/172;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/173;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/174;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/175;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/176;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/177;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/178;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/179;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/180;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/181;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/182;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/183;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/184;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/185;;6 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/186;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/187;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/188;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/189;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/190;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/191;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/192;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/193;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/194;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/195;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/196;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/197;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/198;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/199;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/200;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/201;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/202;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/203;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/204;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/205;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/206;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/207;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/208;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/209;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/210;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/211;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/212;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/213;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/214;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/215;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/216;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/217;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/218;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/219;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/220;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/221;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/222;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/223;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/224;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/225;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/226;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/227;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/228;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/229;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/230;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/231;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/232;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/233;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/234;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/235;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/236;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/237;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/238;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/239;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/240;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/241;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/242;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/243;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/244;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/245;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/246;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/247;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/248;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/249;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/250;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/251;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/252;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/253;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/254;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/255;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/256;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/257;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/258;;8 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/259;;5 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/260;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/261;;7 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/262;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/263;;6 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/264;;6 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/265;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/266;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/267;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/268;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/269;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/270;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/271;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/272;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/273;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/274;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/275;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/276;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/277;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/278;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/279;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/280;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/281;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/282;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/283;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/284;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/285;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/286;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/287;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/288;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/289;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/290;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/291;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/292;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/293;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/294;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/295;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/296;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/297;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/298;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/299;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/300;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/301;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/302;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/303;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/304;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/305;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/306;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/307;;2 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/308;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155364/309;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155364/310;;4 Positiva;;Detran não emitiu a certidão na data prometida 
+#155373/2;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155373/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155373/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155373/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155373/10;;3 Positiva;;Detran não emitiu a certidão na data prometida 
+#155373/12;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155435/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155450/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155450/4;;6 Positiva;;Detran não emitiu a certidão na data prometida 
+#155471/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155471/4;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155471/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155471/8;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155471/10;;1 Positiva;;Detran não emitiu a certidão na data prometida 
+#155471/12;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#155471/14;;12 Positiva;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 
+;;;;Detran não emitiu a certidão na data prometida 

@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Valor</td></tr><tr><td  class=xl24 >#255623/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="65.00">65.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#255746/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="55.00">55.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#256078/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="35.00">35.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#260204/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="153.99">153.99</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#261373/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="144.37">144.37</td><td  class=xl24 ></td><td  class=xl24 >Belo Horizonte LJ 01 - MG</td></tr><tr><td  class=xl24 >#262583/1</td><td  class=xl24 > .</td><td  class=xl24 >11.095 .</td><td  class=xl24 align=right x:num="121.27">121.27</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#266408/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="130.00">130.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#267300/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 ></td><td  class=xl24 >Viçosa - MG</td></tr><tr><td  class=xl24 >#269189/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="45.00">45.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#271940/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="187.00">187.00</td><td  class=xl24 ></td><td  class=xl24 >Ceará - CE</td></tr><tr><td  class=xl24 >#273253/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="168.00">168.00</td><td  class=xl24 ></td><td  class=xl24 >Campo Grande - RJ</td></tr><tr><td  class=xl24 >#277883/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="80.00">80.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#281292/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="203.00">203.00</td><td  class=xl24 ></td><td  class=xl24 >Cabo Frio - RJ</td></tr><tr><td  class=xl24 >#283822/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="70.00">70.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#283851/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#284946/1</td><td  class=xl24 > .</td><td  class=xl24 >307116C0000016 .</td><td  class=xl24 align=right x:num="110.00">110.00</td><td  class=xl24 ></td><td  class=xl24 >Belo Horizonte LJ 01 - MG</td></tr><tr><td  class=xl24 >#286138/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="119.00">119.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#286220/1</td><td  class=xl24 > .</td><td  class=xl24 >13918 .</td><td  class=xl24 align=right x:num="70.00">70.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#286425/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="139.00">139.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#289404/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="172.00">172.00</td><td  class=xl24 ></td><td  class=xl24 >São Bernardo do Campo - LJ 01</td></tr><tr><td  class=xl24 >#291237/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#292035/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="108.00">108.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#292987/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#294124/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299102/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="0.01">0.01</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299154/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="110.00">110.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299186/1</td><td  class=xl24 > .</td><td  class=xl24 >957 e 931 .</td><td  class=xl24 align=right x:num="160.00">160.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299195/1</td><td  class=xl24 >299.002.636-39 .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="191.00">191.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299293/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="110.00">110.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#299338/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="105.00">105.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#302128/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#302552/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="105.00">105.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#304229/1</td><td  class=xl24 > .</td><td  class=xl24 > .</td><td  class=xl24 align=right x:num="80.00">80.00</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

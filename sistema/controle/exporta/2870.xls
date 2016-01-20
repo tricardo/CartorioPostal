@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 26/08/2014/26/09/2014</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >312480/1</td><td  class=xl26 >25/07/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl26 >22/09/2014</td><td  class=xl26 >22/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ANTONIO JUNIOR ALMEIDA DA COSTA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Senhor do Bonfim</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 >o cartorio mandou com atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >314112/1</td><td  class=xl26 >05/08/2014</td><td  class=xl26 >16/09/2014</td><td  class=xl26 >17/09/2014</td><td  class=xl26 >26/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ROSINEIDE DOS SANTOS</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Curaçá</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >o cartorio demorou a entregar devido ser muitas certidões</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >314359/1</td><td  class=xl26 >05/08/2014</td><td  class=xl26 >30/09/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >EDSON JOSÉ DE OLIVEIRA </td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Óbito</td><td  class=xl24 >BA</td><td  class=xl24 >Canudos</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >314479/1</td><td  class=xl26 >06/08/2014</td><td  class=xl26 >10/09/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOSÉ CLAUDIO DE ARRUDA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PE</td><td  class=xl24 >Taquaritinga do Norte</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >314581/1</td><td  class=xl26 >07/08/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >SATURNINO JOÃO DE SOUZA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PE</td><td  class=xl24 >Mirandiba</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >o cartorio demorou a entregar a certidão.</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >315392/1</td><td  class=xl26 >11/08/2014</td><td  class=xl26 >01/09/2014</td><td  class=xl26 >27/08/2014</td><td  class=xl26 >03/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >315392/2</td><td  class=xl26 >11/08/2014</td><td  class=xl26 >01/09/2014</td><td  class=xl26 >27/08/2014</td><td  class=xl26 >03/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >315392/3</td><td  class=xl26 >11/08/2014</td><td  class=xl26 >01/09/2014</td><td  class=xl26 >27/08/2014</td><td  class=xl26 >03/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >316266/1</td><td  class=xl26 >01/09/2014</td><td  class=xl26 >29/09/2014</td><td  class=xl26 >04/09/2014</td><td  class=xl26 >10/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Maria Gomes</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >BA</td><td  class=xl24 >JUAZEIRO</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >316719/1</td><td  class=xl26 >19/08/2014</td><td  class=xl26 >16/09/2014</td><td  class=xl26 >28/08/2014</td><td  class=xl26 >28/08/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ENIO MARCELO VILELA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >SP</td><td  class=xl24 >Ribeira</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >316840/1</td><td  class=xl26 >19/08/2014</td><td  class=xl26 >23/09/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOÃO WILLIAN DE SOUZA SANTOS</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Ouricuri</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 >o cartorio mandou com atraso</td></tr><tr><td  class=xl24 >Banco Daycoval S/A - Wellis Fernandes Pinho</td><td  class=xl24 >317291/1</td><td  class=xl26 >20/08/2014</td><td  class=xl26 >10/09/2014</td><td  class=xl26 >09/09/2014</td><td  class=xl26 >15/09/2014</td><td  class=xl24 >338.985.885-72. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >LIBERADO PARA FATURAMENTO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >317935/1</td><td  class=xl26 >25/08/2014</td><td  class=xl26 >08/09/2014</td><td  class=xl26 >28/08/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ELICIO FERREIRA DA SILVA</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >317943/1</td><td  class=xl26 >25/08/2014</td><td  class=xl26 >06/10/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >19/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOSUEL ALVES CORDEIRO</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Águas Belas</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >318189/1</td><td  class=xl26 >26/08/2014</td><td  class=xl26 >07/10/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl26 >05/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOSE ARNALDO AMORIM SANTANA</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PB</td><td  class=xl24 >Manaíra</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LARISSA RIBEIRO</td><td  class=xl24 >318729/1</td><td  class=xl26 >28/08/2014</td><td  class=xl26 >25/09/2014</td><td  class=xl26 >29/08/2014</td><td  class=xl26 >02/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOSE MARIO MARINHO DA SILVA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >318953/1</td><td  class=xl26 >29/08/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ZACARIAS FLORESTINO DOS SANTOS</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PE</td><td  class=xl24 >São José do Belmonte</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >318963/1</td><td  class=xl26 >29/08/2014</td><td  class=xl26 >10/10/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >18/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >FRANCISCO DE ASSIS DA SILVA</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Inteiro Teor - Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Salgueiro</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >LEOMARQUES SÁ</td><td  class=xl24 >321831/1</td><td  class=xl26 >15/09/2014</td><td  class=xl26 >29/09/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >IVAN DA SILVA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Itamotinga</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >322686/1</td><td  class=xl26 >17/09/2014</td><td  class=xl26 >15/10/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >25/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MARIA DAS GRAÇAS ALVES PEREIRA</td><td  class=xl24 >Leo Sá operacional01.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PB</td><td  class=xl24 >Patos</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >322779/1</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >19/09/2014</td><td  class=xl26 >19/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >JOÃO ANTONIO DOS SANTOS</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >BA</td><td  class=xl24 >Chorrochó</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >322782/1</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >30/10/2014</td><td  class=xl26 >25/09/2014</td><td  class=xl26 >25/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >CICERO LUIZ GONZAGA DOS SANTOS</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >PE</td><td  class=xl24 >Terra Nova</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >322793/1</td><td  class=xl26 >18/09/2014</td><td  class=xl26 >23/10/2014</td><td  class=xl26 >19/09/2014</td><td  class=xl26 >22/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >ANTONIO DE FREITAS OLIVEIRA</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >PE</td><td  class=xl24 >Pesqueira</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >323417/1</td><td  class=xl26 >22/09/2014</td><td  class=xl26 >30/09/2014</td><td  class=xl26 >24/09/2014</td><td  class=xl26 >25/09/2014</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >MAXSUELL DE SOUZA RODRIGUES</td><td  class=xl24 >Joana operacional02.juazeiro@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >BA</td><td  class=xl24 >Juazeiro</td><td  class=xl24 >Aguardando Retirada do Cliente</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

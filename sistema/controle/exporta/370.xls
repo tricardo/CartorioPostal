@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Oper.</td><td  class=xl24 >Data Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Estado</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Agenda</td><td  class=xl24 >Valor</td><td  class=xl24 >Departamento</td><td  class=xl24 >Atendimento</td><td  class=xl24 >Responsável</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#135116/1</td><td  class=xl26 >27/06/2011</td><td  class=xl26 >18/08/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >19/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Imóvel - Por Endereço</td><td  class=xl24 >RS</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >INFORMAÇÃO RECEBIDA</td><td  class=xl24 >Retorno</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="280.00">280.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144944/1</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >11/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >27/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FERNANDA ANTUNES RIBEIRO</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="0.10">0.10</td><td  class=xl24 >Segunda Via</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145612/1</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >18/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Eliane Terezinha de Mattos Souto</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RS</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >11/10/2011</td><td  class=xl24 align=right x:num="153.00">153.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/75</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 >791.925.050-15 .</td><td  class=xl24 > </td><td  class=xl24 >Alessandra Souza da Motta</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Ibirubá</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Karine</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/76</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 >500.087.140-53 .</td><td  class=xl24 > </td><td  class=xl24 >Erni Volnei Lagemann</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Ibirubá</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Karine</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/77</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Imóvel - Por Endereço</td><td  class=xl24 >RS</td><td  class=xl24 >Cidreira</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Karine</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/78</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 >544.859.830-72 .</td><td  class=xl24 > </td><td  class=xl24 >Claudio da Silva Barcellos</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Viamão</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Execução</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Karine</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/79</td><td  class=xl26 >26/09/2011</td><td  class=xl26 >10/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >26/09/2011</td><td  class=xl24 >579.565.370-53 .</td><td  class=xl24 > </td><td  class=xl24 >Hélio Edelmiro da Silva Barcellos Junior</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Viamão</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Execução</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Karine</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146154/2</td><td  class=xl26 >27/09/2011</td><td  class=xl26 >26/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >018.821.549-24 .</td><td  class=xl24 > </td><td  class=xl24 >DANIELA SEHNEM</td><td  class=xl24 >Certidão de Distribuições Criminais</td><td  class=xl24 >RS</td><td  class=xl24 >Canoas</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 >00/00/0000</td><td  class=xl24 align=right x:num="135.00">135.00</td><td  class=xl24 >Processo</td><td  class=xl24 >operacional02.cco@cartoriopostal.com.br</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 >Chapecó - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/80</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >078.862.920-49 .</td><td  class=xl24 > </td><td  class=xl24 >Otaviano Parchen</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >São Nicolau</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/81</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >518.990.600-06 .</td><td  class=xl24 > </td><td  class=xl24 >Gerson Antunes Soares</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Cruz Alta</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/82</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >216.691.200-15 .</td><td  class=xl24 > </td><td  class=xl24 >Vera Lucia Schneider Ludwig</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Montenegro</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/83</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >027.119.230-53 .</td><td  class=xl24 > </td><td  class=xl24 >Alba Therezinha Correa</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Gravataí</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/84</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >415.008.730-04 .</td><td  class=xl24 > </td><td  class=xl24 >Irineu Thisen</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Frederico Westphalen</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/85</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >959.596.530-87 .</td><td  class=xl24 > </td><td  class=xl24 >Karen Borchert Rosa</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Canoas</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#130135/86</td><td  class=xl26 >28/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >28/09/2011</td><td  class=xl24 >382.729.700-15 .</td><td  class=xl24 > </td><td  class=xl24 >Vera Terezinha Borchert</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Canoas</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >06/10/2011</td><td  class=xl24 align=right x:num="25.00">25.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110758/27</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >19/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >06/10/2011</td><td  class=xl24 >900.943.360-91 .</td><td  class=xl24 > </td><td  class=xl24 >MARCO SELBACH POLESE</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >11/10/2011</td><td  class=xl24 align=right x:num="65.00">65.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110758/28</td><td  class=xl26 >06/10/2011</td><td  class=xl26 >19/10/2011</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >06/10/2011</td><td  class=xl24 >253.770.430-49 .</td><td  class=xl24 > </td><td  class=xl24 >JORGE ARMINIO SCZEPANIK</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RS</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Cadastrado</td><td  class=xl26 >11/10/2011</td><td  class=xl24 align=right x:num="65.00">65.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146724/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >03/10/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >José Carlos de Menezes Araújo Júnior</td><td  class=xl24 >Nascimento</td><td  class=xl24 >RR</td><td  class=xl24 >Boa Vista</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Solicitação</td><td  class=xl26 >03/10/2011</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 >Segunda Via</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146975/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl26 >05/10/2011</td><td  class=xl24 >93256930034 .</td><td  class=xl24 > </td><td  class=xl24 >luciano moraes alves</td><td  class=xl24 >Certidão de Distribuições Criminais</td><td  class=xl24 >RS</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >Solicitação</td><td  class=xl26 >05/10/2011</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 >Processo</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 >Rodrigo Paiva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

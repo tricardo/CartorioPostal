@@ -1,0 +1,82 @@
+Ordens;Protocolo;Resposta ;custas;motivo do atraso
+#151990/1;;3 Positiva ;;Detran não emitiu a certidão na data prometida 
+#151990/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/3;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/5;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/7;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/9;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/10;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/11;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/12;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/13;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/14;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/15;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/16;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/17;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/18;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/19;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/20;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/21;;5 Positiva ;;Detran não emitiu a certidão na data prometida 
+#151990/22;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/23;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/24;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/25;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/26;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/27;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/28;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/29;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/30;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/31;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/32;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/33;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/34;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/35;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/36;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/37;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/38;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/39;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/40;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/41;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/42;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/43;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/44;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/45;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/46;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/47;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/48;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/49;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/50;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/51;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#151990/52;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/53;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/54;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/55;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/56;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/57;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/58;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/59;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/60;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/61;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/62;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/63;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/64;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/65;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/66;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/67;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/68;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/69;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151990/70;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152031/2;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#152031/4;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152031/6;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152031/8;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152055/2;;3 Positiva ;;Detran não emitiu a certidão na data prometida 
+#152057/2;;4 Positiva ;;Detran não emitiu a certidão na data prometida 
+#152057/4;;2 Positiva ;;Detran não emitiu a certidão na data prometida 
+#152061/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152061/4;;1 Positiva ;;Detran não emitiu a certidão na data prometida 
+#152096/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152096/4;;Negativa ;;Detran não emitiu a certidão na data prometida 

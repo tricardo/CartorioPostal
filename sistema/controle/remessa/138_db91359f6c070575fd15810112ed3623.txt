@@ -1,0 +1,3 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+19/jun;Valores;235;1502;XXXX;P.P. DENIR GUANDALINI;ANDRÉ FELIPE SANTER ZANIN;Servidão Mar do Leste, nº 133;Rio Tavares;Florianópolis;SC;88048-414;(48) 9683-6044;HELBOR OFFICES CHAMPAGNAT -PMT;024A;25/4/2012;R$ 43,20;R$ 1.122,03;INCC
+19/jun;Valores;235;1502;XXXX;P.P. DENIR GUANDALINI;ANDRÉ FELIPE SANTER ZANIN;Servidão Mar do Leste, nº 133;Rio Tavares;Florianópolis;SC;88048-414;(48) 9683-6044;HELBOR OFFICES CHAMPAGNAT -PMT;025A;25/5/2012;R$ 31,88;R$ 1.122,03;INCC

@@ -1,0 +1,21 @@
+Ordens ;Protocolo;Resposta 
+#147980/388;;3 Positiva 
+#147980/389;;1 Positiva
+#147980/390;;Negativa 
+#147980/391;;Negativa 
+#147980/392;;3 Positiva
+#147980/393;;Negativa 
+#147980/394;;1 Positiva
+#147980/395;;11 Positiva
+#147980/396;;3 Positiva
+#147980/397;;Negativa 
+#147980/398;;Negativa 
+#147980/399;;Negativa 
+#147980/400;;2 Positiva
+#147980/401;;1 Positiva
+#147980/402;;2 Positiva
+#148149/2;;Negativa 
+#148175/2;;Negativa 
+#148175/4;;Negativa 
+#148178/3;;Negativa 
+#148178/5;;2 Positiva

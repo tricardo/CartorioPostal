@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#98842/2</td><td  class=xl24 >07670851830 .</td><td  class=xl24 >06350579000107 .</td><td  class=xl24 >DAGMAR FOSCHIANI ESTEVES </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99360/2</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JAIR FERREIRA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99565/1</td><td  class=xl26 >020.886.331-11 .</td><td  class=xl24 > </td><td  class=xl24 >JOSIAS FERNANDO DE OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99580/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99632/1</td><td  class=xl24 >00782406467 .</td><td  class=xl24 > </td><td  class=xl24 >ELIANE MARIA CAVALCANTE DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99633/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99635/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99649/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99655/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99659/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA PAULA VICENZI</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99764/1</td><td  class=xl24 >27617857896 .</td><td  class=xl24 > </td><td  class=xl24 >SHIRLEY APARECIDA DA SILVA OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99781/1</td><td  class=xl24 >696.264.138-91 .</td><td  class=xl24 > </td><td  class=xl24 >vanildo oliveira pinheiro</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99791/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >GIOVANE SILVESTRE MACEDO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99799/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99808/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99815/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99817/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >RITA DE CASSIA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99836/1</td><td  class=xl24 >324373918-78 .</td><td  class=xl24 > </td><td  class=xl24 >luiz ricardo de oliveira lima</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99838/1</td><td  class=xl24 >14008492844 .</td><td  class=xl24 > </td><td  class=xl24 >Marcel de Oliveira Marcondes</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99844/1</td><td  class=xl24 > </td><td  class=xl24 >00843344/000162 .</td><td  class=xl24 >Filial Um Instalação de Forros Ltda ME</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99849/2</td><td  class=xl24 >413.196.998-04 .</td><td  class=xl24 > </td><td  class=xl24 >ALEDIO PAVANI</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99894/1</td><td  class=xl24 >25442112534 .</td><td  class=xl24 > </td><td  class=xl24 >EMEZILIO ALVES FEITOSA FILHO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99897/1</td><td  class=xl24 >28701353851 .</td><td  class=xl24 > </td><td  class=xl24 >Eleziane Ojeda</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99902/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ROSILENE LOPES</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99911/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANAZILDE MARIA DE JESUS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99912/1</td><td  class=xl24 >214.321.302-72 .</td><td  class=xl24 > </td><td  class=xl24 >Sertidão de antecedentes criminais</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99915/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99927/1</td><td  class=xl24 > </td><td  class=xl24 >26.410.647/0001-85 .</td><td  class=xl24 >JOSE WALTER ADVOCACIA E CONSULTORIA S/C</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99929/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Jcm admistraçao e serviços  ltda</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99938/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99941/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#99998/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >DIVALDO ANDRADE CAPUCHINHO FILHO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100015/1</td><td  class=xl24 >79136656291 .</td><td  class=xl24 > </td><td  class=xl24 >marcelo cancio dutra</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100020/1</td><td  class=xl24 >26770522888 .</td><td  class=xl24 > </td><td  class=xl24 >DENIS RICARDO SENERINO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100024/1</td><td  class=xl24 >012.924.325-60 .</td><td  class=xl24 > </td><td  class=xl24 >clecio rodrigues dos santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100054/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >KONOART  INDUSTRIA .COMERCIO.PARTICIPAÇÃO E ADMINISTRAÇÃO LTDA </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100062/1</td><td  class=xl24 >003.773.127-03 .</td><td  class=xl24 > </td><td  class=xl24 >DOCUMENTO DE IDENTIDADE</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100190/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Fellype do Rosário Rangel</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100192/1</td><td  class=xl24 > </td><td  class=xl24 >03.830.622/0001-35 .</td><td  class=xl24 >RJ RECUPERADORA DE CRÉDITOS S/C LTDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100201/1</td><td  class=xl24 > </td><td  class=xl24 >05.469.758/0001-97 .</td><td  class=xl24 >Alpi Progresso</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100252/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANDRÉIA COUTO MELO FERNANDES MATIAS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100317/1</td><td  class=xl24 >095.241.366-35 .</td><td  class=xl24 > </td><td  class=xl24 >philip fernandes figueredo</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100329/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Gloria Maria de Oliveira</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100335/1</td><td  class=xl24 > </td><td  class=xl24 >08750098000106 .</td><td  class=xl24 >BENDITO ESPETO E RESTAURANTE LTDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100351/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100358/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA JOSE DE OLIVEIRA GALVAO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100359/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >marlene goulart dos santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100367/1</td><td  class=xl24 > </td><td  class=xl24 >03.831.842/0001-83 .</td><td  class=xl24 >ROSALIA SILVA LISBOA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100373/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Daniel Carvalho</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100378/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Ana Quellen de Jesus Pereira</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100393/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100435/1</td><td  class=xl24 >12224217714 .</td><td  class=xl24 > </td><td  class=xl24 >anderson domingos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100440/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100469/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >NARA ALBERTINA FERREIRA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100540/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >eber silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100554/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JACKSON DIAS COSTA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100573/1</td><td  class=xl24 >41062116100 .</td><td  class=xl24 > </td><td  class=xl24 >MABEL NUNESMabel Nunes de Souza Cardoso</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100585/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100587/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Certidão de casamento</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100592/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ROMEU DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100603/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOAO JOSE AYUSO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100604/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MAYKON ARRUDA DORAZIO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100608/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA DE LOURDES CARDOSO DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100621/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ELIAS DE SOUZA ALVES</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100630/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Jose Henrique Simas</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100638/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100639/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100662/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO ROBERTO ANUNCIAÇÃO DE JESUS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100665/1</td><td  class=xl24 >44028520487 .</td><td  class=xl26 >01086402000113 .</td><td  class=xl24 >Antonio de Padua Chaves da Costa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100671/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100694/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100761/1</td><td  class=xl24 >00590345800 .</td><td  class=xl24 >10.516.638/0001-33 .</td><td  class=xl24 >ALMIR VITAL DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100798/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100799/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#100866/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101015/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101063/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101068/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIANA PEREIRA CAMPOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101090/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101150/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marcio rodrigo barros dos santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101159/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALBA BADANAI</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101163/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Gleidson Assis Sá</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101180/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Gilvando Joaquim do Nascimento</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101188/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Dalila da silva mattos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101223/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101225/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101243/1</td><td  class=xl24 >093.488.138-38 .</td><td  class=xl24 > </td><td  class=xl24 >Rosimeire de Souza Gomes</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101375/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA BERLANDIA DE JESUS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101542/1</td><td  class=xl24 > </td><td  class=xl24 >04553029000151 .</td><td  class=xl24 >Fundo de Assistência a Criança</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101644/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ERINALDO INÁCIO DO NASCIMENTO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101701/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALBERTO PORTUGAL DE ALMEIDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101736/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101742/1</td><td  class=xl24 >610.598.708-00 .</td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101743/1</td><td  class=xl24 >610.598.708-00 .</td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101772/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >francisco barroso</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#101921/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >celeide helena dos santos andrade</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

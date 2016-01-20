@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#151365/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >jose inacio da silva filho</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151369/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Keylla Cristine Dos Santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151411/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Augusto Arcocha</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151457/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ERIKA ARIKO DE ARAUJO TAGUCHI</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151465/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Regina Rodrigues de Melo Santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151740/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >wanilson vieira dos santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151748/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >gilson alcântara do nascimento filho </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151751/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Mario Gianneschi</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151752/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Moises Moreira do Nascimento </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151753/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Eduardo Carneiro Rosas</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151773/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Silvano Gomes da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151779/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Elí da Silva Júnior</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151782/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Caroline Arlochi </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151783/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ADISON PEREIRA DE OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151795/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >João Ramos da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152038/1</td><td  class=xl24 >32658807880 .</td><td  class=xl24 > </td><td  class=xl24 >Kelly Cristina Marques Lobato</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152052/1</td><td  class=xl24 >56122241687 .</td><td  class=xl24 > </td><td  class=xl24 >Claudia Aparecida de Oliveira</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152053/1</td><td  class=xl24 >561.222.416-87 .</td><td  class=xl24 > </td><td  class=xl24 >Cláudia Aparecida de Oliveira</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152073/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANA CRISTINA FERREIRA DA SILVA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152082/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152105/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Filipe Guardia Cano Batista</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152129/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >TURÍBIO PUOZZO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152131/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152134/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ronival silva santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152152/1</td><td  class=xl24 >05702031806 .</td><td  class=xl24 > </td><td  class=xl24 >PAULO FERNANDES JUNIOR</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152167/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >RICARDO DO ESPIRITO SANTO GOMES</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152169/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >KATIA REGINA FERNANDES GOMES</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152171/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >AVELINO DO ESPIRITO SANTO GOMES</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152303/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marineida Pereira dos Santos </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152310/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria Gomes Nunes</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152331/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Andrea Silva Cordeiro</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152336/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ISAIAS FREIRE DOS SANTOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152373/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LILIAN GRANJA PRADA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152380/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rafael Takahashi</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152386/1</td><td  class=xl24 >32953977830 .</td><td  class=xl24 > </td><td  class=xl24 >willys honorato</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152394/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JAIR JOSE CAETANO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152396/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SEBASTIÃO LUCENA DE PONTES </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152413/6</td><td  class=xl24 >11743878500 .</td><td  class=xl24 > </td><td  class=xl24 >SETUCO  ITO </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152486/1</td><td  class=xl24 >00530549891 .</td><td  class=xl24 > </td><td  class=xl24 >Jayme Blay</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152539/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ADAILTON JESUS MATOS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152541/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Certidão de Casamento</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152596/1</td><td  class=xl24 >022.641.678-07 .</td><td  class=xl24 > </td><td  class=xl24 >ANTONIO DOS SANTOS SILVA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152601/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152615/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >vanessa grycak terelose</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152619/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >roderico monte</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152625/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria Piedade Alago Peneiras</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152637/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Orlando Cisotto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152638/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Orlando Cisotto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152639/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Orlando Cisotto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152641/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Orlando Cisotto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152681/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Vitor Scalabrini Santiago</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152686/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Joana Pereira da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152901/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PATRICIA SOUZA NASCIMENTO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152946/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rosana Maria Pfardoski Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152954/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA LUIZA ORTENZI COMARIN</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152974/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Ademir Pivaro</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152998/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >leonel rodrigues de souza</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153053/1</td><td  class=xl24 >00448769808 .</td><td  class=xl24 >00503863000181 .</td><td  class=xl24 >PROPAGARE COMERCIAL LTDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153056/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria  Josenir Bernardo</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153124/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153136/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Carlito Oliveira Rocha</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153147/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >jaime de souza lima</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153228/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Ivanet Lemos </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153247/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco De Assis Pereira Dias </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153303/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Fabio Neves da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153305/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153309/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >HÉLADE DEOLIVEIRA MEDEIROS</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153325/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Janekelly Henrique Amorim da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153326/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >vanessa correia da silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153327/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >vanessa correia da silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153331/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >karina corrêa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153444/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153513/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >rejane ferreira barbosa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153540/1</td><td  class=xl24 >08740339858 .</td><td  class=xl24 > </td><td  class=xl24 >fernando bernardo dos santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153568/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ANTONIO MODA FRANCISCO (DISTRITO DE ARARAQUARA)</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153589/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Waldir Nunes de Sousa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153595/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco De Assis Pereira Dias </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153604/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco De Assis Pereira Dias </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153605/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco De Assis Pereira Dias </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153607/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco De Assis Pereira Dias </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153628/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >FRANCILÉIA COSTA ALMEIDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153697/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Valdemir Alves Lima</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153698/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >andre luis souza da silva marcelino</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153907/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >esmeralda mesa </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153918/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria de Lourdes de Sousa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153922/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >SYLMARA DAYANNA GOMES DE LACERDA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153936/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Pedro Henrique de Matos Braz</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#153940/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Vitoria Ambrozini Martins</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154006/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >EDMAICON ELVIS DE OLIVEIRA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154014/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >sandra voss</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154074/1</td><td  class=xl24 >84513322691 .</td><td  class=xl24 > </td><td  class=xl24 >carlito aparecido marques da rocha</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154081/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154131/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Antonio Favalli</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154138/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Felippe Farsetti</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154148/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >César Augusto de Seixas</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154157/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >TEREZA DE JESUS DA SILVA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154174/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Lais da Silva Brasilino</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154200/1</td><td  class=xl24 >06677893839 .</td><td  class=xl24 > </td><td  class=xl24 >Silmara Maria Santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154257/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Antonio Erismar Ribeiro de Moraes..</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154258/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >NICOLA FUDOLLI FILHO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154266/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >willian almeida da silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154420/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >wislania patricia santos chagas </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154426/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Roseneide Rodrigues Ribeiro</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154432/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Vitoria Ambrozini Martins</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154437/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Milana Lima dos Santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154461/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Ironi dos Santos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154465/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Regina Helena Honorato</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154468/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154476/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >valdeir gomes conceição</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154656/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MARIA DE LOURDES DE SOUSA</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154663/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >tiago henrique gomes da silva </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154719/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >faf</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154724/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >João Artur da Silva</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154803/1</td><td  class=xl24 >86168452320 .</td><td  class=xl24 > </td><td  class=xl24 >ETHAN LAWRENCE MILEN COELHO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154816/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154825/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >REGINA HELENA HONORATO</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154970/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >regina helena honorato</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

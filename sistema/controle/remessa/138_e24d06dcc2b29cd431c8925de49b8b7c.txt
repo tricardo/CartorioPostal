@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+17/4/2012;DISTRATO - 12.1 e 12.5.1;115;C0131;15/9/2009;AV. SÃO JOÃO 2 INVESTIMENTOS IMOBILIÁRIOS LTDA.;AIDA CARLA WANDEVELD;Rua Vilaça, nº 369  Casa 01;Centro;São José dos Campos;SP;12210-000;12 8156-7621;HELBOR BELVEDERE JARDIM DAS COLINAS;XXXXXXXXXX;XXXXXXXXXX;XXXXXXX;XXXXXXX;XXXXXXXX

@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+9/5/2012;DISTRATO - 12.1;106;201;26/12/2007;HELBOR EMPREENDIMENTOS S.A.;CARLOS ROBERTO MAIELO e/ou FLAVIA ARMILIATO MAIELO                                   ;Rua Estado de Israel, 189 - Ap. 32;Vila Clementino;São Paulo;SP;04022-000;11 9981-2750;PENSILVANIA BY HELBOR;XXXXXXXXXX;XXXXXXXXXX;XXXXXXX;XXXXXXX;XXXXXXXX

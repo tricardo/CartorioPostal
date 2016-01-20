@@ -1,0 +1,2 @@
+Data envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+20/3/2012;Distrato 12.1 e 12.5.1;184;4_093;31/3/2011;HESA 43 INVESTIMENTOS IMOBILIÁRIOS LTDA;DOUGLAS DAS NEVES ARAÚJO;Rua Barbosa Leal, 27;Lajeado;São Paulo;SP;08452-030;(11) 7802-9436;HELBOR JARDINS IPOEMA;XXXXXXXXXXXXXXX;XXXXXXXXXXXX;XXXXXXXXXX;XXXXXXXXXXX;XXXXX

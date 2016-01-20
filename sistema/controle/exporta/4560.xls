@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Data Status</td><td  class=xl24 >Solicitante</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Nome</td><td  class=xl24 >CPF/CNPJ Requerente</td><td  class=xl24 >Serviço</td><td  class=xl24 >Cidade</td><td  class=xl24 >Estado</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Valor</td><td  class=xl24 >Custas</td><td  class=xl24 >Honorários</td><td  class=xl24 >Correios</td><td  class=xl24 >Controle do Cliente</td></tr><tr><td  class=xl24 >#354741/1</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >408.060.224-34 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Goiânia</td><td  class=xl24 >GO</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="400.00">400.00</td><td  class=xl24 align=right x:num="44.60">44.60</td><td  class=xl24 align=right x:num="70.00">70.00</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#364224/1</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 > .</td><td  class=xl24 >01.899.024/0001-97 .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Curitiba</td><td  class=xl24 >PR</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="800.00">800.00</td><td  class=xl24 align=right x:num="112.00">112.00</td><td  class=xl24 align=right x:num="58.33">58.33</td><td  class=xl24 align=right x:num="3.33">3.33</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#369979/2</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >516.640.709-15 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Itapema</td><td  class=xl24 >SC</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 align=right x:num="235.00">235.00</td><td  class=xl24 align=right x:num="9.95">9.95</td><td  class=xl24 align=right x:num="13.75">13.75</td><td  class=xl24 align=right x:num="2.50">2.50</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#369979/3</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >084.910.239-17 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Itapema</td><td  class=xl24 >SC</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 align=right x:num="235.00">235.00</td><td  class=xl24 align=right x:num="9.95">9.95</td><td  class=xl24 align=right x:num="13.75">13.75</td><td  class=xl24 align=right x:num="2.50">2.50</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#369979/4</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >538.744.809-25 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Itapema</td><td  class=xl24 >SC</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 align=right x:num="235.00">235.00</td><td  class=xl24 align=right x:num="9.95">9.95</td><td  class=xl24 align=right x:num="13.75">13.75</td><td  class=xl24 align=right x:num="2.50">2.50</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#374577/1</td><td  class=xl26 >21/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 > .</td><td  class=xl26 >13.056.177/0003-13 .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Cuiabá</td><td  class=xl24 >MT</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="450.00">450.00</td><td  class=xl24 align=right x:num="147.16">147.16</td><td  class=xl24 align=right x:num="40.00">40.00</td><td  class=xl24 align=right x:num="5.00">5.00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#374577/2</td><td  class=xl26 >21/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >523.220.849-72 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Cuiabá</td><td  class=xl24 >MT</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="450.00">450.00</td><td  class=xl24 align=right x:num="133.00">133.00</td><td  class=xl24 align=right x:num="40.00">40.00</td><td  class=xl24 align=right x:num="5.00">5.00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#374583/1</td><td  class=xl26 >21/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 > .</td><td  class=xl24 >12.635.351/0001-58 .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Sinop</td><td  class=xl24 >MT</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="250.00">250.00</td><td  class=xl24 align=right x:num="24.28">24.28</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="2.17">2.17</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#374583/2</td><td  class=xl26 >21/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >431.157.999-34 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Sinop</td><td  class=xl24 >MT</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="250.00">250.00</td><td  class=xl24 align=right x:num="24.28">24.28</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="2.17">2.17</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#374583/4</td><td  class=xl26 >21/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >824.468.221-34 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Sinop</td><td  class=xl24 >MT</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="250.00">250.00</td><td  class=xl24 align=right x:num="24.28">24.28</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="2.17">2.17</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#377513/1</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >558.601.410-68 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Porto Alegre</td><td  class=xl24 >RS</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="340.00">340.00</td><td  class=xl24 align=right x:num="52.32">52.32</td><td  class=xl24 align=right x:num="120.00">120.00</td><td  class=xl24 align=right x:num="8.00">8.00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#377809/1</td><td  class=xl26 >16/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 >204.585.503-10 .</td><td  class=xl24 > .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Fortaleza</td><td  class=xl24 >CE</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Faturamento</td><td  class=xl24 align=right x:num="425.00">425.00</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#378347/6</td><td  class=xl26 >27/10/2015</td><td  class=xl24 >Banco Daycoval S/A</td><td  class=xl24 > .</td><td  class=xl24 >09.612.232/0001-75  .</td><td  class=xl24 ></td><td  class=xl24 >62.232.889/0001-90 .</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Decl. de Nada Consta)</td><td  class=xl24 >Volta Redonda</td><td  class=xl24 >RJ</td><td  class=xl24 >AGUARDANDO FATURAMENTO</td><td  class=xl24 >Entrega</td><td  class=xl24 align=right x:num="330.00">330.00</td><td  class=xl24 align=right x:num="130.31">130.31</td><td  class=xl24 align=right x:num="0.00">0.00</td><td  class=xl24 align=right x:num="31.90">31.90</td><td  class=xl24 ></td></tr>

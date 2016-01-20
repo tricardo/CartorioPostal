@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Status</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#115055/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >34866132191 .</td><td  class=xl24 > </td><td  class=xl24 >JAIRO CESAR BATISTA DE OLIVEIRA</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121022/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >monia mayara da silva</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123849/1</td><td  class=xl26 >01/03/2011</td><td  class=xl26 >30/03/2011</td><td  class=xl24 >264.984.051-04 .</td><td  class=xl24 > </td><td  class=xl24 >Paulo Roberto Palmeira</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123873/109</td><td  class=xl26 >03/03/2011</td><td  class=xl26 >25/03/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOSE LEONIDAS DE SA TRAPIA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#125203/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >82456232100 .</td><td  class=xl24 > </td><td  class=xl24 >alessandra fernandes guimaraes goncalves</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#125622/83</td><td  class=xl26 >24/03/2011</td><td  class=xl26 >14/04/2011</td><td  class=xl24 > </td><td  class=xl24 >42.318.949/0020-47 .</td><td  class=xl24 >Cobra Tecnologia S.A </td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#125622/84</td><td  class=xl26 >24/03/2011</td><td  class=xl26 >14/04/2011</td><td  class=xl24 > </td><td  class=xl24 >42.318.949/0020-47 .</td><td  class=xl24 >Cobra Tecnologia S.A </td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#125622/85</td><td  class=xl26 >24/03/2011</td><td  class=xl26 >14/04/2011</td><td  class=xl24 > </td><td  class=xl24 >42.318.949/0020-47 .</td><td  class=xl24 >Cobra Tecnologia S.A </td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#125622/86</td><td  class=xl26 >24/03/2011</td><td  class=xl26 >14/04/2011</td><td  class=xl24 > </td><td  class=xl24 >42.318.949/0020-47 .</td><td  class=xl24 >Cobra Tecnologia S.A </td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#125893/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >enderson rodrigues de carvalho</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#125900/13</td><td  class=xl26 >25/03/2011</td><td  class=xl26 >10/05/2011</td><td  class=xl24 > </td><td  class=xl24 >42318949/0020-47 .</td><td  class=xl24 >Cobra Tecnologia S.A</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#130527/1</td><td  class=xl26 >13/05/2011</td><td  class=xl26 >24/05/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Willame Reinaldo Rodrigues de Sousa</td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >São Luis - MA</td></tr><tr><td  class=xl24 >#130952/1</td><td  class=xl26 >17/05/2011</td><td  class=xl26 >24/05/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Pendente</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#133818/1</td><td  class=xl26 >13/06/2011</td><td  class=xl26 >24/06/2011</td><td  class=xl24 > </td><td  class=xl24 >02.299.924/0001-66 .</td><td  class=xl24 >INSTITUTO GOIANO DE CULTURA LTDA-ME </td><td  class=xl24 >Jurídico</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#133818/2</td><td  class=xl26 >13/06/2011</td><td  class=xl26 >22/06/2011</td><td  class=xl24 > </td><td  class=xl24 >11.718.211/0001-80 .</td><td  class=xl24 >REDE DE SERVICOS EM CARTORIO LTDA </td><td  class=xl24 >Jurídico</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#134908/1</td><td  class=xl26 >22/06/2011</td><td  class=xl26 >04/07/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Darci Murer </td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#135172/2</td><td  class=xl26 >27/06/2011</td><td  class=xl26 >18/07/2011</td><td  class=xl24 >003.999.651-49  .</td><td  class=xl24 > </td><td  class=xl24 >FRANCISCO DE ASSIS PINTO</td><td  class=xl24 >Entrega</td><td  class=xl24 >Negativa.</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#137638/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Mayana Luiza Naue Belfort</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#137642/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Mayana Luiza Naue Belfort</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#138560/1</td><td  class=xl26 >26/07/2011</td><td  class=xl26 >29/07/2011</td><td  class=xl24 > </td><td  class=xl24 >71.476.527/0001-35 .</td><td  class=xl24 >CONSTRUTORA TENDA S.A</td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Brasília - DF</td></tr><tr><td  class=xl24 >#138825/1</td><td  class=xl26 >28/07/2011</td><td  class=xl26 >04/08/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Entrega</td><td  class=xl24 >Positiva</td><td  class=xl24 >Goiânia - GO</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#139515/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO RENATO DE FREITAS NEVES</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#139652/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >PAULO RENATO DE FREITAS NEVES</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140225/1</td><td  class=xl26 >10/08/2011</td><td  class=xl26 >19/08/2011</td><td  class=xl24 > </td><td  class=xl24 >09.625.762/0001-58 .</td><td  class=xl24 >Tenda Negócios Imobiliários S/A</td><td  class=xl24 >Conciliação Franquia</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Brasília - DF</td></tr><tr><td  class=xl24 >#140278/1</td><td  class=xl26 >09/08/2011</td><td  class=xl26 >16/08/2011</td><td  class=xl24 >876.429.301-78 .</td><td  class=xl24 > </td><td  class=xl24 >Clemerson de Araújo Soares</td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 >Certidão Positiva</td><td  class=xl24 ></td><td  class=xl24 >Recife - PE</td></tr><tr><td  class=xl24 >#140278/2</td><td  class=xl26 >09/08/2011</td><td  class=xl26 >16/08/2011</td><td  class=xl24 >844.364.924-00 .</td><td  class=xl24 > </td><td  class=xl24 >José Alberto Leite Mascena </td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 >Certidão Positiva</td><td  class=xl24 ></td><td  class=xl24 >Recife - PE</td></tr><tr><td  class=xl24 >#140278/3</td><td  class=xl26 >09/08/2011</td><td  class=xl26 >16/08/2011</td><td  class=xl24 >062.897.664-06 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Andreza Teixeira Mascena de Araújo </td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 >Certidão Positiva</td><td  class=xl24 ></td><td  class=xl24 >Recife - PE</td></tr><tr><td  class=xl24 >#140471/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >12921106191 .</td><td  class=xl24 > </td><td  class=xl24 >Waldeci Naves de Almeida</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140528/1</td><td  class=xl26 >11/08/2011</td><td  class=xl26 >23/08/2011</td><td  class=xl24 >081.758.881-72 .</td><td  class=xl24 > </td><td  class=xl24 >Pedro Marcio Mundim de Siqueira</td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Curitiba - PR</td></tr><tr><td  class=xl24 >#140660/1</td><td  class=xl26 >12/08/2011</td><td  class=xl26 >09/11/2011</td><td  class=xl26 >060.932.518-37 .</td><td  class=xl24 >04.498.845/0001-00 .</td><td  class=xl24 >CHEMURGY TECNOLOGIA PARA MINERAÇOES LTDA E ANTONIO RODRIGUES DOS SANTOS</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#140731/1</td><td  class=xl26 >15/08/2011</td><td  class=xl26 >05/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marcelo Malentacchi Lacerda</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#140977/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CRISTIANE ALVES DA ASSUNÇAO</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141022/1</td><td  class=xl26 >16/08/2011</td><td  class=xl26 >06/09/2011</td><td  class=xl24 > </td><td  class=xl24 >03.463.429/0001-03 .</td><td  class=xl24 >PRODATA PROCESSAMENTO DE DADOS LTDA ME</td><td  class=xl24 >Faturamento</td><td  class=xl24 >CANCELAMENTO DE PROTESTO</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141179/2</td><td  class=xl26 >16/08/2011</td><td  class=xl26 >19/09/2011</td><td  class=xl24 >233.326.208-78 .</td><td  class=xl24 > </td><td  class=xl24 >Paulo Panarello Neto</td><td  class=xl24 >Entrega Franquia</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141179/4</td><td  class=xl26 >16/08/2011</td><td  class=xl26 >19/09/2011</td><td  class=xl24 >315.542.881-34 .</td><td  class=xl24 > </td><td  class=xl24 >Ester Rodrigues Panarello</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141179/6</td><td  class=xl26 >16/08/2011</td><td  class=xl26 >19/09/2011</td><td  class=xl24 >788.045.901-49 .</td><td  class=xl24 > </td><td  class=xl24 >Alexandre Fabiano Panarello</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141750/1</td><td  class=xl26 >22/08/2011</td><td  class=xl26 >13/09/2011</td><td  class=xl24 > </td><td  class=xl24 >002.316.588/0001-12 .</td><td  class=xl24 >Potinho de Carinho Ltda</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Negativa.</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141750/3</td><td  class=xl26 >22/08/2011</td><td  class=xl26 >19/09/2011</td><td  class=xl24 >418.203.801-06 .</td><td  class=xl24 > </td><td  class=xl24 >Elton Borges de Campos Souza</td><td  class=xl24 >Retorno</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#141898/1</td><td  class=xl26 >23/08/2011</td><td  class=xl26 >21/09/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Gafisa  S/A</td><td  class=xl24 >Pendente</td><td  class=xl24 >RELATÓRIO DE CADASTRADOS: Inscrição -  ´01.7.15.023.0154´</td><td  class=xl24 ></td><td  class=xl24 >Cuiabá - MT</td></tr><tr><td  class=xl24 >#141986/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >JOAO LUIZ PEREIRA</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142161/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >lindomar de oliveira da silva</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142166/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >RIVANIA SOARES DE SOUSA</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142439/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Lúcia Maria Matos dos Santos</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142518/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sergio Ricardo Sampaio Santos</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143098/1</td><td  class=xl26 >01/09/2011</td><td  class=xl26 >16/09/2011</td><td  class=xl24 >473.427.221-20 .</td><td  class=xl24 > </td><td  class=xl24 >Edmundo dos Anjos Azevedo</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Brasília - DF</td></tr><tr><td  class=xl24 >#143533/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ROSELI BORGES</td><td  class=xl24 >Aberto</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144855/32</td><td  class=xl26 >16/09/2011</td><td  class=xl26 >07/10/2011</td><td  class=xl24 >73025984104 .</td><td  class=xl24 > </td><td  class=xl24 >SEBASTIAO LEONARDO SILVA LEITE</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Negativa.</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#144855/33</td><td  class=xl26 >16/09/2011</td><td  class=xl26 >07/10/2011</td><td  class=xl24 >99410419115 .</td><td  class=xl24 > </td><td  class=xl24 >ADRIELLY JORDANE SILVA LEITE</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Negativa.</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#144855/34</td><td  class=xl26 >16/09/2011</td><td  class=xl26 >13/10/2011</td><td  class=xl24 >19560184172 .</td><td  class=xl24 > </td><td  class=xl24 >JOSE TADEU LEITE</td><td  class=xl24 >Faturamento</td><td  class=xl24 >MATRÍCULA : 8.145</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr><tr><td  class=xl24 >#144855/35</td><td  class=xl26 >16/09/2011</td><td  class=xl26 >07/10/2011</td><td  class=xl24 > </td><td  class=xl24 >08763291000181 .</td><td  class=xl24 >ACL COM DE MATS SERV E REALIZACOES LTDA</td><td  class=xl24 >Faturamento</td><td  class=xl24 >Negativa.</td><td  class=xl24 ></td><td  class=xl24 >Goiânia - GO</td></tr>

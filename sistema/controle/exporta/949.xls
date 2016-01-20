@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >Abertura</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Status</td><td  class=xl24 >Valor</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#106501/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106501/2</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106501/3</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106501/4</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106501/5</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="15.00">15.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#106501/6</td><td  class=xl24 >00/00/0000</td><td  class=xl24 >052.905.028-58 .</td><td  class=xl24 > </td><td  class=xl24 >SYLVIO  RINALDI FILHO</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#118218/1</td><td  class=xl26 >17/12/2010</td><td  class=xl26 >180632348-63 .</td><td  class=xl24 > </td><td  class=xl24 >Edilson dos Santos Barros</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="130.00">130.00</td><td  class=xl24 ></td><td  class=xl24 >Dourados - MS</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/2</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/3</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/4</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="15.00">15.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/5</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/6</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="5.00">5.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/2</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/3</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/4</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="15.00">15.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/5</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/7</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121347/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121347/2</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="30.00">30.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121347/3</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="15.00">15.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121347/4</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/8</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="80.00">80.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/9</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121273/10</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rizar Participação e Administração Imobiliária LTDA.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="10.00">10.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121288/6</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Sylvio Rinaldi Filho</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121347/5</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Karen Zarzur Curi</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="20.00">20.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#121794/1</td><td  class=xl26 >07/02/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="170.00">170.00</td><td  class=xl24 ></td><td  class=xl24 >Bauru - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#122127/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Janete Batista Da Paz</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="80.00">80.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/1</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >047.201.728-49 .</td><td  class=xl24 > </td><td  class=xl24 >Horácio Targas</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/2</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >041.872.508-08  .</td><td  class=xl24 > </td><td  class=xl24 >LAZARA CANDIDA TARGAS </td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/3</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >047.201.728-49 .</td><td  class=xl24 > </td><td  class=xl24 >Horácio Targas</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/4</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >041.872.508-08 .</td><td  class=xl24 > </td><td  class=xl24 >LAZARA CANDIDA TARGAS</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/5</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >047.201.728-49 .</td><td  class=xl24 > </td><td  class=xl24 >Horácio Targas</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123633/6</td><td  class=xl26 >02/03/2011</td><td  class=xl24 >041.872.508-08 .</td><td  class=xl24 > </td><td  class=xl24 >LAZARA CANDIDA TARGAS</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="7.66">7.66</td><td  class=xl24 ></td><td  class=xl24 >Maringá - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123812/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Dilma Maria da Silva Santos</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="90.00">90.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123921/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Lilian Edilaine de Oliveira</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="75.00">75.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#124278/1</td><td  class=xl24 >00/00/0000</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Cleide da Silva Gonçalves</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="85.00">85.00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#123042/114</td><td  class=xl26 >10/03/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >LABIN Empreendimentos e Particpações Ltda.</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="127.00">127.00</td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#127158/1</td><td  class=xl26 >05/05/2011</td><td  class=xl24 >281.397.068-92 .</td><td  class=xl24 > </td><td  class=xl24 >ALEXSANDRO CESARIO DE MATOS</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="100.00">100.00</td><td  class=xl24 ></td><td  class=xl24 >São José do Rio Preto - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#128721/2</td><td  class=xl26 >04/05/2011</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Dalva Tirola</td><td  class=xl24 >Concluído</td><td  class=xl24 align=right x:num="90.00">90.00</td><td  class=xl24 ></td><td  class=xl24 >Campinas - SP</td><td  class=xl24 ></td></tr>

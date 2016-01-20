@@ -1,0 +1,3 @@
+Data      de envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+23/mai;DISTRATO - 12.1 e 12.5.1;227;1_163;23/10/2010;HESA 77 INVESTIMENTOS IMOBILIÁRIOS LTDA;EVANGELISTA PEREIRA DOS SANTOS;Rua Rolando Curti, 541 ;Vila Clara;São Paulo;SP;04414-000;(11)8518-8790;CONDOMÍNIO VITTA PARQUE;XXXX;XXXX;XXXX;XXXX;XXXX
+23/mai;DISTRATO - 12.1 e 12.5.1;227;3_105;27/11/2010;HESA 77 INVESTIMENTOS IMOBILIÁRIOS LTDA;MICHELE SANTOS LEAL;Rua Barão De Paranapiacaba, 99;Piraporinha;Diadema;SP;09950-420;(11)6013-5783;CONDOMÍNIO VITTA PARQUE;XXXX;XXXX;XXXX;XXXX;XXXX

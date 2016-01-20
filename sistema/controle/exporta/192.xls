@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Serviço</td><td  class=xl24 >Atividade</td><td  class=xl24 >Status</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#97204/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Wander Antunes Martins</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#103922/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CARLOS HENRIQUE</td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#105286/1</td><td  class=xl24 > </td><td  class=xl24 >02.500.787/0001-86 .</td><td  class=xl24 >Moiva Montagem Industrial do Vale Ltda</td><td  class=xl24 >Registro de Contrato - CRI</td><td  class=xl24 >DESEMBOLSO RECUSADO</td><td  class=xl24 >Retorno</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#109955/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Elisa Maria de Souza </td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110653/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria Moreira de Almeida</td><td  class=xl24 >Casamento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#110827/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Jandaíra Valério de Olinda</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111246/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Tania Solange Honorio</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111307/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marta Beatriz da Silva</td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111336/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Aladir Lopes da Silva Tome</td><td  class=xl24 >Averbação - Divórcio</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Desembolso</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111627/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Solicitação</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111668/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Rosângela Santos</td><td  class=xl24 >Nascimento</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111670/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Francisco Ferreira de Sena</td><td  class=xl24 >Nascimento</td><td  class=xl24 >TENTATIVA DE CONTATO COM O CARTORIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111760/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Gilvan Antônio de Melo</td><td  class=xl24 >Casamento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111796/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Miyoshi Sato</td><td  class=xl24 >Casamento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111858/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria Leidiane da Silva Bezzera</td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/1</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/2</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Distribuições Criminais</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/3</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/4</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/5</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >CND Receita Federal</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/6</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Justiça Federal</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/7</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/9</td><td  class=xl24 >025.973.138-24 .</td><td  class=xl24 > </td><td  class=xl24 >Samuel Costa de Oliveira</td><td  class=xl24 >Tributos Mobiliários</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/10</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/11</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >Distribuições Criminais</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/12</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/14</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/15</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >CND Receita Federal</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111893/16</td><td  class=xl24 >201.902.568-00 .</td><td  class=xl24 > </td><td  class=xl24 >Maria Virginia Ribeiro de Oliveira</td><td  class=xl24 >Justiça Federal</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111930/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Lucia Helena Fernandes</td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111934/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Tchaikowisky Marques Costa</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#111994/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >José Aparecido Viana dos Santos</td><td  class=xl24 >Nascimento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/1</td><td  class=xl26 >050.394.498-01 .</td><td  class=xl24 > </td><td  class=xl24 >Marcos Kiyoshi Kawaguchi</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/2</td><td  class=xl26 >050.394.498-01 .</td><td  class=xl24 > </td><td  class=xl24 >Marcos Kiyoshi Kawaguchi</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/3</td><td  class=xl26 >050.394.498-01 .</td><td  class=xl24 > </td><td  class=xl24 >Marcos Kiyoshi Kawaguchi</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/4</td><td  class=xl24 >095.831.968-51 .</td><td  class=xl24 > </td><td  class=xl24 >Claudia Mitsue  Kawaguchi</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/5</td><td  class=xl24 >095.831.968-51 .</td><td  class=xl24 > </td><td  class=xl24 >Claudia Mitsue  Kawaguchi</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112007/6</td><td  class=xl24 >095.831.968-51 .</td><td  class=xl24 > </td><td  class=xl24 >Claudia Mitsue  Kawaguchi</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112214/1</td><td  class=xl24 >831.319.658-00 .</td><td  class=xl24 > </td><td  class=xl24 >VALMIR FARIA</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112216/1</td><td  class=xl24 >162.736.268-12 .</td><td  class=xl24 > </td><td  class=xl24 >MIRTES MARIA DE MOURA FARIA</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/1</td><td  class=xl24 >687.884.798-20 .</td><td  class=xl24 > </td><td  class=xl24 >Orlando Thomaz</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/2</td><td  class=xl24 >687.884.798-20 .</td><td  class=xl24 > </td><td  class=xl24 >Orlando Thomaz</td><td  class=xl24 >Distribuições Criminais</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/3</td><td  class=xl24 >687.884.798-20 .</td><td  class=xl24 > </td><td  class=xl24 >Orlando Thomaz</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/4</td><td  class=xl24 >687.884.798-20 .</td><td  class=xl24 > </td><td  class=xl24 >Orlando Thomaz</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/5</td><td  class=xl24 >488.703.077-00 .</td><td  class=xl24 > </td><td  class=xl24 >Margarida Maria Martins  Thomaz</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/6</td><td  class=xl24 >488.703.077-00 .</td><td  class=xl24 > </td><td  class=xl24 >Margarida Maria Martins  Thomaz</td><td  class=xl24 >Distribuições Criminais</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/7</td><td  class=xl24 >488.703.077-00 .</td><td  class=xl24 > </td><td  class=xl24 >Margarida Maria MartinsThomaz</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112440/8</td><td  class=xl24 >488.703.077-00 .</td><td  class=xl24 > </td><td  class=xl24 >Margarida Maria MartinsThomaz</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112492/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Antônio Rios de sousa</td><td  class=xl24 >Nascimento</td><td  class=xl24 >CONTATO COM O CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112494/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Benedito Roberto Ribeiro</td><td  class=xl24 >Casamento</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 >Entrega</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/1</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida bastos Jorge</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/2</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida bastos Jorge</td><td  class=xl24 >Distribuições Criminais</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/3</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida bastos Jorge</td><td  class=xl24 >Falência e Concordata</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/4</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida Bastos Jorge</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RETORNAR AO CARTÓRIO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/5</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida bastos Jorge</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/6</td><td  class=xl24 >215.491.438-16 .</td><td  class=xl24 > </td><td  class=xl24 >Elaine Araujo de Almeida bastos Jorge</td><td  class=xl24 >Justiça Federal</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112574/7</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >SERVIÇO CONFERIDO</td><td  class=xl24 >Cadastrado</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112585/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 ></td><td  class=xl24 >Certidão de Matrícula Atualizada com Negativa de Ônus</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112647/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maurilio Cunha </td><td  class=xl24 >Casamento</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112651/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Valdeci Rafael Gomes</td><td  class=xl24 >Nascimento</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#112660/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Marlene Vieira Ferreira</td><td  class=xl24 >Nascimento</td><td  class=xl24 >DOCUMENTO EM TRANSITO</td><td  class=xl24 >Execução</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

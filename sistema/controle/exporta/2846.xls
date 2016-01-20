@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatorio dos Concluídos Operacional</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Referência:</td><td  class=xl26 > 01/06/2013/28/06/2013</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Contato</td><td  class=xl24 >#</td><td  class=xl24 >Data de Abertura</td><td  class=xl24 >Prazo</td><td  class=xl24 >Concluído Operacional</td><td  class=xl24 >Status</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Responsável</td><td  class=xl24 >Servico</td><td  class=xl24 >UF</td><td  class=xl24 >Cidade</td><td  class=xl24 >Atividade</td><td  class=xl24 >Resultado</td><td  class=xl24 >Motivo do Atraso</td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240038/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >24/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >FERNANDO BRAGA DE ARAUJO.  E  MARIA LUCIA ASSUMPÇAO</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Casamento</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240224/1</td><td  class=xl26 >07/06/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >11/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >diretoria.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Outros Serviços</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240319/1</td><td  class=xl26 >10/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 ></td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Transcrição</td><td  class=xl24 >SP</td><td  class=xl24 >SÃO PAULO</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240418/1</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >24/06/2013</td><td  class=xl24 >669.764.727-20. </td><td  class=xl24 >. </td><td  class=xl24 >João Luiz Simonelli</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Distribuições Criminais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >240418/2</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >24/06/2013</td><td  class=xl24 >669.764.727-20. </td><td  class=xl24 >. </td><td  class=xl24 >João Luiz Simonelli</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Marcia Cristina</td><td  class=xl24 >240791/6</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >12/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl24 >222.067.878-49. </td><td  class=xl24 >. </td><td  class=xl24 >NAIR ROMÃO</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Marcia Cristina</td><td  class=xl24 >240791/7</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >12/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl24 >222.067.878-49. </td><td  class=xl24 >. </td><td  class=xl24 >NAIR ROMÃO</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Marcia Cristina</td><td  class=xl26 >240791/13</td><td  class=xl26 >11/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl24 >222.067.878-49. </td><td  class=xl24 >. </td><td  class=xl24 >NAIR ROMÃO</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241039/1</td><td  class=xl26 >12/06/2013</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl26 >15.063.975/0001-36. </td><td  class=xl24 >Vanguardian Transportes Especializados Ltda.</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Falência e Concordata</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241268/1</td><td  class=xl26 >14/06/2013</td><td  class=xl26 >19/06/2013</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >04481731000157. </td><td  class=xl24 >RUSH FOTO INFO S/S LTDA - ME</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Falência e Concordata</td><td  class=xl24 >SP</td><td  class=xl24 >SÃO PAULO</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/1</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl24 >110.063.058-90. </td><td  class=xl24 >. </td><td  class=xl24 >GISELLE GUIMARAES</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negtiva de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/2</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl24 >110.063.058-90. </td><td  class=xl24 >. </td><td  class=xl24 >GISELLE GUIMARAES</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negtiva de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/3</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl24 >110.063.058-90. </td><td  class=xl24 >. </td><td  class=xl24 >GISELLE GUIMARAES</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Falência e Concordata</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negativa de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/4</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >24/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl24 >110.063.058-90. </td><td  class=xl24 >. </td><td  class=xl24 >GISELLE GUIMARAES</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/5</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >100.110.678-45. </td><td  class=xl24 >. </td><td  class=xl24 >RODGER LUIS SALVATIERRA</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negtiva de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/6</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >100.110.678-45. </td><td  class=xl24 >. </td><td  class=xl24 >RODGER LUIS SALVATIERRA</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negtiva de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/7</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >21/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >100.110.678-45. </td><td  class=xl24 >. </td><td  class=xl24 >RODGER LUIS SALVATIERRA</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Certidão de Falência e Concordata</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 >Aguardando a negtiva de Protesto</td></tr><tr><td  class=xl24 >DRIELLY KARINA</td><td  class=xl24 >241587/8</td><td  class=xl26 >17/06/2013</td><td  class=xl26 >24/06/2013</td><td  class=xl26 >20/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >100.110.678-45. </td><td  class=xl24 >. </td><td  class=xl24 >RODGER LUIS SALVATIERRA</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >241912/2</td><td  class=xl26 >18/06/2013</td><td  class=xl26 >09/07/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >60.746.948/2748-32. </td><td  class=xl24 >BANCO BRADESCO S/A</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Protesto de Cheques</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242811/1</td><td  class=xl26 >24/06/2013</td><td  class=xl26 >03/07/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl24 >. </td><td  class=xl24 >. </td><td  class=xl24 >Mauricio Roberto Unger Lavor</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Nascimento</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >CONCLUÍDO</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/2</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609.20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/3</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609.20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/4</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609.20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/5</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >José Emílio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/6</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >José Emílio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/7</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >José Emílio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Executivos Fiscais</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/8</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >04/07/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >José Emílio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SP</td><td  class=xl24 >São Paulo</td><td  class=xl24 >LIBERADO PARA ENTREGA</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/9</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609-20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/10</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609-20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/11</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >002.168.609-20. </td><td  class=xl24 >. </td><td  class=xl24 >Pedro Matias Oscar Pablo Kuhles Ebert</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/12</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >Jose Emilio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Negativa de Protesto</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/13</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >Jose Emilio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >242944/14</td><td  class=xl26 >25/06/2013</td><td  class=xl26 >16/07/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl26 >28/06/2013</td><td  class=xl24 >670.706.988.87. </td><td  class=xl24 >. </td><td  class=xl24 >Jose Emilio Pessanha</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >RN</td><td  class=xl24 >Natal</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr><tr><td  class=xl24 ></td><td  class=xl24 >243166/2</td><td  class=xl26 >26/06/2013</td><td  class=xl26 >05/07/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl26 >27/06/2013</td><td  class=xl24 >295.255.128-60. </td><td  class=xl24 >. </td><td  class=xl24 >ROBERTA ROZETTI GABARRON CECON</td><td  class=xl24 >operacional01.liberdadesp@cartoriopostal.com.br</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >SP</td><td  class=xl24 >SÃO PAULO</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 ></td><td  class=xl24 ></td></tr>

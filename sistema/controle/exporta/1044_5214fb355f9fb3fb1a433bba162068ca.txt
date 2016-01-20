@@ -1,0 +1,5 @@
+Ordens;Protocolo;Resposta ;custas;motivo do atraso
+#148862/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151210/2;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#151345/521;;Negativa ;;Detran não emitiu a certidão na data prometida 
+#152147/128;;Negativa ;;Detran não emitiu a certidão na data prometida 

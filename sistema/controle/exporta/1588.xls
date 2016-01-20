@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#</td><td  class=xl24 >CPF</td><td  class=xl24 >CNPJ</td><td  class=xl24 >Documento de</td><td  class=xl24 >Atendimento</td><td  class=xl24 >Responsável</td><td  class=xl24 >Resultado</td><td  class=xl24 >Outra Franquia</td><td  class=xl24 >Direcionado Para</td></tr><tr><td  class=xl24 >#136854/5</td><td  class=xl24 > </td><td  class=xl24 >57.561.615/0001-04 .</td><td  class=xl24 >BANCO FINASA S.A</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 ></td><td  class=xl24 >PROTESTADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140647/1</td><td  class=xl24 >18492371072 .</td><td  class=xl24 > </td><td  class=xl24 >OLIVIO JOSE SILVA DA SILVEIRA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Matricula 4745 2ºcri</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140647/5</td><td  class=xl24 >96571756072	 .</td><td  class=xl24 > </td><td  class=xl24 >WAGNER FLORES DOS SANTOS</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Matriculas 43910 e 43912 2ºcri</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140647/9</td><td  class=xl24 >	 .</td><td  class=xl24 >07954020000140	 .</td><td  class=xl24 >AP ROUTER INDUSTRIA ELETRONICA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta nos 3 Cartórios de Registro de Imóveis</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140661/1</td><td  class=xl24 > </td><td  class=xl24 >07.207.996/0001-50 .</td><td  class=xl24 >BANCO FINASA BMC S.A</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 ></td><td  class=xl24 >PROTESTADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140693/774</td><td  class=xl24 >39493393968 .</td><td  class=xl24 > </td><td  class=xl24 >JAURY ASSIS BANDEIRA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Negativa</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#140886/1</td><td  class=xl24 >427.970.559-34 .</td><td  class=xl24 > </td><td  class=xl24 >BARBARA VIRGINIA BOND REIS</td><td  class=xl24 >contato.cac@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Cascavel - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141280/87</td><td  class=xl24 > </td><td  class=xl24 >01600510000162 .</td><td  class=xl24 >FARMACIA CONTROLE LTDA EPP</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta nos 3 Cartórios de Registro de Imóveis</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141294/6</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >ALVINA FIGUEIREDO FORTE</td><td  class=xl24 >diretoria.osa@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Osasco - SP</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141594/24</td><td  class=xl24 >94185700920 .</td><td  class=xl24 > </td><td  class=xl24 >SEBASTIANA DALVA CORREA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Negativa</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141594/25</td><td  class=xl24 >94185700920 .</td><td  class=xl24 > </td><td  class=xl24 >SEBASTIANA DALVA CORREA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta nos 3 Cartórios de Registro de Imóveis</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#141712/6</td><td  class=xl24 > </td><td  class=xl24 >07.207.996/0001-50 .</td><td  class=xl24 >BANCO FINASA BMC S.A</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 ></td><td  class=xl24 >PROTESTADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142706/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Elizabeth Alixandre</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#142736/29</td><td  class=xl24 > </td><td  class=xl24 >03976852000107 .</td><td  class=xl24 >LOJA DO DIABETICO LTDA ME</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta nos 3 Cartórios de Registro de Imóveis</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143258/1</td><td  class=xl24 >090.083.308-49  .</td><td  class=xl24 > </td><td  class=xl24 >ERNANI VILELA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143403/69</td><td  class=xl24 >00389429929 .</td><td  class=xl24 > </td><td  class=xl24 >LEONARDO SPERANDIO SILVESTRE</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143441/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Ahmad Milhem Nizar El Rafihi e Paula Beatrice Garcia Lopes Canezin</td><td  class=xl24 >Isabela Cury</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Londrina - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143738/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >WALMAR CONDE</td><td  class=xl24 >Valmir Morais</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143753/411</td><td  class=xl24 > </td><td  class=xl24 >10584528000109 .</td><td  class=xl24 >PICANHA DO MAR RESTAURANTE LTDA ME</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 > NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143753/412</td><td  class=xl24 >15953789874 .</td><td  class=xl24 > </td><td  class=xl24 >ANA PAULA CUNHA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143753/452</td><td  class=xl24 >34173013949 .</td><td  class=xl24 > </td><td  class=xl24 >IVANI DA SILVEIRA MARTINS</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#143924/23</td><td  class=xl24 > </td><td  class=xl24 >07.207.996/0001-50 .</td><td  class=xl24 >BANCO BRADESCO FINANCIAMENTOS S/A</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >PROTESTADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#144272/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >Maria Madalena Duarte</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145141/138</td><td  class=xl24 >78997950959 .</td><td  class=xl24 > </td><td  class=xl24 >CARLOS EDUARDO NUNES COELHO</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145141/140</td><td  class=xl24 >04786249807 .</td><td  class=xl24 > </td><td  class=xl24 >CARLOS FARIA FERREIRA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >matrícula 61030</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145141/216</td><td  class=xl24 >01731647905 .</td><td  class=xl24 > </td><td  class=xl24 >GLAUCE RUIANA TOMAZ</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#145141/240</td><td  class=xl24 >00552074993 .</td><td  class=xl24 > </td><td  class=xl24 >GISELE DIAS DE OLIVEIRA BLEGGI CUNHA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146442/6</td><td  class=xl24 >72916362991 .</td><td  class=xl24 > </td><td  class=xl24 >HECTOR ALCIDES MUNIZ</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146442/57</td><td  class=xl24 >94494959049 .</td><td  class=xl24 > </td><td  class=xl24 >KHALID MAHMOUD ALI</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146651/1</td><td  class=xl24 > </td><td  class=xl24 >01.631.817/0001-20 .</td><td  class=xl24 >PARABELUM COMERCIAL LTDA </td><td  class=xl24 >operacional01.saoj@cartoriopostal.com.br</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146651/2</td><td  class=xl24 >511.355.237-20 .</td><td  class=xl24 > </td><td  class=xl24 >NORMA JULIA SORIA </td><td  class=xl24 >operacional01.saoj@cartoriopostal.com.br</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146766/2</td><td  class=xl24 > </td><td  class=xl24 >07.207.996/0001-50 .</td><td  class=xl24 >BANCO BRADESCO FINANCIAMENTOS S/A</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >PROTESTADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#146784/57</td><td  class=xl24 >03237493996 .</td><td  class=xl24 > </td><td  class=xl24 >SILONE DA SILVA BERTULA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147271/138</td><td  class=xl24 >37701940987 .</td><td  class=xl24 > </td><td  class=xl24 >MARIA HELENA PEREIRA DE PAULO</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >matrícula 20979</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147271/139</td><td  class=xl24 >09285750982 .</td><td  class=xl24 > </td><td  class=xl24 >LAURO RAIMUNDO DE PAULO</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >matrícula 20979</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147271/174</td><td  class=xl24 >11467835072 .</td><td  class=xl24 > </td><td  class=xl24 >LUIZ MANOEL CONSTANTINO</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147366/1</td><td  class=xl24 > </td><td  class=xl24 >83.708.354/0001-12 .</td><td  class=xl24 >AM CONSTRUÇÕES E INCORPORAÇÕES LTDA</td><td  class=xl24 >operacional01.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147366/2</td><td  class=xl24 > </td><td  class=xl24 >83.812.404/0001-07 .</td><td  class=xl24 >Criciúma Construções Ltda </td><td  class=xl24 >operacional01.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147366/3</td><td  class=xl24 > </td><td  class=xl24 >048.911.97/0001-57 .</td><td  class=xl24 >Jardins Cia Ltda </td><td  class=xl24 >operacional01.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147983/163</td><td  class=xl24 >09289871911 .</td><td  class=xl24 > </td><td  class=xl24 >GLADIS ELISA BECKER</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147983/173</td><td  class=xl24 > </td><td  class=xl24 >08466626000108 .</td><td  class=xl24 >TERRA MATER RESTAURANTES LTDA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#147983/177</td><td  class=xl24 >16167054851 .</td><td  class=xl24 > </td><td  class=xl24 >SUELI APARECIDA DE MORAES DE CARVALHO</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >matrícula 67331</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148258/122</td><td  class=xl24 > </td><td  class=xl24 >07559045000140 .</td><td  class=xl24 >MARIA CONCEICAO MEDEIROS ME</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >Melina Klein D´avila</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/133</td><td  class=xl24 >47022248087 .</td><td  class=xl24 > </td><td  class=xl24 >CIRO CARLOS MELLO COUTO</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/149</td><td  class=xl24 > </td><td  class=xl24 >05913039000113 .</td><td  class=xl24 >COM EX REPRESENTACOES COMERCIO E IMPORTACAO L</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/150</td><td  class=xl26 >01074614984 .</td><td  class=xl24 > </td><td  class=xl24 >FRANCISCO JAVIER AGUT SANCHEZ</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/237</td><td  class=xl24 >60311380000 .</td><td  class=xl24 > </td><td  class=xl24 >ABDEL MUHDI SAID MOHD OMAR</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/238</td><td  class=xl24 >60311380000 .</td><td  class=xl24 > </td><td  class=xl24 >ABDEL MUHDI SAID MOHD OMAR</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148602/391</td><td  class=xl24 >62708899015 .</td><td  class=xl24 > </td><td  class=xl24 >RUDINEI CAMILO DE FREITAS</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148817/30</td><td  class=xl24 >55200923972 .</td><td  class=xl24 > </td><td  class=xl24 >ELIETE APARECIDA CARGNIN</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148943/1</td><td  class=xl24 >175.319.260-91 .</td><td  class=xl24 > </td><td  class=xl24 >Dario José Tessari</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148943/2</td><td  class=xl24 >248.777.350-20 .</td><td  class=xl24 > </td><td  class=xl24 >Vera Maria Trentin Trintin</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148951/150</td><td  class=xl26 >21085994104 .</td><td  class=xl24 > </td><td  class=xl24 >MARIA DO ROSARIO DA SILVA SOUZA</td><td  class=xl24 >Ana Santana</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >NADA CONSTA</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#148984/1</td><td  class=xl24 >763496327-53 .</td><td  class=xl24 > </td><td  class=xl24 >FRANCISCO CARLOS BUENO CORDOBA / DANIELA DUARTE NEVES </td><td  class=xl24 >operacional01.resenderj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Resende - RJ</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#149165/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >CRISTIANO GIO ORTIZ </td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#150247/1</td><td  class=xl24 >027.246.109-11 .</td><td  class=xl24 > </td><td  class=xl24 >Santina Aparecida Barbosa de Oliveira Silvestre. </td><td  class=xl24 >contato.cac@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Cascavel - PR</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#150476/1</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >MÁRIO ISIDORO FILHO</td><td  class=xl24 >Jessica Lemos</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#150822/1</td><td  class=xl24 >028.293.269-03 .</td><td  class=xl24 >05462617/0001-42  .</td><td  class=xl24 >Ivan José Savi</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#151086/141</td><td  class=xl24 >03653459460 .</td><td  class=xl24 > </td><td  class=xl24 >CRISTIANE CAMPINA DE MIRANDA</td><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 >Nada Consta</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152022/4</td><td  class=xl24 > </td><td  class=xl24 > </td><td  class=xl24 >cartório : cartório silvia jardim</td><td  class=xl24 >Milton Batista</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#152060/1</td><td  class=xl24 >005.048.309-96 .</td><td  class=xl24 > </td><td  class=xl24 >GISELE SANTOS</td><td  class=xl24 >Talita Larisse</td><td  class=xl24 >Bianca Medeiros da Silva</td><td  class=xl24 >CANCELAMENTO EFETUADO</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154590/1</td><td  class=xl24 >221.531.369-20 .</td><td  class=xl24 > </td><td  class=xl24 >FANY WOJCIKIEWICZ</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154590/2</td><td  class=xl24 >031.794.569-65  .</td><td  class=xl24 > </td><td  class=xl24 >ROSIANE LINAURA SANTOS</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#154590/3</td><td  class=xl24 > </td><td  class=xl24 >82.861.832/0001-67  .</td><td  class=xl24 >ROSIANE LINAURA SANTOS ME</td><td  class=xl24 >contato.saoj@cartoriopostal.com.br</td><td  class=xl24 >diretoria.fln@cartoriopostal.com.br</td><td  class=xl24 ></td><td  class=xl24 >São José - SC</td><td  class=xl24 ></td></tr>

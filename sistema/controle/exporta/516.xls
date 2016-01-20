@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >#Ordem</td><td  class=xl24 >Franquia</td><td  class=xl24 >Custas/Hon.</td><td  class=xl24 >Valor Recebido</td><td  class=xl24 >Departamento</td><td  class=xl24 >Servico</td><td  class=xl24 >Atividade</td><td  class=xl24 >Responsavel</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >#127137/29</td><td  class=xl24 >Cartório Postal - Porto Alegre - RS</td><td  class=xl24 >R$ 214.85</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >CONCLUÍDO OPERACIONAL</td><td  class=xl24 >Rodrigo Paiva</td></tr><tr><td  class=xl24 >#127137/30</td><td  class=xl24 >Cartório Postal - Porto Alegre - RS</td><td  class=xl24 >R$ 214.85</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >AGUARDANDO INFORMAÇÕES DO CLIENTE</td><td  class=xl24 >Rodrigo Paiva</td></tr><tr><td  class=xl24 >#130867/1</td><td  class=xl24 >Cartório Postal - Sorocaba - SP</td><td  class=xl24 >R$ 315.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >JULIANA</td></tr><tr><td  class=xl24 >#130867/2</td><td  class=xl24 >Cartório Postal - Sorocaba - SP</td><td  class=xl24 >R$ 315.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Busca Verbal (Declaração de Nada Consta)</td><td  class=xl24 >RESPONSÁVEL REATRIBUIDO</td><td  class=xl24 >JULIANA</td></tr><tr><td  class=xl24 >#130907/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 83.05</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Certidão de Imóvel - Por Endereço</td><td  class=xl24 >AGUARDANDO DEPÓSITO FRANQUIA</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#130977/1</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 17.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Processo</td><td  class=xl24 >Distribuidor Civel</td><td  class=xl24 >DOCUMENTO RECEBIDO</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#130977/2</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 23.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Processo</td><td  class=xl24 >Justiça do Trabalho</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131049/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 7.20</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131049/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 226.65</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 7.20</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 220.43</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/3</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 220.43</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/3</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 7.20</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/7</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 7.20</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/7</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 220.42</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/10</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 7.20</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131123/10</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 220.42</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#131181/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 25.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131181/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 198.35</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131264/1</td><td  class=xl24 >Cartório Postal - Ribeirão Preto - SP</td><td  class=xl24 >R$ 60.97</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Morando & Morando Serviços de Transcrição de Documentos LTDA ME</td></tr><tr><td  class=xl24 >#131264/2</td><td  class=xl24 >Cartório Postal - Ribeirão Preto - SP</td><td  class=xl24 >R$ 33.47</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Certidão de Matrícula Atualizada</td><td  class=xl24 >SERVIÇO CONCLUÍDO</td><td  class=xl24 >Morando & Morando Serviços de Transcrição de Documentos LTDA ME</td></tr><tr><td  class=xl24 >#131651/1</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 232.90</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131651/2</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 42.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131651/3</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 232.90</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131651/4</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 42.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131651/5</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 232.90</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131651/6</td><td  class=xl24 >Cartório Postal - Bauru - SP</td><td  class=xl24 >R$ 42.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >LIBERADO PARA FRANQUIA</td><td  class=xl24 >Viviani Cossari</td></tr><tr><td  class=xl24 >#131748/16</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 642.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Protesto</td><td  class=xl24 >Protesto de Notas Promissórias</td><td  class=xl24 >SERVIÇO PARADO</td><td  class=xl24 >Ricardo Silva</td></tr><tr><td  class=xl24 >#131756/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131756/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131796/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131796/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131809/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131809/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131809/3</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131809/3</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131813/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131813/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131862/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131862/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/40</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/40</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/129</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/129</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/200</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/200</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/212</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/212</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/213</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/213</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/214</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/214</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/215</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 36.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#131876/215</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 188.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >SOLICITADO AGUARDANDO DOCUMENTO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132032/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 25.25</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132032/1</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 198.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/22</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 25.25</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/22</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 198.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/91</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 198.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/91</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 25.25</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/133</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 198.10</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132116/133</td><td  class=xl24 >Sistecart - Sistema de Cartório Certidões S/C Ltda</td><td  class=xl24 >R$ 25.25</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis</td><td  class=xl24 >RETORNO DO DEPÓSITO</td><td  class=xl24 >Bruno Mendes</td></tr><tr><td  class=xl24 >#132599/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 222.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#132599/1</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 5.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#132599/3</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 222.50</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr><tr><td  class=xl24 >#132599/3</td><td  class=xl24 >Cartório Postal - São José do Rio Preto - SP</td><td  class=xl24 >R$ 5.00</td><td  class=xl24 >R$ 0.00</td><td  class=xl24 >Imóveis</td><td  class=xl24 >Pesquisa de Imóveis - Através de Certidões</td><td  class=xl24 >PARECER FINANCEIRO</td><td  class=xl24 >Nikita Sara e Lima da Silva Lino</td></tr>

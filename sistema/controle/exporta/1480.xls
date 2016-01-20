@@ -1,0 +1,141 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="exporta_1(6)_arquivos/filelist.xml">
+<link rel=Edit-Time-Data href="exporta_1(6)_arquivos/editdata.mso">
+<link rel=OLE-Object-Data href="exporta_1(6)_arquivos/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>admin</o:LastAuthor>
+  <o:LastSaved>2009-12-24T22:55:05Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///C:\Users\admin\AppData\Local\Temp\RarSFX0\"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+
+.xl25
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0;}
+	
+.xl26
+	{mso-style-parent:style0;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";}
+
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>NOME_PLANILHA</x:Name>
+    <x:WorksheetOptions>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>0</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>1</x:ActiveRow>
+       <x:ActiveCol>6</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9240</x:WindowHeight>
+  <x:WindowWidth>10005</x:WindowWidth>
+  <x:WindowTopX>120</x:WindowTopX>
+  <x:WindowTopY>135</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1031 style='border-collapse:
+ collapse;table-layout:fixed;width:773pt'><tr><td  class=xl24 >Relatório de Comissão por Atendente</td></tr><tr><td  class=xl24 >Ref. 04/2012</td></tr><tr><td  class=xl24 ></td></tr><tr><td  class=xl24 >Atendente</td><td  class=xl24 >Google/Site</td><td  class=xl24 >Fechado</td><td  class=xl24 >Orçamento/Aberto</td><td  class=xl24 >Pago</td><td  class=xl24 >Á Receber</td><td  class=xl24 >Telefone</td><td  class=xl24 >Fechado</td><td  class=xl24 >Orçamento/Aberto</td><td  class=xl24 >Pago</td><td  class=xl24 >Á Receber</td><td  class=xl24 >Balcão</td><td  class=xl24 >Fechado</td><td  class=xl24 >Orçamento/Aberto</td><td  class=xl24 >Pago</td><td  class=xl24 >Á Receber</td><td  class=xl24 >Correios</td><td  class=xl24 >Fechado</td><td  class=xl24 >Orçamento/Aberto</td><td  class=xl24 >Pago</td><td  class=xl24 >Á Receber</td><td  class=xl24 >Outros</td><td  class=xl24 >Fechado</td><td  class=xl24 >Orçamento/Aberto</td><td  class=xl24 >Pago</td><td  class=xl24 >Á Receber</td><td  class=xl24 >Total</td><td  class=xl24 >Total Fechado</td><td  class=xl24 >Total Orçamento/Aberto</td><td  class=xl24 >Total Pago</td><td  class=xl24 >Total Á Receber</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Administrador</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="15">15</td><td  class=xl24 align=right x:num="14">14</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 10800,00</td><td  class=xl24 align=right x:num="15">15</td><td  class=xl24 align=right x:num="14">14</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 10800,00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Erick Vilela de Melo</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 ></td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Sonia Tomazini</td><td  class=xl24 align=right x:num="184">184</td><td  class=xl24 align=right x:num="21">21</td><td  class=xl24 align=right x:num="163">163</td><td  class=xl24 >R$ 1563,00</td><td  class=xl24 >R$ 1360,00</td><td  class=xl24 align=right x:num="87">87</td><td  class=xl24 align=right x:num="81">81</td><td  class=xl24 align=right x:num="6">6</td><td  class=xl24 >R$ 4739,00</td><td  class=xl24 >R$ 1964,00</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 ></td><td  class=xl24 >R$ 1020,00</td><td  class=xl24 >R$ 269,01</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="102">102</td><td  class=xl24 align=right x:num="101">101</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 6653,00</td><td  class=xl24 >R$ 1340,00</td><td  class=xl24 align=right x:num="382">382</td><td  class=xl24 align=right x:num="212">212</td><td  class=xl24 align=right x:num="170">170</td><td  class=xl24 >R$ 13975,00</td><td  class=xl24 >R$ 4933,01</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Marcia Santana</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 ></td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="82">82</td><td  class=xl24 align=right x:num="82">82</td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 8150,00</td><td  class=xl24 align=right x:num="83">83</td><td  class=xl24 align=right x:num="82">82</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 8150,00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Laís Xavier</td><td  class=xl24 align=right x:num="4">4</td><td  class=xl24 ></td><td  class=xl24 align=right x:num="4">4</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="2">2</td><td  class=xl24 align=right x:num="2">2</td><td  class=xl24 ></td><td  class=xl24 >R$ 232,00</td><td  class=xl24 >R$ 70,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 ></td><td  class=xl24 >R$ 50,00</td><td  class=xl24 >R$ 0,02</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 align=right x:num="4">4</td><td  class=xl24 >R$ 282,00</td><td  class=xl24 >R$ 70,02</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Jessica Lemos</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 ></td><td  class=xl24 >R$ 348,00</td><td  class=xl24 >R$ 347,50</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="53">53</td><td  class=xl24 align=right x:num="52">52</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 873,00</td><td  class=xl24 >R$ 8035,00</td><td  class=xl24 align=right x:num="84">84</td><td  class=xl24 align=right x:num="84">84</td><td  class=xl24 ></td><td  class=xl24 >R$ 390,00</td><td  class=xl24 >R$ 7066,60</td><td  class=xl24 align=right x:num="142">142</td><td  class=xl24 align=right x:num="141">141</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 1611,00</td><td  class=xl24 >R$ 15449,10</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Paulo Ricardo Barbosa</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="6">6</td><td  class=xl24 align=right x:num="6">6</td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 597,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="520">520</td><td  class=xl24 align=right x:num="520">520</td><td  class=xl24 ></td><td  class=xl24 >R$ 7508,46</td><td  class=xl24 >R$ 15517,63</td><td  class=xl24 align=right x:num="526">526</td><td  class=xl24 align=right x:num="526">526</td><td  class=xl24 align=right x:num="0">0</td><td  class=xl24 >R$ 7508,46</td><td  class=xl24 >R$ 16114,63</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Renata Aparecida</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="69">69</td><td  class=xl24 align=right x:num="52">52</td><td  class=xl24 align=right x:num="17">17</td><td  class=xl24 >R$ 1076,00</td><td  class=xl24 >R$ 7362,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="69">69</td><td  class=xl24 align=right x:num="52">52</td><td  class=xl24 align=right x:num="17">17</td><td  class=xl24 >R$ 1076,00</td><td  class=xl24 >R$ 7362,00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Rodrigo Nascimento</td><td  class=xl24 align=right x:num="135">135</td><td  class=xl24 align=right x:num="17">17</td><td  class=xl24 align=right x:num="118">118</td><td  class=xl24 >R$ 351,00</td><td  class=xl24 >R$ 2176,00</td><td  class=xl24 align=right x:num="12">12</td><td  class=xl24 align=right x:num="12">12</td><td  class=xl24 ></td><td  class=xl24 >R$ 992,00</td><td  class=xl24 >R$ 553,50</td><td  class=xl24 align=right x:num="7">7</td><td  class=xl24 align=right x:num="7">7</td><td  class=xl24 ></td><td  class=xl24 >R$ 863,80</td><td  class=xl24 >R$ 413,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 align=right x:num="5">5</td><td  class=xl24 ></td><td  class=xl24 >R$ 226,20</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="159">159</td><td  class=xl24 align=right x:num="41">41</td><td  class=xl24 align=right x:num="118">118</td><td  class=xl24 >R$ 2433,00</td><td  class=xl24 >R$ 3142,50</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Cassia Mendes</td><td  class=xl24 align=right x:num="106">106</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 align=right x:num="97">97</td><td  class=xl24 >R$ 1054,00</td><td  class=xl24 >R$ 484,00</td><td  class=xl24 align=right x:num="12">12</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 >R$ 936,00</td><td  class=xl24 >R$ 393,00</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 align=right x:num="2">2</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 548,00</td><td  class=xl24 >R$ 377,00</td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 ></td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 ></td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 >R$ 0,00</td><td  class=xl24 align=right x:num="122">122</td><td  class=xl24 align=right x:num="20">20</td><td  class=xl24 align=right x:num="102">102</td><td  class=xl24 >R$ 2538,00</td><td  class=xl24 >R$ 1254,00</td><td  class=xl24 ></td></tr><tr><td  class=xl24 >Total</td><td  class=xl24 align=right x:num="431">431</td><td  class=xl24 align=right x:num="47">47</td><td  class=xl24 align=right x:num="384">384</td><td  class=xl24 >R$ 2968,00</td><td  class=xl24 >R$ 4020,00</td><td  class=xl24 align=right x:num="124">124</td><td  class=xl24 align=right x:num="115">115</td><td  class=xl24 align=right x:num="9">9</td><td  class=xl24 >R$ 7247,00</td><td  class=xl24 >R$ 3925,00</td><td  class=xl24 align=right x:num="19">19</td><td  class=xl24 align=right x:num="18">18</td><td  class=xl24 align=right x:num="1">1</td><td  class=xl24 >R$ 2431,80</td><td  class=xl24 >R$ 1059,01</td><td  class=xl24 align=right x:num="122">122</td><td  class=xl24 align=right x:num="104">104</td><td  class=xl24 align=right x:num="18">18</td><td  class=xl24 >R$ 1949,00</td><td  class=xl24 >R$ 15397,00</td><td  class=xl24 align=right x:num="812">812</td><td  class=xl24 align=right x:num="809">809</td><td  class=xl24 align=right x:num="3">3</td><td  class=xl24 >R$ 14827,66</td><td  class=xl24 >R$ 42874,25</td><td  class=xl24 align=right x:num="1508">1508</td><td  class=xl24 align=right x:num="1093">1093</td><td  class=xl24 align=right x:num="415">415</td><td  class=xl24 >R$ 29423,46</td><td  class=xl24 >R$ 67275,26</td><td  class=xl24 ></td></tr>

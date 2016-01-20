@@ -1,0 +1,2 @@
+Data Envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+4/4/2012;Distrato - 12.1 E 12.5.1;219;B0902;11/6/2011;HESA 75 INVESTIMENTOS IMOBILIÁRIOS LTDA.;JAIME MARINHO PEREIRA FILHO E OU ELAINE SANTOS COSTA PEREIRA;LOT. Recanto De Itapua, 93 D;Itapuã;Salvador;BA;41.635-020;;COLETÂNEA VALE DO CANELA;XXXXXXXXXX;XXXXXXXX;XXXXXX;XXXXXXXXXXX;XXXX

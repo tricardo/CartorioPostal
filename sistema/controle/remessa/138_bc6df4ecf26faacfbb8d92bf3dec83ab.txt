@@ -1,0 +1,2 @@
+Data envio;Tipo;Obra;Unidade;Data do Contrato;Notificante;Notificado;Endereço;Bairro;Cidade;Estado;CEP;Telefone;Empreendimento;Mensalidade;Vencimento;Encargos;Valor;Correção
+10/2/2012;Distrato;129;BO032;30/6/2011;HELBAACO EMPREENDIMENTOS IMOBILIÁRIOS LTDA;NELSON ANTONIO JUNIOR;Rua das Palmeiras,302 Ap.1709 Bloco 3;Gopoúva;Guarulhos;SP;07022-000;(11) 2422-5366;CONDOMINIUM PARQUE CLUBE;xxxxxx;xxxxxx;xxxxxx;xxxxxx;xxxxxx
