@@ -1,0 +1,33 @@
+--11/05/2010 11:03:37
+UPDATE vsites_servico SET dias=``, status=`Inativo`, descricao=`Busca 18 Cartórios`, id_departamento=`7`, site=`1` WHERE id_servico=`46`;--11/05/2010 11:03:41
+UPDATE vsites_servico SET dias=``, status=`Ativo`, descricao=`Certidão Quinzenária`, id_departamento=`7`, site=`1` WHERE id_servico=`158`;
+--11/05/2010 11:03:57
+UPDATE vsites_servico SET dias=``, status=`Ativo`, descricao=`Certidão Vintenária com Negativa de Ônus`, id_departamento=`7`, site=`1` WHERE id_servico=`162`;
+--11/05/2010 11:04:46
+UPDATE vsites_servico SET dias=``, status=`Ativo`, descricao=`Certidão Trintenária`, id_departamento=`7`, site=`1` WHERE id_servico=`164`;
+--11/05/2010 11:04:46
+UPDATE vsites_servico_campo
+						SET campo=`certidao_cartorio`,tipo=`text`,nome=`CARTÓRIO`,
+							valor=``,largura=`470`,mascara=``,
+							site=`1`,ordenacao=`1`,obrigatorio=`1`
+						WHERE id_servico_campo=`1412`;
+--11/05/2010 11:04:46
+UPDATE vsites_servico_campo
+						SET campo=`certidao_matricula`,tipo=`text`,nome=`MATRÍCULA`,
+							valor=``,largura=`470`,mascara=``,
+							site=`1`,ordenacao=`2`,obrigatorio=`1`
+						WHERE id_servico_campo=`1413`;
+--11/05/2010 11:04:46
+UPDATE vsites_servico_campo
+						SET campo=`certidao_cidade`,tipo=`text`,nome=`CIDADE`,
+							valor=``,largura=`470`,mascara=``,
+							site=`1`,ordenacao=`3`,obrigatorio=`1`
+						WHERE id_servico_campo=`1414`;
+--11/05/2010 11:04:46
+UPDATE vsites_servico_campo
+						SET campo=`certidao_estado`,tipo=`text`,nome=`UF`,
+							valor=``,largura=`470`,mascara=``,
+							site=`1`,ordenacao=`4`,obrigatorio=`1`
+						WHERE id_servico_campo=`1415`;
+--11/05/2010 11:04:46
+DELETE FROM vsites_servico_campo WHERE id_servico_campo = `` AND id_servico=`164`;

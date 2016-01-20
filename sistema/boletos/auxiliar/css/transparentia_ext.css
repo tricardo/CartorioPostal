@@ -1,0 +1,110 @@
+.bloco{ display:block; float:none; clear:both;}
+.container{ width:850px; border-bottom: 0; }
+.footer{ 
+	bottom:0;
+	height:20px;
+	position:fixed;
+	text-align:center;
+	width:850px;
+}
+.main{ padding: inherit;}
+.header{
+    height:60px;
+    background: url('../img/logo.jpg')  no-repeat scroll 0 -5px;
+    background-color:#FFF;
+    padding-right: 10px;
+    margin-top:5px;
+    margin-bottom:2px;
+}
+.header h2{
+    color:#367EAA;
+    padding:0;
+    text-align:right;
+    font-size:12px;
+}
+.header h4,.header h4 a{
+    text-align:right;
+    color: #367EA6;
+}
+
+body{ background-color: #555; }
+.header h1{
+    text-align:center;
+    font-size:30px;
+    margin: 10px;
+    color: #FFF;
+}
+.content { width:740px;}
+.sidenav,.item{ min-height:420px; }
+.content .item { padding:0px; }
+/* floats */
+.left {float: left;}
+.right {float: right;}
+
+.erro, .alerta, .sucesso { padding: 10px; margin: 10px; font-size: 1.3em; }
+.erro ul, .alerta ul, .sucesso { list-style: none; }
+.erro{ border: 1px solid #F00; color: #800;  background-color: #ECC;}
+.alerta{ border: 1px solid #FF0; color: #880; background-color: #EEC;}
+.sucesso{ border: 1px solid #0E0; color: #080; background-color: #CEC;}
+
+ .rem,.add, .pdf{
+ 	width: 16px;
+ 	height: 16px;
+    color: transparent;
+ 	margin-right: 5px;
+ 	display: inline-block;
+        border: 0;
+ }
+ .rem:hover,.add:hover,.pdf:hover{ color: transparent; }
+ .rem{ background: url('../img/icones/menos.gif'); }
+ .add{ 	background: url('../img/icones/add.gif'); }
+.pdf { background: url('../img/icones/pdf.gif'); }
+
+ .btn_multi{ width: 150px; margin: 0 5px 2px 5px; }
+ .btn{ padding-top: 50px;}
+
+ .valor { text-align: right; }
+
+label {
+    background-color: #DDD;
+    border: 0;
+    font: normal 1.1em Verdana, sans-serif;
+    margin: 2px 0px 2px 2px;
+    padding: 2px;
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    margin: 1px;
+    color: #000;
+}
+legend{ font-size: 1.5em; }
+fieldset{ padding: 1px;}
+#orcamentoForm fieldset{ width:420px; }
+
+select.multi {min-width: 150px; min-height: 150px;}
+
+.content li { list-style-type:none }
+.content li { padding:1px;margin:1px;}
+.content ul li:nth-child(2n) {
+  background:lightgray;
+}
+
+table.lista { width: 730px; }
+table.lista th{ background-color:#003366; color:#FFF; text-align:left;}
+table.lista tr:nth-child(2n) {
+  background:lightgray;
+}
+.lista table tr{ height: 15px; font-size:12px;}
+input, select, textarea{ margin:0.5px; }
+
+.sidenav,.sidenav h1 { background-color:#FFF; }
+.sidenav ul{ background-color:#222}
+.sidenav h1{ height:auto; padding: 0;}
+.sidenav ul li { margin-bottom:1px; background-color:#FFF; }
+    
+.sortable li{ 
+	cursor: move;
+}
+#campos{
+	margin: 20px 10px 10px;	
+}

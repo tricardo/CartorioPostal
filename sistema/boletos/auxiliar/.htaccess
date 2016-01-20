@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^mjs/(.*)$ js/$1.js
+RewriteRule ^especjs/([[:alnum:]]+)\.([[:alnum:]]+)$ $1/$1.$2.js
+
+#regra com 'controle/ação/valor/get1/var1
+RewriteRule ^([[:alnum:]]+)/?([[:alnum:]]*)/?([[:alpha:][:alnum:]]*)/?([[:alnum:]]*)/?([[:alnum:]]*)?/?([[:alnum:]]*)/?([[:alnum:]]*)?$ $1/index.php?requisicao=$1&acao=$2&valor=$3&$4=$5&$6=$7
+RewriteRule ^$ home/index.php?requisicao=home

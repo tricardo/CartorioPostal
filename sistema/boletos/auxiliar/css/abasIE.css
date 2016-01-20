@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.tb-conteudo {
+ margin:0px;	
+}
+
+.conteudo {
+ height: 100px;
+ width:740px;
+}
+
+#td_opcao1,#td_opcao2,#td_opcao3,#td_opcao4{
+	width:80px;
+}
+
+#td_opcao2,#td_opcao3{
+	border-left:none;
+}
+
+
+.menu3{
+	border:none;
+	border-bottom:1px solid #000000;
+	background-color:#FFFFFF;
+}
+
+input {
+	line-height:20px;
+	height:15px;
+}
+
+
