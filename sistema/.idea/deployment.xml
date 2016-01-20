@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Cartorio Postal (Produção)">
+    <serverData>
+      <paths name="Cartorio Postal (Produção)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/sistema" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/public_html/sistema/anexos" />
+            <excludedPath path="/public_html/sistema/anexos_cliente" />
+            <excludedPath path="/public_html/sistema/anexos_compras" />
+            <excludedPath path="/public_html/sistema/anexos_fin" />
+            <excludedPath path="/public_html/sistema/anexos_fornecedor" />
+            <excludedPath path="/public_html/sistema/anexos_franquia" />
+            <excludedPath path="/public_html/sistema/anexos_imp" />
+            <excludedPath path="/public_html/sistema/anexosnovos" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_cliente" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_compras" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_fin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_fornecedor" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_franquia" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexos_imp" />
+            <excludedPath local="true" path="$PROJECT_DIR$/anexosnovos" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
