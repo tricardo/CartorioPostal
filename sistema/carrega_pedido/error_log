@@ -1,0 +1,42 @@
+[07-Dec-2015 12:55:02 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
+[07-Dec-2015 17:00:44 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
+[08-Dec-2015 11:31:01 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
+[08-Dec-2015 16:17:23 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
+[08-Dec-2015 16:17:37 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
+[08-Dec-2015 22:35:19 Etc/GMT+2] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') order by atividade' at line 1' in /home/cartorio/public_html/sistema/model/Database.php:156
+Stack trace:
+#0 /home/cartorio/public_html/sistema/model/Database.php(122): Database->generateError('You have an err...')
+#1 /home/cartorio/public_html/sistema/model/AtividadeDAO.php(258): Database->fetch()
+#2 /home/cartorio/public_html/sistema/carrega_pedido/p_atividade.php(48): AtividadeDAO->listaAtividades(NULL)
+#3 {main}
+  thrown in /home/cartorio/public_html/sistema/model/Database.php on line 156
