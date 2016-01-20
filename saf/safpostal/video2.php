@@ -1,0 +1,1 @@
+<object width="640" height="344"><param name="movie" value="http://www.megavideo.com/v/GUN9IJ05cd1e9fa0ce10b7ee79055947fe8200072"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.megavideo.com/v/GUN9IJ05cd1e9fa0ce10b7ee79055947fe8200072" type="application/x-shockwave-flash" allowfullscreen="true" width="640" height="344"></embed></object>

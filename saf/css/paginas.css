@@ -1,0 +1,628 @@
+@charset "iso-8859-1";
+/* CSS Document */
+
+/* texto1 */
+.texto1{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FFFFFF;
+}
+
+/* texto2 */
+.texto2{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+}
+
+/*-----------------------------------diversos-----------------------------------*/
+
+#linha_h1{
+	border:1px dashed #CCCCCC;
+	width:auto;
+	margin-bottom:10px;
+}
+
+#linha_h2{
+	border:0px solid #CCCCCC;
+	width:auto;
+	margin-bottom:5px;
+}
+
+#linha_h3{
+	border:1px dashed #CCCCCC;
+	width:auto;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.respotas_erro{
+	border:1px solid #FF0000;
+	background-color:#F5F5F5;
+	width:550px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+.respotas_sucesso{
+	border:1px solid #0071B6;
+	background-color:#F5F5F5;
+	width:550px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+.respotas_erro span{
+	color:#FF0000;
+}
+
+table#alter td{
+	background:#CEEDFF;
+}
+
+table#alter tr.dif td{
+	background:#FFFFFF;
+	border-bottom:1px dashed #0071B6;
+	display:block;
+}
+
+/* estrutura */
+#estrutura{
+	border:0px solid #000000;
+	width:960px;
+	height:auto;
+	margin:auto;
+	position:relative;
+	overflow:hidden;
+}
+
+#conteudo{
+	border:0px solid #000000;
+	width:752px;
+	height:autopx;
+	margin-top:10px;
+	margin-left:2px;
+	text-align:left;
+	float:left;
+}
+
+/*-----------------------------------login_saf-----------------------------------*/
+
+/* topo */
+#topo_saf{
+	border:0px solid #000000;
+	width:395px;
+	height:100px;
+	margin-left:300px;
+	margin-top:80px;
+}
+
+/* fundo */
+#fundo_saf{
+	border:0px solid #000000;
+	width:393px;
+	height:200px;
+	background-image:url(../images/paginas/login/fundo/login_fundo.png);
+	margin-left:300px;
+}
+
+/* rodape */
+#rodape_saf{
+	border:0px solid #000000;
+	width:395px;
+	height:34px;
+	margin-left:300px;
+}
+
+/* login_form1 */
+#login_form1_saf{
+	border:0px solid #000000;
+	width:353px;
+	height:auto;
+	margin-left:20px;
+	margin-top:0px;
+}
+
+/*-----------------------------------index_saf-----------------------------------*/
+
+/* estrutura */
+#estrutura_saf{
+	border:0px solid #000000;
+	background-color:#FFFFFF;
+	width:920px;
+	height:auto;
+	margin-top:2px;
+	margin-left:20px;
+	text-align:left;
+	float:left;
+}
+
+/* usuario */
+#usuario_saf{
+	border:0px solid #000000;
+	background-color:#0071B6;
+	width:618px;
+	height:18px;
+	text-align:left;
+	padding-top:5px;
+	float:left;
+}
+
+/* data */
+#data_saf{
+	border:0px solid #000000;
+	background-color:#0071B6;
+	width:auto;
+	height:18px;
+	margin-left:618px;
+	text-align:right;
+	padding-top:5px;
+}
+
+/* menu_lateral*/
+#menu_lateral_saf{
+	border:0px solid #000000;
+	width:auto;
+	height:auto;
+	margin-top:-2px;
+	margin-left:20px;
+	text-align:left;
+	padding-top:5px;
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+
+/* barra_de_titulo */
+#barra_de_titulo_saf{
+	border:0px solid #000000;
+	width:auto;
+	height:20px;
+	text-align:left;
+	background-image:url(../images/paginas/index/barra_de_titulo1.png);
+	position:relative;
+	overflow:hidden;
+
+}
+
+/* titulo1 */
+#titulo1_saf{
+	border:0px solid #000000;
+	width:auto;
+	height:auto;
+	text-align:left;
+	padding-top:0px;
+	float:left;
+}
+
+/* titulo2 */
+#titulo2_saf{
+	border:0px solid #000000;
+	width:auto;
+	height:auto;
+	margin-left:350px;
+	text-align:left;
+	padding-top:0px;
+}
+
+/* conteudo */
+#conteudo_saf{
+	border:0px solid #000000;
+	width:auto;
+	height:18px;
+	margin-top:4px;
+	margin-left:2px;
+	text-align:left;
+	padding-top:5px;
+	float:left;
+}
+
+#logo{
+	border:0px solid #000000;
+	width:230px;
+	height:83px;
+	top:10px;
+	position:absolute;
+	overflow:hidden;
+}
+
+/*-----------------------------------helpdesk-----------------------------------*/
+
+/* menu_helpdesk */
+#menu_helpdesk{
+	border:0px solid #000000;
+	width:339px;
+	height:14px;
+	margin-top:10px;
+	margin-left:260px;
+	text-align:left;
+	float:left;
+}
+
+/*-----------------------------------chat-----------------------------------*/
+
+/* conteudo_chat */
+#conteudo_chat{
+	border:0px solid #000000;
+	background:url(../images/paginas/chat/tela.png);
+	width:470px;
+	height:360px;
+	margin-top:10px;
+	margin-left:145px;
+	text-align:left;
+	float:left;
+}
+
+/* titulo */
+#titulo_chat{
+	border:0px solid #000000;
+	width:467px;
+	height:35px;
+	margin-top:35px;
+	margin-bottom:20px;
+	margin-left:0px;
+	text-align:center;
+	float:left;
+}
+
+/* formulario do chat login */
+#form_chat_login{
+	border:0px solid #FF0000;
+	width:467px;
+	height:192px;
+	margin-top:30px;
+	margin-left:0px;
+	text-align:left;
+	float:left;
+}
+
+/* caixa de mensagem */
+.respotas_erro_chat{
+	border:1px solid #FF0000;
+	background-color:#F5F5F5;
+	width:450px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+/* caixa de mensagem */
+.respotas_sucesso_chat{
+	border:1px solid #0071B6;
+	background-color:#F5F5F5;
+	width:450px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+/*-----------------------------------chat - sessao-----------------------------------*/
+
+/* conteudo_chat_sessao */
+#conteudo_chat_sessao{
+	border:0px solid #000000;
+	background:url(../images/paginas/chat/tela.png);
+	width:470px;
+	height:360px;
+	margin-top:10px;
+	margin-left:145px;
+	text-align:left;
+	float:left;
+}
+
+/* titulo */
+#titulo_chat_sessao{
+	border:0px solid #000000;
+	width:467px;
+	height:35px;
+	margin-top:20px;
+	margin-bottom:0px;
+	margin-left:0px;
+	text-align:center;
+	float:left;
+}
+
+/* lista_espera */
+#lista_espera{
+	border:0px solid #0071B6;
+	width:auto;
+	height:auto;
+	margin-top:0px;
+	margin-bottom:2px;
+	margin-left:5px;
+	text-align:left;
+	float:left;
+}
+
+/* formulario do chat de login da sessao */
+#form_chat_login_sessao{
+	border:0px solid #000000;
+	width:455px;
+	height:192px;
+	margin-top:0px;
+	margin-left:2px;
+	text-align:left;
+	float:left;
+}
+
+/* caixa de mensagem */
+.respotas_erro_chat_sessao{
+	border:1px solid #FF0000;
+	background-color:#F5F5F5;
+	width:450px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+/* caixa de mensagem */
+.respotas_sucesso_chat_sessao{
+	border:1px solid #0071B6;
+	background-color:#F5F5F5;
+	width:450px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:10px;
+	font-size:12px;
+	
+}
+
+/* mensagem chat da sessao */
+#fundo_chat_sessao{
+	border:1px solid #0071B6;
+	background:url(../images/paginas/chat/fundo.png);
+	width:457px;
+	height:auto;
+	margin-top:0px;
+	margin-left:3px;
+	text-align:left;
+	float:left;
+}
+
+/* status_moderador*/
+#status_moderador{
+	border:0px solid #FFFFFF;
+	width:403px;
+	height:auto;
+	margin-top:12px;
+	margin-left:9px;
+	text-align:left;
+	color:#FFFFFF;
+	float:left;
+}
+
+/* status_sessao*/
+#status_sessao{
+	border:0px solid #FFFFFF;
+	width:403px;
+	height:auto;
+	margin-top:12px;
+	margin-left:9px;
+	text-align:left;
+	color:#FFFFFF;
+	float:left;
+}
+/*-----------------------------------chat - mensagem-----------------------------------*/
+
+/* mensagem chat iframe */
+#mensagem_chat_mensagem{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;	
+}
+
+/*-----------------------------------chat - carregando-----------------------------------*/
+
+/* carregando */
+#carregando{
+	border:0px solid #FFFFFF;
+	width:auto;
+	height:auto;
+	margin-top:130px;
+	margin-left:120px;
+	text-align:left;
+	color:#000000;
+	float:left;
+}
+
+/*-----------------------------------Administrador-----------------------------------*/
+
+/* conteudo_adm_usuario */
+#conteudo_adm_usuario{
+	border:0px solid #000000;
+	width:731px;
+	height:auto;
+	margin-top:10px;
+	margin-left:15px;
+	text-align:left;
+	float:left;
+}
+
+/* conteudo_adm_usuario */
+#conteudo_adm_usuario_departamento{
+	border:0px solid #000000;
+	width:731px;
+	height:auto;
+	margin-top:10px;
+	margin-left:15px;
+	text-align:left;
+	float:left;
+}
+
+/*-----------------------------------PGN DRE-----------------------------------*/
+
+/* mensagem_ftp */
+#mensagem_ftp{
+	border:1px solid #0071B6;
+	width:550px;
+	height:auto;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+	margin-left:100px;
+	text-align:center;
+	float:left;
+}
+
+/* mensagem_error_ftp */
+#mensagem_error_ftp{
+	border:1px solid #FF0000;
+	width:550px;
+	height:auto;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:5px;
+	margin-left:100px;
+	text-align:center;
+	float:left;
+}
+
+/*-----------------------------------Forum-----------------------------------*/
+
+/* titulo_forum_list */
+#titulo_forum_list{
+	border-bottom:1px solid #0071B6;
+	background-color:#F5F5F5;
+	width:755px;
+	height:auto;
+	padding-top:5px;
+	margin-bottom:20px;
+	padding-bottom:5px;
+	text-align:left;
+}
+
+/* conteudo_forum_list */
+#conteudo_forum_list{
+	border:0px solid #000000;
+	width:752px;
+	height:autopx;
+	margin-top:10px;
+	margin-left:2px;
+	text-align:left;
+	float:left;
+}
+
+/*-----------------------------------Net Exchange-----------------------------------*/
+.fundo_net_exchange{
+	border:0px solid #0071B6;
+	background:url(../images/net-exchange/fundo.png) no-repeat;
+	width:auto;
+	height:345px;
+	top:2px;
+	left:2px;
+	position:relative;
+}
+
+.link_net:link,
+.link_net:visited{
+	font-family:Arial, Verdana, Sans-Serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#CC6600;
+	text-decoration:none;
+} 
+.link_net:hover{
+	font-family:Arial, Verdana, Sans-Serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#696969;
+	text-decoration:none;
+}
+
+.link_site:link,
+.link_site:visited{
+	font-family:Arial, Verdana, Sans-Serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+} 
+.link_site:hover{
+	font-family:Arial, Verdana, Sans-Serif;
+	font-size:15px;
+	font-weight:bold;
+	color:#696969;
+	text-decoration:none;
+}
+
+.texto_net{
+	width:auto;
+	height:auto;
+	padding:5px;
+	top:80px;
+	font-size:15px;
+	position:absolute;
+}
+
+.site{
+	width:auto;
+	height:auto;
+	top:150px;
+	left:620px;
+	font:bold 15px Arial;
+	color:#CC6600;
+	text-align:right;
+	position:absolute;
+}
+
+/*-----------------------------------Net Exchange-----------------------------------*/
+.fundo_midia_social{
+	border:0px solid #0071B6;
+	background:url(../images/net-exchange/midia-social.png) no-repeat;
+	width:auto;
+	height:345px;
+	top:2px;
+	left:2px;
+	position:relative;
+}
+
+.form_midia_social{
+	border:0px solid #0071B6;
+	background:#333333;
+	width:420px;
+	height:190px;
+	top:150px;
+	position:relative;
+}
+
+/*Form SAF Interessados*/
+#principal { width:920px; margin-left:20px; margin-top:3px; float:left; }
+#principal div { float:left; }
+#titulo { width:768px; float:left; border-bottom:solid 1px #0071B6; font-weight:bold;
+	 background-image:url(../images/paginas/index/barra_de_titulo1.png); }
+#titulo div { padding-top:3px; padding-bottom:3px; }
+#titulo1 { width:334px; text-align:left; }
+#titulo2 { width:434px; text-align:right; }
+#ficha_id_numero { width:768px; margin-left:10px; margin-top:15px; font-weight:bold; 
+	color:#0071B6; font-size:15px; }
+#abas { width:758px; margin-left:10px; margin-top:15px; 
+	text-transform:uppercase; color:#FFF; }
+#abas div { width:100px; padding:4px; text-align:center; cursor:pointer; font-weight:bold;
+	border-top:solid 1px #686868; border-right:solid 1px #686868;  border-bottom:solid 1px #686868; }
+#aba1 { border-left:solid 1px #686868; }
+#titulo_form { background-color:#0071B6; width:758px; margin-left:10px; text-align:center;
+	font-weight:bold; padding-top:6px; padding-bottom:6px; color:#FFF; margin-bottom:15px; }
+#pagina1 { width:758px; margin-left:10px; }
+#pagina2 { width:758px; margin-left:10px; display:none; }
+#pagina3 { width:758px; margin-left:10px; display:none; }
+#pagina1 div { width:756px; }
+#pagina2 div { width:756px; }
+
+.div_titulo { text-transform:uppercase; background-color:#95D8FF; padding-bottom:6px; padding-top:6px;
+	border:solid 1px #0071B6; }
+.div_form { border:solid 1px #0071B6; border-top:none; margin-bottom:15px; }
+.div_form p { background-color:#FFE391; padding-bottom:6px; padding-top:6px; text-transform:uppercase; }
+.div_form label { display:inline-block; text-transform:uppercase; }
+.div_form span { color:#FF0000; }
