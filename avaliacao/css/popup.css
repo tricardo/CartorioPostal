@@ -1,0 +1,20 @@
+#carrega_comunicado{
+	border:2px solid;
+	background:#FFF;
+	position:absolute;
+	left:50%;
+	top:36%;
+	margin-left:-191px;
+	margin-top:-299px;
+	width:auto;
+	height:180px;
+	padding:10px;
+	z-index:10000;
+	overflow-y:auto;
+	display:block;
+}
+
+.close{
+	right:0;
+	position:absolute;
+}

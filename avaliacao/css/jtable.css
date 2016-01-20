@@ -1,0 +1,49 @@
+.jtable{
+  width:100%;
+  border:1px solid #ccc;
+}
+
+.jtable thead th{
+  background:url('../images/titulo_bg.png');
+  padding:6px;
+  color:#202a73;
+  text-align:left;
+  font-size:14px;
+}
+
+.jtable .centro{
+	text-align:center;
+}
+
+.jtable thead th.header{
+  cursor:pointer;
+}
+
+.jtable tbody td{
+  color:#333;
+}
+
+.jtable tbody tr.odd{
+  background-color:#ffffcc;
+}
+
+.jtable tbody tr:hover, .jtable tbody tr .odd:hover{
+  background-color:#a9d0f5;
+}
+
+.jtable tbody tr a{
+  text-decoration:none;
+}
+
+.jtable tbody tr a:hover{
+  color:#232b80;
+}
+.jtable tbody tr .link{
+  width:100%;
+  display:block;
+  padding:6px;
+}
+
+.jtable tbody tr .paginacao{
+	background:#ccc;
+}
