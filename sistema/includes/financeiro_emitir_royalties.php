@@ -58,9 +58,13 @@ if ($controle_id_empresa == 1) {
                         <br/>
 
                         <label for="juros_mora">Multa: </label>
-                        <input type="text" id="dias_protesto" maxlength="2" name="dias_protesto" value=""
-                               class="form_estilo<? if ($errors['juros_mora'] == 1) echo '_erro' ?>"
-                               style=" width:110px; "/>
+                        <select name="ddlMulta" id="ddlMulta"
+                                onchange="if(this.value == 2) instrucao2.value=''; else instrucao2.value=5;"
+                                class="form_estilo<? if ($errors['instrucao1'] == 1) echo '_erro' ?>"
+                                style=" width:110px; ">
+                            <option value=""></option>
+                            <option value="1">Dispensar</option>
+                        </select>
                         <font style="float:left;color:#FF0000;">*</font>
 
                         <div id="divValorMulta">
