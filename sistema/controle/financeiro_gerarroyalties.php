@@ -18,35 +18,47 @@ if (isset($gerar_submit)) {
     pt_register('POST', 'busca_mes');
     pt_register('POST', 'busca_ano');
 
-    $error = "";
-    $errors = array();
-    $error = "<b>Ocorreram os seguintes erros:</b><ul>";
 
-    $dtmData = date("yy-mm", strtotime($busca_ano + '-' + $busca_mes + '-1'));
+    $dtmData = "$busca_ano-$busca_mes-01";
 
-    if ($dtmData > date("yy-mm-dd")) {
-        $errors['mes'] = 1;
-        $error .= "<li><b>O mês informado não pode ser superior que a data de hoje.</b></li>";
-    }
+    if (date("yy-mm", strtotime($dtmData)) > date("yy-mm")) {
+        $titulo = 'Mensagem da página web';
+        $msg = 'O mês informado não pode ser superior que a data de hoje!';
 
-    if (count($errors) > 0) {
-        echo "<script>
-			document.getElementById('errors').style.display = 'block';
-			document.getElementById('errors').innerHTML = '<div class=\"erro\">" . $error . "</div><br />';
-		</script>";
-        return;
-    }
-    foreach ($acao_sel as $item) {
-        $roy = $cRoyaltieFixoDAO->royalties_gerados_por_mes($busca_mes, $busca_ano, $item);
-        if ($roy->qnt == 0) {
-            $royal = $cRoyaltieFixoDAO->lista_royalties_fixo($item);
-            $cRoyaltieFixoDAO->gerar_royalties_franquia($item, "$busca_ano-$busca_mes-01", $royal->valor);
+        $pag = '';
+        $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+        echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
 
+    } else {
+
+        if (count($acao_sel) <= 0) {
             $titulo = 'Mensagem da página web';
-            $msg = 'Royalties gerados com sucesso!';
-            $pag = 'financeiro_gerarroyalties.php';
+            $msg = 'Favor selecionar uma unidade!';
+            $pag = '';
             $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
             echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+
+        } else {
+
+            foreach ($acao_sel as $item) {
+                $roy = $cRoyaltieFixoDAO->royalties_gerados_por_mes($busca_mes, $busca_ano, $item);
+                if ($roy->qnt == 0) {
+                    $royal = $cRoyaltieFixoDAO->lista_royalties_fixo($item);
+                    $cRoyaltieFixoDAO->gerar_royalties_franquia($item, "$busca_ano-$busca_mes-01", $royal->valor);
+
+                    $titulo = 'Mensagem da página web';
+                    $msg = 'Royalties gerados com sucesso!';
+                    $pag = 'financeiro_gerarroyalties.php';
+                    $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                    echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+                }else{
+                    $titulo = 'Mensagem da página web';
+                    $msg = 'Está unidade já foi gerada na data informada!';
+                    $pag = 'financeiro_gerarroyalties.php';
+                    $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                    echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+                }
+            }
         }
     }
 }
@@ -98,6 +110,7 @@ if ($busca_mes == '') $busca_mes = date('m');
                 </select>
                 <input type="submit" name="gerar_submit" class="button_busca" value=" Gerar "/>
             </div>
+
             <div style="postition:relative; clear: both; padding:5px 5px 5px 5px;">
 
             </div>
