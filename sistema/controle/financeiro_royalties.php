@@ -215,7 +215,6 @@ $buscap->id_empresa = $busca_id_empresa;
 		<td align="center" width="130" class="result_menu"><b>FPP á Receber</b></td>		
 		<td align="center" width="130" class="result_menu"><b>Royalties Recebido</b></td>		
 		<td align="center" width="130" class="result_menu"><b>FPP Recebido</b></td>
-		<td align="center" width="130" class="result_menu"><b>Emitir Boleto</b></td>
 		<td align="center" width="130" class="result_menu"><b>Editar</b></td>		
 		</tr>';
 
@@ -237,9 +236,6 @@ $buscap->id_empresa = $busca_id_empresa;
 			<td class="result_celula" align="right" nowrap>R$ ' . number_format($p->fpp, 2, ",", "") . '</td>
 			<td class="result_celula" align="right" nowrap>R$ ' . number_format($p->roy_rec, 2, ",", "") . '</td>
 			<td class="result_celula" align="right" nowrap>R$ ' . number_format($p->fpp_rec, 2, ",", "") . '</td>
-			<td class="result_celula" align="center">
-			    <a href="#"  onclick="carrega_banco_contas(\'' . $p->id_rel_royalties . '\',\'' . $p->id_empresa . '\'); $(\'#windowMensagem\').show();"><img src="../images/botao_editar.png" title="Editar" border="0"/></a>
-			</td>
 			<td class="result_celula" align="center">
 				<a href="#"  onclick="carrega_royalties_r(\'' . $p->ref . '\',\'' . $p->id_empresa . '\'); $(\'#windowMensagem\').show();"><img src="../images/botao_editar.png" title="Editar" border="0"/></a>
 			</td>
