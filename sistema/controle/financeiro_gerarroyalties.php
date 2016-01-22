@@ -18,11 +18,29 @@ if (isset($gerar_submit)) {
     pt_register('POST', 'busca_mes');
     pt_register('POST', 'busca_ano');
 
+    $error = "";
+    $errors = array();
+    $error = "<b>Ocorreram os seguintes erros:</b><ul>";
+
+    $dtmData = date("yy-mm", strtotime($busca_ano + '-' + $busca_mes + '-1'));
+
+    if ($dtmData > date("yy-mm-dd")) {
+        $errors['mes'] = 1;
+        $error .= "<li><b>O mês informado não pode ser superior que a data de hoje.</b></li>";
+    }
+
+    if (count($errors) > 0) {
+        echo "<script>
+			document.getElementById('errors').style.display = 'block';
+			document.getElementById('errors').innerHTML = '<div class=\"erro\">" . $error . "</div><br />';
+		</script>";
+        return;
+    }
     foreach ($acao_sel as $item) {
-       $roy = $cRoyaltieFixoDAO->royalties_gerados_por_mes($busca_mes,$busca_ano,$item);
-        if($roy->qnt == 0){
-           $royal = $cRoyaltieFixoDAO->lista_royalties_fixo($item);
-            $cRoyaltieFixoDAO->gerar_royalties_franquia($item, "$busca_ano-$busca_mes-01",$royal->valor);
+        $roy = $cRoyaltieFixoDAO->royalties_gerados_por_mes($busca_mes, $busca_ano, $item);
+        if ($roy->qnt == 0) {
+            $royal = $cRoyaltieFixoDAO->lista_royalties_fixo($item);
+            $cRoyaltieFixoDAO->gerar_royalties_franquia($item, "$busca_ano-$busca_mes-01", $royal->valor);
 
             $titulo = 'Mensagem da página web';
             $msg = 'Royalties gerados com sucesso!';
@@ -32,7 +50,6 @@ if (isset($gerar_submit)) {
         }
     }
 }
-
 
 if ($busca_ano == '') $busca_ano = date('Y');
 if ($busca_mes == '') $busca_mes = date('m');
@@ -47,23 +64,24 @@ if ($busca_mes == '') $busca_mes = date('m');
         <form name="f1" action="" method="post" ENCTYPE="multipart/form-data">
             <div class="busca1">
                 <label>Mês/Ano: </label>
-                <select name="busca_mes" style="width: 100px; float: left" class="form_estilo">
+                <select name="busca_mes" style="width: 100px; float: left" class="form_estilo
+	<?= (isset($errors['mes'])) ? 'form_estilo_erro' : ''; ?>>
                     <option value=""></option>
-                    <?
-                    $p_valor = '';
-                    $cont_mes = 1;
-                    while ($cont_mes <= 12) {
-                        if ($cont_mes < 10)
-                            $p_valor .= '<option value="0' . $cont_mes . '" ';
-                        else
-                            $p_valor .= '<option value="' . $cont_mes . '" ';
-                        if ($busca_mes == $cont_mes)
-                            $p_valor .= 'selected="select"';
-                        $p_valor .= '>' . $cont_mes . '</option>';
-                        $cont_mes++;
-                    }
-                    echo $p_valor;
-                    ?>
+                <?
+                $p_valor = '';
+                $cont_mes = 1;
+                while ($cont_mes <= 12) {
+                    if ($cont_mes < 10)
+                        $p_valor .= '<option value="0' . $cont_mes . '" ';
+                    else
+                        $p_valor .= '<option value="' . $cont_mes . '" ';
+                    if ($busca_mes == $cont_mes)
+                        $p_valor .= 'selected="select"';
+                    $p_valor .= '>' . $cont_mes . '</option>';
+                    $cont_mes++;
+                }
+                echo $p_valor;
+                ?>
                 </select>
                 <select name="busca_ano" style="width: 100px; float: left" class="form_estilo">
                     <?
