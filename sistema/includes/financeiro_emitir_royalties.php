@@ -4,20 +4,25 @@ if ($controle_id_empresa == 1) {
     $financeiro_divisao = '';
 
     $im = str_replace(',', "','", str_replace(',##', "", "'" . htmlentities($_COOKIE['fr_id_rel_royalties']) . "##") . "'");
-    $lista = $financeiroDAO->listaRoyIn($im);
-    $cont = 0;
-    #verifica permissão
-    foreach ($lista as $l) {
-        $errors = '';
-        $error = '';
-        $roy = $l->valor_royalties;
-        $roy_rec = $l->roy_rec;
-        $fpp = $l->valor_propaganda;
-        $fpp_rec = $l->fpp_rec;
-        if ($roy_rec < $roy) $roy = (float)($roy) - (float)($roy_rec); else $roy = 0;
-        if ($fpp_rec < $fpp) $fpp = (float)($fpp) - (float)($fpp_rec); else $fpp = 0;
-        $financeiro_divisao++;
 
+    if(isset($_POST["submit_form"])){
+        $lista = $financeiroDAO->lista_royalties_emissao_boleto($im);
+
+        foreach ($lista as $l) {
+
+            /*Falta adicionar a função de gerar o boleto e os emails: Thauan*/
+
+            $errors = '';
+            $error = '';
+            $roy = $l->valor_royalties;
+            $roy_rec = $l->roy_rec;
+            $fpp = $l->valor_propaganda;
+            $fpp_rec = $l->fpp_rec;
+            if ($roy_rec < $roy) $roy = (float)($roy) - (float)($roy_rec); else $roy = 0;
+            if ($fpp_rec < $fpp) $fpp = (float)($fpp) - (float)($fpp_rec); else $fpp = 0;
+            $financeiro_divisao++;
+
+        }
     }
     ?>
 
@@ -212,7 +217,6 @@ if ($controle_id_empresa == 1) {
     <script src="../js/jquery-1.11.4/datepicker-pt-BR.js"></script>
     <script>
         $(function () {
-
             $(".calendario").datepicker({
                     dateFormat: "dd/mm/yy"
                 },
@@ -221,14 +225,13 @@ if ($controle_id_empresa == 1) {
                 if ($(this).val() != 2) {
                     $("#txtValorMulta").val("");
                     $('#divValorMulta').hide();
-
                 } else {
                     $('#divValorMulta').show();
                 }
             });
         });
     </script>
-    <? #fim da alteração de status
+    <?
 }
 exit;
 ?>

@@ -1083,7 +1083,9 @@ class FinanceiroDAO extends Database
     {
         $this->values = array();
 
-        if($c->ddlStatus != "Todos"){$where = " WHERE usem.status = '$c->ddlStatus'";}
+        if ($c->ddlStatus != "Todos") {
+            $where = " WHERE usem.status = '$c->ddlStatus'";
+        }
 
         $this->sql = "SELECT
 usem.status,
@@ -1120,11 +1122,11 @@ vsites_user_empresa usem
 LEFT JOIN vsites_banco banc
 ON usem.id_banco = banc.id_banco
 LEFT JOIN vsite_royaltie_fixo_franquiado rofr
-on usem.id_empresa = rofr.id_empresa".$where." ORDER BY fantasia, validade_contrato";
+on usem.id_empresa = rofr.id_empresa" . $where . " ORDER BY fantasia, validade_contrato";
 
         //$this->values = array();
-       return $this->fetch();
-       // return $this->sql;
+        return $this->fetch();
+        // return $this->sql;
 
     }
 
@@ -1136,7 +1138,9 @@ on usem.id_empresa = rofr.id_empresa".$where." ORDER BY fantasia, validade_contr
         $this->values = array();
 
         $where = " WHERE rofr.roy_rec = 0.0 AND rofr.valor_royalties > 0.0";
-        if($c->ddlStatus != "Todos"){$where .= " AND usem.status = '$c->ddlStatus'";}
+        if ($c->ddlStatus != "Todos") {
+            $where .= " AND usem.status = '$c->ddlStatus'";
+        }
 
         $this->sql = "SELECT
 usem.id_empresa,
@@ -1167,7 +1171,7 @@ rofr.data,
 FROM
 vsites_user_empresa usem
 INNER JOIN vsites_rel_royalties rofr
-on usem.id_empresa = rofr.id_empresa".$where."ORDER BY fantasia, YEAR(rofr.data), MONTH(rofr.data)";
+on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.data), MONTH(rofr.data)";
 
         //$this->values = array();
         return $this->fetch();
@@ -1280,6 +1284,15 @@ on usem.id_empresa = rofr.id_empresa".$where."ORDER BY fantasia, YEAR(rofr.data)
         $ret = $this->fetch();
 
         return $ret;
+    }
+
+    /**
+     * Lista os royalties gerados para a emissão do boleto que estão no cookie
+     **/
+    public function lista_royalties_emissao_boleto($im)
+    {
+        $this->sql = "SELECT * FROM vsites_rel_royalties RERO INNER JOIN vsites_user_empresa USEM ON RERO.id_empresa = USEM.id_empresa WHERE USEM.id_empresa != 1 AND RERO.id_rel_royalties IN (\" . $im . \")";
+        return $this->fetch();
     }
 
 }

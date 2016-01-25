@@ -39,6 +39,7 @@ if ($busca_submit <> '') {
 }
 
 if ($busca_ano == '') $busca_ano = date('Y');
+if ($busca_mes == '') $busca_mes = date('m');
 
 ?>
 
@@ -48,10 +49,24 @@ if ($busca_ano == '') $busca_ano = date('Y');
     <a href="#" class="topo">topo</a>
     <hr class="tit"/>
 </div>
-<div id="meio"><?
+<div id="meio">
+    <?
     pt_register('POST', 'submit_financeiro_receber');
+
     if ($submit_financeiro_receber <> '') {
-        require('../includes/financeiro_emitir_royalties.php');
+
+        $im = htmlentities($_COOKIE['fr_id_rel_royalties']);
+
+        if (!empty($im)) {
+            require('../includes/financeiro_emitir_royalties.php');
+            return;
+        }
+
+        $titulo = 'Mensagem da página web';
+        $msg = 'Favor selecionar uma unidade para emissão do boleto!';
+        $pag = '';
+        $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+        echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
     }
     ?>
     <form name="buscador" action="" method="get" ENCTYPE="multipart/form-data">
