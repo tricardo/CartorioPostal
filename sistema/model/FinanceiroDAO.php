@@ -1291,7 +1291,7 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
      **/
     public function lista_royalties_emissao_boleto($im)
     {
-        $this->sql = "SELECT * FROM vsites_rel_royalties RERO INNER JOIN vsites_user_empresa USEM ON RERO.id_empresa = USEM.id_empresa WHERE USEM.id_empresa != 1 AND RERO.id_rel_royalties IN (\" . $im . \")";
+        $this->sql = "SELECT * FROM vsites_rel_royalties RERO INNER JOIN vsites_user_empresa USEM ON RERO.id_empresa = USEM.id_empresa WHERE USEM.id_empresa != 1 AND RERO.id_rel_royalties IN (".$im.")";
         return $this->fetch();
     }
 

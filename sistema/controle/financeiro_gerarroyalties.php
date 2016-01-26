@@ -51,7 +51,7 @@ if (isset($gerar_submit)) {
                     $pag = 'financeiro_gerarroyalties.php';
                     $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
                     echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
-                }else{
+                } else {
                     $titulo = 'Mensagem da página web';
                     $msg = 'Está unidade já foi gerada na data informada!';
                     $pag = 'financeiro_gerarroyalties.php';

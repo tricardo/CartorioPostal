@@ -12,67 +12,6 @@ if ($permissao == 'FALSE' or $controle_id_empresa != 1) {
     exit;
 }
 pt_register('GET', 'busca_submit');
-pt_register('POST', 'submit_emite_boleto');
-
-if (isset($submit_emite_boleto)) {
-
-    pt_register('POST', 'id_royalties');
-    pt_register('POST', 'id_empresa');
-    pt_register('POST', 'id_conta');
-    pt_register('POST','vencimento');
-
-
-    $validacaoCLASS = new ValidacaoCLASS();
-    $verifica = $validacaoCLASS->invertData($vencimento);
-
-
-    $p->id_nota = null;
-    $p->id_relatorio = mull;
-    $p->id_empresa_franquia = $id_empresa;
-    $p->id_fatura = null;
-    $p->id_conta = $id_conta;
-    $p->ocorrencia = 1;
-
-
-    $EmpresaDao = new EmpresaDAO();
-    $cEmpresa = $empresaDAO->selectPorId($id_empresa);
-
-    $p->cpf = $cEmpresa->cpf;
-    $p->sacado = $cEmpresa->empresa;
-    $p->endereco = $cEmpresa->endereco;
-    $p->bairro = $cEmpresa->bairro;
-    $p->cidade = $cEmpresa->cidade;
-    $p->estado = $cEmpresa->estado;
-    $p->cep = $cEmpresa->cep;
-    $p->tipo = $cEmpresa->tipo;
-
-    $RoyaltiesDAO = new RoyaltieFixoDAO();
-    $cRoyaltiesDAO = $RoyaltiesDAO->seleciona_royalties_gerados_por_id($id_royalties);
-
-
-    $p->vencimento = $verifica;
-    $p->valor = $cRoyaltiesDAO->valor_royalties;
-    $p->juros_mora = null;
-    $p->instrucao1 = null;
-    $p->instrucao2 = null;
-    $p->mensagem1 = null;
-    $p->mensagem2 = null;
-    $p->emissao_papeleta = null;
-    $p->especie = null;
-    $p->aceite = null;
-    $id_usuario = null;
-
-
-
-    //$contaDAO = new ContaDAO();
-  //  $done = $contaDAO->inserirBoletoBrad($p,$controle_id_empresa,$controle_id_usuario);
-
-    echo "
-		<script>
-			alert('CPF: ".$p->cpf."');
-		</script>";
-}
-
 
 if ($busca_submit <> '') {
     pt_register('GET', 'busca_id_empresa');

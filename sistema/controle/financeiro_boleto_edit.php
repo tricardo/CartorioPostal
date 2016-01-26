@@ -14,7 +14,7 @@ pt_register('GET','id');
 $validacaoCLASS = new ValidacaoCLASS();
 $contaDAO = new ContaDAO();
 ?>
-<h1 class="tit"><img src="../images/tit/tit_recebimento.png" alt="Tï¿½tulo" />Alterar Boleto</h1>
+<h1 class="tit"><img src="../images/tit/tit_recebimento.png" alt="Título" />Alterar Boleto</h1>
 <a href="#" class="topo">topo</a>
 <hr class="tit" />
 </div>
@@ -40,13 +40,13 @@ if($submit_form<>'' and $ocorrencia==6 and $p->status==1){
 	if($vencimento=="" or $ocorrencia==""){
 		if($vencimento=="") $errors['vencimento']=1;
 		if($ocorrencia=="") $errors['ocorrencia']=1;
-		$error .= '- Os Campos com * sï¿½o obrigatï¿½rios;<br>';
+		$error .= '- Os Campos com * são obrigatórios;<br>';
 	}
 
 	$verifica = $validacaoCLASS->invertData($vencimento);
 	if($verifica==false){
 		$errors['vencimento']=1;
-		$error.='- Vencimento invï¿½lido;<br>';					
+		$error.='- Vencimento inválido;<br>';
 	} else {
 		$vencimento=$verifica;
 	}
@@ -56,7 +56,7 @@ if($submit_form<>'' and $ocorrencia==6 and $p->status==1){
 	if(COUNT($errors)==0) {
 		$done = $contaDAO->inserirBoletoBradOco6($p,$id,$controle_id_empresa,$controle_id_usuario);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto alterado com sucesso!';
 		$pagina = 'financeiro_boleto_edit.php?id='.$id;
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -73,7 +73,7 @@ if($submit_form<>'' and $ocorrencia==6 and $p->status==1){
 if($submit_form<>'' and ($ocorrencia==100 or $ocorrencia==101) and $ocorrencia<>'' and $p->status==1){
 	$done = $contaDAO->inserirBoletoBradOco100($ocorrencia,$id,$controle_id_empresa,$controle_id_usuario);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto alterado com sucesso!';
 		$pagina = 'financeiro_boleto_edit.php?id='.$id;
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -87,7 +87,7 @@ if($submit_form<>'' and $ocorrencia!=6 and $ocorrencia!=1 and $ocorrencia!=31 an
 
 	$done = $contaDAO->inserirBoletoBradOco($ocorrencia,$id,$controle_id_empresa,$controle_id_usuario);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto alterado com sucesso!';
 		$pagina = 'financeiro_boleto_edit.php?id='.$id;
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -530,7 +530,7 @@ if($submit_deleta<>'' and $p->status==0){
 					echo '
 					<table width="680" class="tabela">
 					<tr>
-						<td class="tabela_tit">Histï¿½rico de Ocorrï¿½ncias Internas</td>
+						<td class="tabela_tit">Histórico de Ocorrências Internas</td>
 					</tr>
 					<tr><td>'.$p_valor.'</td></tr>
 					</table>
