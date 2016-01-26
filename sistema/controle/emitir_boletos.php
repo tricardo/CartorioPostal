@@ -35,7 +35,6 @@ if ($busca_submit <> '') {
     $buscap->id_empresa = $busca_id_empresa;
 
     $cont = 0;
-    $buscapedido = $financeiroDAO->lista_royalties_aberto_emissao_boleto($buscap, $controle_id_empresa, $pagina);
 }
 
 if ($busca_ano == '') $busca_ano = date('Y');
@@ -124,6 +123,10 @@ if ($busca_mes == '') $busca_mes = date('m');
 	</script>
 	";
             unset($_COOKIE['fr_id_rel_royalties']);
+        }
+
+        if ($busca_submit <> '') {
+            $buscapedido = $financeiroDAO->lista_royalties_aberto_emissao_boleto($buscap, $controle_id_empresa, $pagina);
         }
         ?>
         <table width="100%" cellpadding="4" cellspacing="1" class="result_tabela">
