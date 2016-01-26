@@ -5,7 +5,7 @@ if ($controle_id_empresa == 1) {
 
     $im = str_replace(',', "','", str_replace(',##', "", "'" . htmlentities($_COOKIE['fr_id_rel_royalties']) . "##") . "'");
 
-    if(isset($_POST["submit_form"])){
+    if (isset($_POST["submit_form"])) {
         $lista = $financeiroDAO->lista_royalties_emissao_boleto($im);
 
         foreach ($lista as $l) {
@@ -62,53 +62,55 @@ if ($controle_id_empresa == 1) {
                         <font color="#FF0000">*</font>
                         <br/>
 
-                        <label for="juros_mora">Multa: </label>
-                        <select name="ddlMulta" id="ddlMulta"
-                                class="form_estilo<? if ($errors['multa'] == 1) echo '_erro' ?>"
-                                style=" width:110px; ">
-                            <option value=""></option>
-                            <option value="1">Dispensar</option>
-                            <option value="2">% ao mes</option>
-                        </select>
-                        <font style="float:left;color:#FF0000;">*</font>
+                        <div id="divBradesco" style="display: none;">
+                            <label for="juros_mora">Multa: </label>
+                            <select name="ddlMulta" id="ddlMulta"
+                                    class="form_estilo<? if ($errors['multa'] == 1) echo '_erro' ?>"
+                                    style=" width:110px; ">
+                                <option value=""></option>
+                                <option value="1">Dispensar</option>
+                                <option value="2">% ao mes</option>
+                            </select>
+                            <font style="float:left;color:#FF0000;">*</font>
 
-                        <div id="divValorMulta" style="display: none;">
-                            <label for="juros_mora">Valor multa:</label>
-                            <input type="text" id="txtValorMulta" maxlength="2" name="txtValorMulta" value=""
-                                   class="form_estilo<? if ($errors['valor_multa'] == 1) echo '_erro' ?>"
+                            <div id="divValorMulta" style="display: none;">
+                                <label for="juros_mora">Valor multa:</label>
+                                <input type="text" id="txtValorMulta" maxlength="2" name="txtValorMulta" value=""
+                                       class="form_estilo<? if ($errors['valor_multa'] == 1) echo '_erro' ?>"
+                                       style=" width:90px; "/>
+                                <font style="float:left;color:#FF0000;">*</font>
+                            </div>
+
+                            <label for="juros_mora">Data multa: </label>
+                            <input type="text" id="txtDataMulta" maxlength="10" readonly name="txtDataMulta"
+                                   onKeyUp="masc_numeros(this,'##/##/####');" value=""
+                                   class="form_estilo<? if ($errors['data_multa'] == 1) echo '_erro' ?> calendario"
                                    style=" width:90px; "/>
                             <font style="float:left;color:#FF0000;">*</font>
+                            <br/>
+
+                            <label for="juros_mora">Pgto. Parcial: </label>
+                            <input type="text" id="txtPgtoParcial" maxlength="2" name="txtPgtoParcial" value=""
+                                   class="form_estilo<? if ($errors['pgto_parcial'] == 1) echo '_erro' ?>"
+                                   style=" width:110px; "/>
+                            <font style="float:left;color:#FF0000;">*</font>
+
+                            <label for="juros_mora">Dias protesto: </label>
+                            <input type="text" id="txtDiasProtesto" maxlength="2" name="txtDiasProtesto" value=""
+                                   class="form_estilo<? if ($errors['dias_protesto'] == 1) echo '_erro' ?>"
+                                   style=" width:90px; margin-right:11px;"/>
+
+                            <label>Juros: </label>
+                            <select name="ddlJuros" id="ddlJuros"
+                                    class="form_estilo<? if ($errors['juros'] == 1) echo '_erro' ?>"
+                                    style=" width:91px; ">
+                                <option value=""></option>
+                                <option value="1">Dispensar</option>
+                                <option value="2">% ao mes</option>
+                            </select>
+                            <font style="float:left;color:#FF0000;">*</font>
+                            <br/>
                         </div>
-
-                        <label for="juros_mora">Data multa: </label>
-                        <input type="text" id="txtDataMulta" maxlength="10" readonly name="txtDataMulta"
-                               onKeyUp="masc_numeros(this,'##/##/####');" value=""
-                               class="form_estilo<? if ($errors['data_multa'] == 1) echo '_erro' ?> calendario"
-                               style=" width:90px; "/>
-                        <font style="float:left;color:#FF0000;">*</font>
-                        <br/>
-
-                        <label for="juros_mora">Pgto. Parcial: </label>
-                        <input type="text" id="txtPgtoParcial" maxlength="2" name="txtPgtoParcial" value=""
-                               class="form_estilo<? if ($errors['pgto_parcial'] == 1) echo '_erro' ?>"
-                               style=" width:110px; "/>
-                        <font style="float:left;color:#FF0000;">*</font>
-
-                        <label for="juros_mora">Dias protesto: </label>
-                        <input type="text" id="txtDiasProtesto" maxlength="2" name="txtDiasProtesto" value=""
-                               class="form_estilo<? if ($errors['dias_protesto'] == 1) echo '_erro' ?>"
-                               style=" width:90px; margin-right:11px;"/>
-
-                        <label>Juros: </label>
-                        <select name="ddlJuros" id="ddlJuros"
-                                class="form_estilo<? if ($errors['juros'] == 1) echo '_erro' ?>"
-                                style=" width:91px; ">
-                            <option value=""></option>
-                            <option value="1">Dispensar</option>
-                            <option value="2">% ao mes</option>
-                        </select>
-                        <font style="float:left;color:#FF0000;">*</font>
-                        <br/>
                         <label for="ocorrencia">Ocorrência: </label>
                         <select name="ocorrencia" id="ocorrencia" class="form_estilo_r" readonly style=" width:547px; ">
                             <option value="1" selected="select">Remessa</option>
@@ -229,9 +231,16 @@ if ($controle_id_empresa == 1) {
                     $('#divValorMulta').show();
                 }
             });
+            $("#id_conta").change(function () {
+                if ($(this).val() != 2 && $(this).val() != "") {
+                    $('#divBradesco').show();
+                } else {
+                    $('#divBradesco').hide();
+                }
+            });
         });
     </script>
-    <?
+<?
 }
 exit;
 ?>
