@@ -1277,7 +1277,8 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
 
         $this->sql = "SELECT rr.id_rel_royalties, date_format(rr.data,'%m/%Y') as ref, ue.id_empresa, ue.fantasia as fantasia, rr.valor_propaganda as fpp, valor_royalties as roy, rr.roy_rec, rr.fpp_rec
 					FROM vsites_user_empresa ue
-					INNER JOIN vsites_rel_royalties as rr on rr.id_empresa=ue.id_empresa
+					INNER JOIN vsites_rel_royalties as rr
+					on rr.id_empresa=ue.id_empresa
 					WHERE rr.id_empresa!=1
 					" . $where . " ORDER BY ue.fantasia, date_format(rr.data,'%m/%Y') LIMIT " . $this->getInicio() . ", " . $this->maximo;
 
@@ -1291,7 +1292,7 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
      **/
     public function lista_royalties_emissao_boleto($im)
     {
-        $this->sql = "SELECT * FROM vsites_rel_royalties RERO INNER JOIN vsites_user_empresa USEM ON RERO.id_empresa = USEM.id_empresa WHERE USEM.id_empresa != 1 AND RERO.id_rel_royalties IN (".$im.")";
+        $this->sql = "SELECT * FROM vsites_rel_royalties RERO INNER JOIN vsites_user_empresa USEM ON RERO.id_empresa = USEM.id_empresa WHERE USEM.id_empresa != 1 AND RERO.id_rel_royalties IN (" . $im . ")";
         return $this->fetch();
     }
 

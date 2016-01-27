@@ -368,10 +368,15 @@ class ContaDAO extends Database{
 		return $this->fetch();
 	}
 
-    public function     inserirBoletoBrasil($p, $id_empresa, $id_usuario){
+    public function inserirBoletoBrasil($p, $id_empresa, $id_usuario){
         $this->table = 'vsites_conta_fatura';
-        $this->fields = array('id_nota','id_relatorio','id_empresa_franquia','id_fatura','id_conta','ocorrencia','tipo','cpf','sacado','endereco','bairro','cidade','estado','cep','vencimento','valor','juros_mora','instrucao1','instrucao2','mensagem1','mensagem2','emissao_papeleta','especie','aceite','id_empresa','id_usuario', 'carga');
-        $this->values = array("id_nota"=>$p->id_nota,"id_relatorio"=>$p->id_relatorio,"id_empresa_franquia"=>$p->id_empresa_franquia,"id_fatura"=>$p->id_fatura,"id_conta"=>$p->id_conta,"ocorrencia"=>$p->ocorrencia,"tipo"=>$p->tipo,"cpf"=>$p->cpf,"sacado"=>$p->sacado,"endereco"=>$p->endereco,"bairro"=>$p->bairro,"cidade"=>$p->cidade,"estado"=>$p->estado,"cep"=>$p->cep,"vencimento"=>$p->vencimento,"valor"=>$p->valor,"juros_mora"=>$p->juros_mora,"instrucao1"=>$p->instrucao1,"instrucao2"=>$p->instrucao2,"mensagem1"=>$p->mensagem1,"mensagem2"=>$p->mensagem2,"emissao_papeleta"=>$p->emissao_papeleta,"especie"=>$p->especie,"aceite"=>$p->aceite,"id_empresa"=>$id_empresa,"id_usuario"=>$id_usuario, "carga" => "M");
+        $this->fields = array('id_nota','id_relatorio','id_empresa_franquia','id_fatura','id_conta','ocorrencia','tipo','cpf','sacado','endereco','bairro','cidade','estado','cep','vencimento','valor','juros_mora','instrucao1','instrucao2','mensagem1','mensagem2','emissao_papeleta','especie','aceite','id_empresa','id_usuario');
+        $this->values = array("id_nota"=>$p->id_nota,"id_relatorio"=>$p->id_relatorio,"id_empresa_franquia"=>$p->id_empresa_franquia,"id_fatura"=>$p->id_fatura,"id_conta"=>$p->id_conta,"ocorrencia"=>$p->ocorrencia,"tipo"=>$p->tipo,"cpf"=>$p->cpf,"sacado"=>$p->sacado,"endereco"=>$p->endereco,"bairro"=>$p->bairro,"cidade"=>$p->cidade,"estado"=>$p->estado,"cep"=>$p->cep,"vencimento"=>$p->vencimento,"valor"=>$p->valor,"juros_mora"=>$p->juros_mora,"instrucao1"=>$p->instrucao1,"instrucao2"=>$p->instrucao2,"mensagem1"=>$p->mensagem1,"mensagem2"=>$p->mensagem2,"emissao_papeleta"=>$p->emissao_papeleta,"especie"=>$p->especie,"aceite"=>$p->aceite,"id_empresa"=>$id_empresa,"id_usuario"=>$id_usuario);
+        $idRetorno =  $this->insert();
+
+        $this->table = 'vsites_conta_fatura_bco_brasil';
+        $this->fields = array('id_conta_fatura','tipo_multa','valor_multa','data_multa','tipo_juros','valor_juros','pgto_parcial','dias_protesto','campo_livre','cpnj_sacador','nome_sacador','mensagem3');
+        $this->values = array("id_conta_fatura" => $idRetorno, "tipo_multa" => $p->tipo_multa, "valor_multa" => $p->valor_multa, "data_multa" => $p->data_multa, "tipo_juros" => $p->tipo_juros, "valor_juros" => $p->valor_juros,"pgto_parcial"=>$p->pgto_parcial,"dias_protesto" => $p->dias_protesto,"campo_livre" => $p->campo_livre,"cpnj_sacador" => $p->cpnj_sacador,"nome_sacador" => $p->nome_sacador,"mensagem3" => $p->mensagem3);
         return $this->insert();
     }
 

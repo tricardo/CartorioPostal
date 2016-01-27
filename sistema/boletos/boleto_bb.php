@@ -71,7 +71,7 @@ else $dadosboleto["tipo"] = 'CNPJ';
 // INFORMACOES PARA O CLIENTE
 $dadosboleto["demonstrativo1"] = $b->mensagem1;
 $dadosboleto["demonstrativo2"] = $b->mensagem2;
-$dadosboleto["demonstrativo3"] = "";
+$dadosboleto["demonstrativo3"] = $b->mensagem3;
 $juros_mora = (float)($b->valor)/100*(float)($b->juros_mora)/30;
 $juros_mora = number_format($juros_mora, 2, ',', '');
 

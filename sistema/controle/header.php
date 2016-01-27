@@ -226,10 +226,10 @@ echo '<?xml version="1.0" encoding="iso-8859-1"?>';
                                         <li id="submenu-138"><a href="financeiro_pagamento_f.php">
                                                 <img src="../images/icon/icon_recebimento.png" style="border: 0" />Recebimento Franq.</a>
                                         </li>
-                                        <li id="submenu-138"><a href="financeiro_gerarroyalties.php">
-                                                <img src="../images/icon/icon_recebimento.png" style="border: 0" />Gerar Royalties</a>
-                                        </li>
                                         <? if ($controle_id_empresa == 1) { ?>
+                                            <li id="submenu-138"><a href="financeiro_gerarroyalties.php">
+                                                    <img src="../images/icon/icon_recebimento.png" style="border: 0" />Gerar Royalties</a>
+                                            </li>
                                             <li id="submenu-138"><a href="financeiro_royalties.php">
                                                     <img src="../images/icon/icon_recebimento.png" style="border: 0" />Royalties e FPP</a>
                                             </li>

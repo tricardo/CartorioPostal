@@ -13,10 +13,11 @@ class classQuery{
 	var $link;
 
 	function classQuery(){
-		$this->host = "cartoriopostal.com.br";
+		//$this->host = "cartoriopostal.com.br";
+        $this->host = "localhost";
 		$this->user = "cartorio_user";
 		$this->pass = "flavio1991clau";
-		$this->db = "cartorio_thauan";
+		$this->db = "cartorio_homologacao";
 	}
 
 	function abreConexao(){

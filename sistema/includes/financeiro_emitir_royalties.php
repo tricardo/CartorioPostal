@@ -31,6 +31,9 @@ if ($controle_id_empresa == 1) {
             pt_register('POST', 'ddlPgtoParcial');
             pt_register('POST', 'txtCNPJSacador');
             pt_register('POST', 'txtNomeSacador');
+            pt_register('POST', 'txtDiasProtesto');
+            pt_register('POST', 'txtCampoLivre');
+
 
             if (empty($ddlMulta)) {
                 $error["ddlMulta"] = 1;
@@ -68,33 +71,47 @@ if ($controle_id_empresa == 1) {
                 $result .= '<li>O campo <strong>Instrução 1</strong> é obrigatório.</li>';
             }
         }
+        $validacaoCLASS = new ValidacaoCLASS();
+        $verifica = $validacaoCLASS->invertData($vencimento);
+        if ($verifica == false) {
+            $error['vencimento'] = 1;
+            $result .= '<li>O campo <strong>Vencimento</strong> é invalido.</li>';
+        } else {
+            $vencimento = $verifica;
+        }
+
+        $verifica = $validacaoCLASS->invertData($txtDataMulta);
+        if ($verifica == false) {
+            $error['txtDataMulta'] = 1;
+            $result .= '<li>O campo <strong>Data Multa</strong> é invalido.</li>';
+        } else {
+            $txtDataMulta = $verifica;
+        }
+
 
         if (count($error) == 0) {
-
             pt_register("POST", "ocorrencia");
             pt_register("POST", "aceite");
             pt_register("POST", "especie");
             pt_register("POST", "mensagem1");
             pt_register("POST", "mensagem2");
-            pt_register("POST", "mensagem3");
-            pt_register("POST", "vencimento");
+            pt_register("POST", "txtMensagem3");
 
 
             $im = str_replace(',', "','", str_replace(',##', "", "'" . htmlentities($_COOKIE['fr_id_rel_royalties']) . "##") . "'");
             $lista = $financeiroDAO->lista_royalties_emissao_boleto($im);
-            print_r($lista);
-
 
             $cContaDAO = new ContaDAO();
+
+            $retorno = 0;
 
             foreach ($lista as $item) {
                 $cConta = new stdClass();
                 $cConta->id_nota = 0;
                 $cConta->id_relatorio = null;
                 $cConta->id_empresa_franquia = $item->id_empresa;
-                $cConta->id_fatura = 0;
-
-                $cConta->id_conta = $item->id_conta;
+                $cConta->id_fatura = null;
+                $cConta->id_conta = $id_conta;
                 $cConta->ocorrencia = $ocorrencia;
                 $cConta->tipo = 1;
                 $cConta->cpf = $item->cpf;
@@ -106,25 +123,53 @@ if ($controle_id_empresa == 1) {
                 $cConta->cep = $item->cep;
                 $cConta->vencimento = $vencimento;
                 $cConta->valor = $item->valor_royalties;
-                $cConta->juros_mora = null;
-                $cConta->instrucao1 = null;
-                $cConta->instrucao2 = null;
                 $cConta->mensagem1 = $mensagem1;
                 $cConta->mensagem2 = $mensagem2;
-                $cConta->mensagem3 = $mensagem3;
                 $cConta->emissao_papeleta = 2;
                 $cConta->especie = $especie;
                 $cConta->aceite = $aceite;
 
-                echo $cContaDAO->inserirBoletoBrasil($cConta, 1, 1);
+                switch ($id_conta) {
+                    case 2:
+                        $cConta->juros_mora = 10.0;
+                        $cConta->instrucao1 = 10.0;
+                        $cConta->instrucao2 = 10.0;
+                        $retorno  = $cContaDAO->inserirBoletoBrad($cConta, $controle_id_empresa, $controle_id_usuario);
+                        break;
+                    default:
+                        $cConta->juros_mora = 0;
+                        $cConta->instrucao1 = 0;
+                        $cConta->instrucao2 = 0;
+                        $cConta->tipo_multa = $ddlMulta;
+                        $cConta->valor_multa = ($ddlMulta == 1)? null : $txtValorMulta;;
+                        $cConta->data_multa = $txtDataMulta;
+                        $cConta->tipo_juros = $ddlJuros;
+                        $cConta->valor_juros = ($ddlJuros == 1) ? null : $txtValorJuros;
+                        $cConta->dias_protesto = $txtDiasProtesto;
+                        $cConta->pgto_parcial = ($ddlPgtoParcial == 'S') ? true : false;
+                        $cConta->campo_livre = $txtCampoLivre;
+                        $cConta->cpnj_sacador = $txtCNPJSacador;
+                        $cConta->nome_sacador = $txtNomeSacador;
+                        $cConta->mensagem3 = $txtMensagem3;
+
+                        $retorno = $cContaDAO->inserirBoletoBrasil($cConta, $controle_id_empresa, $controle_id_usuario);
+                        break;
+                }
             }
 
-
-            if ($id_conta == 2) {
-
+            if ($retorno > 0) {
+                $titulo = 'Mensagem da página web';
+                $msg = 'Boletos emitidos com sucesso!';
+                $pag = 'emitir_boletos.php';
+                $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+            }else{
+                $titulo = 'Mensagem da página web';
+                $msg = 'Erro na emissão do boleto!';
+                $pag = '';
+                $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
             }
-
-
         }
     }
     ?>
@@ -184,6 +229,7 @@ if ($controle_id_empresa == 1) {
         <div id="divValorMulta" style="display: none;">
             <label>Valor multa:</label>
             <input type="text" id="txtValorMulta" maxlength="2" name="txtValorMulta" value=""
+                   onkeyup="moeda(event.keyCode,this.value,'valor');"
                    class="form_estilo<? if ($error['txtValorMulta'] == 1) echo '_erro' ?>"
                    style=" width:90px; "/>
             <font style="float:left;color:#FF0000;">*</font>
@@ -209,6 +255,7 @@ if ($controle_id_empresa == 1) {
         <div id="divValorJuros" style="display: none;">
             <label>Valor Fixo:</label>
             <input type="text" id="txtValorJuros" maxlength="2" name="txtValorJuros" value=""
+                   onkeyup="moeda(event.keyCode,this.value,'valor');"
                    class="form_estilo<? if ($error['divValorJuros'] == 1) echo '_erro' ?>"
                    style=" width:90px; "/>
             <font style="float:left;color:#FF0000;">*</font>
@@ -227,12 +274,12 @@ if ($controle_id_empresa == 1) {
 
         <label>Dias protesto: </label>
         <input type="text" id="txtDiasProtesto" maxlength="2" name="txtDiasProtesto" value=""
+               onKeyUp="masc_numeros(this,'##');"
                class="form_estilo"
                style=" width:90px; margin-right:11px;"/>
         <br/>
         <label>Campo Livre: </label>
-        <input type="text" id="txtCampoLivre" maxlength="50" name="txtCampoLivre"
-               onKeyUp="masc_numeros(this,'##');"
+        <input type="text" id="txtCampoLivre" maxlength="60" name="txtCampoLivre"
                class="form_estilo"
                style=" width:546px; "/>
         <br/>
@@ -408,7 +455,11 @@ if ($controle_id_empresa == 1) {
             </ul>
         </div>
     <?
+        echo "<script>eraseCookie('fr_rel_royalties');</script>";
+        unset($_COOKIE['fr_id_rel_royalties']);
     }
 }
 exit;
 ?>
+
+
