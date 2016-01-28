@@ -1,9 +1,8 @@
 <?
-require( "../includes/verifica_logado_controle.inc.php" );
 require( "../includes/funcoes.php" );
 require( "../includes/global.inc.php" );
 require( "../includes/zip/zip.php" );
-
+require( "../includes/verifica_logado_controle.inc.php" );
 
 pt_register('GET','id');
 $anexoDAO = new AnexoDAO();

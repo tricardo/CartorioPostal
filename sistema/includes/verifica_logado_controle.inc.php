@@ -8,6 +8,7 @@ require_once('../model/Database.php');
 $controle_login 	= $_SESSION['controle_login'];
 $controle_senha 	= $_SESSION['controle_senha'];
 $controle_atividade	= $_SESSION['controle_atividade'];
+
 if($controle_login){
 	$usuarioDAO = new UsuarioDAO();
 	$controle_cp   = $usuarioDAO->verifica_logado($controle_login,$controle_senha);

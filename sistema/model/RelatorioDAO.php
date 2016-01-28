@@ -90,7 +90,7 @@ class RelatorioDAO extends Database{
 					".$where." LIMIT ".$this->getInicio().", ".$this->maximo;
 		global $controle_id_usuario;
 		if($controle_id_usuario == 1){
-			#echo $this->sql;
+			echo $this->sql;
 			#print_r($this->values);
 		}
 		return $this->fetch();

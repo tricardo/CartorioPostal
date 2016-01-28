@@ -9,7 +9,7 @@ pt_register('GET','ano');
 pt_register('GET','id_empresa');
 pt_register('GET','pagina');
 if($mes=='') $mes= date('m',strtotime("-".date('d')." days"));
-if($ano=='' and $mes=='12') $ano=date('Y',strtotime("-1 year")); 
+if($ano=='' and $mes=='12') $ano=date('Y');
 else if($ano=='') $ano=date('Y');
 ?>
 	<h1 class="tit">
@@ -48,6 +48,7 @@ else if($ano=='') $ano=date('Y');
 			<option value="2013" <? if($ano=='2013') echo 'selected="select"'; ?>>2013</option>
 			<option value="2014" <? if($ano=='2014') echo 'selected="select"'; ?>>2014</option>
 			<option value="2015" <? if($ano=='2015') echo 'selected="select"'; ?>>2015</option>
+			<option value="2015" <? if($ano=='2016') echo 'selected="select"'; ?>>2016</option>
 		</select> 
 		<? if($controle_id_empresa==1){?> 
 			<label>Franquia</label>
