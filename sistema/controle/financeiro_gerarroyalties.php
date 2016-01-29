@@ -12,6 +12,7 @@ if ($permissao == 'FALSE' or $controle_id_empresa != 1) {
 }
 
 pt_register('POST', 'gerar_submit');
+pt_register("POST", 'gerar_submit_todos');
 
 if (isset($gerar_submit)) {
     pt_register('POST', 'acao_sel');
@@ -63,6 +64,46 @@ if (isset($gerar_submit)) {
     }
 }
 
+if (isset($gerar_submit_todos)) {
+    pt_register('POST', 'busca_mes');
+    pt_register('POST', 'busca_ano');
+
+    $dtmData = "$busca_ano-$busca_mes-01";
+
+    if (date("yy-mm", strtotime($dtmData)) > date("yy-mm")) {
+        $titulo = 'Mensagem da página web';
+        $msg = 'O mês informado não pode ser superior que a data de hoje!';
+
+        $pag = '';
+        $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+        echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+
+    } else {
+
+        $resultado = $cRoyaltieFixoDAO->listar_franquia_royalties_todos();
+
+        foreach ($resultado as $item) {
+            $roy = $cRoyaltieFixoDAO->royalties_gerados_por_mes($busca_mes, $busca_ano, $item->id_empresa);
+            if ($roy->qnt == 0  ) {
+                $royal = $cRoyaltieFixoDAO->lista_royalties_fixo($item->id_empresa);
+                $cRoyaltieFixoDAO->gerar_royalties_franquia($item->id_empresa, "$busca_ano-$busca_mes-01", $royal->valor);
+
+                $titulo = 'Mensagem da página web';
+                $msg = 'Royalties gerados com sucesso!';
+                $pag = 'financeiro_gerarroyalties.php';
+                $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+            } else {
+                $titulo = 'Mensagem da página web';
+                $msg = 'Está unidade já foi gerada na data informada!';
+                $pag = 'financeiro_gerarroyalties.php';
+                $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
+                echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
+            }
+        }
+    }
+}
+
 if ($busca_ano == '') $busca_ano = date('Y');
 if ($busca_mes == '') $busca_mes = date('m');
 
@@ -108,6 +149,8 @@ if ($busca_mes == '') $busca_mes = date('m');
                     echo $p_valor;
                     ?>
                 </select>
+                <input type="submit" name="gerar_submit_todos" id="gerar_submit_todos" class="button_busca"
+                       value=" Gerar todos"/>
                 <input type="submit" name="gerar_submit" class="button_busca" value=" Gerar "/>
             </div>
 
@@ -162,4 +205,12 @@ if ($busca_mes == '') $busca_mes = date('m');
             </table>
         </form>
     </div>
+    <script type="text/javascript">
+        $("#gerar_submit_todos").click(function () {
+            var resultado = confirm("Deseja realmente gerar todos os royalties?");
+
+            if(resultado) return true;
+            return false;
+        });
+    </script>
 <?php require('footer.php'); ?>

@@ -17,6 +17,9 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
   <component name="DatabaseView">
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
@@ -29,17 +32,17 @@
     <favorites_list name="CartorioPostal" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="emitir_boletos.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controle/emitir_boletos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+            <state vertical-scroll-proportion="-4.269231" vertical-offset="1147" max-vertical-offset="3145">
+              <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
               <folding>
-                <marker date="1453206871900" expanded="true" signature="4004:4053" placeholder="..." />
-                <marker date="1453206871900" expanded="true" signature="4396:4887" placeholder="..." />
-                <marker date="1453206871900" expanded="true" signature="5308:6129" placeholder="..." />
-                <marker date="1453206871900" expanded="true" signature="5360:5872" placeholder="..." />
+                <marker date="1453912440409" expanded="true" signature="4559:4608" placeholder="..." />
+                <marker date="1453912440409" expanded="true" signature="5119:5610" placeholder="..." />
+                <marker date="1453912440409" expanded="true" signature="6031:6852" placeholder="..." />
+                <marker date="1453912440409" expanded="true" signature="6083:6595" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -48,81 +51,130 @@
       <file leaf-file-name="financeiro_emitir_royalties.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/financeiro_emitir_royalties.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6071428">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.73627687" vertical-offset="2341" max-vertical-offset="8466">
+              <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinanceiroDAO.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/FinanceiroDAO.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.730769" vertical-offset="21462" max-vertical-offset="22287">
+              <caret line="1285" column="123" selection-start-line="1285" selection-start-column="123" selection-end-line="1285" selection-end-column="123" />
+              <folding>
+                <marker date="1454074909945" expanded="true" signature="495:561" placeholder="SELECT * fro..vsites_fin_forma..." />
+                <marker date="1454074909945" expanded="true" signature="1056:1134" placeholder="SELECT * fro..vsites_classificacao..." />
+                <marker date="1454074909945" expanded="true" signature="1306:1390" placeholder="SELECT * fro..vsites_classificacao..." />
+                <marker date="1454074909945" expanded="true" signature="1556:1631" placeholder="SELECT * fro..vsites_fin_planocontas..." />
+                <marker date="1454074909945" expanded="true" signature="1868:2157" placeholder="SELECT (fina..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="2453:2757" placeholder="SELECT SUM(f..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="3124:3511" placeholder="SELECT (f.fi..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="3748:3825" placeholder="SELECT sql_c..vsites_forma_pagamento..." />
+                <marker date="1454074909945" expanded="true" signature="4004:4083" placeholder="SELECT * fro..vsites_forma_pagamento..." />
+                <marker date="1454074909945" expanded="true" signature="4327:4410" placeholder="SELECT sql_c..vsites_pacotes..." />
+                <marker date="1454074909945" expanded="true" signature="4662:4757" placeholder="SELECT sql_c..vsites_user_conveniado..." />
+                <marker date="1454074909945" expanded="true" signature="7267:7358" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="8672:8738" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="10458:10553" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="10762:10922" placeholder="SELECT f.* F..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="13455:13541" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="14298:14411" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="14694:14925" placeholder="select pi.id..vsites_pedido_item..." />
+                <marker date="1454074909945" expanded="true" signature="15094:15394" placeholder="select repla..vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="15607:15906" placeholder="select pi.id..vsites_pedido_item..." />
+                <marker date="1454074909945" expanded="true" signature="16029:16241" placeholder="select COUNT..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="16489:16574" placeholder="delete from ..." />
+                <marker date="1454074909945" expanded="true" signature="16677:16764" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="17085:17334" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="26953:27031" placeholder="UPDATE vsite..." />
+                <marker date="1454074909945" expanded="true" signature="28706:29285" placeholder="SELECT COUNT..vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="29691:30111" placeholder="SELECT rr.id..vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="30756:31056" placeholder="select date_..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="31363:31442" placeholder="delete from ..." />
+                <marker date="1454074909945" expanded="true" signature="31568:33753" placeholder="insert into ..." />
+                <marker date="1454074909945" expanded="true" signature="31601:33752" placeholder="select NULL,..id_empresa_fin..." />
+                <marker date="1454074909945" expanded="true" signature="31942:33704" placeholder="SELECT f.id_..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="34143:34252" placeholder="select * fro..vsites_rel_caixa..." />
+                <marker date="1454074909945" expanded="true" signature="34462:36298" placeholder="select f.id_..id_empresa_fin..." />
+                <marker date="1454074909945" expanded="true" signature="34766:35315" placeholder="SELECT f.id_..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="35328:35740" placeholder="SELECT f.id_..vsites_fin_pagamento..." />
+                <marker date="1454074909945" expanded="true" signature="35753:36251" placeholder="SELECT f.id_..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="36624:36726" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="37211:37300" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="37772:37890" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="38196:38440" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="38732:38926" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="39244:39420" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="39713:39906" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="45267:45449" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="48077:48281" placeholder="select f.id_..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="48420:48510" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="54984:56116" placeholder="SELECT sum(f..vsites_financeiro..." />
+                <marker date="1454074909945" expanded="true" signature="56422:57084" placeholder="SELECT usem...vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="57535:58203" placeholder="SELECT usem...vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="57930:58018" placeholder="SELECT obser..vsite_royaltie_fixo_franquiado..." />
+                <marker date="1454074909945" expanded="true" signature="58431:59441" placeholder="SELECT (f.fi..vsites_user_usuario..." />
+                <marker date="1454074909945" expanded="true" signature="59623:60065" placeholder="update vsite..." />
+                <marker date="1454074909945" expanded="true" signature="62100:62471" placeholder="SELECT COUNT..vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="62585:63216" placeholder="SELECT rr.id..vsites_user_empresa..." />
+                <marker date="1454074909945" expanded="true" signature="63475:63657" placeholder="SELECT * FRO..vsites_rel_royalties..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sistema" />
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../login/index.php" />
-        <option value="$PROJECT_DIR$/includes/classQuery.php" />
-        <option value="$PROJECT_DIR$/model/RelatorioDAO.php" />
-        <option value="$PROJECT_DIR$/controle/rel_royalties.php" />
-        <option value="$PROJECT_DIR$/controle/rel_royalties_anual.php" />
-        <option value="$PROJECT_DIR$/controle/financeiro_boleto_remessa.php" />
-        <option value="$PROJECT_DIR$/boletos/includes/funcoes_bb.php" />
-        <option value="$PROJECT_DIR$/controle/financeiro_boleto_edit.php" />
-        <option value="$PROJECT_DIR$/controle/rel_desembolso.php" />
-        <option value="$PROJECT_DIR$/controle/rels.php" />
-        <option value="$PROJECT_DIR$/controle/rel_fluxocaixa.php" />
-        <option value="$PROJECT_DIR$/controle/usuario.php" />
-        <option value="$PROJECT_DIR$/model/DatabaseEAD.php" />
-        <option value="$PROJECT_DIR$/implantacao/implantacao.php" />
-        <option value="$PROJECT_DIR$/model/UsuarioDAO.php" />
-        <option value="$PROJECT_DIR$/boletos/boleto_bb.php" />
-        <option value="$PROJECT_DIR$/boletos/includes/layout_bb.php" />
-        <option value="$PROJECT_DIR$/boletos/remessabancodobrasil/2015/CB171201.REM" />
-        <option value="$PROJECT_DIR$/boletos/gerabradesco.php" />
-        <option value="$PROJECT_DIR$/boletos/remessabancodobrasil/2015/CB181201.REM" />
-        <option value="$PROJECT_DIR$/boletos/gerabancodobrasil.php" />
-        <option value="$PROJECT_DIR$/controle/financeiro_boleto_brasil.php" />
-        <option value="$PROJECT_DIR$/controle/rel_cadastro_franquia.php" />
-        <option value="$PROJECT_DIR$/controle/financeiro_gerarroyalties.php" />
-        <option value="$PROJECT_DIR$/controle/financeiro_boleto.php" />
-        <option value="$PROJECT_DIR$/model/ContaDAO.php" />
-        <option value="$PROJECT_DIR$/boletos/auxiliar/base/Database.php" />
-        <option value="$PROJECT_DIR$/implantacao/cadastro.php" />
         <option value="$PROJECT_DIR$/model/Database.php" />
-        <option value="$PROJECT_DIR$/controle/gera_rel_cadastro_franquia.php" />
-        <option value="$PROJECT_DIR$/includes/excelstyle.php" />
-        <option value="$PROJECT_DIR$/controle/rel_royalties_aberto.php" />
-        <option value="$PROJECT_DIR$/controle/gera_rel_royalties_aberto.php" />
-        <option value="$PROJECT_DIR$/model/RoyaltieFixoDAO.php" />
-        <option value="$PROJECT_DIR$/carrega_combo/carrega_contas_banco.php" />
+        <option value="$PROJECT_DIR$/implantacao/cadastro.php" />
+        <option value="$PROJECT_DIR$/js/jquery-1.11.4/datepicker-pt-BR.js" />
         <option value="$PROJECT_DIR$/controle/financeiro_royalties.php" />
-        <option value="$PROJECT_DIR$/js/js.js" />
-        <option value="$PROJECT_DIR$/controle/header.php" />
-        <option value="$PROJECT_DIR$/model/FinanceiroDAO.php" />
-        <option value="$PROJECT_DIR$/controle/emitir_boletos.php" />
+        <option value="$PROJECT_DIR$/includes/financeiro_aprovar.php" />
+        <option value="$PROJECT_DIR$/includes/financeiro_emitir_boleto.php" />
+        <option value="$PROJECT_DIR$/controle/financeiro_emitir_royalties.php" />
+        <option value="$PROJECT_DIR$/includes/financeiro_aprovar_roy.php" />
         <option value="$PROJECT_DIR$/css/jquery-ui.css" />
+        <option value="$PROJECT_DIR$/includes/financeiro_emitir_boleto_royalties.php" />
+        <option value="$PROJECT_DIR$/includes/classQuery.php" />
+        <option value="$PROJECT_DIR$/controle/header.php" />
+        <option value="$PROJECT_DIR$/controle/emitir_boletos.php" />
+        <option value="$PROJECT_DIR$/controle/gera_rel_cadastro_franquia.php" />
+        <option value="$PROJECT_DIR$/boletos/includes/layout_bb.php" />
+        <option value="$PROJECT_DIR$/model/FinanceiroDAO.php" />
+        <option value="$PROJECT_DIR$/controle/financeiro_boleto.php" />
+        <option value="$PROJECT_DIR$/controle/financeiro_boleto_edit.php" />
+        <option value="$PROJECT_DIR$/model/ContaDAO.php" />
+        <option value="$PROJECT_DIR$/boletos/boleto_bb.php" />
+        <option value="$PROJECT_DIR$/model/UsuarioDAO.php" />
+        <option value="$PROJECT_DIR$/controle/rels.php" />
+        <option value="$PROJECT_DIR$/controle/financeiro_gerarroyalties.php" />
+        <option value="$PROJECT_DIR$/model/RoyaltieFixoDAO.php" />
         <option value="$PROJECT_DIR$/includes/financeiro_emitir_royalties.php" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-  </component>
-  <component name="PhpServers">
-    <servers />
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1040" />
-    <option name="height" value="690" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -133,6 +185,9 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -145,8 +200,6 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope">
@@ -156,14 +209,27 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CartorioPostal">
+            <PATH_ELEMENT USER_OBJECT="sistema">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="sistema">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="controle">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,56 +258,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="controle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CartorioPostal\sistema\controle" />
+      <recent name="C:\xampp\htdocs\CartorioPostal\sistema\includes" />
       <recent name="C:\Users\Thauan\Documents\Projetos\SSI Consultoria\Cartorio Postal\Develop\sistema\js\jquery" />
       <recent name="C:\Users\Thauan\Documents\Projetos\SSI Consultoria\Cartorio Postal\Develop\sistema\css" />
       <recent name="C:\Users\Thauan\Documents\Projetos\SSI Consultoria\Cartorio Postal\Develop\sistema\boletos\imagens" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
-      <arguments />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <envs />
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
+    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -257,50 +329,74 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="690" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25474253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.29453126" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="641" y="75" width="377" height="892" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32730016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25336322" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730016" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268734" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4393204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25541127" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32730016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25336322" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928804" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268734" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295964" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29453126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -314,6 +410,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -322,457 +423,554 @@
           <line>78</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controle/emitir_boletos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
-          <folding>
-            <marker date="1453206871900" expanded="true" signature="4004:4053" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="4396:4887" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="5308:6129" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="5360:5872" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/financeiro_emitir_royalties.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/franquias_editar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/pagamento_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/pagamento.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.18796068">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4722222">
-          <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/rel_cadastro_franquia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="69" selection-start-line="74" selection-start-column="69" selection-end-line="74" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boletos/auxiliar/base/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.024853801">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/EmpresaDAOw.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049707603">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/financeiro_gerarroyalties.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52545154">
-          <caret line="122" column="66" selection-start-line="122" selection-start-column="66" selection-end-line="122" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/UsuarioDAO.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="186" column="20" selection-start-line="186" selection-start-column="20" selection-end-line="186" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/implantacao/cadastro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5862069">
-          <caret line="396" column="6" selection-start-line="396" selection-start-column="6" selection-end-line="396" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/CacheDiaCLASS.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13957307">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/DatabaseEAD.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08374384">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3464696">
-          <caret line="708" column="9" selection-start-line="708" selection-start-column="9" selection-end-line="708" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/gera_rel_cadastro_franquia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8604269">
-          <caret line="227" column="2" selection-start-line="227" selection-start-column="2" selection-end-line="227" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/geraexcel/excelwriter.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0279146">
-          <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/rel_royalties.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0049261">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/spreadsheet_excel_writer/Writer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33275864">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/excelstyle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/spreadsheet_excel_writer/Worksheet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.537931">
-          <caret line="730" column="49" selection-start-line="730" selection-start-column="49" selection-end-line="730" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/rel_afaturar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027914613">
-          <caret line="78" column="53" selection-start-line="78" selection-start-column="41" selection-end-line="78" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/spreadsheet_excel_writer/Workbook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79310346">
-          <caret line="341" column="53" selection-start-line="341" selection-start-column="53" selection-end-line="341" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_correios.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/rel_royalties_aberto.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.923077">
-          <caret line="39" column="92" selection-start-line="39" selection-start-column="92" selection-end-line="39" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controle/gera_remessa_c.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boletos/gerabancodobrasil.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03908046">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <marker date="1450691399039" expanded="true" signature="10167:10179" placeholder="..." />
-            <marker date="1450691399039" expanded="true" signature="10549:10561" placeholder="..." />
-            <marker date="1450691399039" expanded="true" signature="10784:10796" placeholder="..." />
-            <marker date="1450691399039" expanded="true" signature="11094:11106" placeholder="..." />
-            <marker date="1450691399039" expanded="true" signature="11272:11284" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03908046">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_servico.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/carrega_financeiro_edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74252874">
+        <state vertical-scroll-proportion="0.74252874" vertical-offset="0" max-vertical-offset="0">
           <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_cidade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_royalties_r.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41034484">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testeti/phpQuery/test-cases/test_4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34252873">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15632184">
+        <state vertical-scroll-proportion="0.15632184" vertical-offset="0" max-vertical-offset="0">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/EmpresaDAO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01954023">
+        <state vertical-scroll-proportion="0.01954023" vertical-offset="0" max-vertical-offset="0">
           <caret line="208" column="20" selection-start-line="208" selection-start-column="20" selection-end-line="208" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/cron_cart/cron_atividades.php">
+    <entry file="file://$PROJECT_DIR$/controle/download_remessa_brad.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12530713">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="582">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/ContaDAO.php">
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_pagamento.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.020884521">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state vertical-scroll-proportion="-4.5127273" vertical-offset="3723" max-vertical-offset="11798">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/ValidacaoCLASS.php">
+    <entry file="file://$PROJECT_DIR$/controle/cartorio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76044226">
-          <caret line="183" column="31" selection-start-line="183" selection-start-column="31" selection-end-line="183" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2261">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/carrega_combo/carrega_contas_banco.php">
+    <entry file="file://$PROJECT_DIR$/controle/arquivo_retorno.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66584766">
-          <caret line="56" column="24" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1921">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/RoyaltieFixoDAO.php">
+    <entry file="file://$PROJECT_DIR$/controle/alterar_senha.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="145" column="54" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="54" />
+        <state vertical-scroll-proportion="-0.040572792" vertical-offset="765" max-vertical-offset="2091">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/js.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.4/datepicker-pt-BR.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53939396">
-          <caret line="210" column="34" selection-start-line="210" selection-start-column="34" selection-end-line="210" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.7083333" vertical-offset="0" max-vertical-offset="864">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.4/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.821429" vertical-offset="6543" max-vertical-offset="40596">
+          <caret line="372" column="34" selection-start-line="372" selection-start-column="34" selection-end-line="372" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery-ui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36075205" vertical-offset="10301" max-vertical-offset="11152">
+          <caret line="624" column="18" selection-start-line="624" selection-start-column="18" selection-end-line="624" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto_brasil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_cobranca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto_remessa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/financeiro_aprovar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.123636365" vertical-offset="0" max-vertical-offset="2363">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/financeiro_aprovar_aplica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8257757" vertical-offset="947" max-vertical-offset="1785">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/financeiro_aprovar_roy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.86545455" vertical-offset="867" max-vertical-offset="2703">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/maladireta/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/maladireta/class.Email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3165643" vertical-offset="2703" max-vertical-offset="11628">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/EadDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8902743" vertical-offset="51" max-vertical-offset="1394">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controle/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.670347">
-          <caret line="238" column="92" selection-start-line="238" selection-start-column="92" selection-end-line="238" selection-end-column="92" />
+        <state vertical-scroll-proportion="3.2369077" vertical-offset="1331" max-vertical-offset="5304">
+          <caret line="231" column="49" selection-start-line="231" selection-start-column="49" selection-end-line="231" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/envia_senha_usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.042394016" vertical-offset="51" max-vertical-offset="1394">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/DatabaseEAD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.061818182" vertical-offset="51" max-vertical-offset="3587">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/financeiro_aprovar_roy_aplica.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6396509" vertical-offset="762" max-vertical-offset="1564">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="83" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controle/financeiro_royalties.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="101" selection-end-column="40" />
+        <state vertical-scroll-proportion="-0.020606061" vertical-offset="748" max-vertical-offset="3587">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/gera_rel_excel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2755611" vertical-offset="0" max-vertical-offset="4165">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5975758" vertical-offset="4233" max-vertical-offset="7378">
+          <caret line="278" column="43" selection-start-line="278" selection-start-column="43" selection-end-line="278" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/usuario_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="4828">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/classQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38544154" vertical-offset="0" max-vertical-offset="2312">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/rel_cadastro_franquia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/gera_rel_royalties_aberto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29939395" vertical-offset="3187" max-vertical-offset="4012">
+          <caret line="202" column="30" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/gera_rel_cadastro_franquia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7765432" vertical-offset="1887" max-vertical-offset="4250">
+          <caret line="148" column="32" selection-start-line="148" selection-start-column="32" selection-end-line="148" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletos/includes/funcoes_bb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="5865">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletos/includes/layout_bb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3839397" vertical-offset="9046" max-vertical-offset="12801">
+          <caret line="620" column="52" selection-start-line="620" selection-start-column="52" selection-end-line="620" selection-end-column="52" />
           <folding>
-            <marker date="1452867704944" expanded="true" signature="2005:2015" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="2005:2016" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="2005:2021" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="2005:2022" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="2005:2047" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="3227:3250" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="7266:7315" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="8622:9519" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="9901:11561" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="9957:10474" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="11078:11301" placeholder="..." />
-            <marker date="1452867704944" expanded="true" signature="11346:11552" placeholder="..." />
+            <element signature="n#style#0;n#font#0;n#TD#0;n#TR#0;n#TBODY#0;n#table#13;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7939394" vertical-offset="2099" max-vertical-offset="3383">
+          <caret line="162" column="33" selection-start-line="162" selection-start-column="33" selection-end-line="162" selection-end-column="33" />
+          <folding>
+            <marker date="1454075075493" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11919699" vertical-offset="5940" max-vertical-offset="10302">
+          <caret line="355" column="0" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
+          <folding>
+            <marker date="1454075856061" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454075856061" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454075856061" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454075856061" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454075856061" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletos/boleto_bb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8448485" vertical-offset="0" max-vertical-offset="2363">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletos/gerabancodobrasil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4386">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453299109350" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453299109350" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453299109350" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453299109350" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453299109350" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boletos/gerabradescobrad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45333335" vertical-offset="357" max-vertical-offset="2873">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ContaDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5260606" vertical-offset="3085" max-vertical-offset="7888">
+          <caret line="207" column="44" selection-start-line="207" selection-start-column="20" selection-end-line="207" selection-end-column="44" />
+          <folding>
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_fin_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_arquivo_brad_ret..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_conta_oco_brad..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_arquivo_brad_rem..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_arquivo_brad_ret..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura_oco..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.*,..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.id..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT cf.id..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT c.* F..vsites_conta..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="update vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="update vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT f.*, ..vsites_conta_fatura..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT f.*, ..vsites_conta_fatura_oco..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="SELECT fr.*,..vsites_conta_fatura_ret..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454075971946" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/UsuarioDAO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.722222" vertical-offset="6003" max-vertical-offset="6834">
+          <caret line="384" column="30" selection-start-line="384" selection-start-column="30" selection-end-line="384" selection-end-column="30" />
+          <folding>
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT id_us..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT id_us..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT uu.no..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="update vsite..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT vsite..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT u.*,e..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT * fro..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT uu.id..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT uu.*,..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT p.nom..vsites_pedido..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT uu.*,..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT email..vsites_user_conveniado..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT uu.*,..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="update vsite..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT id_us..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT u.id_..vsites_user_usuario..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..vsites_log_acesso..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..vsites_log_acesso..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..vsites_log_acesso..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..vsites_log_acesso..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_log_acesso..." />
+            <marker date="1454079877689" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controle/rels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5769697" vertical-offset="1003" max-vertical-offset="4539">
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/implantacao/cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35382685" vertical-offset="4835" max-vertical-offset="8075">
+          <caret line="301" column="42" selection-start-line="301" selection-start-column="25" selection-end-line="301" selection-end-column="42" />
+          <folding>
+            <marker date="1453298708472" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/Database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5172415">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.23150358" vertical-offset="1761" max-vertical-offset="3604">
+          <caret line="115" column="30" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+          <folding>
+            <marker date="1453455233301" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controle/gera_rel_royalties_aberto.php">
+    <entry file="file://$PROJECT_DIR$/controle/financeiro_gerarroyalties.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44367817">
-          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
-          <folding />
+        <state vertical-scroll-proportion="0.42303032" vertical-offset="1045" max-vertical-offset="3757">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="58" selection-end-line="82" selection-end-column="58" />
+          <folding>
+            <marker date="1454088168737" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454088168737" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454088168737" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1454088168737" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/financeiro_aprovar_roy.php">
+    <entry file="file://$PROJECT_DIR$/model/RoyaltieFixoDAO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2735632">
-          <caret line="14" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controle/financeiro_boleto_add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7911548">
-          <caret line="277" column="0" selection-start-line="277" selection-start-column="0" selection-end-line="280" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.4048485" vertical-offset="1944" max-vertical-offset="2941">
+          <caret line="134" column="15" selection-start-line="134" selection-start-column="15" selection-end-line="134" selection-end-column="15" />
+          <folding>
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_royaltie_fixo..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_empresa..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="UPDATE vsite..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT rofi...vsite_royaltie_fixo_franquiado..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_empresa..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT count..vsites_user_empresa..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_user_empresa..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT usem...vsites_user_empresa..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..vsites_rel_royalties..." />
+            <marker date="1454088336471" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..vsites_rel_royalties..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/FinanceiroDAO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024853801">
-          <caret line="328" column="20" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="20" />
+        <state vertical-scroll-proportion="-14.730769" vertical-offset="21462" max-vertical-offset="22287">
+          <caret line="1285" column="123" selection-start-line="1285" selection-start-column="123" selection-end-line="1285" selection-end-column="123" />
           <folding>
-            <marker date="1452876263227" expanded="true" signature="495:561" placeholder="SELECT * fro..vsites_fin_forma..." />
-            <marker date="1452876263227" expanded="true" signature="1056:1134" placeholder="SELECT * fro..vsites_classificacao..." />
-            <marker date="1452876263227" expanded="true" signature="1306:1390" placeholder="SELECT * fro..vsites_classificacao..." />
-            <marker date="1452876263227" expanded="true" signature="1556:1631" placeholder="SELECT * fro..vsites_fin_planocontas..." />
-            <marker date="1452876263227" expanded="true" signature="1868:2157" placeholder="SELECT (fina..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="2453:2757" placeholder="SELECT SUM(f..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="3124:3511" placeholder="SELECT (f.fi..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="3748:3825" placeholder="SELECT sql_c..vsites_forma_pagamento..." />
-            <marker date="1452876263227" expanded="true" signature="4004:4083" placeholder="SELECT * fro..vsites_forma_pagamento..." />
-            <marker date="1452876263227" expanded="true" signature="4327:4410" placeholder="SELECT sql_c..vsites_pacotes..." />
-            <marker date="1452876263227" expanded="true" signature="4662:4757" placeholder="SELECT sql_c..vsites_user_conveniado..." />
-            <marker date="1452876263227" expanded="true" signature="7267:7358" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="8672:8738" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="10458:10553" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="10762:10922" placeholder="SELECT f.* F..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="13455:13541" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="14298:14411" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="14694:14925" placeholder="select pi.id..vsites_pedido_item..." />
-            <marker date="1452876263227" expanded="true" signature="15094:15394" placeholder="select repla..vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="15607:15906" placeholder="select pi.id..vsites_pedido_item..." />
-            <marker date="1452876263227" expanded="true" signature="16029:16241" placeholder="select COUNT..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="16489:16574" placeholder="delete from ..." />
-            <marker date="1452876263227" expanded="true" signature="16677:16764" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="17085:17334" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="26953:27031" placeholder="UPDATE vsite..." />
-            <marker date="1452876263227" expanded="true" signature="28706:29285" placeholder="SELECT COUNT..vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="29691:30111" placeholder="SELECT rr.id..vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="30756:31056" placeholder="select date_..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="31363:31442" placeholder="delete from ..." />
-            <marker date="1452876263227" expanded="true" signature="31568:33753" placeholder="insert into vsites_rel_caixa..." />
-            <marker date="1452876263227" expanded="true" signature="31601:33752" placeholder="select NULL,..id_empresa_fin..." />
-            <marker date="1452876263227" expanded="true" signature="31942:33704" placeholder="SELECT f.id_..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="34143:34252" placeholder="select * fro..vsites_rel_caixa..." />
-            <marker date="1452876263227" expanded="true" signature="34462:36298" placeholder="select f.id_..id_empresa_fin..." />
-            <marker date="1452876263227" expanded="true" signature="34766:35315" placeholder="SELECT f.id_..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="35328:35740" placeholder="SELECT f.id_..vsites_fin_pagamento..." />
-            <marker date="1452876263227" expanded="true" signature="35753:36251" placeholder="SELECT f.id_..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="36624:36726" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="37211:37300" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="37772:37890" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="38196:38440" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="38732:38926" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="39244:39420" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="39713:39906" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="45267:45449" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="48077:48281" placeholder="select f.id_..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="48420:48510" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="54984:56116" placeholder="SELECT sum(f..vsites_financeiro..." />
-            <marker date="1452876263227" expanded="true" signature="56398:57056" placeholder="SELECT usem...vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="57481:58145" placeholder="SELECT usem...vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="57876:57964" placeholder="SELECT obser..vsite_royaltie_fixo_franquiado..." />
-            <marker date="1452876263227" expanded="true" signature="58373:59383" placeholder="SELECT (f.fi..vsites_user_usuario..." />
-            <marker date="1452876263227" expanded="true" signature="59565:60007" placeholder="update vsite..." />
-            <marker date="1452876263227" expanded="true" signature="62042:62202" placeholder="SELECT COUNT..vsites_user_empresa..." />
-            <marker date="1452876263227" expanded="true" signature="62316:62736" placeholder="SELECT rr.id..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="495:561" placeholder="SELECT * fro..vsites_fin_forma..." />
+            <marker date="1454074909945" expanded="true" signature="1056:1134" placeholder="SELECT * fro..vsites_classificacao..." />
+            <marker date="1454074909945" expanded="true" signature="1306:1390" placeholder="SELECT * fro..vsites_classificacao..." />
+            <marker date="1454074909945" expanded="true" signature="1556:1631" placeholder="SELECT * fro..vsites_fin_planocontas..." />
+            <marker date="1454074909945" expanded="true" signature="1868:2157" placeholder="SELECT (fina..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="2453:2757" placeholder="SELECT SUM(f..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="3124:3511" placeholder="SELECT (f.fi..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="3748:3825" placeholder="SELECT sql_c..vsites_forma_pagamento..." />
+            <marker date="1454074909945" expanded="true" signature="4004:4083" placeholder="SELECT * fro..vsites_forma_pagamento..." />
+            <marker date="1454074909945" expanded="true" signature="4327:4410" placeholder="SELECT sql_c..vsites_pacotes..." />
+            <marker date="1454074909945" expanded="true" signature="4662:4757" placeholder="SELECT sql_c..vsites_user_conveniado..." />
+            <marker date="1454074909945" expanded="true" signature="7267:7358" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="8672:8738" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="10458:10553" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="10762:10922" placeholder="SELECT f.* F..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="13455:13541" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="14298:14411" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="14694:14925" placeholder="select pi.id..vsites_pedido_item..." />
+            <marker date="1454074909945" expanded="true" signature="15094:15394" placeholder="select repla..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="15607:15906" placeholder="select pi.id..vsites_pedido_item..." />
+            <marker date="1454074909945" expanded="true" signature="16029:16241" placeholder="select COUNT..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="16489:16574" placeholder="delete from ..." />
+            <marker date="1454074909945" expanded="true" signature="16677:16764" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="17085:17334" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="26953:27031" placeholder="UPDATE vsite..." />
+            <marker date="1454074909945" expanded="true" signature="28706:29285" placeholder="SELECT COUNT..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="29691:30111" placeholder="SELECT rr.id..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="30756:31056" placeholder="select date_..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="31363:31442" placeholder="delete from ..." />
+            <marker date="1454074909945" expanded="true" signature="31568:33753" placeholder="insert into ..." />
+            <marker date="1454074909945" expanded="true" signature="31601:33752" placeholder="select NULL,..id_empresa_fin..." />
+            <marker date="1454074909945" expanded="true" signature="31942:33704" placeholder="SELECT f.id_..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="34143:34252" placeholder="select * fro..vsites_rel_caixa..." />
+            <marker date="1454074909945" expanded="true" signature="34462:36298" placeholder="select f.id_..id_empresa_fin..." />
+            <marker date="1454074909945" expanded="true" signature="34766:35315" placeholder="SELECT f.id_..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="35328:35740" placeholder="SELECT f.id_..vsites_fin_pagamento..." />
+            <marker date="1454074909945" expanded="true" signature="35753:36251" placeholder="SELECT f.id_..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="36624:36726" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="37211:37300" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="37772:37890" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="38196:38440" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="38732:38926" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="39244:39420" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="39713:39906" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="45267:45449" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="48077:48281" placeholder="select f.id_..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="48420:48510" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="54984:56116" placeholder="SELECT sum(f..vsites_financeiro..." />
+            <marker date="1454074909945" expanded="true" signature="56422:57084" placeholder="SELECT usem...vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="57535:58203" placeholder="SELECT usem...vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="57930:58018" placeholder="SELECT obser..vsite_royaltie_fixo_franquiado..." />
+            <marker date="1454074909945" expanded="true" signature="58431:59441" placeholder="SELECT (f.fi..vsites_user_usuario..." />
+            <marker date="1454074909945" expanded="true" signature="59623:60065" placeholder="update vsite..." />
+            <marker date="1454074909945" expanded="true" signature="62100:62471" placeholder="SELECT COUNT..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="62585:63216" placeholder="SELECT rr.id..vsites_user_empresa..." />
+            <marker date="1454074909945" expanded="true" signature="63475:63657" placeholder="SELECT * FRO..vsites_rel_royalties..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/jquery-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controle/emitir_boletos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+        <state vertical-scroll-proportion="-4.269231" vertical-offset="1147" max-vertical-offset="3145">
+          <caret line="74" column="45" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
           <folding>
-            <marker date="1453206871900" expanded="true" signature="4004:4053" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="4396:4887" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="5308:6129" placeholder="..." />
-            <marker date="1453206871900" expanded="true" signature="5360:5872" placeholder="..." />
+            <marker date="1453912440409" expanded="true" signature="4559:4608" placeholder="..." />
+            <marker date="1453912440409" expanded="true" signature="5119:5610" placeholder="..." />
+            <marker date="1453912440409" expanded="true" signature="6031:6852" placeholder="..." />
+            <marker date="1453912440409" expanded="true" signature="6083:6595" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/financeiro_emitir_royalties.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6071428">
-          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.73627687" vertical-offset="2341" max-vertical-offset="8466">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -794,3 +992,4 @@
     </states>
   </component>
 </project>
+

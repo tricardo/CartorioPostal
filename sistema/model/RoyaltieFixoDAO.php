@@ -115,13 +115,24 @@ count(*) as total
 FROM vsites_user_empresa usem
 INNER JOIN vsite_royaltie_fixo_franquiado rofi
 ON usem.id_empresa = rofi.id_empresa
-WHERE status in ('Ativo', 'Renovação')";
+WHERE status in ('Ativo', 'Renovação') and usem.id_empresa!=1";
         $cont = $this->fetch();
 
         $this->total = $cont[0]->total;
 
         $this->sql = "SELECT
 *
+FROM vsites_user_empresa usem
+INNER JOIN vsite_royaltie_fixo_franquiado rofi
+ON usem.id_empresa = rofi.id_empresa
+WHERE usem.status in ('Ativo', 'Renovação') and usem.id_empresa!=1 ORDER BY fantasia LIMIT " . $this->getInicio() . "," . $this->maximo . " ";
+        return $this->fetch();
+    }
+
+    public function listar_franquia_royalties_todos()
+    {
+        $this->sql = "SELECT
+usem.id_empresa
 FROM vsites_user_empresa usem
 INNER JOIN vsite_royaltie_fixo_franquiado rofi
 ON usem.id_empresa = rofi.id_empresa
@@ -136,14 +147,16 @@ WHERE usem.status in ('Ativo', 'Renovação') and usem.id_empresa!=1 ORDER BY fant
         $this->exec();
     }
 
-    public function royalties_gerados_por_mes($mes, $ano, $id_empresa){
+    public function royalties_gerados_por_mes($mes, $ano, $id_empresa)
+    {
         $this->sql = "SELECT COUNT(*) as qnt FROM vsites_rel_royalties WHERE YEAR(DATA) = ? AND MONTH(DATA) = ? AND ID_EMPRESA = ?";
         $this->values = array($ano, $mes, $id_empresa);
         $row = $this->fetch();
         return $row[0];
     }
 
-    public function seleciona_royalties_gerados_por_id($id_rel_royalties){
+    public function seleciona_royalties_gerados_por_id($id_rel_royalties)
+    {
         $this->sql = "SELECT * FROM vsites_rel_royalties where id_rel_royalties = ";
         $this->values = array($id_rel_royalties);
         $row = $this->fetch();

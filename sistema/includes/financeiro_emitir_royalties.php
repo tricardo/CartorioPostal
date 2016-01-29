@@ -171,6 +171,8 @@ if ($controle_id_empresa == 1) {
                         $retorno = $cContaDAO->inserirBoletoBrasil($cConta, $controle_id_empresa, $controle_id_usuario);
                         break;
                 }
+
+
             }
 
             if ($retorno > 0) {

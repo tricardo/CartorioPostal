@@ -76,16 +76,16 @@ require('header.php');
                                     </a>
                                 </td>
                             </tr>
-                            <tr>
-                                <td class="result_celula" nowrap>Financeiro</td>
-                                <td class="result_celula" nowrap>Royalties em Aberto</td>
-                                <td class="result_celula" align="center" nowrap>
-                                    <a href="rel_royalties_aberto.php"><img src="../images/botao_editar.png" title="Editar"
-                                                                            border="0"/></a>
-                                </td>
-                            </tr>
                             <? $id_departamento_s = explode(',', $controle_id_departamento_s);
                             if ($controle_id_empresa == 1 and in_array('17', $id_departamento_s) == 1) { ?>
+                                <tr>
+                                    <td class="result_celula" nowrap>Financeiro</td>
+                                    <td class="result_celula" nowrap>Royalties em Aberto</td>
+                                    <td class="result_celula" align="center" nowrap>
+                                        <a href="rel_royalties_aberto.php"><img src="../images/botao_editar.png" title="Editar"
+                                                                                border="0"/></a>
+                                    </td>
+                                </tr>
                                 <tr>
                                     <td class="result_celula" nowrap>Franquia</td>
                                     <td class="result_celula" nowrap>Planejamento Econômico Financeiro</td>
