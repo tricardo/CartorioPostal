@@ -2,7 +2,7 @@
 <div id="topo"><?php
 $permissao = verifica_permissao('Financeiro',$controle_id_departamento_p,$controle_id_departamento_s);
 if($permissao == 'FALSE'){
-	echo '<br><br><strong>Vocï¿½ nï¿½o tem permissï¿½o para acessar essa pï¿½gina</strong>';
+	echo '<br><br><strong>Você não tem permissão para acessar essa página</strong>';
 	exit;
 }
 $submit='inserir';
@@ -25,11 +25,11 @@ $contaDAO = new ContaDAO();
 <?
 $p = $contaDAO->listaBoletoBrad($id,$controle_id_empresa);
 if($p->id_conta_fatura==''){
-	echo 'Boleto nï¿½o encontrado.<br><br><a href=""';
+	echo 'Boleto não encontrado.<br><br><a href=""';
 	exit;
 }
 
-#alteraï¿½ï¿½o de vencimento
+#alteração de vencimento
 if($submit_form<>'' and $ocorrencia==6 and $p->status==1){
 	$errors=array();
 	$error  ='<div class="erro"><b>Ocorreram os seguintes erros:</b><br>';
@@ -96,7 +96,7 @@ if($submit_form<>'' and $ocorrencia!=6 and $ocorrencia!=1 and $ocorrencia!=31 an
 
 }
 
-#alteraï¿½ï¿½o do boleto depois do registro
+#alteração do boleto depois do registro
 if($submit_form<>'' and $ocorrencia==31 and $p->status==1){
 	$errors=array();
 	$error  ='<div class="erro"><b>Ocorreram os seguintes erros:</b><br>';
@@ -124,12 +124,12 @@ if($submit_form<>'' and $ocorrencia==31 and $p->status==1){
 		if($endereco=="") $errors['endereco']=1;
 		if($cep=="") $errors['cep']=1;
 		if($valor=="") $errors['valor']=1;
-		$error.='- Os Campos com * sï¿½o obrigatï¿½rios;<br>';
+		$error.='- Os Campos com * são obrigatórios;<br>';
 	}
 
 	if($instrucao1==6 and $instrucao2<5){
 		$errors['instrucao2']=1;
-		$error.='- O campo instruï¿½ï¿½o 2 nï¿½o pode ser menor que 5;<br>';	
+		$error.='- O campo instrução 2 não pode ser menor que 5;<br>';
 	}
 
 	$p->ocorrencia=$ocorrencia;
@@ -150,7 +150,7 @@ if($submit_form<>'' and $ocorrencia==31 and $p->status==1){
 	if(COUNT($errors)==0) {
 		$done = $contaDAO->inserirBoletoBradOco31($p,$id,$controle_id_empresa,$controle_id_usuario);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto alterado com sucesso!';
 		$pagina = 'financeiro_boleto_edit.php?id='.$id;
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -164,7 +164,7 @@ if($submit_form<>'' and $ocorrencia==31 and $p->status==1){
 }
 
 
-#alteraï¿½ï¿½o do boleto antes de registrar
+#alteração do boleto antes de registrar
 if($submit_form<>'' and $p->status==0){
 	$errors=array();
 	$error  ='<div class="erro"><b>Ocorreram os seguintes erros:</b><br>';
@@ -201,18 +201,18 @@ if($submit_form<>'' and $p->status==0){
 		if($emissao_papeleta=="") $errors['emissao_papeleta']=1;
 		if($especie=="") $errors['especie']=1;
 		if($aceite=="") $errors['aceite']=1;
-		$error.='- Os Campos com * sï¿½o obrigatï¿½rios;<br>';
+		$error.='- Os Campos com * são obrigatórios;<br>';
 	}
 
 	if($instrucao1==6 and $instrucao2<5){
 		$errors['instrucao2']=1;
-		$error.='- O campo instruï¿½ï¿½o 2 nï¿½o pode ser menor que 5;<br>';	
+		$error.='- O campo instrução 2 não pode ser menor que 5;<br>';
 	}
 
 	$verifica = $validacaoCLASS->invertData($vencimento);
 	if($verifica==false){
 		$errors['vencimento']=1;
-		$error.='- Vencimento invï¿½lido;<br>';					
+		$error.='- Vencimento inválido;<br>';
 	} else {
 		$vencimento=$verifica;
 	}
@@ -240,7 +240,7 @@ if($submit_form<>'' and $p->status==0){
 	if(COUNT($errors)==0) {
 		$done = $contaDAO->atualizaBoletoBrad($p,$id,$controle_id_empresa);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto alterado com sucesso!';
 		$pagina = 'financeiro_boleto.php';
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -255,7 +255,7 @@ if($submit_form<>'' and $p->status==0){
 }
 
 
-#exclusï¿½o do boleto antes de registrar
+#exclusão do boleto antes de registrar
 if($submit_deleta<>'' and $p->status==0){
 	$errors=array();
 	$error  ='<div class="erro"><b>Ocorreram os seguintes erros:</b><br>';
@@ -264,7 +264,7 @@ if($submit_deleta<>'' and $p->status==0){
 	if(COUNT($errors)==0) {
 		$done = $contaDAO->deletaBoletoBrad($id,$controle_id_empresa);
 		//alterado 01/04/2011
-		$titulo = 'Mensagem da pï¿½gina web';
+		$titulo = 'Mensagem da página web';
 		$msg    = 'Boleto deletado com sucesso!';
 		$pagina = 'financeiro_boleto.php';
 		$funcJs = "openAlertBox('".$titulo."','".$msg."','".$pagina."');";
@@ -313,7 +313,7 @@ if($submit_deleta<>'' and $p->status==0){
 							<select name="tipo" id="tipo"  class="form_estilo<? if($errors['tipo']==1) echo '_erro' ?>" style=" width:110px; ">
 							<option value="1" <? if($p->tipo=='1') echo 'selected'; ?>>CPF</option>
 							<option value="2" <? if($p->tipo=='2') echo 'selected'; ?>>CNPJ</option>
-							<option value="98" <? if($p->tipo=='98') echo 'selected'; ?>>Nï¿½o Tem</option>
+							<option value="98" <? if($p->tipo=='98') echo 'selected'; ?>>Não Tem</option>
 							<option value="99" <? if($p->tipo=='99') echo 'selected'; ?>>Outros</option>
 							</select>
 							<div class="asterisco">*</div>
@@ -328,7 +328,7 @@ if($submit_deleta<>'' and $p->status==0){
 							<label for="sacado">Sacado: </label>
 							<input type="text" id="sacado" maxlength="40" name="sacado" value="<?= $p->sacado ?>"  class="form_estilo<? if($errors['sacado']==1) echo '_erro' ?>" style=" width:550px; " /><div class="asterisco">*</div>
 
-							<label for="endereco">Endereï¿½o: </label>
+							<label for="endereco">Endereço: </label>
 							<input type="text" id="endereco" maxlength="40" name="endereco" value="<?= $p->endereco ?>"  class="form_estilo<? if($errors['endereco']==1) echo '_erro' ?>" style=" width:550px; " /><div class="asterisco">*</div>
 
 							<label for="endereco">Bairro: </label>
@@ -351,28 +351,28 @@ if($submit_deleta<>'' and $p->status==0){
 							<input type="text" id="valor" maxlength="10" name="valor" value="<?= $p->valor ?>"  onkeyup="moeda(event.keyCode,this.value,'valor');"
 				 class="form_estilo<? if($errors['valor']==1) echo '_erro' ?>" style=" width:120px; " /><div class="asterisco">*</div>
 							
-							<label for="juros_mora">Mora diï¿½ria: </label>
+							<label for="juros_mora">Mora diária: </label>
 							<input type="text" id="juros_mora" maxlength="10" name="juros_mora" value="<?= $p->juros_mora ?>"  onkeyup="moeda(event.keyCode,this.value,'valor');" class="form_estilo<? if($errors['juros_mora']==1) echo '_erro' ?>" style=" width:110px; " /><div class="asterisco">&nbsp;</div>
 
-							<label for="ocorrencia">Ocorrï¿½ncia: </label>
+							<label for="ocorrencia">Ocorrência: </label>
 							<select name="ocorrencia" id="ocorrencia"  class="form_estilo<? if($errors['ocorrencia']==1) echo '_erro' ?>" style=" width:338px; ">
 							<option value="1" <? if($p->ocorrencia=='1') echo 'selected="select"'; ?>>Remessa</option>
 							</select><div class="asterisco">*</div>
 														
-							<label for="instrucao1">Instruï¿½ï¿½o 1: </label>
+							<label for="instrucao1">Instrução 1: </label>
 							<select name="instrucao1" id="instrucao1"  class="form_estilo<? if($errors['instrucao1']==1) echo '_erro' ?>" style=" width:552px; ">
 							<option value=""></option>
 							<option value="6" <? if($p->instrucao1=='6') echo 'selected="select"'; ?>>Protestar</option>
-							<option value="8" <? if($p->instrucao1=='8') echo 'selected="select"'; ?>>Nï¿½o cobrar juros de mora</option>
-							<option value="9" <? if($p->instrucao1=='9') echo 'selected="select"'; ?>>Nï¿½o receber apï¿½s o vencimento</option>
-							<option value="11" <? if($p->instrucao1=='11') echo 'selected="select"'; ?>>Nï¿½o receber apï¿½s o 8ï¿½ dia do vencimento</option>
-							<option value="12" <? if($p->instrucao1=='12') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 5ï¿½ dia do vencimento</option>
-							<option value="13" <? if($p->instrucao1=='13') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 10ï¿½ dia do vencimento</option>
-							<option value="14" <? if($p->instrucao1=='14') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 15ï¿½ dia do vencimento</option>
+							<option value="8" <? if($p->instrucao1=='8') echo 'selected="select"'; ?>>Não cobrar juros de mora</option>
+							<option value="9" <? if($p->instrucao1=='9') echo 'selected="select"'; ?>>Não receber após o vencimento</option>
+							<option value="11" <? if($p->instrucao1=='11') echo 'selected="select"'; ?>>Não receber após o 8° dia do vencimento</option>
+							<option value="12" <? if($p->instrucao1=='12') echo 'selected="select"'; ?>>Cobrar encargos após o 5° dia do vencimento</option>
+							<option value="13" <? if($p->instrucao1=='13') echo 'selected="select"'; ?>>Cobrar encargos após o 10° dia do vencimento</option>
+							<option value="14" <? if($p->instrucao1=='14') echo 'selected="select"'; ?>>Cobrar encargos após o 15° dia do vencimento</option>
 							</select><div class="asterisco">&nbsp;</div>
 
 							
-							<label for="instrucao2">Instruï¿½ï¿½o 2: </label>
+							<label for="instrucao2">Instrução 2: </label>
 							<input type="text" id="instrucao2" maxlength="2" name="instrucao2" value="<?= $p->instrucao2 ?>"  onKeyUp="masc_numeros(this,'##');" class="form_estilo<? if($errors['instrucao2']==1) echo '_erro' ?>" style=" width:110px; " /><div class="asterisco">&nbsp;</div>
 							
 							<label for="mensagem1">Mensagem 1: </label>
@@ -387,15 +387,15 @@ if($submit_deleta<>'' and $p->status==0){
 							<option value="2" <? if($p->emissao_papeleta=='2') echo 'selected="select"'; ?>>Pela Empresa</option>
 							</select><div class="asterisco">*</div>
 							
-							<label for="especie">Espï¿½cie: </label>
+							<label for="especie">Espécie: </label>
 							<select name="especie" id="especie"  class="form_estilo<? if($errors['especie']==1) echo '_erro' ?>" style=" width:187px; ">
 							<option value="1" <? if($p->especie=='1') echo 'selected="select"'; ?>>Duplicata</option>
-							<option value="2" <? if($p->especie=='2') echo 'selected="select"'; ?>>Nota Promissï¿½ria</option>
+							<option value="2" <? if($p->especie=='2') echo 'selected="select"'; ?>>Nota Promissória</option>
 							<option value="3" <? if($p->especie=='3') echo 'selected="select"'; ?>>Nota de Seguro</option>
-							<option value="4" <? if($p->especie=='4') echo 'selected="select"'; ?>>Cobranï¿½a Seriada</option>
+							<option value="4" <? if($p->especie=='4') echo 'selected="select"'; ?>>Cobrançaa Seriada</option>
 							<option value="5" <? if($p->especie=='5') echo 'selected="select"'; ?>>Recibo</option>
-							<option value="10" <? if($p->especie=='10') echo 'selected="select"'; ?>>Letras de Cï¿½mbio</option>
-							<option value="11" <? if($p->especie=='11') echo 'selected="select"'; ?>>Nota de Dï¿½bito</option>
+							<option value="10" <? if($p->especie=='10') echo 'selected="select"'; ?>>Letras de Câmbio</option>
+							<option value="11" <? if($p->especie=='11') echo 'selected="select"'; ?>>Nota de Débito</option>
 							<option value="12" <? if($p->especie=='12') echo 'selected="select"'; ?>>Duplicata de Serv.</option>
 							<option value="99" <? if($p->especie=='99') echo 'selected="select"'; ?>>Outros</option>
 							</select><div class="asterisco">*</div>
@@ -419,24 +419,24 @@ if($submit_deleta<>'' and $p->status==0){
 				</tr>
 				<? if($p->status==1 and $p->id_ocorrencia!=6 and $p->id_ocorrencia!=15 and $p->id_ocorrencia!=16 and $p->id_ocorrencia!=17 and $p->id_ocorrencia!=100 and $p->id_ocorrencia!=101){ ?>
 				<tr>
-					<td class="tabela_tit">Nova Ocorrï¿½ncia</td>
+					<td class="tabela_tit">Nova Ocorrência</td>
 				</tr>
 				<tr>
 					<td>
 						<form method="POST" action=""  class="form_auto" name="form_auto2" enctype="multipart/form-data">
-							<label for="ocorrencia">Ocorrï¿½ncia: </label>
+							<label for="ocorrencia">Ocorrência: </label>
 							<select name="ocorrencia" id="ocorrencia"  class="form_estilo<? if($errors['ocorrencia']==1) echo '_erro' ?>" style=" width:338px;" onchange="ocorrencia_brad(this.value);">
 								<option value=""></option>
 								<? if($p->id_ocorrencia==9 or $p->id_ocorrencia==10) { ?>
 									<option value="100" <? if($p->ocorrencia=='100') echo 'selected="select"'; ?>>Valor Recebido</option>
-									<option value="101" <? if($p->ocorrencia=='101') echo 'selected="select"'; ?>>Valor nï¿½o Recebido</option>
+									<option value="101" <? if($p->ocorrencia=='101') echo 'selected="select"'; ?>>Valor não Recebido</option>
 								<? } else { ?>
 									<option value="2" <? if($p->ocorrencia=='2') echo 'selected="select"'; ?>>Pedido de baixa</option>
-									<option value="6" <? if($p->ocorrencia=='6') echo 'selected="select"'; ?>>Alteraï¿½ï¿½o de vencimento</option>
+									<option value="6" <? if($p->ocorrencia=='6') echo 'selected="select"'; ?>>Alteração de vencimento</option>
 									<option value="9" <? if($p->ocorrencia=='9') echo 'selected="select"'; ?>>Pedido de protesto</option>
-									<option value="18" <? if($p->ocorrencia=='18') echo 'selected="select"'; ?>>Sustar protesto e baixar Tï¿½tulo</option>
+									<option value="18" <? if($p->ocorrencia=='18') echo 'selected="select"'; ?>>Sustar protesto e baixar Título</option>
 									<option value="19" <? if($p->ocorrencia=='19') echo 'selected="select"'; ?>>Sustar protesto e manter em carteira</option>
-									<option value="31" <? if($p->ocorrencia=='31') echo 'selected="select"'; ?>>Alteraï¿½ï¿½o de outros dados</option>
+									<option value="31" <? if($p->ocorrencia=='31') echo 'selected="select"'; ?>>Alteração de outros dados</option>
 								<? } ?>
 							</select><div class="asterisco">*</div>
 							<div style=" width:200px;  height:27px;  float:left;"></div>
@@ -445,7 +445,7 @@ if($submit_deleta<>'' and $p->status==0){
 								<select name="tipo" id="tipo"  class="form_estilo<? if($errors['tipo']==1) echo '_erro' ?>" style=" width:110px; ">
 								<option value="1" <? if($p->tipo=='1') echo 'selected="select"'; ?>>CPF</option>
 								<option value="2" <? if($p->tipo=='2') echo 'selected="select"'; ?>>CNPJ</option>
-								<option value="98" <? if($p->tipo=='98') echo 'selected="select"'; ?>>Nï¿½o Tem</option>
+								<option value="98" <? if($p->tipo=='98') echo 'selected="select"'; ?>>Não Tem</option>
 								<option value="99" <? if($p->tipo=='99') echo 'selected="select"'; ?>>Outros</option>
 								</select><div class="asterisco">*</div>
 								
@@ -457,7 +457,7 @@ if($submit_deleta<>'' and $p->status==0){
 								<label for="sacado">Sacado: </label>
 								<input type="text" id="sacado" maxlength="40" name="sacado" value="<?= $p->sacado ?>"  class="form_estilo<? if($errors['sacado']==1) echo '_erro' ?>" style=" width:550px; " /><div class="asterisco">*</div>
 								
-								<label for="endereco">Endereï¿½o: </label>
+								<label for="endereco">Endereço: </label>
 								<input type="text" id="endereco" maxlength="40" name="endereco" value="<?= $p->endereco ?>"  class="form_estilo<? if($errors['endereco']==1) echo '_erro' ?>" style=" width:550px; " /><div class="asterisco">*</div>
 
 								<label for="endereco">Bairro: </label>
@@ -476,23 +476,23 @@ if($submit_deleta<>'' and $p->status==0){
 								<input type="text" id="valor" maxlength="10" name="valor" value="<?= $p->valor ?>"  
 								onkeyup="moeda(event.keyCode,this.value,'valor');" class="form_estilo<? if($errors['valor']==1) echo '_erro' ?>" style=" width:120px; " /><div class="asterisco">*</div>
 								
-								<label for="juros_mora">Mora diï¿½ria: </label>
+								<label for="juros_mora">Mora diária: </label>
 								<input type="text" id="juros_mora" maxlength="10" name="juros_mora" value="<?= $p->juros_mora ?>"  onkeyup="moeda(event.keyCode,this.value,'valor');" class="form_estilo<? if($errors['juros_mora']==1) echo '_erro' ?>" style=" width:110px; " /><div class="asterisco">&nbsp;</div>
 		
-								<label for="instrucao1">Instruï¿½ï¿½o 1: </label>
+								<label for="instrucao1">Instrução 1: </label>
 								<select name="instrucao1" id="instrucao1"  class="form_estilo<? if($errors['instrucao1']==1) echo '_erro' ?>" style=" width:552px; ">
 								<option value=""></option>
 								<option value="6" <? if($p->instrucao1=='6') echo 'selected="select"'; ?>>Protestar</option>
-								<option value="8" <? if($p->instrucao1=='8') echo 'selected="select"'; ?>>Nï¿½o cobrar juros de mora</option>
-								<option value="9" <? if($p->instrucao1=='9') echo 'selected="select"'; ?>>Nï¿½o receber apï¿½s o vencimento</option>
-								<option value="11" <? if($p->instrucao1=='11') echo 'selected="select"'; ?>>Nï¿½o receber apï¿½s o 8ï¿½ dia do vencimento</option>
-								<option value="12" <? if($p->instrucao1=='12') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 5ï¿½ dia do vencimento</option>
-								<option value="13" <? if($p->instrucao1=='13') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 10ï¿½ dia do vencimento</option>
-								<option value="14" <? if($p->instrucao1=='14') echo 'selected="select"'; ?>>Cobrar encargos apï¿½s o 15ï¿½ dia do vencimento</option>
+								<option value="8" <? if($p->instrucao1=='8') echo 'selected="select"'; ?>>Não cobrar juros de mora</option>
+								<option value="9" <? if($p->instrucao1=='9') echo 'selected="select"'; ?>>Não receber após o vencimento</option>
+								<option value="11" <? if($p->instrucao1=='11') echo 'selected="select"'; ?>>Não receber após o 8° dia do vencimento</option>
+								<option value="12" <? if($p->instrucao1=='12') echo 'selected="select"'; ?>>Cobrar encargos após o 5° dia do vencimento</option>
+								<option value="13" <? if($p->instrucao1=='13') echo 'selected="select"'; ?>>Cobrar encargos após o 10° dia do vencimento</option>
+								<option value="14" <? if($p->instrucao1=='14') echo 'selected="select"'; ?>>Cobrar encargos após o 15° dia do vencimento</option>
 								</select><div class="asterisco">&nbsp;</div>
 
 								
-								<label for="instrucao2">Instruï¿½ï¿½o 2: </label>
+								<label for="instrucao2">Instrução 2: </label>
 								<input type="text" id="instrucao2" maxlength="2" name="instrucao2" value="<?= $p->instrucao2 ?>"  onKeyUp="masc_numeros(this,'##');" class="form_estilo<? if($errors['instrucao2']==1) echo '_erro' ?>" style=" width:110px; " /><div class="asterisco">&nbsp;</div>
 								
 								<label for="mensagem1">Mensagem 1: </label>
@@ -523,7 +523,7 @@ if($submit_deleta<>'' and $p->status==0){
 					$lista = $contaDAO->listaBoletoBradOco($id,$controle_id_empresa);
 					$p_valor = '';
 					foreach($lista as $l){
-						if($l->status==0) $status = 'Nï¿½o Registrado'; else $status = 'Registrado';
+						if($l->status==0) $status = 'Não Registrado'; else $status = 'Registrado';
 						
 						$p_valor .= '<b>'.$l->data_oco.'</b> '.$status.' - '.$l->conta_oco.'<br>';
 					}
@@ -539,8 +539,8 @@ if($submit_deleta<>'' and $p->status==0){
 					$lista = $contaDAO->listaBoletoBradOcoRet($id,$controle_id_empresa);
 					$p_valor = '
 					<tr>
-						<td>Data Ocorrï¿½ncia</td>
-						<td>Ocorrï¿½ncia</td>
+						<td>Data Ocorrência</td>
+						<td>Ocorrência</td>
 						<td>Despesas</td>
 						<td>Outras</td>
 						<td>Juros</td>
@@ -569,7 +569,7 @@ if($submit_deleta<>'' and $p->status==0){
 					}
 					echo '
 					<tr>
-						<td class="tabela_tit" colspan="12">Histï¿½rico de Ocorrï¿½ncias Bradesco</td>
+						<td class="tabela_tit" colspan="12">Histórico de Ocorrências Bradesco</td>
 					</tr>
 					'.$p_valor.'
 					</table>';

@@ -39,7 +39,7 @@ if($id=='') pt_register('GET','id');
 
 // DADOS DO BOLETO PARA O SEU CLIENTE
 if($b->id_conta_fatura=='') {
-    $b = $contaDAO->selectBoletosBradPorId($id,$controle_id_empresa);
+    $b = $contaDAO->selectBoletosBrasilPorId($id,$controle_id_empresa);
 }
 if($b->id_conta_fatura=='') {
     echo '<br><h1>Boleto não encontrado!</h1>';
@@ -55,7 +55,7 @@ $valor_cobrado = str_replace(",", ".",$valor_cobrado);
 $valor_boleto=number_format($valor_cobrado+$taxa_boleto, 2, ',', '');
 
 $dadosboleto["nosso_numero"] = $b->id_conta_fatura;
-$dadosboleto["numero_documento"] = $dadosboleto["nosso_numero"];		// Num do pedido ou do documento
+$dadosboleto["numero_documento"] = $b->numero_beneficiario;	// Num do pedido ou do documento
 $dadosboleto["data_vencimento"] = $data_venc; // Data de Vencimento do Boleto - REGRA: Formato DD/MM/AAAA
 $dadosboleto["data_documento"] = invert($b->emissao,'/', 'PHP'); // Data de emissão do Boleto
 $dadosboleto["data_processamento"] = invert($b->emissao,'/', 'PHP'); // Data de processamento do boleto (opcional)
@@ -69,9 +69,9 @@ if($b->tipo==1) $dadosboleto["tipo"] = 'CPF';
 else $dadosboleto["tipo"] = 'CNPJ';
 
 // INFORMACOES PARA O CLIENTE
-$dadosboleto["demonstrativo1"] = $b->mensagem1;
-$dadosboleto["demonstrativo2"] = $b->mensagem2;
-$dadosboleto["demonstrativo3"] = $b->mensagem3;
+$dadosboleto["demonstrativo1"] = "MULTA DE ".str_replace(".", ",",$b->valor_multa)."% A PARTIR DE ".date("d/m/Y",strtotime($b->data_multa));
+$dadosboleto["demonstrativo2"] = "PROCEDA OS AJUSTES DE VALORES PERTINENTES.";
+$dadosboleto["demonstrativo3"] = $b->mensagem1;
 $juros_mora = (float)($b->valor)/100*(float)($b->juros_mora)/30;
 $juros_mora = number_format($juros_mora, 2, ',', '');
 
@@ -79,18 +79,16 @@ $multa = (float)($b->valor)/100*(float)(2);
 $multa = number_format($multa, 2, ',', '');
 
 // INSTRUÇÕES PARA O CAIXA
-if($b->juros_mora<>'0.00') $dadosboleto["instrucoes1"] = 'MORA DIA/COM. PERMANÊNCIA . . . . . . . . . . . . . . . . . . . . . . '.str_replace(".",",",$juros_mora); else $dadosboleto["instrucoes1"] = '';
-if($b->instrucao1==6){
-    $dadosboleto["instrucoes3"] = 'Protesto após '.$b->instrucao2.' dias em atraso';
-}
-$dadosboleto["instrucoes2"] = "APÓS ".$data_venc." MULTA . . . . . . . . . . . . . . . . . . . . . . . . . . . . ".$multa;
+$dadosboleto["instrucoes1"] = $b->mensagem2;
+
+$dadosboleto["instrucoes2"] = "PROTESTO:".date("d.m.Y",strtotime($b->dias_protesto)).".A PARTIR DESSA, CONSULTE BB P/ PAGTO";
 
 $dadosboleto["instrucoes4"] = "";
 
 // DADOS OPCIONAIS DE ACORDO COM O BANCO OU CLIENTE
 $dadosboleto["quantidade"] = "";
 $dadosboleto["valor_unitario"] = "";
-if($b->aceite=='N') $dadosboleto["aceite"] = 'Sem'; else $dadosboleto["aceite"] = "Sim";
+$dadosboleto["aceite"] = $b->aceite;
 $dadosboleto["especie"] = "R$";
 $dadosboleto["especie_doc"] = $b->sigla;
 
@@ -122,11 +120,14 @@ DESENVOLVIDO PARA CARTEIRA 18
 #################################################
 */
 // SEUS DADOS
-$dadosboleto["identificacao"] = "Cobrança Sistecart";
-$dadosboleto["cpf_cnpj"] = "07054210000101";
-$dadosboleto["endereco"] = "Rua José Bonifácio, 278i";
-$dadosboleto["cidade_uf"] = "São paulo - SP";
+$dadosboleto["identificacao"] = "SISTECART CONSULTORIA DE NEGOC ";
+$dadosboleto["cpf_cnpj"] = "10.914.772/0001-92";
+$dadosboleto["endereco"] = "R DR TEODORO BAIMA 82 AP 12 REPUBLICA SAO PAULO - 1220040";
+$dadosboleto["cidade_uf"] = "SAO PAULO - SP";
 $dadosboleto["cedente"] = $b->favorecido;
+
+$dadosboleto["sacador_avalista"] = $b->nome_sacador." - ".$b->cpnj_sacador;
+
 // NÃO ALTERAR!
 include("includes/funcoes_bb.php");
 include("includes/layout_bb.php");

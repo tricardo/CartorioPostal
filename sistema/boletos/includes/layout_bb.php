@@ -107,6 +107,7 @@
             width: 666px;
             margin: 0px auto;
             border-bottom: 1px navy dashed;
+            clear:both;
         }
         #boleto .cut p {
             margin: 0 0 5px 0;
@@ -363,14 +364,34 @@
             color: navy;
             width: 180px;
         }
-        div.footer {
+        div.footer_instrucao{
+            float:left;
             margin-bottom: 30px;
+            margin-left:10px;
+        }
+        div.footer_instrucao p.titulo{
+            width: 400px;
+            margin: 0;
+            padding: 0;
+            padding-left: 0px;
+            font-family: 'Arial Narro';
+            font-size: 9px;
+            color: navy;
+        }
+        div.footer_instrucao p{
+            font-family: Arial;
+            font-size:10px;
+        }
+        div.footer {
+            float:right;
+            margin-bottom: 30px;
+            margin-right: 10px;
         }
         div.footer p {
             width: 88px;
             margin: 0;
             padding: 0;
-            padding-left: 525px;
+            padding-left: 0px;
             font-family: 'Arial Narro';
             font-size: 9px;
             color: navy;
@@ -393,13 +414,6 @@
 <body>
 
 <div id="container">
-
-    <div id="instr_header">
-        <h1><?php echo $dadosboleto["identificacao"]; ?> <?php echo isset($dadosboleto["cpf_cnpj"]) ? $dadosboleto["cpf_cnpj"] : '' ?></h1>
-        <address><?php echo $dadosboleto["endereco"]; ?><br></address>
-        <address><?php echo $dadosboleto["cidade_uf"]; ?></address>
-    </div>	<!-- id="instr_header" -->
-
     <div id="">
         <!--
           Use no lugar do <div id=""> caso queira imprimir sem o logotipo e instruções
@@ -437,8 +451,6 @@
         <div class="cut">
             <p>Corte na linha pontilhada</p>
         </div>
-        <table cellspacing=0 cellpadding=0 width=666 border=0><TBODY><TR><TD class=ct width=666><div align=right><b class=cp>Recibo
-                            do Sacado</b></div></TD></tr></tbody></table>
         <table class="header" border=0 cellspacing="0" cellpadding="0">
             <tbody>
             <tr>
@@ -450,7 +462,6 @@
             </tr>
             </tbody>
         </table>
-
         <table class="line" cellspacing="0" cellpadding="0">
             <tbody>
             <tr class="titulos">
@@ -520,7 +531,18 @@
             </tr>
             </tbody>
         </table>
-
+        <div class="footer_instrucao">
+            <p class="titulo">Instru&ccedil;&otilde;es</p>
+            <div class="instrucoes">
+                <p><?php echo $dadosboleto["demonstrativo1"]; ?></p>
+                <p><?php echo $dadosboleto["demonstrativo2"]; ?></p>
+                <p><?php echo $dadosboleto["demonstrativo3"]; ?></p>
+                <p><?php echo $dadosboleto["instrucoes1"]; ?></p>
+                <p><?php echo $dadosboleto["instrucoes2"]; ?></p>
+                <p><?php echo $dadosboleto["instrucoes3"]; ?></p>
+                <p><?php echo $dadosboleto["instrucoes4"]; ?></p>
+            </div>
+        </div>
         <div class="footer">
             <p>Autentica&ccedil;&atilde;o mec&acirc;nica</p>
         </div>
@@ -596,7 +618,7 @@
             <tr class="titulos">
                 <td class="reservado">Uso do  banco</td>
                 <td class="carteira">Carteira</td>
-                <td class="especie2">Espécie</td>
+                    <td class="especie2">Esp&eacute;cie</td>
                 <td class="qtd2">Quantidade</td>
                 <td class="xvalor">x Valor</td>
                 <td class="valor_doc2">(=) Valor documento</td>
@@ -727,12 +749,12 @@
                 <td class="sacador_avalista" colspan="2">Sacador/Avalista</td>
             </tr>
             <tr class="campos">
-                <td class="sacador_avalista">&nbsp;</td>
+                <td class="sacador_avalista"><?php echo $dadosboleto["sacador_avalista"] ?></td>
                 <td class="cod_baixa">C&oacute;d. baixa</td>
             </tr>
             </tbody>
         </table>
-        <table cellspacing=0 cellpadding=0 width=666 border=0><TBODY><TR><TD width=666 align=right ><font style="font-size: 10px;">Autentica&ccedil;&atilde;o mec&acirc;nica - Ficha de Compensação</font></TD></tr></tbody></table>
+        <table cellspacing=0 cellpadding=0 width=666 border=0><TBODY><TR><TD width=666 align=right ><font style="font-size: 10px;">Autentica&ccedil;&atilde;o mec&acirc;nica - Ficha de Compensa&ccedil;&atilde;o</font></TD></tr></tbody></table>
         <div class="barcode">
             <p><?php fbarcode($dadosboleto["codigo_barras"]); ?></p>
         </div>

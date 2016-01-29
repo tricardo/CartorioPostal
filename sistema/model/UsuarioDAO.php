@@ -375,15 +375,20 @@ class UsuarioDAO extends Database
     }
 
     /*
-     * Funçao que verifica o primeiro usuário logado e realiza uma atualização do status ativo para renovação dos usuários que não acessam mais que 60 dias.
+     * Funçao que verifica o primeiro usuário logado e realiza uma atualização de 60 dias do Final do Contrato das empresas ativas.
      * */
-    public function atualiza_status_para_renovacao()
+    public function atualiza_status_para_renovacao_empresa()
     {
-        $this->sql = "SELECT count(id_log) FROM vsites_log_acesso WHERE DATE_FORMAT(data_login,'%Y-%m-%d') >= DATE_FORMAT(NOW(),'%Y-%m-%d')";
+        $this->sql = "SELECT COUNT(*) as total FROM vsites_log_acesso WHERE DATE_FORMAT(data_login, '%Y-%m-%d') = DATE_FORMAT(NOW(), '%Y-%m-%d')";
         $ret = $this->fetch();
 
-        if($ret == 0){
+        if($ret[0]->total <= 1){
+            $this->sql = "UPDATE vsites_user_empresa
+                          SET STATUS = 'Renovação'
+                          WHERE DATE_SUB(validade_contrato, INTERVAL 70 DAY) <= DATE_FORMAT(NOW(),'%Y-%m-%d') AND STATUS = 'Ativo'";
 
+
+            $this->exec();
         }
     }
 }

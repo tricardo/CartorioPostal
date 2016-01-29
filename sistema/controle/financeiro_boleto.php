@@ -49,7 +49,7 @@ $b->busca = $busca;
 ?>
 <div id="topo">
     <h1>
-        <img src="../images/tit/tit_recebimento.png" alt="T?tulo"/>
+        <img src="../images/tit/tit_recebimento.png" alt="TÍtulo"/>
         Contas à Receber &nbsp;&nbsp;&nbsp;&nbsp;
         <a href="financeiro_boleto_remessa.php">Arquivos de Remessa</a>
     </h1>
@@ -160,7 +160,7 @@ $b->busca = $busca;
         if ($lista[0]->id_conta_fatura <> '') {
             foreach ($lista as $p) {
                 if ($p->status == 0)
-                    $status = 'N?o Registrado'; else
+                    $status = 'Não Registrado'; else
                     $status = 'Registrado';
                 if ($p->fantasia <> '')
                     $fantasia = '(' . $p->fantasia . ') '; else
