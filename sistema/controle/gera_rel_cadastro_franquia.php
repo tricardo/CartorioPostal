@@ -1,228 +1,245 @@
 <?
-
-require( "../includes/verifica_logado_ajax.inc.php");
-require( "../includes/funcoes.php" );
-require( "../includes/global.inc.php" );
-require("../includes/geraexcel/excelwriter.inc.php");
+require("../includes/funcoes.php");
+require("../includes/verifica_logado_controle.inc.php");
+require("../includes/global.inc.php");
+require("../classes/spreadsheet_excel_writer/Writer.php");
 
 
 $c = new stdClass();
 
-if($_POST){
-    foreach($_POST as $cp => $valor){
-        $valor = str_replace('por100tagem','%',$valor);
-        $c->$cp = str_replace('**amp**','&',trim($valor));
+if ($_POST) {
+    foreach ($_POST as $cp => $valor) {
+        $valor = str_replace('por100tagem', '%', $valor);
+        $c->$cp = str_replace('**amp**', '&', trim($valor));
     }
 }
 
-$campos = array();
-$campos_fim = array();
+$arquivo = "cadastro_franquia_" . date("Ym") . ".xls";
 
-if ($c->c_royalties == 'on'){
-    $campos_fim[] = 'Total de Royalties:';
+$abas = array('Cadastro de Franquia');
+
+$z = 0;
+
+require('../includes/excelstyle.php');
+$worksheet = &$workbook->addWorksheet(str_replace(' ', '_', $abas[$i]));
+
+
+if ($c->c_status == 'on') {
+    $worksheet->write(0, $z, 'STATUS', $styletitulo);
+    $z++;
 }
 
 if ($c->c_status == 'on') {
-    $campos[] = 'STATUS';
+    $worksheet->write(0, $z, 'TIPO FRANQUIA', $styletitulo);
+    $z++;
 }
-if ($c->c_tipo_franquia == 'on') {
-    $campos[] = 'TIPO FRANQUIA';
-    $campos_fim[] = '';
-}
+
 if ($c->c_unidade == 'on') {
-    $campos[] = 'UNIDADE';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'UNIDADE', $styletitulo);
+    $z++;
 }
 if ($c->c_empresa == 'on') {
-    $campos[] = 'EMPRESA';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'EMPRESA', $styletitulo);
+    $z++;
 }
 if ($c->c_nome == 'on') {
-    $campos[] = 'NOME';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'NOME', $styletitulo);
+    $z++;
 }
 if ($c->c_cpf_cnpj == 'on') {
-    $campos[] = 'CPF/CNPJ';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'CPF/CNPJ', $styletitulo);
+    $z++;
 }
 if ($c->c_telefone == 'on') {
-    $campos[] = 'TELEFONE';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'TELEFONE', $styletitulo);
+    $z++;
 }
 if ($c->c_celular == 'on') {
-    $campos[] = 'CELULAR';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'CELULAR', $styletitulo);
+    $z++;
 }
 if ($c->c_email == 'on') {
-    $campos[] = 'E-MAIL';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'E-MAIL', $styletitulo);
+    $z++;
 }
 if ($c->c_cep == 'on') {
-    $campos[] = 'CEP';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'CEP', $styletitulo);
+    $z++;
 }
 if ($c->c_endereco == 'on') {
-    $campos[] = 'ENDERECO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'ENDERECO', $styletitulo);
+    $z++;
 }
 if ($c->c_bairro == 'on') {
-    $campos[] = 'BAIRRO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'BAIRRO', $styletitulo);
+    $z++;
 }
 if ($c->c_complemento == 'on') {
-    $campos[] = 'COMPLEMENTO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'COMPLEMENTO', $styletitulo);
+    $z++;
 }
 if ($c->c_cidade == 'on') {
-    $campos[] = 'CIDADE';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'CIDADE', $styletitulo);
+    $z++;
 }
 if ($c->c_uf == 'on') {
-    $campos[] = 'UF';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'UF', $styletitulo);
+    $z++;
 }
 if ($c->c_banco == 'on') {
-    $campos[] = 'BANCO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'BANCO', $styletitulo);
+    $z++;
 }
 if ($c->c_agencia == 'on') {
-    $campos[] = 'AGENCIA';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'AGENCIA', $styletitulo);
+    $z++;
 }
 if ($c->c_conta == 'on') {
-    $campos[] = 'CONTA';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'CONTA', $styletitulo);
+    $z++;
 }
 if ($c->c_favorecido == 'on') {
-    $campos[] = 'FAVORECIDO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'FAVORECIDO', $styletitulo);
+    $z++;
 }
 if ($c->c_inicio_contrato == 'on') {
-    $campos[] = 'INICIO DE CONTRATO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'INICIO DE CONTRATO', $styletitulo);
+    $z++;
 }
 if ($c->c_final_contrato == 'on') {
-    $campos[] = 'FINAL DE CONTRATO';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'FINAL DE CONTRATO', $styletitulo);
+    $z++;
 }
 if ($c->c_liberacao_sistema == 'on') {
-    $campos[] = 'LIBERACAO DO SISTEMA';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'LIBERACAO DO SISTEMA', $styletitulo);
+    $z++;
 }
 if ($c->c_observacoes == 'on') {
-    $campos[] = 'OBSERVACOES';
-    $campos_fim[] = '';
+    $worksheet->write(0, $z, 'OBSERVACOES', $styletitulo);
+    $z++;
 }
-if ($c->c_royalties == 'on'){
-    $campos[] = "ROYALTIES";
+if ($c->c_royalties == 'on') {
+    $worksheet->write(0, $z, 'ROYALTIES', $styletitulo);
+    $z++;
 }
-
-$nomeArquivo = 'franquia_' . date("Ym") . "_" . $controle_id_empresa . ".xls";
-$arquivoDiretorio = "../relatorios/cadastrados/" . $nomeArquivo;
-$excel = new ExcelWriter($arquivoDiretorio);
-
-$excel->writeLine($campos);
 
 $financeiroDAO = new FinanceiroDAO();
 $lista = $financeiroDAO->relCadastroFranquia($c);
 
+$i = 1;
+$saldo_total = 0.0;
+$col_royalties = 0;
+
 foreach ($lista as $res) {
 
-    $campos = array();
+    $j = 0;
 
     if ($c->c_status == 'on') {
-        $campos[] =  $res->status;
+        $worksheet->write($i, $j, $res->status, null);
+        $j++;
     }
     if ($c->c_tipo_franquia == 'on') {
-        $campos[] = $res->franquia_tipo;
+        $worksheet->write($i, $j, $res->franquia_tipo, null);
+        $j++;
     }
     if ($c->c_unidade == 'on') {
-        $campos[] = $res->fantasia;
+        $worksheet->write($i, $j, $res->fantasia, null);
+        $j++;
     }
     if ($c->c_empresa == 'on') {
-        $campos[] = $res->empresa;
+        $worksheet->write($i, $j, $res->empresa, null);
+        $j++;
     }
     if ($c->c_nome == 'on') {
-        $campos[] = $res->nome;
+        $worksheet->write($i, $j, $res->nome, null);
+        $j++;
     }
     if ($c->c_cpf_cnpj == 'on') {
-        $campos[] = $res->cpf;
+        $worksheet->write($i, $j, $res->cpf, null);
+        $j++;
     }
     if ($c->c_telefone == 'on') {
-        $campos[] = $res->tel;
+        $worksheet->write($i, $j, $res->tel, null);
+        $j++;
     }
     if ($c->c_celular == 'on') {
-        $campos[] = $res->cel;
+        $worksheet->write($i, $j, $res->cel, null);
+        $j++;
     }
     if ($c->c_email == 'on') {
-        $campos[] = $res->email;
+        $worksheet->write($i, $j, $res->email, null);
+        $j++;
     }
     if ($c->c_cep == 'on') {
-        $campos[] = $res->cep;
+        $worksheet->write($i, $j, $res->cep, null);
+        $j++;
     }
     if ($c->c_endereco == 'on') {
-        $campos[] = $res->endereco;
+        $worksheet->write($i, $j, $res->endereco, null);
+        $j++;
     }
     if ($c->c_bairro == 'on') {
-        $campos[] = $res->bairro;
+        $worksheet->write($i, $j, $res->bairro, null);
+        $j++;
     }
     if ($c->c_complemento == 'on') {
-        $campos[] = $res->complemento;
+        $worksheet->write($i, $j, $res->complemento, null);
+        $j++;
     }
     if ($c->c_cidade == 'on') {
-        $campos[] = $res->cidade;
+        $worksheet->write($i, $j, $res->cidade, null);
+        $j++;
     }
     if ($c->c_uf == 'on') {
-        $campos[] = $res->estado;
+        $worksheet->write($i, $j, $res->estado, null);
+        $j++;
     }
     if ($c->c_banco == 'on') {
-        $campos[] = $res->banco;
+        $worksheet->write($i, $j, $res->banco, null);
+        $j++;
     }
     if ($c->c_agencia == 'on') {
-        $campos[] = $res->agencia;
+        $worksheet->write($i, $j, $res->agencia, null);
+        $j++;
     }
     if ($c->c_conta == 'on') {
-        $campos[] = $res->conta;
+        $worksheet->write($i, $j, $res->conta, null);
+        $j++;
     }
     if ($c->c_favorecido == 'on') {
-        $campos[] = $res->favorecido;
+        $worksheet->write($i, $j, $res->favorecido, null);
+        $j++;
     }
     if ($c->c_inicio_contrato == 'on') {
-        $campos[] = $res->inauguracao_data;
+        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->inauguracao_data)), null);
+        $j++;
     }
     if ($c->c_final_contrato == 'on') {
-        $campos[] = $res->validade_contrato;
+        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->validade_contrato)), null);
+        $j++;
     }
     if ($c->c_liberacao_sistema == 'on') {
-        $campos[] = $res->inicio;
+        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->inicio)), null);
+        $j++;
     }
 
     if ($c->c_observacoes == 'on') {
-        $campos[] = $res->observacao;
+        $worksheet->write($i, $j, $res->observacao, null);
+        $j++;
     }
 
-    if ($c->c_royalties == 'on'){
-
-        $campos[] = number_format($res->valor, 2, ",", ".");
+    if ($c->c_royalties == 'on') {
+        $col_royalties = $j;
+        $worksheet->write($i, $j, $res->valor, $rel_Royialties_style01);
+        $saldo_total = (float)($res->valor) + (float)($saldo_total);
+        $j++;
     }
 
-    $excel->writeLine($campos);
-
-    $valor_total = (float) ($res->valor) + (float) ($valor_total);
+    $i++;
 }
 
-    if ($c->c_royalties == 'on'){
-        $campos_fim[] = number_format($valor_total, 2, ",", ".");
-    }
+$worksheet->write($i, 0, 'Total de Royalties:', null);
+$worksheet->write($i, $col_royalties, $saldo_total, $rel_Royialties_style01);
 
-$excel->writeLine($campos_fim);
-
-$excel->close();
-
-header("Content-type: octet/stream");
-header("Content-disposition: attachment; filename=exporta/" . $nomeArquivo . ";");
-header("Content-Length: " . filesize($arquivoDiretorio));
-
-readfile($arquivoDiretorio);
-die();
+$workbook->close();
 ?>
