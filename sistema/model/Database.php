@@ -22,7 +22,7 @@ class Database {
 	private $host="cartoriopostal.com.br";
 	//private $host="localhost";
 	#private $host="200.219.214.197";#200.219.214.197
-	private $db="cartorio_homologacao";
+	private $db="cartorio_homologacao2";
 	private $user="cartorio_user";
 	private $password="flavio1991clau";
 	
