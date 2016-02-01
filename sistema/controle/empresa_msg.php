@@ -52,7 +52,7 @@ if ($submit) {
 		$file_path = "../anexos_franquia/";
 		if($file_anexo['name']){
 			// Pega extensão do file_anexo
-			preg_match("/\.(gif|bmp|png|jpg|jpeg|pdf){1}$/i", $file_anexo["name"], $ext);
+			preg_match("/\.(gif|bmp|png|jpg|jpeg|pdf|msg){1}$/i", $file_anexo["name"], $ext);
 			// Gera um nome único para a imagem
 			$imagem_nome = $controle_id_usuario.$id_empresa.md5(uniqid(time())) . "." . $ext[1];
 			// Caminho de onde a imagem ficará

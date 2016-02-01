@@ -1,4 +1,5 @@
 <? require('header.php');
+require("../../includes/maladireta/class.PHPMailer.php");
 
 $departamento_s = explode(',', $controle_id_departamento_s);
 $departamento_p = explode(',', $controle_id_departamento_p);
@@ -45,7 +46,7 @@ if ($busca_mes == '') $busca_mes = date('m');
 
 
 <div id="topo">
-    <h1><img src="../images/tit/tit_recebimento.png" alt="Título"/>Emitir Boletos</h1>
+    <h1 class="tit"><img src="../images/tit/tit_recebimento.png" alt="Título"/>Emitir Boletos</h1>
     <a href="#" class="topo">topo</a>
     <hr class="tit"/>
 </div>

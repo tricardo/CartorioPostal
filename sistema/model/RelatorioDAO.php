@@ -83,14 +83,15 @@ class RelatorioDAO extends Database{
 		$where.=" group by r.id_empresa ORDER BY e.fantasia DESC";
 		$this->pagina = ($pagina==NULL)?1:$pagina;
 		$this->sql = "SELECT r.*,e.fantasia as empresa, rr.valor_propaganda as fpp, rr.valor_royalties as roy, cf.id_conta_fatura, cf.valor, cf.valor_pago
-					FROM vsites_relatorios r 
+						FROM vsites_relatorios r
 					INNER JOIN vsites_user_empresa e ON e.id_empresa=r.id_empresa 
 					LEFT JOIN vsites_rel_royalties as rr on rr.id_empresa=e.id_empresa and date_format(rr.data,'%Y-%m')='".$ano."-".$mes."'
 					LEFT JOIN vsites_conta_fatura as cf on cf.id_empresa_franquia=e.id_empresa and cf.id_relatorio=r.id_relatorio
 					".$where." LIMIT ".$this->getInicio().", ".$this->maximo;
 		global $controle_id_usuario;
+		echo $this->sql;
 		if($controle_id_usuario == 1){
-			#echo $this->sql;
+			echo $this->sql;
 			#print_r($this->values);
 		}
 		return $this->fetch();

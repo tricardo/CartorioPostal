@@ -225,7 +225,9 @@ class UsuarioDAO extends Database
         if ($id_usuario != 1) $where .= " and uu.id_empresa!=1 "; else $where = "";
         if ($id_usuario == 356 or $id_usuario == 35) $where .= " and uu.email='gua@cartoriopostal.com.br' ";
         $this->sql = "SELECT uu.id_usuario, uu.email, ue.franquia, uu.departamento_p, uu.senha FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? " . $where . " and uu.status='Ativo' and uu.senha<>'' and uu.email<>'' and ue.id_empresa=uu.id_empresa limit 1";
+        echo $this->sql;
         $this->values = array($email);
+
         $ret = $this->fetch();
 
         if (count($ret) > 0) {
@@ -237,7 +239,7 @@ class UsuarioDAO extends Database
 
     public function verifica_logado($login, $senha)
     {
-        $this->sql = "SELECT uu.*, ue.id_pais FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? and uu.senha=? and uu.status='Ativo' and uu.id_empresa=ue.id_empresa limit 1";
+        $this->sql = "SELECT uu.*, ue.id_pais FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? and uu.senha=? and uu.status in ('Ativo', 'Renovação') and uu.id_empresa=ue.id_empresa limit 1";
         $this->values = array($login, $senha);
         $ret = $this->fetch();
 
@@ -261,7 +263,7 @@ class UsuarioDAO extends Database
             #$this->values = array($email,$senha,"%".$ip."%");
             #$ret = $this->fetch();
 
-            $this->sql = "SELECT uu.*, ue.franquia, ue.status as statusEmp FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? AND uu.senha = ? and uu.status='Ativo' and uu.senha<>'' and uu.email<>'' and ue.status='Ativo' and ue.id_empresa=uu.id_empresa  ";
+            $this->sql = "SELECT uu.*, ue.franquia, ue.status as statusEmp FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? AND uu.senha = ? and uu.status in ('Ativo') and uu.senha<>'' and uu.email<>'' and ue.status in ('Ativo', 'Renovação') and ue.id_empresa=uu.id_empresa  ";
             $this->values = array($email, $senha);
             if ($email != 'admin') {
                 #$this->sql .= ' and (ue.ip IS NULL or ue.ip like ?) ';
