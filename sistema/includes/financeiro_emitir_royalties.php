@@ -178,15 +178,15 @@ Equipe Cartório Postal.<br>
                         $retorno = $cContaDAO->inserirBoletoBrad($cConta, $controle_id_empresa, $controle_id_usuario);
                         break;
                     default:
-
+                        $cConta->id_rel_royalties = $item->id_rel_royalties;
                         $cConta->instrucao1 = 0;
                         $cConta->instrucao2 = 0;
                         $cConta->tipo_multa = $ddlMulta;
-                        $cConta->valor_multa = ($ddlMulta == 1) ? null : $txtValorMulta;;
+                        $cConta->valor_multa = ($ddlMulta == 1) ? null : $txtValorMulta;
                         $cConta->data_multa = $txtDataMulta;
                         $cConta->tipo_juros = $ddlJuros;
                         $cConta->juros_mora = ($ddlJuros == 1) ? 0 : $txtValorJuros;
-                        $cConta->dias_protesto = date('Y-m-d', strtotime("+$txtDiasProtesto days", strtotime($vencimento)));;
+                        $cConta->dias_protesto = date('Y-m-d', strtotime("+$txtDiasProtesto days", strtotime($vencimento)));
                         $cConta->pgto_parcial = ($ddlPgtoParcial == 'S') ? true : false;
                         $cConta->campo_livre = $txtCampoLivre;
                         $cConta->cpnj_sacador = $txtCNPJSacador;

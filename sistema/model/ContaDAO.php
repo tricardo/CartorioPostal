@@ -379,8 +379,9 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
 
     public function listaBoletoBrad($id, $id_empresa)
     {
-        $this->sql = "SELECT f.*, date_format(f.vencimento,'%d/%m/%Y') as vencimento from vsites_conta_fatura as f where f.id_conta_fatura=? and f.id_empresa=? limit 1";
+        $this->sql = "SELECT f.*, fb.*, date_format(f.vencimento,'%d/%m/%Y') as vencimento from vsites_conta_fatura as f left join vsites_conta_fatura_bco_brasil fb on f.id_conta_fatura = fb.id_conta_fatura where f.id_conta_fatura=? and f.id_empresa=? limit 1";
         $this->values = array($id, $id_empresa);
+        echo $this->sql;
         $ret = $this->fetch();
         return $ret[0];
     }
@@ -448,8 +449,8 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
         $idRetorno = $this->insert();
 
         $this->table = 'vsites_conta_fatura_bco_brasil';
-        $this->fields = array('id_conta_fatura', 'tipo_multa', 'valor_multa', 'data_multa', 'tipo_juros', 'pgto_parcial', 'dias_protesto', 'campo_livre', 'cpnj_sacador', 'nome_sacador', 'mensagem3', 'numero_beneficiario');
-        $this->values = array("id_conta_fatura" => $idRetorno, "tipo_multa" => $p->tipo_multa, "valor_multa" => $p->valor_multa, "data_multa" => $p->data_multa, "tipo_juros" => $p->tipo_juros, "pgto_parcial" => $p->pgto_parcial, "dias_protesto" => $p->dias_protesto, "campo_livre" => $p->campo_livre, "cpnj_sacador" => $p->cpnj_sacador, "nome_sacador" => $p->nome_sacador, "mensagem3" => $p->mensagem3, "numero_beneficiario" => $p->txtNumeroBeneficiario);
+        $this->fields = array('id_conta_fatura', 'tipo_multa', 'valor_multa', 'data_multa', 'tipo_juros', 'pgto_parcial', 'dias_protesto', 'campo_livre', 'cpnj_sacador', 'nome_sacador', 'mensagem3', 'numero_beneficiario', 'id_rel_royalties');
+        $this->values = array("id_conta_fatura" => $idRetorno, "tipo_multa" => $p->tipo_multa, "valor_multa" => $p->valor_multa, "data_multa" => $p->data_multa, "tipo_juros" => $p->tipo_juros, "pgto_parcial" => $p->pgto_parcial, "dias_protesto" => $p->dias_protesto, "campo_livre" => $p->campo_livre, "cpnj_sacador" => $p->cpnj_sacador, "nome_sacador" => $p->nome_sacador, "mensagem3" => $p->mensagem3, "numero_beneficiario" => $p->txtNumeroBeneficiario, "id_rel_royalties" => $p->id_rel_royalties);
         return $this->insert();
     }
 
