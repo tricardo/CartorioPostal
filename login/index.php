@@ -521,7 +521,7 @@ switch ($_POST['sistema']) {
         </div>
         <div id="footer">
             Central de Atendimento <strong>(11) 3103-0800</strong> <br/>
-            CopyrightÂ© 2009. Cartório Postal. Todos os Direitos Reservados. <strong><a href="#">Política de
+            Copyright© 2009. Cartório Postal. Todos os Direitos Reservados. <strong><a href="#">Política de
                     Privacidade</a></strong> <br/>
             Desenvolvido por <strong><a href="http://www.canaldosprofissionais.com.br" target="_blank">CANAL DOS
                     PROFISSIONAIS</a></strong>
