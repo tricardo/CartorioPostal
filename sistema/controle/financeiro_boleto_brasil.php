@@ -12,7 +12,7 @@ if($permissao == 'FALSE' or $controle_id_empresa!='1'){
 }
 ?>
     <div id="topo">
-        <h1 class="tit"><img src="../images/tit/tit_rel_banco.png" alt="Tï¿½tulo" />Gera Remessa Banco do Brasil</h1>
+        <h1 class="tit"><img src="../images/tit/tit_rel_banco.png" alt="Título" />Gera Remessa Banco do Brasil</h1>
         <a href="#" class="topo">topo</a>
         <hr class="tit" />
     </div>
