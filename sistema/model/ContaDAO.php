@@ -393,7 +393,6 @@ fb.cpnj_sacador,
 fb.nome_sacador,
 fb.mensagem3,
 fb.numero_beneficiario,
-fb.id_rel_royalties,
 DATE_FORMAT(f.vencimento,'%d/%m/%Y') AS vencimento
 FROM vsites_conta_fatura AS f
 LEFT JOIN vsites_conta_fatura_bco_brasil fb

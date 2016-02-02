@@ -20,8 +20,8 @@ switch ($_POST['sistema']) {
         $versao = $browser2->browser('version');
         $browser = $browser2->browser('browser');
         if ($browser == 'MSIE' and $versao <= '6.0') {
-            $erro = '<div id="erro_login">Seu internet explorer est√° desatualizado e est√° vulner√°vel a invas√£o.<br><br>
-			Atualize seu internet explorer para a vers√£o 7 ou instale o Firefox.</div>';
+            $erro = '<div id="erro_login">Seu internet explorer est· desatualizado e est· vulner·vel a invas„o.<br><br>
+			Atualize seu internet explorer para a vers„o 7 ou instale o Firefox.</div>';
             break;
         }
         $login = str_replace("\'", "", $_POST['login']);
@@ -46,7 +46,7 @@ switch ($_POST['sistema']) {
         }
 
         if ($logar == '' || $login == '' || $senha == '') {
-            $erro .= '<div id="erro_login">Login ou Senha inv√°lida, ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+            $erro .= '<div id="erro_login">Login ou Senha inv·lida, ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 			Seu IP √©: ' . $ip . '</div>';
             break;
         } else {
@@ -84,8 +84,8 @@ switch ($_POST['sistema']) {
         $versao = $browser2->browser('version');
         $browser = $browser2->browser('browser');
         if ($browser == 'MSIE' and $versao <= '6.0') {
-            $erro .= '<div id="erro_login">Seu internet explorer est√° desatualizado e est√° vulner√°vel a invas√£o.<br /><br />
-					 Atualize seu internet explorer para a vers√£o 7 ou instale o Firefox.</div>';
+            $erro .= '<div id="erro_login">Seu internet explorer est· desatualizado e est· vulner·vel a invas„o.<br /><br />
+					 Atualize seu internet explorer para a vers„o 7 ou instale o Firefox.</div>';
             break;
         }
         $login = str_replace("\'", "", $_POST['login']);
@@ -133,7 +133,7 @@ switch ($_POST['sistema']) {
                 #}else {
 
 
-                //COLOCAR REGRA QUE O SISTEMA ALTERA A 60 DIAS DO FINAL DO CONTRATO - THAUAN
+                //COLOCAR REGRA QUE O SISTEMA ALTERA A 70 DIAS DO FINAL DO CONTRATO - THAUAN
 
                 $usuarioDAO->atualiza_status_para_renovacao_empresa();
 
@@ -143,13 +143,13 @@ switch ($_POST['sistema']) {
                 exit;
                 #}
             } else {
-                $erro .= '<div id="erro_login">Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+                $erro .= '<div id="erro_login">Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 					Seu IP √©: ' . $ip[0] . ' <br></div>';
                 break;
             }
 
         } catch (Exception $e) {
-            $erro = '<div id="erro_login">Sistema, Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+            $erro = '<div id="erro_login">Sistema, Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 				Seu IP √©: ' . $ip[0] . ' <br>' . utf8_encode($e->getMessage()) . '</div>';
             break;
         }
@@ -177,8 +177,8 @@ switch ($_POST['sistema']) {
         $versao = $browser2->browser('version');
         $browser = $browser2->browser('browser');
         if ($browser == 'MSIE' and $versao <= '6.0') {
-            $erro .= '<div id="erro_login">Seu internet explorer est√° desatualizado e est√° vulner√°vel a invas√£o.<br /><br />
-					 Atualize seu internet explorer para a vers√£o 7 ou instale o Firefox.</div>';
+            $erro .= '<div id="erro_login">Seu internet explorer est· desatualizado e est· vulner·vel a invas„o.<br /><br />
+					 Atualize seu internet explorer para a vers„o 7 ou instale o Firefox.</div>';
             break;
         }
         $login = str_replace("\'", "", $_POST['login']);
@@ -213,13 +213,13 @@ switch ($_POST['sistema']) {
 						<script>document.forms["login"].submit();</script>';
                 exit;
             } else {
-                $erro .= '<div id="erro_login">Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+                $erro .= '<div id="erro_login">Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 					Seu IP √©: ' . $ip[0] . ' <br></div>';
                 break;
             }
 
         } catch (Exception $e) {
-            $erro = '<div id="erro_login">Sistema, Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+            $erro = '<div id="erro_login">Sistema, Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 				Seu IP √©: ' . $ip[0] . ' <br>' . utf8_encode($e->getMessage()) . '</div>';
             break;
         }
@@ -246,8 +246,8 @@ switch ($_POST['sistema']) {
         $versao = $browser2->browser('version');
         $browser = $browser2->browser('browser');
         if ($browser == 'MSIE' and $versao <= '6.0') {
-            $erro .= '<div id="erro_login">Seu internet explorer est√° desatualizado e est√° vulner√°vel a invas√£o.<br /><br />
-					 Atualize seu internet explorer para a vers√£o 7 ou instale o Firefox.</div>';
+            $erro .= '<div id="erro_login">Seu internet explorer est· desatualizado e est· vulner·vel a invas„o.<br /><br />
+					 Atualize seu internet explorer para a vers„o 7 ou instale o Firefox.</div>';
             break;
         }
         $login = str_replace("\'", "", $_POST['login']);
@@ -283,13 +283,13 @@ switch ($_POST['sistema']) {
 						<script>document.forms["login"].submit();</script>';
                 exit;
             } else {
-                $erro .= '<div id="erro_login">Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+                $erro .= '<div id="erro_login">Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 					Seu IP √©: ' . $ip[0] . ' <br></div>';
                 break;
             }
 
         } catch (Exception $e) {
-            $erro = '<div id="erro_login">Sistema, Login ou Senha inv√°lida. ou o seu ip n√£o est√° cadastrado para acessar nosso sistema.<br><br>
+            $erro = '<div id="erro_login">Sistema, Login ou Senha inv·lida. ou o seu ip n„o est· cadastrado para acessar nosso sistema.<br><br>
 				Seu IP √©: ' . $ip[0] . ' <br>' . utf8_encode($e->getMessage()) . '</div>';
             break;
         }
@@ -300,7 +300,7 @@ switch ($_POST['sistema']) {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Cart√≥rio Postal - Solicite suas Certid√µes</title>
+    <title>CartÛrio Postal - Solicite suas Certidıes</title>
     <link rel="shortcut icon" href="../certidoes/images/icone.gif"/>
     <style type="text/css">
         <!--
@@ -480,7 +480,7 @@ switch ($_POST['sistema']) {
         <div id="header"></div>
         <div id="mainContent">
             <div id="marca">
-                <img src="images/logo.png" alt="Cart√≥rio Postal"/><br/>
+                <img src="images/logo.png" alt="CartÛrio Postal"/><br/>
                 <br/>acesso ao sistema on-line
             </div>
             <div id="login">
@@ -497,10 +497,10 @@ switch ($_POST['sistema']) {
             <div id="menu">
                 <div id="pagina_inicial">
                     <a href="http://www.cartoriopostal.com.br/certidoes/">
-                        <img src="images/pagina_inicial1.png" alt="Cart√≥rio Postal"
+                        <img src="images/pagina_inicial1.png" alt="CartÛrio Postal"
                              onmouseover="this.src='images/pagina_inicial2.png'"
                              onmouseout="this.src='images/pagina_inicial1.png'"/></a><br/>
-                    P√ÅGINA INICIAL
+                    P¡GINA INICIAL
                 </div>
                 <div id="franqueado">
                     <a href="http://www.cartoriopostal.com.br/franquia/">
@@ -511,17 +511,17 @@ switch ($_POST['sistema']) {
                 </div>
                 <div id="produtos">
                     <a href="http://www.cartoriopostal.com.br/certidoes/">
-                        <img src="images/produtos1.png" alt="Produtos e Servi√ßos"
+                        <img src="images/produtos1.png" alt="Produtos e ServiÁos"
                              onmouseover="this.src='images/produtos2.png'"
                              onmouseout="this.src='images/produtos1.png'"/></a><br/>
-                    PRODUTOS E<br/> SERVI√áOS
+                    PRODUTOS E<br/> SERVI«OS
                 </div>
                 <?= $erro ?>
             </div>
         </div>
         <div id="footer">
             Central de Atendimento <strong>(11) 3103-0800</strong> <br/>
-            Copyright¬© 2009. Cart√≥rio Postal. Todos os Direitos Reservados. <strong><a href="#">Pol√≠tica de
+            Copyright¬© 2009. CartÛrio Postal. Todos os Direitos Reservados. <strong><a href="#">PolÌtica de
                     Privacidade</a></strong> <br/>
             Desenvolvido por <strong><a href="http://www.canaldosprofissionais.com.br" target="_blank">CANAL DOS
                     PROFISSIONAIS</a></strong>
