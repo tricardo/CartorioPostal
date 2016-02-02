@@ -211,15 +211,15 @@ foreach ($lista as $res) {
         $j++;
     }
     if ($c->c_inicio_contrato == 'on') {
-        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->inauguracao_data)), null);
+        $worksheet->write($i, $j, invert($res->inauguracao_data, '/', 'PHP'), null);
         $j++;
     }
     if ($c->c_final_contrato == 'on') {
-        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->validade_contrato)), null);
+        $worksheet->write($i, $j, invert($res->validade_contrato, '/', 'PHP'), null);
         $j++;
     }
     if ($c->c_liberacao_sistema == 'on') {
-        $worksheet->write($i, $j, date("d/m/Y", strtotime($res->inicio)), null);
+        $worksheet->write($i, $j, invert($res->inicio, '/', 'PHP'), null);
         $j++;
     }
 
