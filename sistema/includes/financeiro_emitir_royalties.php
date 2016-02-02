@@ -9,15 +9,15 @@ if ($controle_id_empresa == 1) {
     pt_register('POST', 'submit_financeiro_emitir_royalties');
     if (isset($submit_financeiro_emitir_royalties)) {
 
-        $html = 'Consoante a assinatura do contrato de franquia firmado entre Vossa Senhoria e a Franqueadora, informamos que o boleto para pagamento dos Royalties, bem como o valor e dados para depï¿½sito do FPP, apurados no mï¿½s anterior estï¿½o disponï¿½veis para download no sistema.<br><br>
-Para acessï¿½-lo serï¿½ necessï¿½rio clicar no menu:<br>
-<b>INICIAR > RELï¿½Tï¿½RIOS > RELATï¿½RIO DE ROYALTIES E FATURAMENTO</b><br><br>
+        $html = 'Consoante a assinatura do contrato de franquia firmado entre Vossa Senhoria e a Franqueadora, informamos que o boleto para pagamento dos Royalties, bem como o valor e dados para depósito do FPP, apurados no mês anterior estão disponíveis para download no sistema.<br><br>
+Para acessá-lo será necessário clicar no menu:<br>
+<b>INICIAR > RELÁTÓRIOS > RELATÓRIO DE ROYALTIES E FATURAMENTO</b><br><br>
 
-E baixar o boleto e o relatï¿½rio para conferencia dos valores e faturamento.
+E baixar o boleto e o relatório para conferencia dos valores e faturamento.
 
-Reforï¿½amos nossa parceria.<br><br>
+Reforçamos nossa parceria.<br><br>
 Atenciosamente,<br>
-Equipe Cartï¿½rio Postal.<br>
+Equipe Cartório Postal.<br>
 <br>';
 
         $result = '';
@@ -29,12 +29,12 @@ Equipe Cartï¿½rio Postal.<br>
         if ($id_conta == "") {
             $errors = 1;
             $error["id_conta"] = 1;
-            $result .= '<li>O campo <strong>Banco</strong> ï¿½ obrigatï¿½rio.</li>';
+            $result .= '<li>O campo <strong>Banco</strong> é obrigatório.</li>';
         }
         if ($vencimento == "") {
             $errors = 1;
             $error["vencimento"] = 1;
-            $result .= '<li>O campo <strong>Vencimento</strong> ï¿½ obrigatï¿½rio.</li>';
+            $result .= '<li>O campo <strong>Vencimento</strong> é obrigatório.</li>';
         }
 
         $validacaoCLASS = new ValidacaoCLASS();
@@ -55,48 +55,48 @@ Equipe Cartï¿½rio Postal.<br>
 
             if (empty($ddlMulta)) {
                 $error["ddlMulta"] = 1;
-                $result .= '<li>O campo <strong>Multa</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Multa</strong> é obrigatório.</li>';
             }
             if ($ddlMulta == 2 && empty($txtValorMulta)) {
                 $error["txtValorMulta"] = 1;
-                $result .= '<li>O campo <strong>Valor Multa</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Valor Multa</strong> é obrigatório.</li>';
             }
             if (empty($txtDataMulta)) {
                 $error["txtDataMulta"] = 1;
-                $result .= '<li>O campo <strong>Data Multa</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Data Multa</strong> é obrigatório.</li>';
             }
             if (empty($ddlJuros)) {
                 $error["ddlJuros"] = 1;
-                $result .= '<li>O campo <strong>Juros</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Juros</strong> é obrigatório.</li>';
             }
             if (empty($txtValorJuros) && $ddlJuros == 2) {
                 $error["txtValorJuros"] = 1;
-                $result .= '<li>O campo <strong>Valor Juros</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Valor Juros</strong> é obrigatório.</li>';
             }
             if (empty($txtNumeroBeneficiario)) {
                 $error["txtNumeroBeneficiario"] = 1;
-                $result .= '<li>O campo <strong>Nï¿½ Beneficiï¿½rio</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>N° Beneficiário</strong> é obrigatório.</li>';
             }
             if (empty($txtCNPJSacador)) {
                 $error["txtCNPJSacador"] = 1;
-                $result .= '<li>O campo <strong>CNPJ Sacador</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>CNPJ Sacador</strong> é obrigatório.</li>';
             }
             if (empty($txtNomeSacador)) {
                 $error["txtNomeSacador"] = 1;
-                $result .= '<li>O campo <strong>Nome Sacador</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Nome Sacador</strong> é obrigatório.</li>';
             }
 
             $verifica = $validacaoCLASS->invertData($txtDataMulta);
             if ($verifica == false) {
                 $error['txtDataMulta'] = 1;
-                $result .= '<li>O campo <strong>Data Multa</strong> ï¿½ invalido.</li>';
+                $result .= '<li>O campo <strong>Data Multa</strong> é inválido.</li>';
             } else {
                 $txtDataMulta = $verifica;
             }
 
             if (strtotime(date("y-m-d")) >= strtotime($txtDataMulta)) {
                 $error['txtDataMulta'] = 1;
-                $result .= '<li>O campo <strong>Data Multa</strong> ï¿½ menor que a data de hoje.</li>';
+                $result .= '<li>O campo <strong>Data Multa</strong> é menor que a data de hoje.</li>';
             }
         } else {
             pt_register('POST', 'instrucao1');
@@ -104,11 +104,11 @@ Equipe Cartï¿½rio Postal.<br>
 
             if (empty($instrucao1)) {
                 $error["instrucao1"] = 1;
-                $result .= '<li>O campo <strong>Instruï¿½ï¿½o 1</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Instrução 1</strong> é obrigatório.</li>';
             }
             if (empty($txtMoraDiaria)) {
                 $error["txtMoraDiaria"] = 1;
-                $result .= '<li>O campo <strong>Mora diï¿½ria</strong> ï¿½ obrigatï¿½rio.</li>';
+                $result .= '<li>O campo <strong>Mora diária</strong> é obrigatório.</li>';
             }
         }
 
@@ -116,14 +116,14 @@ Equipe Cartï¿½rio Postal.<br>
 
         if ($verifica == false) {
             $error['vencimento'] = 1;
-            $result .= '<li>O campo <strong>Vencimento</strong> ï¿½ invalido.</li>';
+            $result .= '<li>O campo <strong>Vencimento</strong> é inválido.</li>';
         } else {
             $vencimento = $verifica;
         }
 
         if (strtotime(date("y-m-d")) >= strtotime($vencimento)) {
             $error['vencimento'] = 1;
-            $result .= '<li>A data de <strong>Vencimento</strong> ï¿½ menor que a data de hoje.</li>';
+            $result .= '<li>A data de <strong>Vencimento</strong> é menor que a data de hoje.</li>';
         }
 
 
@@ -200,7 +200,7 @@ Equipe Cartï¿½rio Postal.<br>
                 if ($retorno > 0) {
                     //$AddAddress = $item->email;
                     $AddAddress = "thauan.ricardo@ssiconsultoria.com.br";
-                    $mailer->SEND('financeiro@cartoriopostal.com.br', $AddAddress, $AdsdCC, $AddBCC, '', 'Royalties e FPP Cartï¿½rio Postal', $html);
+                    $mailer->SEND('financeiro@cartoriopostal.com.br', $AddAddress, $AdsdCC, $AddBCC, '', 'Royalties e FPP Cartório Postal', $html);
                 }
             }
 
@@ -209,14 +209,14 @@ Equipe Cartï¿½rio Postal.<br>
                 echo "<script>eraseCookie('fr_rel_royalties');</script>";
                 unset($_COOKIE['fr_id_rel_royalties']);
 
-                $titulo = 'Mensagem da pï¿½gina web';
+                $titulo = 'Mensagem da página web';
                 $msg = 'Boletos emitidos com sucesso!';
                 $pag = 'emitir_boletos.php';
                 $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
                 echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
             } else {
-                $titulo = 'Mensagem da pï¿½gina web';
-                $msg = 'Erro na emissï¿½o do boleto!';
+                $titulo = 'Mensagem da página web';
+                $msg = 'Erro na emissão do boleto!';
                 $pag = '';
                 $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
                 echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
@@ -258,7 +258,7 @@ Equipe Cartï¿½rio Postal.<br>
                                style="width: 90px;"/>
                         <font style="float:left;color:#FF0000;">*</font>
 
-                        <label>Data Emissï¿½o: </label>
+                        <label>Data Emissão: </label>
                         <input type="text" id="txtDataEmissao" maxlength="10" readonly name="txtDataEmissao"
                                value="<? echo date("d/m/Y"); ?>"
                                onKeyUp="masc_numeros(this,'##/##/####');"
@@ -320,7 +320,7 @@ Equipe Cartï¿½rio Postal.<br>
                                     style=" width:110px; ">
                                 <option value=""></option>
                                 <option value="S">Sim</option>
-                                <option value="N">Nï¿½o</option>
+                                <option value="N">Não</option>
                             </select>
                             <font style="float:left;color:#FF0000;">*</font>
 
@@ -330,7 +330,7 @@ Equipe Cartï¿½rio Postal.<br>
                                    class="form_estilo"
                                    style=" width:90px; margin-right:11px;"/>
 
-                            <label>Nï¿½ Beneficiï¿½rio: </label>
+                            <label>N° Beneficário: </label>
                             <input type="text" id="txtNumeroBeneficiario" maxlength="3" name="txtNumeroBeneficiario"
                                    value=""
                                    class="form_estilo<? if ($error['txtNumeroBeneficiario'] == 1) echo '_erro' ?>"
@@ -355,7 +355,7 @@ Equipe Cartï¿½rio Postal.<br>
                             <font style="float:left;color:#FF0000;">*</font>
                             <br/>
                         </div>
-                        <label>Ocorrï¿½ncia: </label>
+                        <label>Ocorrência: </label>
                         <select name="ocorrencia" id="ocorrencia" class="form_estilo_r" readonly style=" width:547px; ">
                             <option value="1" selected="select">Remessa</option>
                         </select>
@@ -363,7 +363,7 @@ Equipe Cartï¿½rio Postal.<br>
 
                         <div class="divBancoBradesco"
                              style="display:<? if ($id_conta == 2) echo 'block;'; else echo 'none;'; ?>;">
-                            <label>Mora diï¿½ria:</label>
+                            <label>Mora diária:</label>
                             <input type="text" id="txtMoraDiaria" maxlength="5" name="txtMoraDiaria"
                                    value=""
                                    onkeyup="moeda(event.keyCode,this.value,'valor');"
@@ -371,23 +371,23 @@ Equipe Cartï¿½rio Postal.<br>
                                    style="width: 90px;"/>
                             <font style="float:left;color:#FF0000;">*</font>
                             <br/>
-                            <label>Instruï¿½ï¿½o 1: </label>
+                            <label>Instrução 1: </label>
                             <select name="instrucao1" id="instrucao1"
                                     onchange="if(instrucao1.value!=6) instrucao2.value=''; else instrucao2.value=5;"
                                     class="form_estilo<? if ($error['instrucao1'] == 1) echo '_erro' ?>"
                                     style=" width:547px; ">
                                 <option value=""></option>
                                 <option value="6">Protestar</option>
-                                <option value="8">Nï¿½o cobrar juros de mora</option>
-                                <option value="9">Nï¿½o receber apï¿½s o vencimento</option>
-                                <option value="11">Nï¿½o receber apï¿½s o 8ï¿½ dia do vencimento</option>
-                                <option value="12">Cobrar encargos apï¿½s o 5ï¿½ dia do vencimento</option>
-                                <option value="13">Cobrar encargos apï¿½s o 10ï¿½ dia do vencimento</option>
-                                <option value="14">Cobrar encargos apï¿½s o 15ï¿½ dia do vencimento</option>
+                                <option value="8">Não cobrar juros de mora</option>
+                                <option value="9">Não receber após o vencimento</option>
+                                <option value="11">Não receber após o 8° dia do vencimento</option>
+                                <option value="12">Cobrar encargos após o 5° dia do vencimento</option>
+                                <option value="13">Cobrar encargos após o 10° dia do vencimento</option>
+                                <option value="14">Cobrar encargos após o 15° dia do vencimento</option>
                             </select>
                             <font style="float:left;color:#FF0000;">*</font>
                             <br/>
-                            <label>Instruï¿½ï¿½o 2: </label>
+                            <label>Instrução 2: </label>
                             <input type="text" id="instrucao2" maxlength="2" name="instrucao2"
                                    value=""
                                    onKeyUp="masc_numeros(this,'##');"
@@ -415,17 +415,17 @@ Equipe Cartï¿½rio Postal.<br>
                                    style=" width:546px; text-transform: uppercase"/>
                             <br/>
                         </div>
-                        <label for="especie">Espï¿½cie: </label>
+                        <label for="especie">Espécie: </label>
                         <select name="especie" id="especie"
                                 class="form_estilo<? if ($errors['especie'] == 1) echo '_erro' ?>"
                                 style=" width:375px; ">
                             <option value="1">Duplicata</option>
-                            <option value="2">Nota Promissï¿½ria</option>
+                            <option value="2">Nota Promissória</option>
                             <option value="3">Nota de Seguro</option>
-                            <option value="4">Cobranï¿½a Seriada</option>
+                            <option value="4">Cobrança Seriada</option>
                             <option value="5">Recibo</option>
-                            <option value="10">Letras de Cï¿½mbio</option>
-                            <option value="11">Nota de Dï¿½bito</option>
+                            <option value="10">Letras de Câmbio</option>
+                            <option value="11">Nota de Débito</option>
                             <option value="12" selected>Duplicata de Serv.</option>
                             <option value="99">Outros</option>
                         </select>
