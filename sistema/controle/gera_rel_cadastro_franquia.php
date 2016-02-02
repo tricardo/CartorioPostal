@@ -231,15 +231,17 @@ foreach ($lista as $res) {
     if ($c->c_royalties == 'on') {
         $col_royalties = $j;
         $worksheet->write($i, $j, $res->valor, $rel_Royialties_style01);
-        $saldo_total = (float)($res->valor) + (float)($saldo_total);
+        $saldo_total += (float)($res->valor);
         $j++;
     }
 
     $i++;
 }
 
-$worksheet->write($i, 0, 'Total de Royalties:', null);
-$worksheet->write($i, $col_royalties, $saldo_total, $rel_Royialties_style01);
+if ($c->c_royalties == 'on') {
+    $worksheet->write($i, 0, 'Total de Royalties:', null);
+    $worksheet->write($i, $col_royalties, $saldo_total, $rel_Royialties_style01);
+}
 
 $workbook->close();
 ?>
