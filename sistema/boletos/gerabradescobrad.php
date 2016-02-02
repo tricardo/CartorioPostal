@@ -5,6 +5,7 @@ if($controle_id_empresa==''){
 	require( "../includes/global.inc.php" );
 }
 $contaDAO = new ContaDAO();
+$controle_id_empresa = 1;
 require_once("includes/funcoes_bradesco.php");
 
 if($id=='') pt_register('GET','id');

@@ -225,7 +225,6 @@ class UsuarioDAO extends Database
         if ($id_usuario != 1) $where .= " and uu.id_empresa!=1 "; else $where = "";
         if ($id_usuario == 356 or $id_usuario == 35) $where .= " and uu.email='gua@cartoriopostal.com.br' ";
         $this->sql = "SELECT uu.id_usuario, uu.email, ue.franquia, uu.departamento_p, uu.senha FROM vsites_user_usuario as uu, vsites_user_empresa as ue WHERE uu.email = ? " . $where . " and uu.status='Ativo' and uu.senha<>'' and uu.email<>'' and ue.id_empresa=uu.id_empresa limit 1";
-        echo $this->sql;
         $this->values = array($email);
 
         $ret = $this->fetch();

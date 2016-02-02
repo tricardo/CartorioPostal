@@ -90,38 +90,41 @@
             <td><? echo $relatorioDAO->QTDPagina(); ?></td>
         </tr>
         <tr>
-            <td class="result_menu"><b>Arquivo</b></td>
             <td class="result_menu"><b>Data</b></td>
             <td class="result_menu"><b>Franquia</b></td>
             <td class="result_menu"><b>Royalties</b></td>
             <td class="result_menu"><b>FPP</b></td>
             <td align="center" width="80" class="result_menu"><b>Abrir Boleto</b></td>
-            <td align="center" width="80" class="result_menu"><b>Relatório</b></td>
         </tr>
         <?
         $p_valor = '';
         foreach ($relatorios as $i => $r) {
             $p_valor .= '<tr>
-				<td class="result_celula">' . $r->descricao . '</td>
-				<td class="result_celula">' . invert($r->data_relatorio, '/', 'XP') . '</td>
+				<td class="result_celula">' . invert($r->data, '/', 'XP') . '</td>
 				<td class="result_celula">' . $r->empresa . '</td>
 				<td class="result_celula" align="right">R$ ' . $r->roy . '</td>
 				<td class="result_celula" align="right">R$ ' . $r->fpp . '</td>';
             if ($r->id_conta_fatura <> '') {
-                if ($r->valor_pago < $r->valor)
+                if ($r->valor_pago < $r->valor) {
                     $p_valor .= '
-						<td align="center" class="result_celula">
-							<a href="rel_baixar_boleto.php?id=' . $r->id_relatorio . '" target="_blank">
-							<img border="0" title="Baixar" src="../images/botao_editar.png">
+						<td align="center" class="result_celula">';
+
+                    if ($r->id_conta == 2) {
+                        $p_valor .= '<a href="../boletos/gerabradescobrad.php?id=' . $r->id_conta_fatura . '" target="_blank">';
+                    } else {
+                        $p_valor .= '<a href="../boletos/boleto_bb.php?id=' . $r->id_conta_fatura . '" target="_blank">';
+                    }
+                    $p_valor .= '<img border="0" title="Baixar" src="../images/botao_editar.png">
 							</a>
 						</td>
 					';
-                else
+                } else {
                     $p_valor .= '
 						<td align="center" class="result_celula">
 							PAGO
 						</td>
 					';
+                }
             } else {
                 $p_valor .= '
 					<td align="center" class="result_celula">
@@ -129,14 +132,6 @@
 					</td>
 				';
             }
-
-            $p_valor .= '
-				<td align="center" class="result_celula">
-					<a href="rel_baixar.php?id_relatorio=' . $r->id_relatorio . '&relatorio=royalties">
-					<img border="0" title="Baixar" src="../images/botao_editar.png">
-					</a>
-				</td>
-			</tr>';
         }
         echo $p_valor;
         ?>

@@ -6,7 +6,7 @@ if($controle_id_empresa==''){
 }
 
 $contaDAO = new ContaDAO();
-
+$controle_id_empresa = 1;
 if($id=='') pt_register('GET','id');
 
 // +----------------------------------------------------------------------+
