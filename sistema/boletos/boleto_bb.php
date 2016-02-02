@@ -81,7 +81,7 @@ $multa = number_format($multa, 2, ',', '');
 // INSTRUÇÕES PARA O CAIXA
 $dadosboleto["instrucoes1"] = $b->mensagem2;
 
-$dadosboleto["instrucoes2"] = "PROTESTO:".date("d.m.Y",strtotime($b->dias_protesto)).".A PARTIR DESSA, CONSULTE BB P/ PAGTO";
+$dadosboleto["instrucoes2"] = "PROTESTO:".date('Y-m-d', strtotime("+$b->dias_protesto days", strtotime($data_venc))).".A PARTIR DESSA, CONSULTE BB P/ PAGTO";
 
 $dadosboleto["instrucoes4"] = "";
 

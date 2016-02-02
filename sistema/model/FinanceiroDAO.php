@@ -1272,8 +1272,8 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
 					INNER JOIN vsites_rel_royalties as rr
 					on rr.id_empresa=ue.id_empresa
 					LEFT JOIN vsites_conta_fatura cofa
-                    ON rr.id_empresa = cofa.id_empresa_franquia AND date_format(rr.data,'%Y-%m') = date_format(cofa.emissao,'%Y-%m')
-					WHERE rr.id_empresa!=1 AND cofa.id_conta_fatura IS NULL " . $where . " ";
+                    ON rr.id_rel_royalties = cofa.id_rel_royalties
+					WHERE rr.id_empresa!=1 AND cofa.id_rel_royalties IS NULL " . $where . " ";
         $cont = $this->fetch();
         $this->total = $cont[0]->total;
 
@@ -1283,8 +1283,8 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
 					INNER JOIN vsites_rel_royalties as rr
 					on rr.id_empresa=ue.id_empresa
 					LEFT JOIN vsites_conta_fatura cofa
-                    ON rr.id_empresa = cofa.id_empresa_franquia AND date_format(rr.data,'%Y-%m') = date_format(cofa.emissao,'%Y-%m')
-					WHERE rr.id_empresa!=1 AND cofa.id_conta_fatura IS NULL
+                    ON rr.id_rel_royalties = cofa.id_rel_royalties
+					WHERE rr.id_empresa!=1 AND cofa.id_rel_royalties IS NULL
 					" . $where . " ORDER BY ue.fantasia, date_format(rr.data,'%m/%Y') LIMIT " . $this->getInicio() . ", " . $this->maximo;
         $ret = $this->fetch();
 
