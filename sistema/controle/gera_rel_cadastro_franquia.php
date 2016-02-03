@@ -28,12 +28,10 @@ if ($c->c_status == 'on') {
     $worksheet->write(0, $z, 'STATUS', $styletitulo);
     $z++;
 }
-
-if ($c->c_status == 'on') {
+if ($c->c_tipo_franquia == 'on') {
     $worksheet->write(0, $z, 'TIPO FRANQUIA', $styletitulo);
     $z++;
 }
-
 if ($c->c_unidade == 'on') {
     $worksheet->write(0, $z, 'UNIDADE', $styletitulo);
     $z++;
