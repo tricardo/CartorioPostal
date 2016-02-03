@@ -96,6 +96,7 @@ switch ($_POST['sistema']) {
         if (is_numeric($login) != 1 and COUNT($cliente) == 1) {
             $senha = $login . $senha;
             $senha = md5($senha);
+			
         }
         $ip = explode(',', $ip);
         $logar = '';

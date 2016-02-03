@@ -205,6 +205,7 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
         $ret = $this->fetch();
         return $ret[0];
     }
+
     public function selectBoletosBrasilPorId($id_conta_fatura, $id_empresa)
     {
         $this->sql = "SELECT
@@ -309,10 +310,11 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
         return $this->insert();
     }
 
-    public function inserirBoletoBrad($p,$id_empresa,$id_usuario){
+    public function inserirBoletoBrad($p, $id_empresa, $id_usuario)
+    {
         $this->table = 'vsites_conta_fatura';
-        $this->fields = array('id_nota','id_relatorio','id_empresa_franquia','id_fatura','id_conta','ocorrencia','tipo','cpf','sacado','endereco','bairro','cidade','estado','cep','vencimento','valor','juros_mora','instrucao1','instrucao2','mensagem1','mensagem2','emissao_papeleta','especie','aceite','id_empresa','id_usuario', 'id_rel_royalties');
-        $this->values = array("id_nota"=>$p->id_nota,"id_relatorio"=>$p->id_relatorio,"id_empresa_franquia"=>$p->id_empresa_franquia,"id_fatura"=>$p->id_fatura,"id_conta"=>$p->id_conta,"ocorrencia"=>$p->ocorrencia,"tipo"=>$p->tipo,"cpf"=>$p->cpf,"sacado"=>$p->sacado,"endereco"=>$p->endereco,"bairro"=>$p->bairro,"cidade"=>$p->cidade,"estado"=>$p->estado,"cep"=>$p->cep,"vencimento"=>$p->vencimento,"valor"=>$p->valor,"juros_mora"=>$p->juros_mora,"instrucao1"=>$p->instrucao1,"instrucao2"=>$p->instrucao2,"mensagem1"=>$p->mensagem1,"mensagem2"=>$p->mensagem2,"emissao_papeleta"=>$p->emissao_papeleta,"especie"=>$p->especie,"aceite"=>$p->aceite,"id_empresa"=>$id_empresa,"id_usuario"=>$id_usuario, "id_rel_royalties" => $p->id_rel_royalties);
+        $this->fields = array('id_nota', 'id_relatorio', 'id_empresa_franquia', 'id_fatura', 'id_conta', 'ocorrencia', 'tipo', 'cpf', 'sacado', 'endereco', 'bairro', 'cidade', 'estado', 'cep', 'vencimento', 'valor', 'juros_mora', 'instrucao1', 'instrucao2', 'mensagem1', 'mensagem2', 'emissao_papeleta', 'especie', 'aceite', 'id_empresa', 'id_usuario', 'id_rel_royalties');
+        $this->values = array("id_nota" => $p->id_nota, "id_relatorio" => $p->id_relatorio, "id_empresa_franquia" => $p->id_empresa_franquia, "id_fatura" => $p->id_fatura, "id_conta" => $p->id_conta, "ocorrencia" => $p->ocorrencia, "tipo" => $p->tipo, "cpf" => $p->cpf, "sacado" => $p->sacado, "endereco" => $p->endereco, "bairro" => $p->bairro, "cidade" => $p->cidade, "estado" => $p->estado, "cep" => $p->cep, "vencimento" => $p->vencimento, "valor" => $p->valor, "juros_mora" => $p->juros_mora, "instrucao1" => $p->instrucao1, "instrucao2" => $p->instrucao2, "mensagem1" => $p->mensagem1, "mensagem2" => $p->mensagem2, "emissao_papeleta" => $p->emissao_papeleta, "especie" => $p->especie, "aceite" => $p->aceite, "id_empresa" => $id_empresa, "id_usuario" => $id_usuario, "id_rel_royalties" => $p->id_rel_royalties);
         return $this->insert();
     }
 
@@ -468,6 +470,17 @@ ON f.id_conta_fatura = fb.id_conta_fatura where f.id_conta_fatura=? and f.id_emp
         $this->fields = array('id_conta_fatura', 'tipo_multa', 'valor_multa', 'data_multa', 'tipo_juros', 'pgto_parcial', 'dias_protesto', 'campo_livre', 'cpnj_sacador', 'nome_sacador', 'mensagem3', 'numero_beneficiario');
         $this->values = array("id_conta_fatura" => $idRetorno, "tipo_multa" => $p->tipo_multa, "valor_multa" => $p->valor_multa, "data_multa" => $p->data_multa, "tipo_juros" => $p->tipo_juros, "pgto_parcial" => $p->pgto_parcial, "dias_protesto" => $p->dias_protesto, "campo_livre" => $p->campo_livre, "cpnj_sacador" => $p->cpnj_sacador, "nome_sacador" => $p->nome_sacador, "mensagem3" => $p->mensagem3, "numero_beneficiario" => $p->txtNumeroBeneficiario);
         return $this->insert();
+    }
+
+    public function atualizaBoletoBrasil($p, $id_conta_fatura, $id_empresa)
+    {
+        $this->sql = "update vsites_conta_fatura set id_nota=?, tipo=?, cpf=?, sacado=?, endereco=?,bairro=?,cidade=?,estado=?, cep=?, vencimento=?, valor=?, juros_mora=?, instrucao1=?, instrucao2=?, mensagem1=?, mensagem2=?, emissao_papeleta=?, especie=?, aceite=? where id_conta_fatura=? and id_empresa=?";
+        $this->values = array($p->id_nota, $p->tipo, $p->cpf, $p->sacado, $p->endereco, $p->bairro, $p->cidade, $p->estado, $p->cep, $p->vencimento, $p->valor, $p->juros_mora, $p->instrucao1, $p->instrucao2, $p->mensagem1, $p->mensagem2, $p->emissao_papeleta, $p->especie, $p->aceite, $id_conta_fatura, $id_empresa);
+        $this->update();
+
+        $this->sql = "update vsites_conta_fatura_bco_brasil set tipo_multa=?, valor_multa=?, data_multa=?, tipo_juros=?, pgto_parcial=?,dias_protesto=?,campo_livre=?,cpnj_sacador=?, nome_sacador=?, mensagem3=?, numero_beneficiario=? where id_conta_fatura=?";
+        $this->values = array($p->tipo_multa, $p->valor_multa, $p->data_multa, $p->tipo_juros, $p->pgto_parcial, $p->dias_protesto, $p->campo_livre, $p->cpnj_sacador, $p->nome_sacador, $p->mensagem3, $p->txtNumeroBeneficiario, $id_conta_fatura);
+        return $this->update();
     }
 
 }
