@@ -404,7 +404,7 @@ if ($submit_form <> '' and $p->status == 0) {
         $funcJs = "openAlertBox('" . $titulo . "','" . $msg . "','" . $pag . "');";
         echo '<img src="../images/null.gif" class="nulo" onload="' . $funcJs . '" />';
     }
-    $p->vencimento = invert($p->vencimento, '/', 'PHP');
+    $p->vencimento = date('d/m/Y', strtotime($p->vencimento));
 }
 
 
@@ -452,7 +452,7 @@ if ($submit_deleta <> '' and $p->status == 0) {
 <td id="td_implantacao">
 
 <label>Banco: </label>
-<select name="id_conta" id="id_conta"
+<select name="id_conta" id="id_conta" disabled
         class="form_estilo<? if ($errors['id_conta'] == 1) echo '_erro' ?>"
         style=" width:110px; ">
     <?
