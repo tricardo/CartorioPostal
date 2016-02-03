@@ -114,6 +114,9 @@ function formata_numero($numero,$loop,$insert,$tipo = "geral") {
     }
     return $numero;
 }
+
+
+
 function fbarcode($valor){
     $fino = 1 ;
     $largo = 3 ;

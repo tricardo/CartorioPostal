@@ -263,7 +263,7 @@ if ($submit_form) {
                 $p->data_multa = $txtDataMulta;
                 $p->tipo_juros = $ddlJuros;
                 $p->juros_mora = ($ddlJuros == 1) ? 0 : $txtValorJuros;
-                $p->dias_protesto = date('Y-m-d', strtotime("+$txtDiasProtesto days", strtotime($vencimento)));
+                $p->dias_protesto = $txtDiasProtesto;
                 $p->pgto_parcial = ($ddlPgtoParcial == 'S') ? true : false;
                 $p->campo_livre = $txtCampoLivre;
                 $p->cpnj_sacador = $txtCNPJSacador;
