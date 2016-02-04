@@ -130,6 +130,7 @@ class ContaDAO extends Database
 					WHERE id_conta=? and id_empresa=? 
 					LIMIT 1";
         $this->values = array($id_conta, $id_empresa);
+        echo $this->sql;
         $ret = $this->fetch();
         return $ret[0];
     }

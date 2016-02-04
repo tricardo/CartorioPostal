@@ -3,6 +3,12 @@ require('header.php');
 $departamento_s = explode(',' ,$controle_id_departamento_s);
 $departamento_p = explode(',' ,$controle_id_departamento_p);
 
+pt_register("GET", "id");
+
+if(empty($id)){
+    echo "<script>location.href='financeiro_boleto_remessa.php';</script>";
+}
+
 $contaDAO = new ContaDAO();
 
 $permissao = verifica_permissao('Financeiro',$controle_id_departamento_p,$controle_id_departamento_s);
