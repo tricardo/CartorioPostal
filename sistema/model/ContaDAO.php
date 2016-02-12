@@ -130,7 +130,6 @@ class ContaDAO extends Database
 					WHERE id_conta=? and id_empresa=? 
 					LIMIT 1";
         $this->values = array($id_conta, $id_empresa);
-        echo $this->sql;
         $ret = $this->fetch();
         return $ret[0];
     }
@@ -170,7 +169,7 @@ class ContaDAO extends Database
  * */
     public function selectBoletosBrasil($id_empresa, $id_conta)
     {
-        $this->sql = "SELECT cf.*, date_format(cf.vencimento,'%d%m%y') vencimento, date_format(cf.emissao,'%d%m%y') emissao,  date_format(cf.data_desc,'%d%m%y') data_desc FROM vsites_conta_fatura cf
+        $this->sql = "SELECT cf.*, date_format(cf.vencimento,'%d%m%Y') vencimento, date_format(cf.emissao,'%d%m%Y') emissao,  date_format(cf.data_desc,'%d%m%y') data_desc, cfbb.*, substring(cfbb.nome_sacador, 1, 40) as nome_sacador FROM vsites_conta_fatura cf INNER JOIN vsites_conta_fatura_bco_brasil cfbb ON cf.id_conta_fatura = cfbb.id_conta_fatura
 					WHERE status=0 and id_empresa=? and id_conta = ? ";
         $this->values = array($id_empresa, $id_conta);
         return $this->fetch();
