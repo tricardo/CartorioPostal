@@ -100,7 +100,7 @@ ON (cf.id_empresa_franquia=e.id_empresa AND DATE_FORMAT(cf.emissao,'%Y-%m') = '"
 		global $controle_id_usuario;
 
 		if($controle_id_usuario == 1){
-			#print_r($this->values);
+			print_r($this->sql);
 		}
 		return $this->fetch();
 	}

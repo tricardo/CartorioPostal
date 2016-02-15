@@ -77,11 +77,16 @@ if ($submit) {
     $arquivoDiretorio = "../boletos/remessabancodobrasil/" . date('Y') . '/' . $nomeArquivo;
     $file_path = "../boletos/remessabancodobrasil/" . date("Y") . "/";
 
-    $headerArquivo = "001" . "0000" . "0" . "         " . "2" . "69131159000141" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "  " . $bb->agencia . $bb->conta . "0" . $bb->favorecido . $bb->banco . "          " . "0" . date("dmY") . date("Hms") . "000000" . "083" . "00000" . "                    " . "                    " . "                             " . "\r\n";
-    $headerLote = "001" . $numeroLote . "1" . "R" . "01" . "  " . "042" . " " . "2" . "069131159000141" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "TS" . $bb->agencia . $bb->conta . "0" . $bb->favorecido . "                                        " . "                                        " . $bb->remessa . date("dmY") . "00000000" . "000000000000000000000000000000000" . "\r\n";
+    $linha = 0;
+
+    $headerArquivo = "001" . "0000" . "0" . "         " . "2" . "10914772000192" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "  " . $bb->agencia . $bb->conta . "0" . $bb->favorecido . $bb->banco . "          " . "1" . date("dmY") . date("Hms") . "000000" . "083" . "00000" . "                    " . "                    " . "                             " . "\r\n";
+    $linha++;
+
+    $headerLote = "001" . $numeroLote . "1" . "R" . "01" . "  " . "042" . " " . "2" . "010914772000192" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "TS" . $bb->agencia . $bb->conta . "0" . $bb->favorecido . "                                        " . "                                        " . $bb->remessa . date("dmY") . "00000000" . "000000000000000000000000000000000" . "\r\n";
+    $linha++;
 
     #variavel do numero de linhas
-    $linha = 2;
+
     $i = 0;
 
 
@@ -169,28 +174,29 @@ if ($submit) {
 
         $numeroSequencia = tamanho_string($cont, '0', 'e', '5');
 
-        $segmentoP = "001" . $numeroLote . "3" . $numeroSequencia . "P" . " " . "01" . $bb->agencia . $bb->conta . "0" . $b->nossonumero . "   " . "7" . "0" . "0" . "2" . "2" . $b->numero_beneficiario . $b->vencimento . $b->valor . "00000" . " " . $b->especie . $b->aceite . $b->emissao . "0" . "00000000" . "000000000000000" . "0" . "00000000" . "000000000000000" . "000000000000000" . "000000000000000" . "0000000000000000000000000" . "1" . $b->dias_protesto . "0" . "000" . "00" . "0000000000" . " " . "\r\n";
+        $segmentoP = "001" . $numeroLote . "3" . $numeroSequencia . "P" . " " . "01" . $bb->agencia . $bb->conta . "0" . $b->nossonumero . "   " . "7" . "0" . "0" . "2" . "2" . $b->numero_beneficiario . $b->vencimento . $b->valor . "00000" . " " . $b->especie . $b->aceite . $b->emissao . "0" . "00000000" . "000000000000000" . "0" . "00000000" . "000000000000000" . "000000000000000" . "000000000000000" . "0000000000000000000000000" . "1" . $b->dias_protesto . "0" . "000" . "09" . "0000000000" . " " . "\r\n";
         $cont++;
         $linha++;
 
         $numeroSequencia = tamanho_string($cont, '0', 'e', '5');
 
-        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . $b->bairro . $b->cep . $b->cidade . $b->estado . "0" . $b->cnpj_sacador . $b->nome_sacador . "000" . "                    " . "        " . "\r\n";
+        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . $b->bairro . $b->cep . $b->cidade . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
         $linha++;
 
 
-        $conteudoArquivo .= $segmentoP.$segmentoQ;
+        $conteudoArquivo .= $segmentoP . $segmentoQ;
 
         //$brad_update = $contaDAO->atualizaBoletosBrad($controle_id_empresa,$b->id_conta_fatura);
     }
 
+    $trailerLote = "001" . $numeroLote . "5" . "         " . tamanho_string($linha, '0', 'e', '6') . "                                                                                                                                                                                                                         " . "\r\n";
+    $linha++;
+
+    $numeroLote = tamanho_string($numeroLote, '0', 'e', '6');
+
     $linha++;
 
     $linha = tamanho_string($linha, '0', 'e', '6');
-
-    $trailerLote = "001" . $numeroLote . "5" . "         " . $linha . "                                                                                                                                                                                                                         " . "\r\n";
-
-    $numeroLote = tamanho_string($numeroLote, '0', 'e', '6');
 
     $trailerArquivo = "001" . "9999" . "9" . "         " . $numeroLote . $linha . "000000" . "                                                                                                                                                                                                             ";
 
