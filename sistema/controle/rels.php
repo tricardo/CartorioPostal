@@ -47,14 +47,6 @@ require('header.php');
                             ?>
                             <tr>
                                 <td class="result_celula" nowrap>Financeiro</td>
-                                <td class="result_celula" nowrap>Cadastro de Franquias</td>
-                                <td class="result_celula" align="center" nowrap>
-                                    <a href="rel_cadastro_franquia.php"><img src="../images/botao_editar.png" title="Editar"
-                                                                             border="0"/></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="result_celula" nowrap>Financeiro</td>
                                 <td class="result_celula" nowrap>Relatório de Royalties e Faturamento da(s) Franquia(s)</td>
                                 <td class="result_celula" align="center" nowrap>
                                     <a href="rel_royalties_mensal.php"><img src="../images/botao_editar.png" title="Editar" border="0" /></a>
@@ -78,6 +70,14 @@ require('header.php');
                             </tr>
                             <? $id_departamento_s = explode(',', $controle_id_departamento_s);
                             if ($controle_id_empresa == 1 and in_array('17', $id_departamento_s) == 1) { ?>
+                                <tr>
+                                    <td class="result_celula" nowrap>Financeiro</td>
+                                    <td class="result_celula" nowrap>Cadastro de Franquias</td>
+                                    <td class="result_celula" align="center" nowrap>
+                                        <a href="rel_cadastro_franquia.php"><img src="../images/botao_editar.png" title="Editar"
+                                                                                 border="0"/></a>
+                                    </td>
+                                </tr>
                                 <tr>
                                     <td class="result_celula" nowrap>Financeiro</td>
                                     <td class="result_celula" nowrap>Royalties em Aberto</td>
