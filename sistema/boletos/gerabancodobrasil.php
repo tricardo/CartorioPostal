@@ -82,7 +82,7 @@ if ($submit) {
     $headerArquivo = "001" . "0000" . "0" . "         " . "2" . "10914772000192" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "  " . $bb->agencia . $bb->conta . "0" . $bb->favorecido . $bb->banco . "          " . "1" . date("dmY") . date("Hms") . "000000" . "083" . "00000" . "                    " . "                    " . "                             " . "\r\n";
     $linha++;
 
-    $headerLote = "001" . $numeroLote . "1" . "R" . "01" . "  " . "042" . " " . "2" . "010914772000192" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "TS" . $bb->agencia . $bb->conta . "0" . $bb->favorecido . "                                        " . "                                        " . $bb->remessa . date("dmY") . "00000000" . "000000000000000000000000000000000" . "\r\n";
+    $headerLote = "001" . $numeroLote . "1" . "R" . "01" . "  " . "042" . " " . "2" . "010914772000192" . $bb->convenioheader . "0014" . $bb->carteira . "019" . "  " . $bb->agencia . $bb->conta . "0" . $bb->favorecido . "                                        " . "                                        " . $bb->remessa . date("dmY") . "00000000" . "000000000000000000000000000000000" . "\r\n";
     $linha++;
 
     #variavel do numero de linhas
