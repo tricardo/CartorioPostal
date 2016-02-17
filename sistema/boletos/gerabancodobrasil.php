@@ -186,7 +186,7 @@ if ($submit) {
 
         $conteudoArquivo .= $segmentoP . $segmentoQ;
 
-        //$brad_update = $contaDAO->atualizaBoletosBrad($controle_id_empresa,$b->id_conta_fatura);
+        $brad_update = $contaDAO->atualizaBoletosBrad($controle_id_empresa,$b->id_conta_fatura);
     }
 
     $trailerLote = "001" . $numeroLote . "5" . "         " . tamanho_string($linha, '0', 'e', '6') . "                                                                                                                                                                                                                         " . "\r\n";
@@ -230,7 +230,7 @@ if ($submit) {
         }
 
         #Colocar aqui o script para download do arquivo
-        $bradesco = $contaDAO->atualizarBradesco($id_conta, $controle_id_empresa, $bradesco->versao, $bradesco->remessa, $arquivoDiretorio);
+        $bradesco = $contaDAO->atualizarBrasil($id_conta, $controle_id_empresa, $bradesco->versao, $bradesco->remessa, $arquivoDiretorio);
     }
 
 }

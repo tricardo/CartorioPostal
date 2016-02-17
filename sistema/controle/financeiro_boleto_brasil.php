@@ -84,13 +84,13 @@ if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cob
                                     <td class="tabela_tit"><strong>Arquivo Remessa</strong></td>
                                 </tr>
                                 <?
-                                $sql = $objQuery->SQLQuery("SELECT * from vsites_arquivo_brad_rem where id_empresa='".$controle_id_empresa."' order by data desc limit 25");
+                                $sql = $objQuery->SQLQuery("SELECT * from vsites_arquivo_bb_rem where id_empresa='".$controle_id_empresa."' order by data desc limit 25");
                                 $p_valor = '';
                                 while($res = mysql_fetch_array($sql)){
                                     $p_valor .= '
 					<tr>
 						<td class="result_celula"> '.invert($res['data'],'/','PHP').'</td>
-						<td class="result_celula"> <a href="download_remessa_brad.php?id='.$res['id_bradesco_rem'].'">'.str_replace('../boletos/remessabancodobrasil/','',$res['arquivo']).'</a></td>
+						<td class="result_celula"> <a href="download_remessa_bb.php?id='.$res['id_brasil_rem'].'">'.str_replace('../boletos/remessabancodobrasil/','',$res['arquivo']).'</a></td>
 					</tr>';
                                 }
                                 echo $p_valor;
@@ -104,13 +104,13 @@ if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cob
                                     <td class="tabela_tit"><strong>Arquivo Retorno</strong></td>
                                 </tr>
                                 <?
-                                $sql = $objQuery->SQLQuery("SELECT * from vsites_arquivo_brad_ret where id_empresa='".$controle_id_empresa."' order by data desc limit 25");
+                                $sql = $objQuery->SQLQuery("SELECT * from vsites_arquivo_bb_ret where id_empresa='".$controle_id_empresa."' order by data desc limit 25");
                                 $p_valor = '';
                                 while($res = mysql_fetch_array($sql)){
                                     $p_valor .= '
 					<tr>
 						<td class="result_celula"> '.invert($res['data'],'/','PHP').'</td>
-						<td class="result_celula"> <a href="download_ret_brad.php?id='.$res['id_bradesco_ret'].'">Clique para download</a></td>
+						<td class="result_celula"> <a href="download_ret_bb.php?id='.$res['id_brasil_ret'].'">Clique para download</a></td>
 					</tr>';
                                 }
                                 echo $p_valor;

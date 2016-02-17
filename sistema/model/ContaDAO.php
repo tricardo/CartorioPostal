@@ -144,12 +144,32 @@ class ContaDAO extends Database
         return $ret[0];
     }
 
+    public function selectArquivoBBPorId($id_brasil_rem, $id_empresa)
+    {
+        $this->sql = "SELECT * FROM vsites_arquivo_bb_rem ab
+					WHERE id_brasil_rem=? and id_empresa=?
+					LIMIT 1";
+        $this->values = array($id_brasil_rem, $id_empresa);
+        $ret = $this->fetch();
+        return $ret[0];
+    }
+
     public function selectArquivoRetPorId($id_bradesco_ret, $id_empresa)
     {
         $this->sql = "SELECT * FROM vsites_arquivo_brad_ret ab
 					WHERE id_bradesco_ret=? and id_empresa=? 
 					LIMIT 1";
         $this->values = array($id_bradesco_ret, $id_empresa);
+        $ret = $this->fetch();
+        return $ret[0];
+    }
+
+    public function selectArquivoRetBBPorId($id_brasil_ret, $id_empresa)
+    {
+        $this->sql = "SELECT * FROM vsites_arquivo_bb_ret ab
+					WHERE id_brasil_ret=? and id_empresa=?
+					LIMIT 1";
+        $this->values = array($id_brasil_ret, $id_empresa);
         $ret = $this->fetch();
         return $ret[0];
     }
@@ -297,6 +317,18 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
         $this->update();
 
         $this->table = 'vsites_arquivo_brad_rem';
+        $this->fields = array("id_empresa", "arquivo");
+        $this->values = array("id_empresa" => $id_empresa, "arquivo" => $arquivo);
+        return $this->insert();
+    }
+
+    public function atualizarBrasil($id_conta, $id_empresa, $versao, $remessa, $arquivo)
+    {
+        $this->sql = "update vsites_conta set versao=?, remessa=?, ultima=NOW() where id_conta=? and id_empresa=?";
+        $this->values = array($versao, $remessa, $id_conta, $id_empresa);
+        $this->update();
+
+        $this->table = 'vsites_arquivo_bb_rem';
         $this->fields = array("id_empresa", "arquivo");
         $this->values = array("id_empresa" => $id_empresa, "arquivo" => $arquivo);
         return $this->insert();
