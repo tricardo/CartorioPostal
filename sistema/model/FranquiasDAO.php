@@ -26,10 +26,11 @@ class FranquiasDAO extends Database {
 				$cont = $this->fetch();
 				$this->total = $cont[0]->total;
 				$this->pagina = ($c->pagina == NULL) ? 1 : $c->pagina;
-				
+                $this->link = 'status=' . $c->status . '&busca=' . $c->busca;
+
 				$this->sql = "SELECT e.id_empresa, e.nome, e.fantasia, e.franquia, e.status, e.email ";
 				$this->sql .= $sql;
-				$this->sql .= " ORDER BY e.nome ASC LIMIT " . $this->getInicio() . ", " . $this->maximo;
+				$this->sql .= " ORDER BY e.fantasia ASC LIMIT " . $this->getInicio() . ", " . $this->maximo;
 				return $this->fetch();
 				break;
 			

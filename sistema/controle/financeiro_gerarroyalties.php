@@ -5,11 +5,14 @@ $departamento_p = explode(',', $controle_id_departamento_p);
 $cRoyaltieFixoDAO = new RoyaltieFixoDAO();
 $empresaDAO = new EmpresaDAO();
 $permissao = verifica_permissao('Financeiro', $controle_id_departamento_p, $controle_id_departamento_s);
+$permissao_fin_cobranca = verifica_permissao('Financeiro Cobrança', $controle_id_departamento_p, $controle_id_departamento_s);
 
-if ($permissao == 'FALSE' or $controle_id_empresa != 1) {
+if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cobranca == 'FALSE' or $controle_id_empresa != 1)) {
     echo '<br><br><strong>Você não tem permissão para acessar essa página</strong>';
     exit;
 }
+
+
 
 pt_register('POST', 'gerar_submit');
 pt_register("POST", 'gerar_submit_todos');

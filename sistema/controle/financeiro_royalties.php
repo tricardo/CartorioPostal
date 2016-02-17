@@ -7,7 +7,9 @@ $financeiroDAO = new FinanceiroDAO();
 $empresaDAO = new EmpresaDAO();
 
 $permissao = verifica_permissao('Financeiro', $controle_id_departamento_p, $controle_id_departamento_s);
-if ($permissao == 'FALSE' or $controle_id_empresa != 1) {
+$permissao_fin_cobranca = verifica_permissao('Financeiro Cobrança', $controle_id_departamento_p, $controle_id_departamento_s);
+
+if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cobranca == 'FALSE' or $controle_id_empresa != 1)) {
     echo '<br><br><strong>Você não tem permissão para acessar essa página</strong>';
     exit;
 }
@@ -41,7 +43,7 @@ $buscap->situacao = $busca_situacao;
 $buscap->id_empresa = $busca_id_empresa;
 ?>
     <div id="topo">
-        <h1><img src="../images/tit/tit_recebimento.png" alt="Título"/>Recebimentos de Royalties e FPP</h1>
+        <h1><img src="../images/tit/tit_recebimento.png" alt="Título"/>Royalties</h1>
         <a href="#" class="topo">topo</a>
         <hr class="tit"/>
     </div>
@@ -154,7 +156,8 @@ $buscap->id_empresa = $busca_id_empresa;
 		<td align="center" width="130" class="result_menu"><b>FPP á Receber</b></td>		
 		<td align="center" width="130" class="result_menu"><b>Royalties Recebido</b></td>		
 		<td align="center" width="130" class="result_menu"><b>FPP Recebido</b></td>
-		<td align="center" width="130" class="result_menu"><b>Editar</b></td>		
+		<td align="center" width="130" class="result_menu"><b>Editar</b></td>
+		<td align="center" width="130" class="result_menu"><b>Excluir</b></td>
 		</tr>';
 
                 $p_ref = explode(',', $_COOKIE["fr_id_rel_royalties"]);
@@ -177,6 +180,9 @@ $buscap->id_empresa = $busca_id_empresa;
 			<td class="result_celula" align="right" nowrap>R$ ' . number_format($p->fpp_rec, 2, ",", "") . '</td>
 			<td class="result_celula" align="center">
 				<a href="#"  onclick="carrega_royalties_r(\'' . $p->ref . '\',\'' . $p->id_empresa . '\'); $(\'#windowMensagem\').show();"><img src="../images/botao_editar.png" title="Editar" border="0"/></a>
+			</td>
+			<td class="result_celula" align="center">
+				<a href="financeiro_royalties_excluir.php?id=' . $p->id_rel_royalties . '"  onclick="return confirm(\'Deseja excluir o registro?\');"><img src="../images/botao_delete.png" title="Editar" border="0"/></a>
 			</td>
 			</tr>';
                     }

@@ -82,8 +82,7 @@
     $relatorioDAO = new RelatorioDAO();
     $relatorios = $relatorioDAO->busca_roy($id_empresa, $mes, $ano, $pagina);
     ?>
-    <br>O valor do FPP não está incluso no boleto e deverá ser depositado na seguinte conta:
-    <b>Banco</b> Bradesco <b>Ag.</b> 2692 <b>Conta Corrente:</b> 13643–3<br><br>
+    <br/>
     <table class="result_tabela" width="100%">
         <tbody>
         <tr>

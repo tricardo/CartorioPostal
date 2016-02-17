@@ -2,10 +2,12 @@
 require('header.php');
 
 $permissao = verifica_permissao('Financeiro', $controle_id_departamento_p, $controle_id_departamento_s);
+$permissao_fin_cobranca = verifica_permissao('Financeiro Cobrança', $controle_id_departamento_p, $controle_id_departamento_s);
+
 $contaDAO = new ContaDAO();
 $empresaDAO = new EmpresaDAO();
 
-if ($permissao == 'FALSE') {
+if ($permissao == 'FALSE' and $permissao_fin_cobranca == 'FALSE') {
     echo '<br><br><strong>Você não tem permissao para acessar essa página</strong>';
     exit;
 }

@@ -12,7 +12,9 @@ if(empty($id)){
 $contaDAO = new ContaDAO();
 
 $permissao = verifica_permissao('Financeiro',$controle_id_departamento_p,$controle_id_departamento_s);
-if($permissao == 'FALSE' or $controle_id_empresa!='1'){
+$permissao_fin_cobranca = verifica_permissao('Financeiro Cobrança', $controle_id_departamento_p, $controle_id_departamento_s);
+
+if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cobranca == 'FALSE' or $controle_id_empresa != 1)) {
     echo '<br><br><strong>Você não tem permissão para acessar essa página</strong>';
     exit;
 }

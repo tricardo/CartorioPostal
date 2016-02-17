@@ -614,7 +614,7 @@ class FinanceiroDAO extends Database
      **/
     public function recebimentoRoy($ref, $id_empresa)
     {
-        $this->sql = "select date_format(f.financeiro_data_p,'%d/%m/%Y') as financeiro_data_p, f.financeiro_forma, format(f.financeiro_valor,'.') as financeiro_valor from vsites_financeiro as f, vsites_rel_royalties as rr where date_format(rr.data,'%m/%Y')= ? and rr.id_empresa=? and rr.id_rel_royalties=f.id_rel_royalties";
+        $this->sql = "select date_format(f.financeiro_data_p,'%d/%m/%Y') as financeiro_data_p, f.financeiro_forma, format(f.financeiro_valor,'.') as financeiro_valor, f.financeiro_descricao as financeiro_descricao from vsites_financeiro as f, vsites_rel_royalties as rr where date_format(rr.data,'%m/%Y')= ? and rr.id_empresa=? and rr.id_rel_royalties=f.id_rel_royalties";
         $this->values[] = $ref;
         $this->values[] = $id_empresa;
         return $this->fetch();
@@ -1300,6 +1300,23 @@ on usem.id_empresa = rofr.id_empresa" . $where . "ORDER BY fantasia, YEAR(rofr.d
         return $this->fetch();
     }
 
+    public function exclui_royaltie_id($id)
+    {
+        $this->sql = "DELETE FROM vsites_rel_royalties WHERE id_rel_royalties = ?";
+        $this->values = array($id);
+        return $this->exec();
+    }
+
+    public function exclui_boleto_brasil($id)
+    {
+        $this->sql = "DELETE FROM vsites_conta_fatura_bco_brasil WHERE id_conta_fatura = (SELECT id_conta_fatura FROM vsites_conta_fatura WHERE id_rel_royalties = ?)";
+        $this->values = array($id);
+        $this->exec();
+
+        $this->sql = "DELETE FROM vsites_conta_fatura WHERE id_rel_royalties = ?";
+        $this->values = array($id);
+        return $this->exec();
+    }
 }
 
 ?>

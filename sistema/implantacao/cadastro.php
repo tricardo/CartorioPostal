@@ -1,4 +1,6 @@
 <?
+$permissao_Franchising = verifica_permissao('Franchising', $controle_id_departamento_p, $controle_id_departamento_s);
+
 $royalties = new RoyaltieFixoDAO();
 $c->total_mes = 18;
 if (isset($c->submit)) {
@@ -116,8 +118,9 @@ if (isset($c->submit)) {
 $empresaDAO = new EmpresaDAO();
 $emp = $empresaDAO->selectPorId($c->id_empresa);
 ?>
+
 <label>Status</label>
-<select name="status" class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?>>
+<select name="status" class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?>>
     <option value="Ativo" <?= ($emp->status                                                                     == 'Ativo') ? 'selected="selected"' : '' ?>>Ativo</option>
     <option value="Cancelado" <?= ($emp->status == 'Cancelado') ? 'selected="selected"' : '' ?>>Cancelado</option>
     <option value="Encerrando" <?= ($emp->status == 'Encerrando') ? 'selected="selected"' : '' ?>>Encerrando</option>
@@ -129,7 +132,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
 
 <label>Tipo Franquia:</label>
 <select onchange="franquia_master(this.value)" name="franquia_tipo"
-        class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?>>
+        class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?>>
     <option value="1" <?= ($emp->franquia_tipo == 1) ? 'selected="selected"' : '' ?>>Master</option>
     <option value="2" <?= ($emp->franquia_tipo == 2) ? 'selected="selected"' : '' ?>>Unitária</option>
     <option value="3" <?= ($emp->franquia_tipo == 3) ? 'selected="selected"' : '' ?>>Subfranquia</option>
@@ -139,7 +142,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
 <? if ($emp->franquia_tipo != 1) { ?>
     <label id="lb_id_recursivo">Master:</label>
     <select style="width:562px" name="id_recursivo" id="id_recursivo"
-            class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?>>
+            class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?>>
         <option value="0"></option>
         <? $dt = $franquia->listar(4, $c);
         foreach ($dt as $f) { ?>
@@ -202,7 +205,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
        onkeyup="f_cpmail()" id="sigla"/>
 <input type="text" name="email" id="email" value="<?= $emp->email ?>" style="width:405px"
        class="form_estilo  <?= (isset($errors['email'])) ? 'form_estilo_erro' : ''; ?>"
-    <?= ($permissao_admin == 'TRUE') ? '' : 'readonly="readonly"' ?> />
+    <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'readonly="readonly"' ?> />
 <font style="float:left;color:#FF0000;margin-right:5px">*</font><br/>
 
 <label>Skype:</label>
@@ -329,14 +332,14 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
 <label>Liberação do Sistema:</label>
 <input type="text" name="inicio" value="<?= ($emp->inicio != '') ? invert($emp->inicio, '/', 'PHP') : ''; ?>"
        style="width:150px" onkeyup="masc_numeros(this,'##/##/####');"
-       class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?> />
+       class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?> />
 
 <strong style="float:left; margin-right:8px">&nbsp;&nbsp;&nbsp;Royalties:</strong>
 <input type="text" id="royalties" name="royalties" value="<?= ($emp->royalties == '') ? 0 : $emp->royalties ?>"
        style="width: 50px"
        onkeyup="moeda(event.keyCode,this.value,'royalties'); $('#royfixo').html(this.value); $('#royfixo2').html(this.value);"
        class="form_estilo <?= (isset($errors['royalties'])) ? 'form_estilo_erro' : ''; ?>" <?= ($readonly) ? 'readonly="readonly"' : ''; ?>
-    <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?> />
+    <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?> />
 <span style="float:left; margin-right:8px">%</span>
 
 <strong style="float:left; margin-right:8px">Deduzir Impostos de:</strong>
@@ -344,7 +347,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
        style="width: 50px"
        onkeyup="moeda(event.keyCode,this.value,'imposto');"
        class="form_estilo" <?= ($readonly) ? 'readonly="readonly"' : ''; ?>
-    <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?> />
+    <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?> />
 <span style="float:left">%</span><br/>
 
 <? if ($controle_id_usuario == 1 && $controle_id_empresa == 1) { ?>
@@ -373,7 +376,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
     $cRoyalties = $royalties->lista_royalties_fixo($c->id_empresa);
     ?>
     <label>Tipo FPP:</label>
-    <select name="fpp_tipo" class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?>>
+    <select name="fpp_tipo" class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?>>
         <option value="0"></option>
         <option value="1" <?= ($emp->fpp_tipo == 1) ? 'selected="selected"' : '' ?>>Faturamento</option>
         <option value="2" <?= ($emp->fpp_tipo == 2) ? 'selected="selected"' : '' ?>>Royaltie</option>
@@ -382,13 +385,13 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
     <label>FPP:</label>
     <input type="text" name="fpp" id="fpp"
            onkeyup="moeda(event.keyCode,this.value,this.id);" value="<?= $emp->fpp ?>" style="width:50px; margin:0"
-           class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?> /><br/>
+           class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?> /><br/>
 
     <label>Royalties Fixo:</label><br/>
     <label style="font-weight:normal">Valor</label>
     <input type="text" name="valor_royalties" id="valor_royalties"
            onkeyup="moeda(event.keyCode,this.value,this.id);" value="<?= $cRoyalties->valor ?>" style="width:50px; margin:0"
-           class="form_estilo" <?= ($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"' ?> />
+           class="form_estilo" <?= ($permissao_admin == 'TRUE' or $permissao_Franchising == 'TRUE') ? '' : 'disabled="disabled"' ?> />
     <label style="font-weight:normal">Data</label>
     <input type="text" name="data_royalties" id="data_royalties"
            onkeyup="moeda(event.keyCode,this.value,this.id);" value="<?= ($cRoyalties->data == '') ? date('d/m/Y') : date('d/m/Y', strtotime($cRoyalties->data))  ?>" style="width:115px; margin:0"
@@ -410,25 +413,7 @@ $emp = $empresaDAO->selectPorId($c->id_empresa);
     <textarea name="observacoes_royalties" style="width:539px; height:100px"
               class="form_estilo"><?= str_replace('<br />', "\n", $cRoyalties->observacao); ?></textarea><br/><br/>
 
-    <? /*$roy = $royalties->listar_franquia($c->id_empresa);
-	if(count($roy) > 0){
-		foreach ($roy as $f){
-			for($i = 1; $i <= $c->total_mes; $i++){
-				$mes = 'mes_'.$i;
-				$c->$mes = $f->$mes;
-			}
-		}
-	}
-	for($i = 1; $i <= $c->total_mes; $i++){
-		for($j = 1; $j <= 4; $j++){
-			if($i <= $c->total_mes){
-				$mes = 'mes_'.$i;
-				$valor = (isset($c->$mes)) ? $c->$mes : '0.00';?>
-				<label style="font-weight:normal"><?=$i?>° Mês</label> <input type="text" name="mes_<?=$i?>" id="mes_<?=$i?>"
-																			  onkeyup="moeda(event.keyCode,this.value,this.id);" value="<?=$valor?>" style="width:50px; margin:0" class="form_estilo" <?=($permissao_admin == 'TRUE') ? '' : 'disabled="disabled"'?> />
-				<? $i++; }
-		} echo '<br />'; $i--;
-	}*/
+    <?
 } ?>
 <div style="text-align:center;width:100%">
     <? if ($c->id_empresa > 0) { ?>

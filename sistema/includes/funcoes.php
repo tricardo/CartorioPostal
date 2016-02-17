@@ -300,6 +300,10 @@ function verifica_permissao($area, $id_departamento_p, $id_departamento_s) {//re
             if ($controle_depto_p['2'] == 1 or $controle_depto_s['16'] == 1)
                 return 'TRUE';
             break;
+        case 'Financeiro_rel_royalties':
+            if ($controle_depto_p['2'] == 1 or $controle_depto_s['19'] == 1 or $controle_depto_s['17'] == 1 or $controle_depto_s['4'] == 1 or $controle_depto_s['16'] == 1)
+                return 'TRUE';
+            break;
         case 'Rel_financeiro_franquia':
             if ($controle_depto_s['2'] == 1 or $controle_depto_s['16'] == 1)
                 return 'TRUE';
@@ -321,7 +325,7 @@ function verifica_permissao($area, $id_departamento_p, $id_departamento_s) {//re
                 return 'TRUE';
             break;
         case 'Financeiro Cobrança':
-            if ($controle_depto_p['19'] == 1)
+            if ($controle_depto_p['19'] == 1 or $controle_depto_s['19'] == 1)
                 return 'TRUE';
             break;
         case 'Pontos de Vendas':
@@ -421,7 +425,7 @@ function verifica_permissao($area, $id_departamento_p, $id_departamento_s) {//re
                 return 'TRUE';
             break;
         case 'Franchising':
-            if ($controle_depto_p['17'] == 1)
+            if ($controle_depto_p['17'] == 1 or $controle_depto_s['17'] == 1)
                 return 'TRUE';
             break;
         case 'Rel_comercial':
@@ -624,7 +628,7 @@ function valida_upload($arquivo, $config) {
 function valida_upload_pdf($arquivo, $config) {
     // Verifica se o mime-type do arquivo é de imagem
     $error = '';
-    if (!eregi("^image\/(pjpeg|jpeg|png|gif|bmp|pdf)$", $arquivo["type"]) and !eregi("^application\/(pdf)$", $arquivo["type"]) and !eregi("text/pdf", $arquivo["type"]) and !eregi("^application/x-www-form-urlencoded$", $arquivo["type"])) {
+    if (!eregi("^image\/(pjpeg|jpeg|png|gif|bmp|pdf)$", $arquivo["type"]) and !eregi("^application\/(pdf)$", $arquivo["type"]) and !eregi("text/pdf", $arquivo["type"]) and !eregi("application/vnd.ms-outlook", $arquivo["type"]) and !eregi("application/octet-stream", $arquivo["type"])) {
         $error.="<li><b>Arquivo em formato inválido! O arquivo deve ser jpg, jpeg,
 				bmp, gif, pdf ou png. Envie outro arquivo.</b></li>" . $arquivo["type"];
 		

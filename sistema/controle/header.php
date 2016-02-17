@@ -231,7 +231,7 @@ echo '<?xml version="1.0" encoding="iso-8859-1"?>';
                                                     <img src="../images/icon/icon_recebimento.png" style="border: 0" />Gerar Royalties</a>
                                             </li>
                                             <li id="submenu-138"><a href="financeiro_royalties.php">
-                                                    <img src="../images/icon/icon_recebimento.png" style="border: 0" />Royalties e FPP</a>
+                                                    <img src="../images/icon/icon_recebimento.png" style="border: 0" />Royalties</a>
                                             </li>
                                         <? } ?>
 

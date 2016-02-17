@@ -29,7 +29,8 @@ if($_GET){ foreach($_GET as $cp => $valor){ $c->$cp = $valor; } } ?>
 				<? } ?>
 		</select><br />
         <input type="submit" name="submit" class="button_busca" value=" Buscar " />
-		<? if ($permissao == 'TRUE'){ ?> 
+
+		<? if ($permissao == 'TRUE'){ ?>
 			<br /><br /><h3><a href="franquias_editar.php?id=0"><img src="../images/botao_add.png" border="0" /> Adicionar novo registro</a></h3><? } ?>
 	</div><br style="clear:both" />
 	<div>
@@ -41,8 +42,8 @@ if($_GET){ foreach($_GET as $cp => $valor){ $c->$cp = $valor; } } ?>
 				<td colspan="<?=$colspan?>" class="barra_busca"><? $franquia->QTDPagina(); ?></td>
 			</tr>
 			<tr>
+                <td class="result_menu" style="background-color:#FFF"><b>Unidade</b></td>
 				<td class="result_menu" style="background-color:#FFF"><b>Responsável</b></td>
-				<td class="result_menu" style="background-color:#FFF"><b>Franquia</b></td>
 				<td class="result_menu" style="background-color:#FFF;text-align:center;width:80px;"><b>Usuários</b></td>
 				<td class="result_menu" style="background-color:#FFF;text-align:center;width:80px;"><b>Status</b></td>
 				<td class="result_menu" style="background-color:#FFF;text-align:center;width:80px;"><b>Editar</b></td>
@@ -54,8 +55,8 @@ if($_GET){ foreach($_GET as $cp => $valor){ $c->$cp = $valor; } } ?>
 			<? foreach ($dt as $f) { 
 				$usuarios = $franquia->getQntUsuarios(1, $f->id_empresa, 0); ?>
 				<tr>
-					<td class="result_celula"><?= ucwords(strtolower($f->nome)) . ' - ' . strtolower($f->email) ?></td>
-					<td class="result_celula"><?= str_replace('Cartório Postal - ', '', ucwords(strtolower($f->fantasia))) ?></td>
+                    <td class="result_celula"><?= str_replace('Cartório Postal - ', '', ucwords(strtolower($f->fantasia))) ?></td>
+                    <td class="result_celula"><?= ucwords(strtolower($f->nome)) . ' - ' . strtolower($f->email) ?></td>
 					<td class="result_celula" align="center">
 						<a href="usuario.php?id_empresa=<?= $f->id_empresa ?>">
 							<img src="../images/icon/icon_cliente.png" alt="Título" border="0" /></a>

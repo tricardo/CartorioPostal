@@ -78,6 +78,7 @@ Usuários</h1>
 				<td align="center" width="80" class="result_menu"><b>Departamentos</b></td>
 				<td align="center" width="80" class="result_menu"><b>Editar</b></td>
 				<td align="center" width="80" class="result_menu"><b>Enviar Senha</b></td>
+                <td align="center" width="80" class="result_menu"><b>Excluir</b></td>
 			</tr>
 
 			<?php
@@ -90,6 +91,7 @@ Usuários</h1>
 	<td class="result_celula" align="center" nowrap><a href="usuario_departamento.php?id='.$usuario->id_usuario.'"><img src="../images/botao_editar.png" title="Editar Departamento" border="0"/></a></td>
 	<td class="result_celula" align="center"><a href="usuario_edit.php?id='.$usuario->id_usuario.'"><img src="../images/botao_editar.png" title="Editar" border="0"/></a></td>
 	<td class="result_celula" align="center" nowrap><a href="envia_senha_usuario.php?id='.$usuario->id_usuario.'"><img src="../images/botao_enviasenha.png" title="Enviar Senha" border="0"/></a></td>
+	<td class="result_celula" align="center" nowrap><a href="usuario_delete.php?id='.$usuario->id_usuario.'" onclick="return confirm(\'Deseja excluir o registro?\')"><img src="../images/botao_delete.png" title="Excluir" border="0"/></a></td>
 	</tr>';
 			}
 			echo $p_valor;

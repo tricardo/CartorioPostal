@@ -6,6 +6,7 @@ if ($permissao == 'FALSE' or $controle_id_empresa != '1') {
     exit;
 }
 $permissao = verifica_permissao('Direcao', $controle_id_departamento_p, $controle_id_departamento_s);
+
 $franquia = new FranquiasDAO();
 $c = new stdClass();
 if($_POST){ foreach($_POST as $cp => $valor){ $c->$cp = $valor; } }

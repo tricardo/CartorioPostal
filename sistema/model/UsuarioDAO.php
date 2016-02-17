@@ -392,6 +392,13 @@ class UsuarioDAO extends Database
             $this->exec();
         }
     }
+
+    public function deleta_usuario($id)
+    {
+        $this->sql = "DELETE FROM vsites_user_usuario WHERE id_usuario = ?";
+        $this->values = array($id);
+        return $this->exec();
+    }
 }
 
 ?>

@@ -9,15 +9,17 @@ if ($controle_id_empresa == 1) {
     pt_register('POST', 'submit_financeiro_emitir_royalties');
     if (isset($submit_financeiro_emitir_royalties)) {
 
-        $html = 'Consoante a assinatura do contrato de franquia firmado entre Vossa Senhoria e a Franqueadora, informamos que o boleto para pagamento dos Royalties, bem como o valor e dados para depósito do FPP, apurados no mês anterior estão disponíveis para download no sistema.<br><br>
+        $html = 'Prezado Franqueado,<br/><br/>
+Consoante a assinatura do contrato de franquia firmado entre Vossa Senhoria e a Franqueadora, informamos que o boleto para pagamento dos Royalties deste mês está disponível para download no sistema.<br/><br/>
 Para acessá-lo será necessário clicar no menu:<br>
 <b>INICIAR > RELÁTÓRIOS > RELATÓRIO DE ROYALTIES E FATURAMENTO</b><br><br>
 
-E baixar o boleto e o relatório para conferencia dos valores e faturamento.
+E baixar o boleto para pagamento em qualquer banco, até o vencimento.<br/><br/>
 
-Reforçamos nossa parceria.<br><br>
+A cobrança deste boleto está sendo administrada pela empresa SISTECART CONSULTORIA DE NEGÓCIOS E FRANQUIA, e o não pagamento até o vencimento implicará em multa, juros e futuro protesto.<br/><br/>
+
 Atenciosamente,<br>
-Equipe Cartório Postal.<br>
+Equipe de Cobrança.<br>
 <br>';
 
         $result = '';
