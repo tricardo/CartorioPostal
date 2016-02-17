@@ -43,7 +43,7 @@ class RoyaltieFixoDAO extends Database
      * */
     public function altera_royalties_fixo($c)
     {
-        $this->sql = "UPDATE vsite_royaltie_fixo_franquiado SET valor = ?, data = ?, alterado_por = ?, observacao = ? WHERE id_empresa =?";
+        $this->sql = "UPDATE vsites_royaltie_fixo_franquiado SET valor = ?, data = ?, alterado_por = ?, observacao = ? WHERE id_empresa =?";
         $this->values = array($c->valor_royalties, date("Y-m-d"), $c->id_usuario, empty($c->observacoes_royalties) ? null : $c->observacoes_royalties, $c->id_empresa);
         return $this->exec();
     }
@@ -55,7 +55,7 @@ class RoyaltieFixoDAO extends Database
      * */
     public function insert_royalties_fixo($c)
     {
-        $this->sql = 'INSERT INTO vsite_royaltie_fixo_franquiado
+        $this->sql = 'INSERT INTO vsites_royaltie_fixo_franquiado
 			(id_empresa, valor, data, alterado_por, observacao)
 			VALUES (?,?,?,?,?)';
         $this->values = array($c->id_empresa, $c->valor_royalties, date("Y-m-d"), $c->id_usuario, null);
@@ -68,7 +68,7 @@ class RoyaltieFixoDAO extends Database
         $this->sql = "SELECT
 rofi.*,
 usus.nome
-FROM vsite_royaltie_fixo_franquiado rofi
+FROM vsites_royaltie_fixo_franquiado rofi
 INNER JOIN vsites_user_usuario usus
 ON rofi.alterado_por = usus.id_usuario
 WHERE rofi.id_empresa = ?";
@@ -113,7 +113,7 @@ WHERE rofi.id_empresa = ?";
         $this->sql = "SELECT
 count(*) as total
 FROM vsites_user_empresa usem
-INNER JOIN vsite_royaltie_fixo_franquiado rofi
+INNER JOIN vsites_royaltie_fixo_franquiado rofi
 ON usem.id_empresa = rofi.id_empresa
 WHERE status in ('Ativo', 'Renovação') and usem.id_empresa!=1";
         $cont = $this->fetch();
@@ -123,7 +123,7 @@ WHERE status in ('Ativo', 'Renovação') and usem.id_empresa!=1";
         $this->sql = "SELECT
 *
 FROM vsites_user_empresa usem
-INNER JOIN vsite_royaltie_fixo_franquiado rofi
+INNER JOIN vsites_royaltie_fixo_franquiado rofi
 ON usem.id_empresa = rofi.id_empresa
 WHERE usem.status in ('Ativo', 'Renovação') and usem.id_empresa!=1 ORDER BY fantasia LIMIT " . $this->getInicio() . "," . $this->maximo . " ";
         return $this->fetch();
@@ -134,7 +134,7 @@ WHERE usem.status in ('Ativo', 'Renovação') and usem.id_empresa!=1 ORDER BY fant
         $this->sql = "SELECT
 usem.id_empresa
 FROM vsites_user_empresa usem
-INNER JOIN vsite_royaltie_fixo_franquiado rofi
+INNER JOIN vsites_royaltie_fixo_franquiado rofi
 ON usem.id_empresa = rofi.id_empresa
 WHERE usem.status in ('Ativo', 'Renovação') and usem.id_empresa!=1 ORDER BY fantasia LIMIT " . $this->getInicio() . "," . $this->maximo . " ";
         return $this->fetch();

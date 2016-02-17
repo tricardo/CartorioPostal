@@ -1121,7 +1121,7 @@ FROM
 vsites_user_empresa usem
 LEFT JOIN vsites_banco banc
 ON usem.id_banco = banc.id_banco
-LEFT JOIN vsite_royaltie_fixo_franquiado rofr
+LEFT JOIN vsites_royaltie_fixo_franquiado rofr
 on usem.id_empresa = rofr.id_empresa" . $where . " ORDER BY fantasia, validade_contrato";
 
         //$this->values = array();
@@ -1167,7 +1167,7 @@ estado,
 validade_contrato,
 rofr.valor_royalties,
 rofr.data,
-(SELECT observacao FROM vsite_royaltie_fixo_franquiado WHERE id_empresa = usem.id_empresa) as observacao
+(SELECT observacao FROM vsites_royaltie_fixo_franquiado WHERE id_empresa = usem.id_empresa) as observacao
 FROM
 vsites_user_empresa usem
 INNER JOIN vsites_rel_royalties rofr
