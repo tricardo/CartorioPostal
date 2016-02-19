@@ -44,7 +44,7 @@ require('header.php');
     <?
     }
     $permissao = verifica_permissao('Financeiro_rel_royalties', $controle_id_departamento_p, $controle_id_departamento_s);
-    if ($permissao == 'TRUE') {
+    if ($permissao == 'TRUE' && $controle_id_empresa == 1) {
         ?>
 
         <tr>

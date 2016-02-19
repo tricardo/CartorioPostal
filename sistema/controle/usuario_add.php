@@ -6,7 +6,9 @@ Colaboradores</h1>
 
 <?
 $permissao = verifica_permissao('Direcao',$controle_id_departamento_p,$controle_id_departamento_s);
-if($permissao == 'FALSE' || $controle_id_empresa!=1){
+$permissao_expansao = verifica_permissao('Franchising_Expansão', $controle_id_departamento_p, $controle_id_departamento_s);
+
+if(($permissao == 'FALSE' || $controle_id_empresa!=1) and  $permissao_expansao == 'FALSE'){
 	echo '<br><br><strong>Você não tem permissão para acessar essa página</strong>';
 	exit;
 }

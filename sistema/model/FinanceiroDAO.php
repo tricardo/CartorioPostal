@@ -228,6 +228,16 @@ class FinanceiroDAO extends Database
         $this->values = array($f->fpp_rec, $f->roy_rec, $id_rel_royalties);
         $this->update();
 
+        $this->sql = "SELECT rr.roy_rec as roy_rec, cf.valor as valor FROM vsites_conta_fatura cf inner join vsites_rel_royalties rr on cf.id_rel_royalties = rr.id_rel_royalties  WHERE rr.id_rel_royalties = ?";
+        $this->values = array($id_rel_royalties);
+        $retorno = $this->fetch();
+
+        if ($retorno[0]->roy_rec >= $retorno[0]->valor) {
+            $this->sql = "update vsites_conta_fatura set valor_pago = ?, status = 1 where id_rel_royalties= ?";
+            $this->values = array($retorno[0]->valor, $id_rel_royalties);
+            $this->update();
+        }
+
         return 1;
     }
 

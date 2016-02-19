@@ -202,7 +202,7 @@ Equipe de Cobrança.<br>
                 if ($retorno > 0) {
                     //$AddAddress = $item->email;
                     $AddAddress = "thauan.ricardo@ssiconsultoria.com.br";
-                    $mailer->SEND('financeiro@cartoriopostal.com.br', $AddAddress, $AdsdCC, $AddBCC, '', 'Royalties e FPP Cartório Postal', $html);
+                    $mailer->SEND('cobrança@cartoriopostal.com.br', $AddAddress, $AdsdCC, $AddBCC, '', 'Royalties '.date("m.Y"), $html);
                 }
             }
 

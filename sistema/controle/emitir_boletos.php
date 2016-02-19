@@ -150,7 +150,6 @@ if ($busca_mes == '') $busca_mes = date('m');
 		<td align="center" width="130" class="result_menu"><b>Referência</b></td>
 		<td align="center" width="130" class="result_menu"><b>Royalties á Receber</b></td>
 		</tr>';
-
             if ($busca_submit <> '') {
                 $p_ref = explode(',', $_COOKIE["fr_id_rel_royalties"]);
                 foreach ($buscapedido as $p) {

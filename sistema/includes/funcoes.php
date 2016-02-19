@@ -432,6 +432,10 @@ function verifica_permissao($area, $id_departamento_p, $id_departamento_s) {//re
             if ($controle_depto_s['14'] == 1 or $controle_depto_s['16'] == 1)
                 return 'TRUE';
             break;
+        case 'Franchising_Expansão':
+            if ($controle_depto_s['26'] == 1)
+                return 'TRUE';
+            break;
         case 'FAQ':
             if ($controle_depto_s['6'] == 1)
                 return 'TRUE';

@@ -361,7 +361,16 @@ WHERE cf.id_conta_fatura=? and cf.id_empresa=? and cf.id_conta=c.id_conta";
     {
         $this->sql = "delete from vsites_conta_fatura where id_conta_fatura=? and id_empresa=? and status='0'";
         $this->values = array($id_conta_fatura, $id_empresa);
-        return $this->delete();
+        $this->delete();
+
+        $this->sql = "DELETE FROM vsites_conta_fatura_bco_brasil WHERE id_conta_fatura = ?";
+        $this->values = array($id_conta_fatura);
+        $this->delete();
+
+        $this->sql = "DELETE FROM vsites_rel_royalties WHERE id_rel_royalties = (SELECT id_rel_royalties FROM vsites_conta_fatura WHERE id_conta_fatura = ? and status='0')";
+        $this->values = array($id_conta_fatura);
+       return $this->delete();
+
     }
 
     public function inserirBoletoBradOco6($p, $id_conta_fatura, $id_empresa, $id_usuario)
