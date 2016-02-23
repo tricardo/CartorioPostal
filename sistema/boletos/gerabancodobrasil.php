@@ -50,6 +50,7 @@ if ($submit) {
     #data atual e ultima data de envio
     $bb->ultima = str_replace('-', '', $bb->ultima);
     $data = date("dmy");
+    $hora = date("Hms");
 
     #calcula o numero da remessa para definir o nome do arquivo
     if ($bb->ultima == $data) $bb->remessa++; else $bb->remessa = 0;
@@ -73,7 +74,7 @@ if ($submit) {
     $bb->remessa = tamanho_string($bb->remessa, '0', 'e', '8');
 
     #escreve o header do arquivo de remessa
-    $nomeArquivo = "CB" . $diames . $bb->remessa_ . ".REM";
+    $nomeArquivo = "CBR" . $hora  . $diames . $ano . ".REM";
     $arquivoDiretorio = "../boletos/remessabancodobrasil/" . date('Y') . '/' . $nomeArquivo;
     $file_path = "../boletos/remessabancodobrasil/" . date("Y") . "/";
 
