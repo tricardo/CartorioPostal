@@ -200,8 +200,7 @@ Equipe de Cobrança.<br>
                 }
 
                 if ($retorno > 0) {
-                    //$AddAddress = $item->email;
-                    $AddAddress = "thauan.ricardo@ssiconsultoria.com.br";
+                    $AddAddress = $item->email;
                     $mailer->SEND('cobrança@cartoriopostal.com.br', $AddAddress, $AdsdCC, $AddBCC, '', 'Royalties '.date("m.Y"), $html);
                 }
             }
