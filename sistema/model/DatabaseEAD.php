@@ -3,8 +3,8 @@ require_once('PDOSingletonEAD.php');
 
 /**
  * classe de acesso ao banco de dados
- * nenhma requisi��o ao BD deve ser executada fora dessa classe
- * controla a conex�o com o banco, atrav�s da classe PDOSingleton, criando apenas uma conex�o
+ * nenhma requisição ao BD deve ser executada fora dessa classe
+ * controla a conexão com o banco, através da classe PDOSingleton, criando apenas uma conexão
  *
  * @author Caio M Nardi
  * @since 01/03/2008
@@ -19,11 +19,11 @@ class DatabaseEAD {
 	private $sth;
 	private $dbType="mysql";
 
-	private $host="187.108.193.245";#IP SOFTFOX
+	private $host="baratheon0001.hospedagemdesites.ws";#IP SOFTFOX
 	#private $host="localhost";#IP SOFTFOX
-	private $db2="cartonet_ead";
-	private $user="cartonet_user";
-	private $password="OwHT1iGUT&uT";
+	private $db2="ssiconsul2013_cartoriopostal";
+	private $user="ssico_cartoriopo";
+	private $password="12345";
 	
 	protected $maximo;
 	protected $total;
@@ -102,8 +102,8 @@ class DatabaseEAD {
 	/**
 	 *  Execute a prepared statement
 	 *executa o sql
-	 * os valores s�o substituidos pelos valores passados no array $values
-	 * retorna um array da classe passada em $class ou stdClass se n�o for passado nada.
+	 * os valores sï¿½o substituidos pelos valores passados no array $values
+	 * retorna um array da classe passada em $class ou stdClass se nï¿½o for passado nada.
 	 *
 	 * @param String $class
 	 * @return $class[]
@@ -132,17 +132,17 @@ class DatabaseEAD {
 
 	public function beginTrans() {
 		if(!$this->con->beginTransaction())
-		throw new Exception("Problema ao iniciar a transa��o");
+		throw new Exception("Problema ao iniciar a transação");
 	}
 
 	public function rollBack() {
 		if(!$this->con->rollBack())
-		throw new Exception("Problema ao retornar a transa��o");
+		throw new Exception("Problema ao retornar a transação");
 	}
 
 	public function commit() {
 		if(!$this->con->commit())
-		throw new Exception("Problema ao comitar a transa��o");
+		throw new Exception("Problema ao comitar a transação");
 	}
 
 	public function getLastInsertId() {
@@ -165,7 +165,7 @@ class DatabaseEAD {
 	}
 	
 	/**
-	 * fun��o para exibir a pagina��o
+	 * função para exibir a paginação
 	 */
 	public function QTDPagina(){
 		echo 'Foram encontrados '.$this->total .' registros<br>';
@@ -193,7 +193,7 @@ class DatabaseEAD {
 				if($pgs==$i) break;
 			}
 			if($mais <= $pgs) {
-				echo "   <a href=\"?pagina=$mais&".$this->link."\" class='link1'>pr�xima</a>";
+				echo "   <a href=\"?pagina=$mais&".$this->link."\" class='link1'>próxima</a>";
 			}
 
 		}
