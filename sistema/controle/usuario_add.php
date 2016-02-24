@@ -1,7 +1,7 @@
 <? require('header.php'); ?>
 <div id="topo">
 <h1 class="tit"><img src="../images/tit_pessoa.png" alt="Título" />
-Colaboradores</h1>
+Usuários</h1>
 <hr class="tit" />
 
 <?
