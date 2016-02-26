@@ -142,7 +142,7 @@ if ($submit) {
         $b->cpf = tamanho_string(str_replace('-', '', str_replace('/', '', str_replace('.', '', $b->cpf))), '0', 'e', '15');
         $b->sacado = tamanho_string($b->sacado, ' ', 'd', '40');
         $b->endereco = tamanho_string($b->endereco, ' ', 'd', '40');
-        $b->bairro = tamanho_string($b->bairro, ' ', 'e', '15');
+        $b->bairro = tamanho_string($b->bairro, ' ', 'd', '15');
         $b->cidade = tamanho_string($b->cidade, ' ', 'd', '15');
         $b->estado = tamanho_string($b->estado, ' ', 'd', '2');
         $b->cep = tamanho_string(str_replace('-', '', $b->cep), '0', 'e', '8');
@@ -181,7 +181,7 @@ if ($submit) {
 
         $numeroSequencia = tamanho_string($cont, '0', 'e', '5');
 
-        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . $b->bairro . $b->cep . $b->cidade . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
+        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . "               " . $b->cep . $b->cidade . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
         $linha++;
 
 
