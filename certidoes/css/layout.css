@@ -1,0 +1,9 @@
+@charset "iso-8859-1";
+
+/*****************************
+Definição dos popup.
+*****************************/
+.titulo_popup { width: auto; height: auto; margin: -34px 0 0 15px; padding: 0; position: absolute; }
+    .titulo_popup a { font: bold 15px Arial; color: #FFFFFF; text-decoration: none }
+    .titulo_popup a:hover { font: bold 15px Arial; color: #FFFFFF; text-decoration: none }
+#apDiv_popup{ border: 2px solid #999999; background: #FFFFFF; color: #FFFFFF; width: auto; height: auto; left: 50%; top: 50%; margin: -173px 0 0 -250px; padding: 10px; text-align:justify;  position: absolute; z-index: 1000; display: none; }

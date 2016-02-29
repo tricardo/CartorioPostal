@@ -1,0 +1,53 @@
+@charset "iso-8859-1";
+
+/*****************************
+Definição do Body das páginas.
+*****************************/
+/*body{ background: url(../images/pages/fundo.png) repeat fixed; margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }*/
+body{ background: #FFFFFF; margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }
+.layout #header-parceria { border: 0px solid; background: #FFFFFF; width: 100%; height: 122px; margin: 0 auto 0; padding: 0; }
+	.layout #area-do-header-parceria { border: 0px solid; width: 1000px; height: 107px; margin: 0 auto; padding: 0; }
+	.layout #logo-parceria { width: 286px; height: 107px; margin: 0; padding: 0; float: left; }
+	.layout #visitantes-parceria { border:0px solid; width: 320px; height: auto; margin: 20px 0 0 390px; padding: 0; float: left; font: 12px Arial; color: #202A72; }
+	.layout #documentos-parceria { border: 0px solid; width: 358px; height: auto; margin: 10px 0 0 300px; padding: 0; position: absolute; font: 20px Arial; text-align: center; color: #202A72; }
+
+.layout #container-parceria { background: #FFFFFF; width: 1000px; margin: 0 auto 0; padding: 20px; color: #666666; overflow: hidden; }
+	.layout #texto-parceria  { border: 0px solid; width: 690px; height: 100%; margin: 0; padding: 0; float: left; overflow: hidden; font: 15px/150% Arial; color: #666666; text-align: justify; }
+		.layout #texto-parceria  a { font: bold 15px Arial; color: #202A72; text-decoration: none; }
+		.layout #texto-parceria  a:hover { font: bold 15px Arial; color: #000000; text-decoration: none; }
+
+.layout #footer-parceria { border: 1px solid; background: url(../images/footer/fundo-footer.png) repeat-x; width: 100%; height: 300px; margin: 0; padding: 0; }
+	.layout #link_footer-parceria { width: 1000px; height: 300px; margin: 0 auto 0; padding: 0; font-size: 12px; }
+
+/*****************************
+Definição geral.
+*****************************/
+.linha-h { background: url(../images/header/linha-h.png) repeat-x; width: 100%; height: 5px; margin: 15px 0 0 0; padding: 0; float: left; }
+.faixa-h-parceria { border: 0px solid; background: url(../images/pages/faixa-h.png) repeat-x; width: 100%; height: 12px; margin: 0 0 10px 0; padding: 0; }
+.layout .box-01-parceria { border: 0px solid; background: #FFFFFF; width: 100%; height: auto; margin: 0 auto 0; padding: 0; overflow: hidden; }
+	.layout .nav-parceria { border: 0px solid; width: auto; height: auto; margin: 0 auto; padding: 0; overflow: hidden; }
+		.layout .nav-01-parceria { border: 0px solid; background: #FFFFFF; width: 315px; height: 285px; margin: 0; padding: 0; float: left; overflow: hidden; }
+		.layout .nav-02-parceria { border: 0px solid; background: #FFFFFF; width: 315px; height: 285px; margin: 0 0 20px 28px; padding: 0; float: left; overflow: hidden; }
+		.layout .nav-03-parceria { border: 0px solid; background: #FFFFFF; width: 600px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+		.layout .nav-04-parceria { border: 0px solid; background: #FFFFFF; width: 380px; height: auto; margin: 0; padding: 0; float: right; overflow: hidden; }
+		.layout .nav-05-parceria { border: 0px solid; background: #FFFFFF; width: 315px; height: 285px; margin: 0; padding: 0; float: right; overflow: hidden; }
+		.layout .nav-06-parceria { border: 0px solid; background: #FFFFFF; width: 250px; height: auto; margin: 0; padding: 10px 0; float: right; overflow: hidden; }
+		.layout .nav-07-parceria { border: 0px solid; background: #FFFFFF; width: 690px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+		.layout .nav-08-parceria { border: 0px solid; background: #FFFFFF; width: 300px; height: auto; margin: 0; padding: 0; float: right; overflow: hidden; }
+
+/*****************************
+Definição de marcadores
+*****************************/
+.marcador-servicos { margin: 0 0 0 20px; padding: 0; list-style-image: url(../images/pages/marcador-servicos.png); font: 15px/185% Arial; color: #666666; }
+.list-ordenada-a { margin: 10px 0 10px 16px; padding: 0; list-style-type: square; }
+
+/*****************************
+Definição padronizadas.
+*****************************/
+#spcontando1, #spcontando2, #spcontando3, #spcontando4, #spcontando5, #sprestante1, #sprestante2, #sprestante3, #sprestante4, #sprestante5 { color: #202A72; }
+h1, h2, h3, h4, h5, h6, img { margin: 0; padding: 0; border: 0; display: inline; }
+h1, h2, h3, h4, h5, h6 { font: 15px Arial; font-weight: normal; }
+ul { margin: 0; padding: 0; }
+p { font-size: 15px; line-height: 20px; }
+th { margin: 0; padding: 20px 0; font: bold 15px Arial; color: #333333; text-align: left;}
+.clearfloat { height: 0; font-size: 1px; line-height: 0; clear: both; }

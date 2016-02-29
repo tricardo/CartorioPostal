@@ -1,0 +1,15 @@
+@charset "iso-8859-1";
+/*****************************
+Definição do Body da página.
+*****************************/
+
+
+/*****************************
+Definição geral.
+*****************************/
+h1, h2, h3, p, img { margin: 0; padding: 0; border: 0; }
+h1, h2 { font-size: 12px; }
+p { padding: 0 5px 0 5px; text-align: justify; }
+ul { margin: 0 15px 0; padding:0;}
+
+.clearfloat { height: 0; font-size: 1px; line-height: 0px; clear: both; }

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /administrador
+Disallow: /css
+Allow: /images
+Allow: /images/pages
+Disallow: /inc
+Disallow: /js
+Disallow: /language
+Disallow: /upload
+Disallow: http://www.cartoriopostal.com.br/certidoes/nova-vitrine/
+sitemap: http://www.cartoriopostal.com.br/certidoes/sitemap.xml

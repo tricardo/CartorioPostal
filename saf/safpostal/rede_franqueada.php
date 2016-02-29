@@ -62,7 +62,7 @@ $onde ="";
 
 if($buscar_cidade<>''){$onde .= " and (fr.cidade like '".$buscar_cidade."%' or ue.bairro like '".$buscar_cidade."%' or fr.apelido like '".$buscar_cidade."%')";}
 if($buscar_estado<>''){$onde .= " and fr.estado= '".$buscar_estado."'";}
-$condicao = "FROM vsites_user_empresa as ue LEFT JOIN vsites_banco as b ON b.id_banco=ue.id_banco, vsites_franquia_regiao as fr WHERE fr.id_empresa=ue.id_empresa and ue.status='Ativo' ".$onde." group by fr.cidade, fr.estado, fr.id_empresa, ue.bairro ORDER BY fr.cidade, fr.estado ASC";
+$condicao = "FROM vsites_user_empresa as ue LEFT JOIN vsites_banco as b ON b.id_banco=ue.id_banco, vsites_franquia_regiao as fr WHERE fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação')  ".$onde." group by fr.cidade, fr.estado, fr.id_empresa, ue.bairro ORDER BY fr.cidade, fr.estado ASC";
 
 $campo = "ue. skype, fr.apelido, b.id_banco, b.banco, ue.id_banco, ue.agencia, ue.conta, ue.favorecido, ue.cpf, ue.nome, fr.cidade as cidade_f, fr.estado as estado_f, ue.fantasia, ue.empresa, ue.fantasia, ue.endereco, ue.numero, ue.complemento, ue.cidade, ue.estado, ue.bairro, ue.cep, ue.status, ue.id_empresa, date_format(ue.data, '%d/%m/%y') as data, ue.tel, ue.email";
 

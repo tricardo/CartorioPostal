@@ -1,0 +1,44 @@
+@charset "iso-8859-1";
+/******************************
+Definição do Vídeo.
+******************************/
+body {margin: 0;}
+
+#lbOverlay{ position:absolute; left:0; width:100%; background-color:#000000; cursor:pointer; }
+#lbCenter, #lbBottomContainer{ position:absolute; left:50%; overflow:hidden; background-color:#FFFFFF; text-align:center; padding:5px; }
+.lbLoading{ background:#FFFFFF url(loading.gif) no-repeat center; }
+#lbImage{ border:10px solid #FFFFFF; }
+#lbPrevLink, #lbNextLink{ display:block; position:absolute; top:0; width:50%; outline:none; }
+#lbPrevLink{ left:0; }
+#lbPrevLink:hover{ background:transparent url(prevlabel.gif) no-repeat 0% 15%; }
+#lbNextLink{ right:0; }
+#lbNextLink:hover{ background:transparent url(nextlabel.gif) no-repeat 100% 15%; }
+#lbBottom{ font:10px/1.4em Verdana, Helvetica, sans-serif; text-align:left; border:5px solid #FFFFFF; border-top-style:none; }
+#lbCloseLink{ display:block; float:right; width:66px; height:22px; background:transparent url(closelabel.gif) no-repeat center; margin:5px 0; }
+#lbCaption, #lbNumber{ margin-right:71px; }
+#lbCaption{ font-weight:bold; }
+
+/******************************
+Definição da Imagem.
+******************************/
+#lightbox{ position:absolute; left:0; width:100%; z-index:100; text-align:center; line-height:0; }
+#lightbox img{ width:auto; height:auto; }
+#lightbox a img{ border:none; }
+#outerImageContainer{ position:relative; background-color:#FFFFFF; width:250px; height:250px; margin:0 auto; }
+#imageContainer{ padding:10px;}
+#loading{ position:absolute; top:40%; left:0%; height:25%; width:100%; text-align:center; line-height:0;}
+#hoverNav{ position:absolute; top:0; left:0; height:100%; width:100%; z-index:10;}
+#imageContainer>#hoverNav{ left:0; }
+#hoverNav a{ outline:none; }
+#prevLink, #nextLink{ width:49%; height:100%; background-image:url(data:image/gif;base64,AAAA); display:block; }
+#prevLink { left:0; float:left; }
+#nextLink { right:0; float:right; }
+#prevLink:hover, #prevLink:visited:hover { background:url(../images/prevlabel.png) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background:url(../images/nextlabel.png) right 15% no-repeat; }
+#imageDataContainer{ font:10px/1.4em Verdana, Helvetica, sans-serif; background-color:#FFFFFF; margin:0 auto; overflow:auto; width:100%; }
+#imageData{ padding:0 10px; color:#666666; }
+#imageData #imageDetails{ width:70%; float:left; text-align:left; }
+#imageData #caption{ font-weight:bold; }
+#imageData #numberDisplay{ display:block; clear:left; padding-bottom:1.0em; }
+#imageData #bottomNavClose{ width:66px; float:right;  padding-bottom:0.7em; outline:none; }
+#overlay{ position:absolute; top:0; left:0; z-index:90; width:100%; height:500px; background-color:#000000; }

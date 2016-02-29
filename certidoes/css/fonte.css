@@ -1,0 +1,9 @@
+@charset "iso-8859-1";
+/*****************************
+Definição da fonte das páginas.
+*****************************/
+
+@font-face { 
+	font-family:"Calibri";
+	src: url('calibri.ttf');
+}
