@@ -29,7 +29,7 @@ class EmpresaDAO extends Database {
 
     public function listarTodas($ids=null) {
         $this->sql = "SELECT id_empresa, TRIM(REPLACE(fantasia,'Cartório Postal - ','')) as fantasia , imposto, royalties, empresa, cpf, tipo, cep, endereco, complemento, numero, inicio, sem1, sem2, sem3, roy_min, roy_min2, inauguracao_data,validade_contrato,email
-						FROM vsites_user_empresa as ue WHERE status = 'Ativo' ";
+						FROM vsites_user_empresa as ue WHERE status in ('Ativo', 'Renovação') ";
         $this->values = array();
         if ($ids != null) {
             $this->sql .= ' AND ( ';
