@@ -44,7 +44,7 @@ if (($permissao == 'FALSE' or $controle_id_empresa != 1) and ($permissao_fin_cob
 
                                         pt_register('post','submit_import');
                                         if($submit_import<>''){
-                                            require('../boletos/retornobrad.php');
+                                            require('../boletos/retornobb.php');
                                         }
 
                                         $sql = $objQuery->SQLQuery("SELECT COUNT(0) as total from vsites_conta_fatura as cf where  status=0 and id_empresa='".$controle_id_empresa."'");
