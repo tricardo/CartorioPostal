@@ -1,0 +1,66 @@
+@charset "iso-8859-1";
+
+/*****************************
+Definições dos links.
+*****************************/
+.tweet a { width: auto; margin: 0; padding: 8px; display: block; font-size: 12px; color: #666666; text-align: left; text-decoration: none; }
+.tweet a b { background-color: #FFFFFF; display: block; text-decoration: none; }
+.tweet a:hover { background-color: #FFF0BB; display: block; color: #000000; }
+
+.blogger a{ width: auto; height: 100%; color: #333333; font-size: 12px; font-weight: bold; text-decoration: none; }
+.blogger a b{ text-decoration: none; }
+.blogger a:hover{ color: #202A71; }
+
+.link_blog { font: bold 20px Arial, Calibri, Helvetica, sans-serif; color: #D2567E; text-decoration: none; }
+.link_blog:hover { color: #000033; }
+
+.link_normal { font: 15px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_normal:hover { color: #202A71; }
+
+.link_titulo_destaque { font: bold 20px Arial, Calibri, Helvetica, sans-serif; color: #FFFFF0; text-decoration: none; }
+.link_titulo_destaque:hover { color: #FFFFCC; }
+
+.link_destaque { font: 15px Arial, Calibri, Helvetica, sans-serif; color: #CCCCCD; text-decoration: none; }
+.link_destaque:hover { color: #FFFFCC; }
+
+.link_titulo_ultima_noticia { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #202A72; text-decoration: none; }
+.link_titulo_ultima_noticia:hover { color: #000000; }
+
+.link_texto_ultima_noticia { font: 12px Arial, Calibri, Helvetica, sans-serif; color: #666666; text-decoration: none; }
+.link_texto_ultima_noticia:hover { color: #000000; }
+
+.link_noticia { font: bold 18px Arial, Calibri, Helvetica, sans-serif; color: #FFFFF0; text-decoration: none; }
+.link_noticia:hover { color: #CCCCCD; }
+
+.link_footer { font: bold 12px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_footer:hover { color: #202A71; }
+
+.link_contato { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_contato:hover { color: #202A71; }
+
+.link_powered { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_powered:hover { color: #202A71; }
+
+.link_erro { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #000000; text-decoration: none; }
+.link_erro:hover { color: #0066CC; }
+
+.list { background-color: #FFFFFF; margin: 0; padding: 10px; display: block; font: bold 12px Arial; color: #202A72; text-decoration: none; }
+.list:hover { background-color: #EFB700; font: bold 12px Arial; color: #FFFFFF; text-decoration: none; }
+
+.link_list { font: bold 12px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_list:hover { color: #202A71; }
+
+.link_voltar { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #EFB700; text-decoration: none; }
+.link_voltar:hover { color: #202A71; }
+
+.link_principais_servicos { font: 15px/185% Arial, Calibri, Helvetica, sans-serif; color: #666666; text-decoration: none; }
+.link_principais_servicos:hover { color: #202A71; }
+
+.link_atendimento_personalizado { font: 15px/150% Arial, Calibri, Helvetica, sans-serif; color: #666666; text-decoration: none; }
+.link_atendimento_personalizado:hover { color: #202A71; }
+
+.link_galeria { font: bold 12px Arial, Calibri, Helvetica, sans-serif; color: #333333; text-decoration: none; }
+.link_galeria:hover { color: #202A71; }
+
+.link_img { text-decoration: none; }
+.link_img:hover { text-decoration: none; }

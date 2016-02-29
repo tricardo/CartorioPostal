@@ -1,0 +1,93 @@
+@charset "iso-8859-1";
+
+
+
+/*****************************
+Definição do Body das páginas.
+*****************************/
+/*body{ background: url(../images/pages/fundo.png) repeat fixed; margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }*/
+body{ margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }
+	.layout #area-header { border: 0px solid; width: 100%; height: 110px; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; }
+		.layout #header { border: 0px solid; width: 990px; height: auto; margin: 0 auto; padding: 0; overflow: hidden; z-index: 1; }
+			.layout #logo{ border: 0px solid; width: 286px; height: 107px; margin: 0; padding: 0; float: left; overflow: hidden; }
+			.layout #menu{ border: 0px solid; background: url(../images/header/area-fundo-menu-s.png) repeat-x; width: 700px; height: 82px; margin: 20px auto 0; padding: 0; overflow: hidden; z-index: 1; }
+			.layout #area-menu-bar-s { background: url(../images/header/fundo-menu-s.png) repeat-x; width: 990px; height: 82px; margin: 0 auto; padding: 0; }
+	.layout #area-container { border: 0px solid; background: #F0F0F0; width: 100%; height: auto; margin: 20px auto; padding: 0; float: left; overflow: hidden; }
+		.layout #container { border: 0px solid; width: 100%; height: auto; margin: 20px auto; padding: 0; color: #666666; overflow: hidden; }
+			.layout #destaque-franquia { border: 0px solid; width: 990px; height: 320px; margin: 0 auto; padding: 0; overflow: hidden; }
+				.layout #imagem-destaque-franquia { border: 0px solid; width: 990px; height: 320px; margin: 0; padding: 0; overflow: hidden; }
+				.layout #nav { border: 0px solid; width: 990px; height: auto; margin: 0 auto; padding: 0; overflow: hidden; }
+				.layout #destaque-imagens-paginas { border: 0px solid; width: 990px; height: 200px; margin: 0 auto; padding: 0; overflow: hidden; }
+	.layout #area-footer { border: 0px solid; width: 100%; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+
+/*****************************
+Definição do Form.
+*****************************/
+form { margin: 0; padding: 0; }
+label { margin: 0; padding: 0; font: 12px Arial; color: #091453; }
+input[type = "text"], [type = "password"], textarea { background: #F7F7F7; border: 1px solid #EFB700; width: 100%; height: 20px; font: 13px Arial; color: #202A72; }
+select { background: #F7F7F7; border: 1px solid #EFB700; width: 100%; height: 23px; font: 13px Arial; color: #202A72; }
+textarea { background: #F7F7F7; border: 1px solid #EFB700; width: 100%; height: 80px; resize: none; }
+
+.bt_comentario{ border: 0; background: url(../images/pages/botao-comentario.png) top right no-repeat; width: 150px; height: 28px; cursor: pointer; }
+.bt_entrar { border: 0; background: url(../images/pages/entrar.png) center center no-repeat; width: 70px; height: 20px; cursor: pointer; }
+.bt_enviar { border: 0; background: url(../images/pages/enviar.png) center center no-repeat; width: 70px; height: 20px; cursor: pointer; }
+.bt_buscar { border: 0; background: url(../images/pages/buscar.png) center center no-repeat; width: 70px; height: 20px; cursor: pointer; }
+.bt_solicitar { border: 0; background: url(../images/pages/solicitar.png) center center no-repeat; width: 70px; height: 20px; cursor: pointer; }
+.bt_pesquisar { border: 0; background: url(../images/pages/pesquisar.png) center center no-repeat; width: 70px; height: 20px; cursor: pointer; }
+
+/*****************************
+Definição geral.
+*****************************/
+.faixa-h { border: 0px solid; background: url(../images/pages/faixa-h.png) repeat-x; width: 100%; height: 12px; margin: 0; padding: 0; }
+.faixa { border: 0px solid; background: #202A72; width: 100%; height: 5px; margin: 0; padding: 0; }
+.linha-dash { background: url(../images/footer/linha-dash.png) repeat-x; width: 281px; height: 1px; margin: 0; padding: 0; float: left; }
+.franquia-cidade li{ border: 0px solid; width: 300px; margin: 10px 0 0 15px; padding: 0; font: 15px/150% Arial; color: #666666; text-align: justify; text-transform: uppercase; float: left; }
+.franquia-galeria li{ border: 0px solid; width: auto; height: 100px; margin: 5px; padding: 0; list-style: none; float: left; overflow: hidden; }
+.layout .box-01 { border: 0px solid; background: #FFFFFF; width: 100%; height: auto; margin: 20px auto 0; padding: 0; overflow: hidden; }
+.layout .box-02 { border: 0px solid; background: #EFB700; width: 100%; height: auto; margin: 20px auto 0; padding: 0; overflow: hidden; }
+.layout .box-03 { border: 0px solid; background: #F0F0F0; width: 100%; height: auto; margin: 20px auto 0; padding: 0; overflow: hidden; }
+	.layout .nav { border: 0px solid; width: 947px; height: auto; margin: 0 auto; padding: 0; overflow: hidden; }
+	.layout .nav-01 { border: 0px solid; width: 947px; height: auto; margin: 0 auto; padding: 20px; overflow: hidden; }
+	.layout .nav-02 { border: 0px solid; background: #FFFFFF; width: 947px; height: auto; margin: 0; padding: 10px 0; float: left; overflow: hidden; }
+	.layout .nav-03 { border: 0px solid; background: #FFFFFF; width: 567px; height: auto; margin: 0; padding: 10px 0; float: left; overflow: hidden; }
+	.layout .nav-04 { border: 0px solid; background: #FFFFFF; width: 380px; height: auto; margin: 0; padding: 10px 0; float: right; overflow: hidden; }
+	.layout .nav-05 { border: 0px solid; background: #FFFFFF; width: 690px; height: auto; margin: 10px 0 0 0; padding: 10px 0; float: left; overflow: hidden; }
+	.layout .nav-06 { border: 0px solid; background: #FFFFFF; width: 250px; height: auto; margin: 0; padding: 10px 0; float: right; overflow: hidden; }
+	.texto-noticia { width: 690px; height: auto; margin: 0 0 20px 0; padding: 0; font: 15px/150% Arial; text-align: left; color: #666666; float: left; }
+		.layout .texto-noticia a { font: bold 15px Arial; color: #202A72; text-decoration: none }
+		.layout .texto-noticia a:hover { font: bold 15px Arial; color: #000000; text-decoration: none; }
+	.imagem-leia-mais { border: 0px solid; width: 150px; height: 70px; margin: 0 0 5px 0; padding: 0; float: left; overflow: hidden; }
+	.texto-leia-mais { border: 0px solid; width: auto; height: 60px; margin: 0 0 0 5px; padding: 0; float: left; overflow: hidden; }
+		.layout .texto-leia-mais a { font: 13px Arial; color: #666666; text-decoration: none }
+		.layout .texto-leia-mais a:hover { font: 13px Arial; color: #202A72; text-decoration: none; }
+		.imagem-leia-mais-1 { border: 0px solid; width: 240px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+		.texto-leia-mais-1 { border: 0px solid; width: 240px; height: auto; margin: 0 0 0 5px; padding: 0; float: left; overflow: hidden; }
+			.layout .texto-leia-mais-1 a { font: 13px Arial; color: #666666; text-decoration: none }
+			.layout .texto-leia-mais-1 a:hover { font: 13px Arial; color: #202A72; text-decoration: none; }
+	.link-titulo-ultima-noticia { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #202A72; text-decoration: none; }
+	.link-titulo-ultima-noticia:hover { color: #000000; }
+	.link-texto-ultima-noticia { font: 12px Arial, Calibri, Helvetica, sans-serif; color: #666666; text-decoration: none; }
+	.link-texto-ultima-noticia:hover { color: #000000; }
+	.link-noticia { font: bold 18px Arial, Calibri, Helvetica, sans-serif; color: #FFFFF0; text-decoration: none; }
+	.link-noticia:hover { color: #CCCCCD; }
+	.link-voltar { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #EFB700; text-decoration: none; }
+	.link-voltar:hover { color: #202A71; }
+	.link-normal { font: bold 15px Arial, Calibri, Helvetica, sans-serif; color: #202A71; text-decoration: none; }
+	.link-normal:hover { color: #666666; }
+
+/*****************************
+Definição de marcadores
+*****************************/
+.marcador-servicos { margin: 0 0 0 20px; padding: 0; list-style-image: url(../images/pages/marcador-servicos.png); font: 15px/185% Arial; color: #666666; }
+
+/*****************************
+Definição padronizadas.
+*****************************/
+#spcontando1, #spcontando2, #spcontando3, #spcontando4, #spcontando5, #sprestante1, #sprestante2, #sprestante3, #sprestante4, #sprestante5 { color: #202A72; }
+h1, h2, h3, h4, h5, h6, img { margin: 0; padding: 0; border: 0; display: inline; }
+h1, h2, h3, h4, h5, h6 { font: 15px Arial; font-weight: normal; }
+ul { margin: 0; padding: 0; }
+p { font-size: 15px; line-height: 20px; }
+th { margin: 0; padding: 20px 0; font: bold 15px Arial; color: #333333; text-align: left;}
+.clearfloat { height: 0; font-size: 1px; line-height: 0; clear: both; }

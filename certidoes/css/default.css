@@ -1,0 +1,137 @@
+@charset "iso-8859-1";
+
+/*****************************
+Definição do Body das páginas.
+*****************************/
+/*body{ background: url(../images/pages/fundo.png) repeat fixed; margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }*/
+body{ background: url(../images/pages/fundo.png) repeat fixed; margin: 0; padding: 0; font-family: Arial, Calibri, Helvetica, sans-serif; }
+.layout #header { background: #FFFFFF; width: 100%; height: 210px; margin: 0 auto 0; padding: 0; }
+    .layout #area_do_header { width: 1000px; height: 107px; margin: 0 auto; padding: 0; }
+    .layout #logo { width: 286px; height: 107px; margin: 0; padding: 0; float: left; }
+    .layout #visitantes { width: 320px; height: 107px; margin: 0 0 0 390px; padding: 0; float: left; font: 12px Arial; color: #202A72; }
+	.layout #documentos { border: 0px solid; width: 358px; height: auto; margin: 10px 0 0 300px; padding: 0; position: absolute; font: 20px Arial; text-align: center; color: #202A72; }
+    .layout #menu_bar_s { background: url(../images/header/area-fundo-menu-s.png) repeat-x; width: 100%; height: 82px; margin: 0; padding: 0; float: left; }
+        .layout #area_menu_bar_s { background: url(../images/header/fundo-menu-s.png) repeat-x; width: 1000px; height: 82px; margin: 0 auto; padding: 0; }
+.layout #container { background: #FFFFFF; width: 1000px; margin: 0 auto 0; padding: 20px; overflow: hidden; }
+    .layout #fundo_destaque { background: #EFB700; width: 830px; height: 330px; margin: 0; padding: 0; float: left; overflow: hidden; }
+        .layout #destaque_noticia { width: 830px; height: 330px; margin: 0; padding: 0; float: left; overflow: hidden; }
+            .layout #destaque_noticia ul { margin: 0; padding: 0; list-style: none; display: inline; }
+            .layout .imagem_destaque { width: 520px; height: 320px; margin: 5px 0 5px 5px; padding: 0; float: left; overflow: hidden; }
+            .layout .texto_destaque { background: #333333; width: 280px; height: 300px; margin: 5px 5px 5px 0 ; padding: 10px;  float: left; overflow: hidden; }
+            .layout #n_destaque { background: #666666; margin: 282px 0 0 535px; padding: 0; position: absolute; z-index: 1000; }
+                .layout #pager a { background: #666666; width: 15px; height: 15px; margin: 5px; padding: 5px; font-size: 15px; text-align: center; text-decoration: none; color: #FFFFFF; display: inline-block; }
+                .layout #pager a:hover { background: #CCCCCC; width: 15px; height: 15px; margin: 5px; padding: 5px; font-size: 15px; text-align: center; text-decoration: none; font-weight: bold; color: #202A72; display: inline-block; }
+                .layout #pager .activeSlide { background: #FFFFFF; color: #202A72; font-weight: bold; }
+    .layout #nav_a {  width: 830px; height: 233px; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; }
+        .layout .texto_nav_a { margin: 0; padding: 0; float: left; overflow: hidden; font: 15px/122% Arial; color: #666666; text-align: justify; }
+    .layout #nav_b { width: 690px; height: 178px; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; }
+        .layout .texto_nav_b { margin: 0; padding: 0; float: left; overflow: hidden; font: 15px/122% Arial; color: #666666; text-align: justify; }
+    .layout #nav_c { width: 830px; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; }
+    .layout #nav_f { width: 830px;  margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; }
+        .layout #texto_franquia { width: 522px; margin: 5px 0 10px 0; padding: 0; float: left; overflow: hidden; font: 15px/122% Arial; color: #666666; text-align: justify; }
+        .layout #fachada_franquia { width: 300px; height: 210px; margin: 5px 0 0 0; padding: 0; float: right; overflow: hidden; }
+    .layout #servicos{ width: 290px; height: auto; margin: 5px 0 0 0; padding: 0; float: left; overflow: hidden; }
+        .layout #servicos td{ background-color: #FFF0BB; border-bottom: 2px solid #EFB700; padding: 0; }
+            .layout #servicos td a{ background-color: #FFF0BB; margin: 0; padding: 10px; display: block; font: bold 12px Arial; color: #202A72; text-decoration: none; }
+            .layout #servicos td a:hover{ background-color: #EFB700; font: bold 12px Arial; color: #FFFFFF; text-decoration: none; }
+    .layout #principais_servicos{ width: 520px; height: 185px; margin: 5px 0 0 0; padding: 0; float: left; }
+        .layout #produtos { width: 520px; height: 185px; margin: 0; padding: 0; overflow: hidden; }
+    .layout #area_plugin_facebook { width: 290px; height: auto; margin: 0 ; padding: 0; float: left; overflow: hidden; }
+        .layout #plugin_facebook { width: 290px; height: auto; margin: 5px 0 0 0 ; padding: 0; float: left; overflow: hidden; }
+    .layout #area_plugin_twitter { width: 350px; height: auto; margin: 0 0 0 20px ; padding: 0; float: left; overflow: hidden; }
+        .layout #plugin_twitter { background: #FFFFFF; border: 0px solid #AAAAAA; width: 348px; height: 286px; margin: 5px 0 0 0 ; padding: 0; float: left; overflow: hidden; }
+    .layout #area_midia_social { width: 319px; height: 324px; margin: 0; padding: 0; float: right; overflow: hidden; }
+    .layout #contant { width: 690px; height: 100%; margin: 0 0 0 20px; padding: 0; float: left; overflow: hidden; font-family: Arial; color: #666666; }
+        .layout #texto { width: 690px; height: 100%; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; font: 15px/150% Arial; color: #666666; text-align: justify; }
+            .layout #texto a { font: bold 12px Arial; color: #202A72; text-decoration: none; }
+            .layout #texto a:hover { font: bold 12px Arial; color: #000000; text-decoration: none; }
+    .layout #depoimento { width: 690px; height: auto; margin: 0 0 20px 0; padding: 0; float: left; overflow: hidden; font: 15px/120% Arial;  text-align: justify; }
+    .layout #list { width: 690px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+    .layout #carrega_franquia { width: 690px; height: auto; margin: 20px 0 0 0; padding: 0; float: left; overflow: hidden; font: 15px/150% Arial; }
+        .layout #carrega_franquia a { font: bold 15px Arial; color: #202A72; text-decoration: none }
+        .layout #carrega_franquia a:hover { font: bold 15px Arial; color: #000000; text-decoration: none; }
+        .layout .dados_franquia { border-bottom: 1px solid #CCCCCC; width: 400px; height: auto; margin: 0 0 5px 0; padding: 5px; float: left; overflow: hidden; }
+        .layout #fachada_franquia_unidades { border: 0px solid; width: auto; height: 198px; margin: 0; padding: 0; float: right; overflow: hidden; }
+    .layout #destaque_franquia { background: #EFB700; width: 1000px; height: 330px; margin: 0 0 20px 0; padding: 0; float: left; overflow: hidden; }
+        .layout #imagem_destaque_franquia { width: 990px; height: 320px; margin: 5px; padding: 0; overflow: hidden; }
+    .layout #coluna_e { width: 690px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+    .layout #servicos_oferecidos { width: 1000px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+.layout #footer { background: url(../images/footer/fundo-footer.png) repeat-x; width: 100%; height: 300px; margin: 0; padding: 0; }
+    .layout #link_footer { width: 1000px; height: 300px; margin: 0 auto 0; padding: 0; font-size: 12px; }
+    
+/*****************************
+Definição geral.
+*****************************/
+.faixa_h { background: url(../images/pages/faixa-h.png) repeat-x; width: 100%; height: 12px; margin: 0; padding: 0; }
+.faixa { border: 0px solid; background: #202A72; width: 100%; height: 5px; margin: 0; padding: 0; }
+.faixa_depoimento{ background: url(../images/pages/list-td.png) top left repeat-x; height: 30px; padding: 5px; }
+.linha_h { background: url(../images/header/linha-h.png) repeat-x; width: 100%; height: 5px; margin: 15px 0 0 0; padding: 0; float: left; }
+.linha_h1 { border: 1px solid #F0F0F0; width: 690px; margin: 20px 0 20px 0; padding: 0; float: left; overflow: hidden; }
+.linha_h2 { border: 1px solid #F0F0F0; width: 690px; margin: 20px 0 20px 0; padding: 0; float: left; overflow: hidden; }
+.linha_dash { background: url(../images/footer/linha-dash.png) repeat-x; width: 281px; height: 1px; margin: 0; padding: 0; float: left; }
+.linha { border: 1px dotted ; width: 100%; margin: 5px 0; padding: 0; float: left; }
+.icones_box { width: 226px; height: 226px; margin: 3px 0 0 0; padding: 0; float: left; }
+.numero_fraquias { width: 121px; height: 75px; margin: 97px 0 0 52px; padding: 0; position: absolute; font: bold 12px Arial; text-align: center; color: #FFFFFF; }
+.cols_e { width: 290px; height: auto; margin: 20px 0 0 0 ; padding: 0; float: left; overflow: hidden; }
+.cols_d { border: 0px solid; width: 150px; height: auto; margin: 0 ; padding: 0; float: right; }
+.box_a { width: 830px; height: auto; margin: 0; padding: 0; float: left; overflow: hidden; }
+.cols_d_2 { width: 150px; height: auto; margin: 0 20px 0 0; padding: 0; float: left; }
+.box_b { width: 690px; height: 100%; margin: 20px 0 0 20px; padding: 0; font-family: Arial; color: #666666; float: left; overflow: hidden; }
+.box_c { width: 690px; height: auto; margin: 20px 0 0 0; padding: 0; float: left; }
+.box_d { width: 1000px; height: 325px; margin: 20px 0 0 0; padding: 0; float: left; }
+.box_e { width: 290px; height: auto; margin: 0; padding: 0; float: left; }
+.box_f { width: 1000px; height: auto; margin: 0; padding: 0; float: left; }
+.box_g { width: 290px; height: auto; margin: 0; padding: 0; float: right; overflow: hidden; }
+.box_h { width: 690px; height: auto; margin: 0; padding: 0; float: left; }
+.box_i { width: 290px; height: auto; margin: 0; padding: 0; float: right; }
+.box_j { width: 690px; height: auto; margin: 0 0 20px 0; padding: 0; float: left; }
+.box_l{ width: 690px; height: auto; margin: 0; padding: 0; float: left; }
+.imagem_leia_mais { border: 0px solid; width: 150px; height: 60px; margin: 0 0 5px 0; padding: 0; float: left; overflow: hidden; }
+.texto_leia_mais { border: 0px solid; width: auto; height: 60px; margin: 0 0 0 5px; padding: 0; float: left; overflow: hidden; }
+    .layout .texto_leia_mais a { font: 12px Arial; color: #202A72; text-decoration: none }
+    .layout .texto_leia_mais a:hover { font: 12px Arial; color: #000000; text-decoration: none; }
+.imagem_noticia { width: 690px; height: auto; margin: 5px 0; padding: 0; float: left; overflow: hidden; }
+.texto_noticia { width: 690px; height: auto; margin: 0 0 20px 0; padding: 0; font: 15px/150% Arial; text-align: justify; color: #666666; float: left; }
+    .layout .texto_noticia a { font: bold 15px Arial; color: #202A72; text-decoration: none }
+    .layout .texto_noticia a:hover { font: bold 15px Arial; color: #000000; text-decoration: none; }
+.comentario{ background: url(../images/pages/faixa-titulo.png) repeat-x; width: 690px; height: 20px; padding: 5px; }
+.list_ordenada_a { margin: 10px 0 10px 16px; padding: 0; list-style-type: square; }
+.selo_abf_a { width: 290px; height: auto; margin: 5px 0 0 0; padding: 0; float: left; }
+.selo_abf_b { width: 372px; height: auto; margin: 5px 0 0 0; padding: 0; float: right; }
+.list_td { background: url(../images/pages/list-td.png) top left repeat-x; height: 30px; padding: 5px; }
+.imagem_depoimento { width: 196px; height: 205px; top: 565px; margin-left: 490px; padding: 0; position: absolute; }
+.area_galeria { width: 212px; height: auto; margin: 0 ; padding: 0; float: left; overflow: hidden; }
+    .list_imagem { width: 212px; height: auto; margin: 5px 0 5px 0 ; padding: 0; float: left; font: 12px/150% Arial; overflow: hidden; }
+    .galeria { width: 212px; height: 120px; margin: 0; padding: 0; float: left; overflow: hidden; }
+.franquia_cidade li{ width: 300px; margin: 10px 0 0 15px; padding: 0; font: 15px/150% Arial; text-align: justify; text-transform: uppercase; color: #666666; float: left; }
+.franquia_galeria li{ width: 226px; height: 100px; margin: 2px; padding: 0; list-style: none; float: left; overflow: hidden; }
+
+.layout .box-01 { border: 0px solid; background: #FFFFFF; width: 100%; height: auto; margin: 0 auto 0; padding: 0; overflow: hidden; }
+.layout .box-02 { border: 0px solid; background: #FFFFFF; width: 690px; height: auto; margin: 5px auto; padding: 0; overflow: hidden; }
+.layout .box-03 { border: 0px solid; background: #EFB700; width: 100%; height: auto; margin: 20px auto 0; padding: 0; overflow: hidden; }
+	.layout .nav { border: 0px solid; width: 947px; height: auto; margin: 0 auto; padding: 0; overflow: hidden; }
+		.layout .nav-01 { border: 0px solid; width: 790px; height: auto; margin: 0 auto; padding: 20px; float: left; overflow: hidden; }
+		.layout .nav-02 { border: 0px solid; background: #FFFFFF; width: 150px; height: auto; margin: 0 auto; padding: 0; overflow: hidden; }
+		.layout .nav-03 { border: 0px solid; width: 290px; height: auto; margin: 0 auto; padding: 5px; float: left; overflow: hidden; }
+		.layout .nav-04 { border: 0px solid; width: 220px; height: auto; margin: 0 auto; padding: 5px; float: left; overflow: hidden; }
+		.layout .nav-05 { border: 0px solid; width: 220px; height: auto; margin: 0 auto; padding: 5px; float: left; overflow: hidden; }
+		.layout .nav-06 { border: 0px solid; width: 220px; height: auto; margin: 0 auto; padding: 5px; float: left; overflow: hidden; }
+		.layout .nav-07 { border: 0px solid; background: #FFFFFF; width: 100%; height: auto; margin: 0; padding: 10px 0; float: left; overflow: hidden; }
+		.layout .nav-08 { border: 0px solid; background: #FFFFFF; width: 567px; height: auto; margin: 0; padding: 10px 0; float: left; overflow: hidden; }
+		.layout .nav-09 { border: 0px solid; background: #FFFFFF; width: 380px; height: auto; margin: 0; padding: 10px 0; float: right; overflow: hidden; }
+
+/*****************************
+Definição de marcadores
+*****************************/
+
+.marcador_servicos { margin: 0 0 0 20px; padding: 0; list-style-image: url(../images/pages/marcador-servicos.png); font: 15px/185% Arial; color: #666666; }
+
+/*****************************
+Definição padronizadas.
+*****************************/
+#spcontando1, #spcontando2, #spcontando3, #spcontando4, #spcontando5, #sprestante1, #sprestante2, #sprestante3, #sprestante4, #sprestante5 { color: #202A72; }
+h1, h2, h3, h4, h5, h6, p, img { margin: 0; padding: 0; border: 0; display: inline; }
+h1, h2, h3, h4, h5, h6 { font-size: 15px; font-weight: bold; }
+ul { margin: 0; padding: 0; }
+p { font: 15px/150% Arial; color: #666666; line-height: 20px; }
+.clearfloat { height: 0; font-size: 1px; line-height: 0; clear: both; }

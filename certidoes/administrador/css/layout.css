@@ -1,0 +1,23 @@
+@charset "iso-8859-1";
+/******************************
+Definições do fomulário.
+******************************/
+.header{ background:url(../images/paginas/fundo-topo.jpg) repeat-x; width:100%; height:140px; margin:auto; position:fixed; z-index:2000; }
+.info_usuario{ width:auto; height:auto; top:15px; left:270px; position:absolute; }
+.fundo_data_hora { background:url(../images/paginas/fundo-data-hora.jpg) repeat-x; width:251px; height:58px; top:82px; text-align:center; font-weight:bold; font-size:35px; color:#FFFFFF; position:absolute; }
+.relogio{ font-size:35px; }
+
+/******************************
+Definições das Mensagens.
+******************************/
+.mensagem{ width:581px; height:120px; top:10px; position:relative; display:none; }
+
+/******************************
+Definições da Estrutura.
+******************************/
+.estrutura{ width:100%; height:auto; position:relative; }
+.conteudo{ top:139px; padding:1px; position:relative; }
+.fundo_menu_add{ background:url(../images/paginas/fundo-menu-add.png) repeat-x; width:100%; height:32px; position:relative; float:left; }
+.title_page{ width:250px; height:32px; top:1px; font-size:12px; font-weight:bold; position:relative; float:left; }
+.pages{ width:100%; height:auto; top:5px; padding:0; position:relative; float:left; }
+#fade{ border:0px solid; top:32px; }

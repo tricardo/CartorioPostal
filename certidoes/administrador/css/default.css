@@ -1,0 +1,27 @@
+@charset "iso-8859-1";
+/******************************
+Definições Gerais.
+******************************/
+.body{ max-width:100%; min-width:1024px; margin:0; padding:0; font:11px Arial, Verdana, Helvetica, Sans-Serif; }
+h1, h2, h3, p, img, table{ padding:0; margin:0; font-size:11px; border:0; }
+h1, h2{ font-size:12px; font-family:Arial, Verdana, Helvetica, Sans-Serif; }
+p{ font-size:12px; font-family:Arial, Verdana, Helvetica, Sans-Serif; text-align:justify; padding:0 0 0 5px; }
+
+/******************************
+Definições Gerais dos menus.
+******************************/
+#menu_add ul li{ display:inline; width:93px; margin:0 7px 0 0; text-align:center; }
+.prev, .next{ width:27px; height:32px; margin:0; padding:0; position:relative; float:left; }
+#menu_add{ border:0px solid; margin:0; padding:0; top:9px; font-size:12px; position:relative; float:left; }
+
+/******************************
+Definições Gerais das tabelas.
+******************************/
+.table_info{ background-color:#F2F2F2; border:1px solid #CCC; padding:5px; }
+.th_info{ background:url(../images/paginas/image-fundo-td.png) left top repeat-x; height:5px; }
+.td_info{ background-color:#FFFFFF; font-size:11px; color:#333333; }
+th{ background:url(../images/paginas/image-th.png) left top; height:30px; font-size:10px; color:#333333; }
+.table_list{ border:1px solid #CCC; border-top:0; margin:0; padding:5px; }
+.td_list{ border-bottom:2px solid #CCC; }
+#image_erro{ width:245px; top:80px; left:8px; position:absolute; }
+.faixa_titulo{ background:url(../images/paginas/faixa-titulo.png) top left repeat-x;height:20px;padding:5px; }
