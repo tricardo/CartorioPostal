@@ -159,7 +159,7 @@ class EmpresaDAO extends Database {
         $verifica = $cachediaCLASS->VerificaCache($filename);
 
         if ($verifica == false) {
-            $this->sql = "SELECT id_empresa, CONCAT(fantasia,' - ',UPPER(status)) AS fantasia from vsites_user_empresa as uu where id_empresa!=1 and (status='Ativo' or status='Cancelado' or status='Inativo') order by fantasia";
+            $this->sql = "SELECT id_empresa, CONCAT(fantasia,' - ',UPPER(status)) AS fantasia from vsites_user_empresa as uu where id_empresa!=1 order by fantasia";
             $this->values = array();
             $ret = $this->fetch();
             $campos = "id_empresa;fantasia";
