@@ -152,8 +152,8 @@ if ($busca_mes == '') $busca_mes = date('m');
                     echo $p_valor;
                     ?>
                 </select>
-                <input type="submit" name="gerar_submit_todos" id="gerar_submit_todos" class="button_busca"
-                       value=" Gerar todos"/>
+                <!--<input type="submit" name="gerar_submit_todos" id="gerar_submit_todos" class="button_busca"
+                       value=" Gerar todos"/>-->
                 <input type="submit" name="gerar_submit" class="button_busca" value=" Gerar "/>
             </div>
 
