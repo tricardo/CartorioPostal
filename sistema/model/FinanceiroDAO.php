@@ -411,7 +411,7 @@ class FinanceiroDAO extends Database
         if ($busca->busca_ord == 'Decr') $busca->busca_ordenar_por_o .= ' DESC ';
         $busca->busca_ordenar_por = ' pi.id_pedido ' . $busca->busca_ordenar_por_o . ', pi.ordem ' . $busca->busca_ordenar_por_o;
         if ($busca->busca_ordenar == 'Documento de') $busca->busca_ordenar_por = ' pi.certidao_nome ' . $busca->busca_ordenar_por_o; else
-            if ($busca->busca_ordenar == 'Servi?o') $busca->busca_ordenar_por = ' pi.id_servico ' . $busca->busca_ordenar_por_o; else
+            if ($busca->busca_ordenar == 'Serviço') $busca->busca_ordenar_por = ' pi.id_servico ' . $busca->busca_ordenar_por_o; else
                 if ($busca->busca_ordenar == 'Ordem') $busca->busca_ordenar_por = ' pi.id_pedido, pi.ordem ' . $busca->busca_ordenar_por_o; else
                     if ($busca->busca_ordenar == 'Data') $busca->busca_ordenar_por = ' pi.data ' . $busca->busca_ordenar_por_o; else
                         if ($busca->busca_ordenar == 'Cidade') $busca->busca_ordenar_por = ' pi.certidao_estado ' . $busca->busca_ordenar_por_o . ', pi.certidao_cidade ' . $busca->busca_ordenar_por_o; else
@@ -526,6 +526,7 @@ class FinanceiroDAO extends Database
         $valor_rec_t = $cont[0]->valor_rec_t;
 
         $this->sql = "SELECT " . $campo . " " . $condicao . " order by " . $busca->busca_ordenar_por . " LIMIT " . $this->getInicio() . ", " . $this->maximo;
+
         $ret = $this->fetch();
         $ret[0]->valor_t = $valor_t;
         $ret[0]->valor_rec_t = $valor_rec_t;
