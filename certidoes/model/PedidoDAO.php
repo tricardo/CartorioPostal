@@ -214,7 +214,7 @@ class PedidoDAO extends Database{
         #verifica se tem rodizio
         $this->sql = "SELECT fr.id_empresa
 						FROM vsites_franquia_regiao as fr, vsites_user_empresa as ue 
-						WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.id_empresa=fr.id_empresa and ue.status='Ativo'  ORDER by fr.id_empresa LIMIT 1";
+						WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.id_empresa=fr.id_empresa and ue.status in ('Ativo', 'Renovação')  ORDER by fr.id_empresa LIMIT 1";
         $this->values = array($cidade, $estado);
         $ret = $this->fetch();
 
@@ -277,7 +277,7 @@ class PedidoDAO extends Database{
 		$this->sql = "SELECT ue.id_empresa, uu.id_usuario from 
 		vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where 
 		 ue.id_empresa='".$id."' and
-		 fr.id_empresa=ue.id_empresa and ue.status='Ativo' and 
+		 fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação') and 
 		 ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' limit 1";
 		$ret = $this->fetch();   
  	}
@@ -291,7 +291,7 @@ class PedidoDAO extends Database{
 					replace(fr.cep_i,'-','') <= replace('".$cep."','-','') and replace(fr.cep_f,'-','') >= replace('".$cep."','-','') and 
 					fr.cep_i!='00000-000' and fr.cep_i!='' and 
 					fr.cdt_site=0 and
-					fr.id_empresa=ue.id_empresa and ue.status='Ativo' and 
+					fr.id_empresa=ue.id_empresa and ue.status IN ('Ativo', 'Renovação') and 
 					ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' ";
 			if(count($arr) > 0){
 				$this->sql .= " AND ue.id_empresa NOT IN (".implode(',', $arr).")";
@@ -312,7 +312,7 @@ class PedidoDAO extends Database{
 						replace(fr.cep_i,'-','') <= replace('".$cep."','-','') and replace(fr.cep_f,'-','') >= replace('".$cep."','-','') and 
 						fr.cep_i!='00000-000' and fr.cep_i!='' and 
 						fr.cdt_site=0 and
-						fr.id_empresa=ue.id_empresa and ue.status='Ativo' and 
+						fr.id_empresa=ue.id_empresa and ue.status IN ('Ativo', 'Renovação') and 
 						ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' limit 1";
 				$ret = $this->fetch();
 			}
@@ -351,7 +351,7 @@ class PedidoDAO extends Database{
 			$this->sql = "SELECT ue.id_empresa, uu.id_usuario from 
 				vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where 
 					ue.id_empresa='".$id_empresa."' and
-					fr.id_empresa=ue.id_empresa and ue.status='Ativo' and 
+					fr.id_empresa=ue.id_empresa and ue.status= IN ('Ativo', 'Renovação') and 
 					ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' limit 1";
 			$ret = $this->fetch();			
 		}
@@ -363,7 +363,7 @@ class PedidoDAO extends Database{
 	* @param String $id_atiliado
 	*/
 	public function selectAfiliado($id_afiliado){
-		$this->sql = "SELECT ue.id_empresa, uu.id_usuario from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_afiliado as a where a.id_afiliado='".$id_afiliado."' and a.id_empresa=ue.id_empresa and ue.status='Ativo' and ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%'";
+		$this->sql = "SELECT ue.id_empresa, uu.id_usuario from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_afiliado as a where a.id_afiliado='".$id_afiliado."' and a.id_empresa=ue.id_empresa and ue.status IN ('Ativo', 'Renovação') and ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%'";
 		$ret = $this->fetch();
 		return $ret[0];
 	}
