@@ -19,11 +19,11 @@ class DatabaseSISTESTE {
 	private $sth;
 	private $dbType="mysql";
 
-	private $host="187.108.193.245";#IP SOFTFOX
+	private $host="baratheon0001.hospedagemdesites.ws";#IP SOFTFOX
 	#private $host="localhost";
-	private $db="softfoxc_bancoteste";
-	private $user="softfoxc_user";
-	private $password="(vDly(m(#-J*";
+	private $db="ssiconsul2013_softfoxc_bancoteste";
+	private $user="ssico_softfoxc_b";
+	private $password="Mpe2016!@";
 	
 	protected $maximo;
 	protected $total;
