@@ -31,7 +31,7 @@ class EmpresaDAO extends Database{
 				$this->sql = "SELECT ue.*, fr.apelido, p.id_pais, p.pais " .
 					"FROM vsites_user_empresa as ue, vsites_franquia_regiao as fr, " .
 					"vsites_paises as p WHERE p.id_pais=ue.id_pais AND " .
-					"fr.id_empresa=ue.id_empresa AND ue.status='Ativo' AND ue.id_empresa=? group by ue.id_empresa " .
+					"fr.id_empresa=ue.id_empresa AND ue.status in ('Ativo', 'Renovação') AND ue.id_empresa=? group by ue.id_empresa " .
 					"ORDER BY ue.id_empresa desc limit 1";
 				$this->values = array($id);
 				break;
@@ -39,7 +39,7 @@ class EmpresaDAO extends Database{
 			default:
 				$this->sql = "SELECT ue.*, fr.apelido, p.id_pais, p.pais FROM vsites_user_empresa as ue, vsites_franquia_regiao as fr, " .
 					"vsites_paises as p WHERE fr.estado=? ".$onde." AND replace(fr.cidade,' ','')=? AND p.id_pais=ue.id_pais AND " .
-					"fr.id_empresa=ue.id_empresa AND ue.status='Ativo' OR ue.id_empresa=1 group by ue.id_empresa " .
+					"fr.id_empresa=ue.id_empresa AND ue.status in ('Ativo', 'Renovação') OR ue.id_empresa=1 group by ue.id_empresa " .
 					"ORDER BY ue.id_empresa desc limit 1";
 				$this->values = array($estado,$cidade);
 		}
@@ -52,7 +52,7 @@ class EmpresaDAO extends Database{
 	}
         
         public function listaEmpresaAfiliado($id_afiliado){
-		$this->sql = "SELECT ue.id_empresa, ue.tel, ue.email FROM vsites_user_empresa as ue, vsites_afiliado as va WHERE va.id_afiliado=? AND va.id_empresa=ue.id_empresa AND ue.status='Ativo' ORDER BY ue.id_empresa desc limit 1";
+		$this->sql = "SELECT ue.id_empresa, ue.tel, ue.email FROM vsites_user_empresa as ue, vsites_afiliado as va WHERE va.id_afiliado=? AND va.id_empresa=ue.id_empresa AND ue.status in ('Ativo', 'Renovação') ORDER BY ue.id_empresa desc limit 1";
 		$this->values = array($id_afiliado);
                 $ret = $this->fetch();
 		return $ret[0];
@@ -91,7 +91,7 @@ class EmpresaDAO extends Database{
 	}	
 
 	public function listaEmpresas(){
-		$this->sql = "SELECT ue.* FROM vsites_user_empresa as ue WHERE ue.status='Ativo' ORDER BY ue.id_empresa";
+		$this->sql = "SELECT ue.* FROM vsites_user_empresa as ue WHERE ue.status in ('Ativo', 'Renovação') ORDER BY ue.id_empresa";
 		$this->values = array();
 		return $this->fetch();
 	}	
@@ -108,7 +108,7 @@ class EmpresaDAO extends Database{
     }
 	
 	public function totalUnidadesAtivas(){
-		$this->sql = "SELECT count(0) as total FROM vsites_user_empresa as ue where (ue.status='Ativo' || ue.status='Inativo') AND ue.id_empresa!=1";
+		$this->sql = "SELECT count(0) as total FROM vsites_user_empresa as ue where (ue.statusin ('Ativo', 'Renovação') || ue.status='Inativo') AND ue.id_empresa!=1";
 		$cont = $this->fetch();
 		return $cont[0]->total;
 	}
@@ -125,7 +125,7 @@ class EmpresaDAO extends Database{
 	
 		$sql = "SELECT uu.id_usuario, ue.* "
 			. "FROM vsites_user_empresa AS ue, vsites_user_usuario AS uu WHERE uu.id_empresa = ue.id_empresa "
-			. "AND uu.email LIKE '%contato%' AND ue.status = 'ativo' "
+			. "AND uu.email LIKE '%contato%' AND ue.status in ('Ativo', 'Renovação') "
 			. "AND ue.estado LIKE '%".trim(str_replace('', '', str_replace("'","",$estado)))."%'";# limit 1";
 		if(count($arr) > 0){
 			$sql .= " AND ue.id_empresa NOT IN (".implode(',', $arr).")";
@@ -187,7 +187,7 @@ class EmpresaDAO extends Database{
 	
 		$sql = "SELECT uu.id_usuario, ue.* "
 			. "FROM vsites_user_empresa AS ue, vsites_user_usuario AS uu WHERE uu.id_empresa = ue.id_empresa "
-			. "AND uu.email LIKE '%contato%' AND ue.status = 'ativo' "
+			. "AND uu.email LIKE '%contato%' AND ue.status in ('Ativo', 'Renovação') "
 			#. "AND ue.estado = '".trim(str_replace('', '', str_replace("'","",$_GET['estado'])))."'";# limit 1";
 			. "AND ue.id_empresa = ".$_GET['id_empresa'];# limit 1";
 		if(count($arr) > 0){
