@@ -20,7 +20,7 @@ class SMTPMailer {
 		#$mail->SMTPSecure = "";
 		 
 		#Define que o Host que enviará a mensagem é o Cartorio Postal
-		$mail->Host       = "mail.cartoriopostal.com.br";
+		$mail->Host       = "sharedrelay-cluster.mandic.net.br";
 		 
 		#Define a porta utilizada pelo Cartorio Postal para o envio autenticado
 		$mail->Port       = "587";                  
@@ -32,17 +32,17 @@ class SMTPMailer {
 		#Defina o email e o nome que aparecerá como remetente no cabeçalho
 		switch($_SESSION['username_send_mail']){
 			case 1:
-				$mail->Username   = "diretoria.geral@cartoriopostal.com.br";
-				$mail->From       = 'diretoria.geral@cartoriopostal.com.br';
+				$mail->Username   = "cartoriopostal@shared.mandic.net.br";
+				$mail->From       = 'cartoriopostal@shared.mandic.net.br';
 			break;
 
 			default:
-			$mail->Username   = "sistema@cartoriopostal.com.br";
-			$mail->From       = 'sistema@cartoriopostal.com.br';
+			$mail->Username   = "cartoriopostal@shared.mandic.net.br";
+			$mail->From       = 'cartoriopostal@shared.mandic.net.br';
 		}
 		 
 		#Define a senha deste usuário citado acima
-		$mail->Password   = "sistema06112012";
+		$mail->Password   = "Mandic@123!";
 		 		
 
 		$mail->FromName   = $From;
