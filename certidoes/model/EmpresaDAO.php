@@ -108,7 +108,7 @@ class EmpresaDAO extends Database{
     }
 	
 	public function totalUnidadesAtivas(){
-		$this->sql = "SELECT count(0) as total FROM vsites_user_empresa as ue where (ue.statusin ('Ativo', 'Renovação') || ue.status='Inativo') AND ue.id_empresa!=1";
+		$this->sql = "SELECT count(0) as total FROM vsites_user_empresa as ue where (ue.status in ('Ativo', 'Renovação') || ue.status='Inativo') AND ue.id_empresa!=1";
 		$cont = $this->fetch();
 		return $cont[0]->total;
 	}
