@@ -210,19 +210,19 @@ class ConselhoDAO extends Database{
 	public function todas_unidades(){
 		$this->sql = "SELECT e.fantasia, u.nome, u.email, u.id_usuario 
 			FROM vsites_user_empresa AS e, vsites_user_usuario AS u 
-			WHERE u.id_empresa = e.id_empresa AND e.status = 'ativo' AND u.email LIKE '%diretoria%' 
+			WHERE u.id_empresa = e.id_empresa AND e.status in ('Ativo', 'Renovação') AND u.email LIKE '%diretoria%'
 			ORDER BY e.fantasia";#LIMIT 0, 10
 		return $this->fetch();
 	}
 	
 	public function unidades_aptas(){
-		$this->sql = "SELECT COUNT(0) AS total FROM vsites_user_empresa AS e WHERE e.status = 'ativo'";
+		$this->sql = "SELECT COUNT(0) AS total FROM vsites_user_empresa AS e WHERE e.status in ('Ativo', 'Renovação')";
 		$dt = $this->fetch();
 		return $dt[0]->total;
 	}
 	
 	public function usuarios_aptos(){
-		$this->sql = "SELECT COUNT(0) AS total FROM vsites_user_usuario AS u, vsites_user_empresa AS e WHERE e.status = 'ativo' AND u.id_empresa = e.id_empresa AND u.status = 'ativo'";
+		$this->sql = "SELECT COUNT(0) AS total FROM vsites_user_usuario AS u, vsites_user_empresa AS e WHERE e.status in ('Ativo', 'Renovação') AND u.id_empresa = e.id_empresa AND u.status = 'ativo'";
 		$dt = $this->fetch();
 		return $dt[0]->total;
 	}

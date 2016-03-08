@@ -340,7 +340,7 @@ class PedidoDAO extends Database {
 			from vsites_franquia_regiao as fr, vsites_user_empresa as ue where 
 				replace(fr.cep_i,'-','')<=replace(?,'-','') and 
 				replace(fr.cep_f,'-','')>=replace(?,'-','') and 
-				fr.id_empresa=ue.id_empresa and ue.status='Ativo' order by Field(fr.id_empresa,?) desc";
+				fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação') order by Field(fr.id_empresa,?) desc";
         $this->values = array($p->cep, $p->cep, $p->id_empresa_atend);
 		$ret = $this->fetch();	
         return $ret[0];
@@ -1912,7 +1912,7 @@ AND pi.valor <= pi.valor_rec
         #verifica se tem rodizio
         $this->sql = "SELECT fr.id_empresa
 						FROM vsites_franquia_regiao as fr, vsites_user_empresa as ue 
-						WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.id_empresa=fr.id_empresa and ue.status='Ativo'  ORDER by fr.id_empresa LIMIT 1";
+						WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.id_empresa=fr.id_empresa and ue.status in ('Ativo', 'Renovaçao')  ORDER by fr.id_empresa LIMIT 1";
         $this->values = array($cidade, $estado);
         $ret = $this->fetch();
 
@@ -1926,7 +1926,7 @@ AND pi.valor <= pi.valor_rec
                 #seleciona o proximo
                 $this->sql = "SELECT fr.id_empresa
 								FROM vsites_franquia_regiao as fr INNER JOIN vsites_user_empresa as ue ON ue.id_empresa=fr.id_empresa
-								WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.status='Ativo' ORDER by fr.id_empresa LIMIT 1";
+								WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.status in ('Ativo', 'Renovação') ORDER by fr.id_empresa LIMIT 1";
                 $this->values = array($cidade, $estado);
                 $ret = $this->fetch();
                 
