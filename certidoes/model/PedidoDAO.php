@@ -418,7 +418,7 @@ class PedidoDAO extends Database{
 			fr.cep_i='00000-000' and 
 			fr.cdt_site=0 and 
 			fr.id_empresa=ue.id_empresa and 
-			ue.status='Ativo' and 
+			ue.status in ('Ativo', 'Renovação') and 
 			ue.id_empresa = uu.id_empresa and 
 			uu.status='Ativo' and 
 			uu.departamento_s like '6,%' limit 1";
@@ -428,7 +428,7 @@ class PedidoDAO extends Database{
 			$this->sql = "update vsites_franquia_regiao set cdt_site=0 where cep_i='00000-000' and cdt_site>=1";
 			$this->exec();
 
-			$this->sql = "SELECT ue.id_empresa, uu.id_usuario from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where fr.cep_i='00000-000' and cdt_site=0 and fr.id_empresa=ue.id_empresa and ue.status='Ativo' and ue.id_empresa = uu.id_empresa and uu.status='Ativo' and uu.departamento_s like '6,%' limit 1";
+			$this->sql = "SELECT ue.id_empresa, uu.id_usuario from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where fr.cep_i='00000-000' and cdt_site=0 and fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação') and ue.id_empresa = uu.id_empresa and uu.status='Ativo' and uu.departamento_s like '6,%' limit 1";
 			$r = $this->fetch();
 		}
 		#if  encontrar a empresa adiciona o CDT, caso não atribui o 1
