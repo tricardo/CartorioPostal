@@ -149,7 +149,7 @@ class ApiGoogleDAO extends Database {
 		$latitude2  = $localizacao[0];
 		$longitude2 = $localizacao[1];	
 		
-		$this->sql = "SELECT ue.id_empresa, uu.id_usuario, fr.latitude, fr.longitude, fr.distancia, ue.fantasia from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where fr.cep_i='00000-000' and fr.id_empresa=ue.id_empresa and ue.status='Ativo' and ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' group by ue.id_empresa";
+		$this->sql = "SELECT ue.id_empresa, uu.id_usuario, fr.latitude, fr.longitude, fr.distancia, ue.fantasia from vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where fr.cep_i='00000-000' and fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação') and ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' group by ue.id_empresa";
 		$r = $this->fetch();
 		foreach($r as $ret){
 			#pega as informções da base de dados

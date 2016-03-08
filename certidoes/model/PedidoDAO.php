@@ -228,7 +228,7 @@ class PedidoDAO extends Database{
                 #seleciona o proximo
                 $this->sql = "SELECT fr.id_empresa
 								FROM vsites_franquia_regiao as fr INNER JOIN vsites_user_empresa as ue ON ue.id_empresa=fr.id_empresa
-								WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.status='Ativo' ORDER by fr.id_empresa LIMIT 1";
+								WHERE fr.cidade = ? AND fr.estado = ? and fr.cdt='0' and fr.id_empresa!='1' and ue.status in ('Ativo', 'Renovação') ORDER by fr.id_empresa LIMIT 1";
                 $this->values = array($cidade, $estado);
                 $ret = $this->fetch();
                 
@@ -351,7 +351,7 @@ class PedidoDAO extends Database{
 			$this->sql = "SELECT ue.id_empresa, uu.id_usuario from 
 				vsites_user_empresa as ue, vsites_user_usuario as uu, vsites_franquia_regiao as fr where 
 					ue.id_empresa='".$id_empresa."' and
-					fr.id_empresa=ue.id_empresa and ue.status= IN ('Ativo', 'Renovação') and 
+					fr.id_empresa=ue.id_empresa and ue.status IN ('Ativo', 'Renovação') and 
 					ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' limit 1";
 			$ret = $this->fetch();			
 		}
