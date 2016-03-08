@@ -67,7 +67,7 @@ class ServicoDAO extends Database{
 	}
 
 	public function listaBairrosFranquia($estado,$cidade){
-		$this->sql = "SELECT ue.bairro, fr.apelido FROM vsites_franquia_regiao as fr, vsites_user_empresa as ue where fr.estado=? and fr.cidade=? and fr.id_empresa=ue.id_empresa AND ue.status='Ativo' ORDER BY ue.id_empresa";
+		$this->sql = "SELECT ue.bairro, fr.apelido FROM vsites_franquia_regiao as fr, vsites_user_empresa as ue where fr.estado=? and fr.cidade=? and fr.id_empresa=ue.id_empresa AND ue.status in ('Ativo', 'Renovação') ORDER BY ue.id_empresa";
 		$this->values = array($estado,$cidade);
 		return $this->fetch();
 	}
