@@ -284,7 +284,7 @@ class PedidoVerificaDAO extends Database{
 		trim(fr.cidade)=? and 
 		trim(fr.estado)=? and 
 		fr.id_empresa=ue.id_empresa and 
-		ue.status='Ativo' and
+		ue.status in ('Ativo', 'Renovação') and
 		ue.adendo=1
 		limit 1";
 		$this->values = array(trim($cidade),trim($estado));

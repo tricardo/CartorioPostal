@@ -37,7 +37,7 @@
 						replace(fr.cep_i,'-','') <= replace('".$cep."','-','') and replace(fr.cep_f,'-','') >= replace('".$cep."','-','') and 
 						fr.cep_i!='00000-000' and fr.cep_i!='' and 
 						fr.cdt_site=0 and
-						fr.id_empresa=ue.id_empresa and ue.status='Ativo' and 
+						fr.id_empresa=ue.id_empresa and ue.status in ('Ativo', 'Renovação') and
 						ue.id_empresa = uu.id_empresa and uu.departamento_s like '6,%' limit 1";
 				$ret = $this->fetch();
 				print_r($ret);
