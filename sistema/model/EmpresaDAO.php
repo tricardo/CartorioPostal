@@ -177,7 +177,7 @@ class EmpresaDAO extends Database {
      */
     public function listarDiff($id_empresa) {
         $this->sql = "SELECT id_empresa, TRIM(REPLACE(fantasia,'Cartório Postal - ','')) as fantasia , imposto,royalties
-						FROM vsites_user_empresa as ue WHERE id_empresa!=? and status='Ativo' order by fantasia";
+						FROM vsites_user_empresa as ue WHERE id_empresa!=? and status in ('Ativo', 'Renovação') order by fantasia";
         $this->values = array($id_empresa);
         return $this->fetch();
     }
