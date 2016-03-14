@@ -634,7 +634,7 @@ function valida_upload_pdf($arquivo, $config) {
     $error = '';
     if (!eregi("^image\/(pjpeg|jpeg|png|gif|bmp|pdf)$", $arquivo["type"]) and !eregi("^application\/(pdf)$", $arquivo["type"]) and !eregi("text/pdf", $arquivo["type"]) and !eregi("application/vnd.ms-outlook", $arquivo["type"]) and !eregi("application/octet-stream", $arquivo["type"])) {
         $error.="<li><b>Arquivo em formato inválido! O arquivo deve ser jpg, jpeg,
-				bmp, gif, pdf ou png. Envie outro arquivo.</b></li>" . $arquivo["type"];
+				bmp, gif, pdf, png ou msg. Envie outro arquivo.</b></li>" . $arquivo["type"];
 		
     }
     return $error;
