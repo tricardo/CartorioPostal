@@ -1,7 +1,7 @@
 <?php
-require( "../includes/verifica_logado_controle.inc.php");
-require( "../includes/funcoes.php" );
-require( "../includes/global.inc.php" );
+require("../includes/verifica_logado_controle.inc.php");
+require("../includes/funcoes.php");
+require("../includes/global.inc.php");
 
 $conta = new CronDAO();
 $dt = $conta->CronValorPago();

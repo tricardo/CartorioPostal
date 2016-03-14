@@ -390,6 +390,8 @@ class UsuarioDAO extends Database
 
 
             $this->exec();
+
+            
         }
     }
 

@@ -1,9 +1,9 @@
 <?php
-require( "../includes/verifica_logado_ajax.inc.php");
+require("../includes/verifica_logado_ajax.inc.php");
 require("../includes/maladireta/config.inc.php");
 require("../includes/maladireta/class.Email.php");
-require( "../includes/funcoes.php" );
-require( "../includes/global.inc.php" );
+require("../includes/funcoes.php");
+require("../includes/global.inc.php");
 
 $pedidoDAO = new PedidoDAO();
 $empresaDAO = new EmpresaDAO();

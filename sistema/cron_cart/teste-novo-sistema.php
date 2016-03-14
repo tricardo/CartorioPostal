@@ -17,7 +17,7 @@ function __autoload($classe) {
 }
 
 
-require_once( '../includes/classQuery.php' );
+require_once('../includes/classQuery.php');
 require_once('../model/DatabaseNovo.php'); 
 
 
