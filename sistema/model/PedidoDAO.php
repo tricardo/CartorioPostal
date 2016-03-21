@@ -1194,14 +1194,15 @@ class PedidoDAO extends Database {
         global $controle_id_usuario;
         $condicao = " from vsites_pedido as p, vsites_pedido_item as pi, vsites_user_usuario as u, vsites_servico as s where ";
         if($controle_id_usuario != 1){
-            $condicao .= " u.id_empresa              = :id_empresa and";
+            $condicao .= " u.id_empresa = :id_empresa and";
+            $this->values['id_empresa'] = $busca->id_empresa;
         }
-        $condicao .= " pi.id_usuario  				= u.id_usuario and
-	    pi.id_pedido  				= p.id_pedido and
-	    pi.id_servico  				= s.id_servico
+        $condicao .= " pi.id_usuario  = u.id_usuario and
+	    pi.id_pedido = p.id_pedido and
+	    pi.id_servico = s.id_servico
 		" . $onde . "
 		order by " . $busca_ordenar_por;
-        $this->values['id_empresa'] = $busca->id_empresa;
+
 
         $this->sql = 'SELECT count(0) as total ' . $condicao;
 
