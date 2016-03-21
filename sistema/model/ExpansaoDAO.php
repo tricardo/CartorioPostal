@@ -46,7 +46,7 @@
 					break;
 				case 3:
 					$retorno->id_depto = array(0);
-					 $retorno->id_users = array(1,56,828,2145,3654,4562,4587,4588,4589,4590);
+					 $retorno->id_users = array(1,56,828,2145,3654,4562,4587,4588,4589,4590, 4704);
 					break;
 				case 4:
 					$retorno->id_depto = array(0);
