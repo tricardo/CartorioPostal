@@ -1,4 +1,4 @@
-<?php
+	<?php
 
 class PedidoDAO extends Database {
 
@@ -1191,9 +1191,9 @@ class PedidoDAO extends Database {
             $onde .= " and pi.ordem = :busca_ordem";
             $this->values['busca_ordem'] = $busca_ordem;
         }
-        global $controle_id_usuario;
+        
         $condicao = " from vsites_pedido as p, vsites_pedido_item as pi, vsites_user_usuario as u, vsites_servico as s where ";
-        if($controle_id_usuario != 1){
+        if($busca->id_empresa != 1){
             $condicao .= " u.id_empresa = :id_empresa and";
             $this->values['id_empresa'] = $busca->id_empresa;
         }
@@ -1214,7 +1214,7 @@ class PedidoDAO extends Database {
 		#echo "<span style=\"color:#FFF\"><br><br>".$this->sql."</span>";
         $_SESSION['pedido_campo'] = $campo;
         $_SESSION['pedido_condicao'] = $condicao;
-
+		global $controle_id_usuario;
 		if($controle_id_usuario == 1){
 			//echo $this->sql;
 		}
