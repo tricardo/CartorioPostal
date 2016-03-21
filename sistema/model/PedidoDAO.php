@@ -1191,10 +1191,12 @@ class PedidoDAO extends Database {
             $onde .= " and pi.ordem = :busca_ordem";
             $this->values['busca_ordem'] = $busca_ordem;
         }
-
-        $condicao = " from vsites_pedido as p, vsites_pedido_item as pi, vsites_user_usuario as u, vsites_servico as s where
-	    u.id_empresa              = :id_empresa and
-	    pi.id_usuario  				= u.id_usuario and
+        global $controle_id_usuario;
+        $condicao = " from vsites_pedido as p, vsites_pedido_item as pi, vsites_user_usuario as u, vsites_servico as s where ";
+        if($controle_id_usuario != 1){
+            $condicao .= " u.id_empresa              = :id_empresa and";
+        }
+        $condicao .= " pi.id_usuario  				= u.id_usuario and
 	    pi.id_pedido  				= p.id_pedido and
 	    pi.id_servico  				= s.id_servico
 		" . $onde . "
@@ -1211,9 +1213,9 @@ class PedidoDAO extends Database {
 		#echo "<span style=\"color:#FFF\"><br><br>".$this->sql."</span>";
         $_SESSION['pedido_campo'] = $campo;
         $_SESSION['pedido_condicao'] = $condicao;
-		global $controle_id_usuario;
+
 		if($controle_id_usuario == 1){
-			#echo $this->sql;
+			//echo $this->sql;
 		}
         return $this->fetch();
     }
