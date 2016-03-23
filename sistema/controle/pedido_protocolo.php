@@ -124,6 +124,6 @@ $pdf->Cell(10,0.5,'Assinatura do cliente','T',1);
 $pdf->SetY(25.5);
 $pdf->Cell(0,0.5,$responsavel_empresa,0,1,'C');
 
-
+ob_start ();
 $pdf->Output();
 ?>
