@@ -180,8 +180,8 @@ if ($submit) {
         $linha++;
 
         $numeroSequencia = tamanho_string($cont, '0', 'e', '5');
-        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . "               " . $b->cep . "               " . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
-        //$segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . $b->bairro . $b->cep . $b->cidade . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
+        //$segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . $b->sacado . $b->endereco . $b->bairro . "               " . $b->cep . "               " . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
+        $segmentoQ = "001" . $numeroLote . "3" . $numeroSequencia . "Q" . " " . "01" . $b->tipo . $b->cpf . substr($b->sacado, 0, 40) . substr($b->endereco, 0, 40) . substr($b->bairro, 0, 15)  . $b->cep . substr($b->cidade, 0, 15) . $b->estado . "0" . $b->cnpj_sacador . "                                        " . "000" . "                    " . "        " . "\r\n";
         $linha++;
 
 
