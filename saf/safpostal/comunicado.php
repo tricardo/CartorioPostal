@@ -94,7 +94,7 @@ if($safpostal_id_empresa=="1" and $permissao=='FALSE'){
 										$lista_email.= $res['email'].';';
 									}
 									$From = 'Mala Direta';
-									$AddAddress = 'claudia.mattos@cartoriopostal.com.br;fabiana.abreu@cartoriopostal.com.br;coban.goiania@cartoriopostal.com.br;';
+									$AddAddress = 'claudia.mattos@cartoriopostal.com.br;fabiana.abreu@cartoriopostal.com.br;thauan.ricardo@ssiconsultoria.con.br;';
 									#$AddAddress = "rafael.nascimento@softfox.com.br;erick.melo@softfox.com.br;antonio.alves@softfox.com.br;";
 									$AddCC = '';
 									#$AddCC = 'renato.amorim@softfox.com.br;luiz.fernando@softfox.com.br';
