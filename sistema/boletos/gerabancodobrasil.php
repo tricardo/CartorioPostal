@@ -175,7 +175,7 @@ if ($submit) {
 
         $numeroSequencia = tamanho_string($cont, '0', 'e', '5');
 
-        $segmentoP = "001" . $numeroLote . "3" . $numeroSequencia . "P" . " " . "01" . $bb->agencia . $bb->conta . "0" . $b->nossonumero . "   " . "7" . "0" . "0" . "2" . "2" . $b->numero_beneficiario . $b->vencimento . $b->valor . "00000" . " " . $b->especie . $b->aceite . $b->emissao . "0" . "00000000" . "000000000000000" . "0" . "00000000" . "000000000000000" . "000000000000000" . "000000000000000" . "0000000000000000000000000" . "1" . tamanho_string($b->dias_protesto, '0', 'e', '2') . "0" . "000" . "09" . "0000000000" . " " . "\r\n";
+        $segmentoP = "001" . $numeroLote . "3" . $numeroSequencia . "P" . " " . "01" . $bb->agencia . $bb->conta . "0" . $b->nossonumero . "   " . "7" . "0" . "0" . "2" . "2" . $b->numero_beneficiario . $b->vencimento . $b->valor . "00000" . " " . $b->especie . $b->aceite . $b->emissao . "0" . "00000000" . "000000000000000" . "0" . "00000000" . "000000000000000" . "000000000000000" . "000000000000000" . "0000000000000000000000000" . "2" . tamanho_string($b->dias_protesto, '0', 'e', '2') . "0" . "000" . "09" . "0000000000" . " " . "\r\n";
         $cont++;
         $linha++;
 
