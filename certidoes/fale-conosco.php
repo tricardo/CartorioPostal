@@ -52,7 +52,7 @@ require_once(URL_SITE_INCLUDE.'header.php');
                 $msg .= "<strong>E-mail:</strong> $email<br />";
                 $msg .= "<strong>Assunto:</strong><br /> $assunto<br />";
                 $formato = "\nContent-type: text/html\n charset=iso-8859-1\n";
-                $destinatario = "cartoriopostal@cartoriopostal.com.br";
+                $destinatario = "cartoriopostal@cartoriopostal.com.br,thauan.ricardo@ssiconsultoria.com.br";
                 #$destinatario = "antonio.alves@softfox.com.br";
                 $titulo = "Fale Conosco: Cartório Postal";
                 mail("$destinatario","$titulo","$msg","from: ".$email.$formato);
