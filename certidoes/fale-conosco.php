@@ -51,11 +51,15 @@ require_once(URL_SITE_INCLUDE.'header.php');
                 $msg .= "<strong>Nome completo:</strong> $nome<br />";
                 $msg .= "<strong>E-mail:</strong> $email<br />";
                 $msg .= "<strong>Assunto:</strong><br /> $assunto<br />";
-                $formato = "\nContent-type: text/html\n charset=iso-8859-1\n";
+				
+				$headers = "MIME-Version: 1.1\r\n";
+				$headers .= "Content-type: text/plain; charset=iso-8859-1\r\n";
+				$headers .= "From: $email\r\n"; // remetente
+				$headers .= "Return-Path: $email\r\n"; // return-path                
                 $destinatario = "cartoriopostal@cartoriopostal.com.br,thauan.ricardo@ssiconsultoria.com.br";
                 #$destinatario = "antonio.alves@softfox.com.br";
                 $titulo = "Fale Conosco: Cartório Postal";
-                mail("$destinatario","$titulo","$msg","from: ".$email.$formato);
+                mail("$destinatario","$titulo","$msg","from: ".$email.$headers);
             }
         }
         if($done!=1){
