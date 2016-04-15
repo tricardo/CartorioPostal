@@ -3,6 +3,7 @@ $id_meta=8;
 $pg = 'paginas';
 require_once 'includes/url.php';
 require_once(URL_SITE_INCLUDE.'header.php');
+include("../includes/maladireta/class.PHPMailer.php");
 ?>
 <div id="container">
     <div class="box_e">
@@ -56,10 +57,13 @@ require_once(URL_SITE_INCLUDE.'header.php');
 				$headers .= "Content-type: text/plain; charset=iso-8859-1\r\n";
 				$headers .= "From: $email\r\n"; // remetente
 				$headers .= "Return-Path: $email\r\n"; // return-path                
-                $destinatario = "cartoriopostal@cartoriopostal.com.br,thauan.ricardo@ssiconsultoria.com.br";
+                $destinatario = "cartoriopostal@cartoriopostal.com.br;thauan.ricardo@ssiconsultoria.com.br";
                 #$destinatario = "antonio.alves@softfox.com.br";
                 $titulo = "Fale Conosco: Cartório Postal";
-                mail("$destinatario","$titulo","$msg","from: ".$email.$headers);
+				
+				$mailer = new SMTPMailer();
+
+				$mailer->SEND("Fale Conosco", $destinatario, '', $destinatario, '', $titulo, $msg);                 
             }
         }
         if($done!=1){
