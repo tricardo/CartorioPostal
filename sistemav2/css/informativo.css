@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Calibri";
+    src: url("../fonts/calibri.eot");
+    src: url("../fonts/calibri.ttf") format("truetype");
+}
+
+
+body {
+    margin: 2%;
+    font-family: "Calibri";
+}
+.informativos {
+    width: 70%;
+    border: solid 2px #333;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: #000 2px 2px 2px;
+    padding: 2%;
+    position: absolute;
+    left: 50%;
+    margin: 1% 1% 3% -36%;
+}
+.informativos div.header div.logo { text-align: center; margin-bottom: 15px; }
+.informativos div.header div.texto { 
+    background: #DDD; 
+    border: solid 1px #BBB;
+    padding: 8px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+.informativos div.header div.texto p {
+    float: left;
+    padding: 8px 0 0 0;
+    margin: 0;
+}
+.informativos div.footer div.texto {
+    padding: 15px;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: #2C3F80;
+    background-image: 
+        url('../images/back-002.png'), 
+        url('../images/back-004.png'),
+        url('../images/back-001.png'),
+        url('../images/back-003.png');
+    background-repeat: 
+        repeat-x,
+        repeat-y,
+        repeat,
+        no-repeat;
+    background-position: 
+        top, left, left, middle;
+}
+
+#logo {
+    background-image: url('../imagens/login-logo.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 157px;
+    position: absolute;
+    left: 52px;
+}

@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "Calibri";
+    src: url("../fonts/calibri.eot");
+    src: url("../fonts/calibri.ttf") format("truetype");
+}
+
+
+body {
+    font-family: "Calibri";
+    background-color: #F8F8F8;
+    padding: 2%;
+    color: #222;
+}
+table {
+    width: 100%;
+    margin-bottom: 40px;
+}
+table td {
+    width: 50%;
+    padding: 8px;
+    border: solid 1px #CCC;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+table td label {
+    font-weight: bold;
+    margin-right: 15px; 
+}
+table td span {
+    text-transform: lowercase;
+}
+table td.titulo {
+    background: #CCC;
+    font-weight: bold;
+    font-size: 17px;
+}
+table td.list {
+    background: #CCC;
+    font-weight: bold;
+    font-size: 12px;
+    width: auto;
+}
+table td.list.s100 {
+    width: 150px;
+}
+table.assinatura {
+    margin-top: -40px;
+}
+table.assinatura td {
+    background: #EEE;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: right;
+}
+table td.subtitulo {
+    background: #DDD;
+    font-weight: bold;
+    font-size: 16px;
+}
+table td.obs {
+    border-bottom: 3px solid #CCC;
+    border-top: none;
+}

@@ -1,0 +1,171 @@
+@charset "utf-8";
+@font-face {
+    font-family: "Calibri";
+    src: url("../fonts/calibri.eot");
+    src: url("../fonts/calibri.ttf") format("truetype");
+}
+body {
+    font-family: "Calibri";
+    background-color: #2C3F80;
+    background-image: 
+        url('../images/back-002.png'), 
+        url('../images/back-004.png'),
+        url('../images/back-001.png'),
+        url('../images/back-003.png');
+    background-repeat: 
+        repeat-x,
+        repeat-y,
+        repeat,
+        no-repeat;
+    background-position: 
+        top, left, left, middle;
+}
+
+.logo {
+    background-image: url('../images/back-logo.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 157px;
+    position: absolute;
+    left: 52px;
+}
+.logo img {
+    width: 180px;
+    height: 61px;
+    margin: 30px 0 0 7px;
+}
+.developers {
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    margin: 10px 20px;
+    color: #F8F8F8;
+}
+.developers h4 {
+    font-size: 11px;
+    display: block;
+    width: 100%;
+    text-align: right;
+    text-shadow: #000066 1px 1px 1px;
+    margin: 5px 0 15px 0;
+}
+.developers img {
+    float: right;
+    margin-top: -10px;
+    width: 120px;
+}
+.login {
+    background-image: url('../images/back-login.png');
+    background-position: left top;
+    background-repeat: no-repeat;
+    width: 194px;
+    height: 270px;
+    position: absolute;
+    left: 52px;
+    top: 170px;
+    padding: 20px;
+}
+.login .header {
+    font-size: 16px;
+    color: #F8F8F8;
+    clear: both;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.login .header img {
+    float: left;
+}
+.login .header h3 {
+    margin: 10px 0 0 20px;
+    float: left;
+}
+.login h4 {
+    color: lightsteelblue;
+    margin: 30px 0 0 -10px;
+    width: 175px;
+    float: left;
+    font-size: 14px;
+    text-align: justify;
+}
+.login form input, .login form select  {
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    padding: 5px 8px;
+    width: 140px;
+    margin: 5px 0;
+    background: #F8F8F8;
+    font-size: 14px;
+    border: solid 1px #222;
+}
+.login form select { width: 160px; }
+.login form input[type="submit"] {
+    width: 70px;
+    background: #E04803;
+    color: #F8F8F8;
+    font-weight: bold;
+}
+.content {
+    width: 780px;
+    position: relative;
+    left: 290px;
+    top: 125px;
+    height: auto;
+    padding: 25px;
+    background: url('../images/back-login-content.png') repeat;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    color: #F8F8F8;
+    margin-bottom: 50px;
+}
+.content h3 {
+    color: steelblue;
+}
+.content strong {
+    color: lightsteelblue;
+}
+.content a, .content a:visited, .content a:hover {
+    color: #F8F8F8;
+    text-decoration: none;
+}
+.content a:hover {
+    text-decoration: underline;
+}
+.content span {
+    color: #CC0000;
+    font-weight: bold;
+}
+.footer hr {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    margin-bottom: 15px;
+}
+.footer img {
+    width: 160px;
+    margin-right: 30px;
+}
+.errors {
+    display: none;
+    background: #EDEDED;
+    padding: 10px;
+    max-width: 400px;
+    position:absolute;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: solid 1px #BBB;
+    box-shadow: #000 2px 2px 2px;
+    color: #313739;
+    font-weight: normal;
+    font-size: 15px;
+}
+.errors img {
+    float: left;
+    margin: -17px 10px 5px 0;
+}

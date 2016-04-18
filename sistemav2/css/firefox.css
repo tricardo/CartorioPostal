@@ -1,0 +1,37 @@
+div.login form input[type='submit'] {
+    padding: 0;
+}
+
+
+.content-list-forms .buttons input[type="button"], .content-list-forms .buttons input[type="submit"],
+.content-forms  .buttons input[type="button"], .content-forms .buttons input[type="submit"] {
+    padding: 4px 0 6px;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.content-forms {
+    width: 990px;
+    margin: 200px auto;
+    color: #222;
+}
+#opcoes_form {
+    width: 600px;
+    float: right;
+}
+
+.content-forms div.opcoes {
+    margin: 0 0 20px 95px;
+}
+.content-forms div.opcoes select {
+    width: 600px;
+    margin-top: -12px;
+}
+
+.content-forms div.opcoes label, .content-forms div.opcoes select {
+    margin-bottom: 0px;
+}
+.content-forms .adicionar {
+    margin: 0 0 -45px 90px;
+    position: static;
+}
